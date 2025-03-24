@@ -12,12 +12,9 @@ def parse_html(path: str) -> npt.NDArray[np.str_]:
     return html_to_numpy(html)
 
 
-predicted_folder_path = (
-    "/Users/nischithshadagopan/Sarvam/rd-tablebench/data/providers/sarvam-parse"
-)
-ground_truth_folder_path = (
-    "/Users/nischithshadagopan/Sarvam/rd-tablebench/data/groundtruth"
-)
+base_path = os.getcwd()  
+predicted_folder_path = os.path.join(base_path, "data/providers/sarvam-parse")
+ground_truth_folder_path = os.path.join(base_path, "data/groundtruth")
 
 table_similarity_scores = []
 for predicted_file in os.listdir(predicted_folder_path):
@@ -35,5 +32,6 @@ average_table_similarity_score = sum(table_similarity_scores) / len(
 )
 # plot the table similarity scores as a frequency line plot
 plt.hist(table_similarity_scores, bins=20)
+plt.savefig("output.png")
 plt.show()
 print(average_table_similarity_score)
