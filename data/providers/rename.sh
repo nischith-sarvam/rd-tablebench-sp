@@ -1,0 +1,1 @@
+for file in *; do mv "$file" "${file%_1.html}.html"; done

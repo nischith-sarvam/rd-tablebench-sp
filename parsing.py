@@ -5,6 +5,7 @@ For each format, this code extracts the largest HTML table from the response.
 import json
 from typing import Any
 import os
+from bs4 import BeautifulSoup
 
 
 def parse_textract_response(path: str) -> tuple[str | None, Any]:
@@ -174,3 +175,50 @@ def parse_azure_response(path: str) -> tuple[str | None, Any]:
         return azure_to_html(largest_table), data
     except Exception:
         return None, data
+
+
+def extract_largest_table(html_content):
+    # Parse HTML content
+    soup = BeautifulSoup(html_content, 'html.parser')
+    
+    # Find all tables in the body
+    tables = soup.find_all('table')
+    
+    if not tables:
+        print("No tables found in the input file.")
+        return ""
+    
+    # Initialize variables to track the largest table
+    max_length = -1
+    selected_table = None
+    
+    for table in tables:
+        # Calculate the length of this table (excluding tags)
+        current_length = len(str(table))
+        
+        if current_length > max_length or max_length == -1:
+            max_length = current_length
+            selected_table = table
+    
+    if selected_table is not None:
+        return selected_table
+    else:
+        return ""
+
+
+def parse_sarvam_outputs(path: str):
+    for file in os.listdir(path):
+        file_path = os.path.join(path, file)
+        html_content = ""
+        with open(file_path, "r") as f:
+            html_content = f.read()
+        table_content = extract_largest_table(html_content)
+        table_content = str(table_content)
+        if table_content:
+            with open(file_path, "w") as f:
+                f.write(table_content)
+        else:
+            print(f"No table found in {file_path}")
+            os.remove(file_path)
+
+parse_sarvam_outputs("/Users/nischithshadagopan/Sarvam/rd-tablebench/data/providers/sarvam-parse")

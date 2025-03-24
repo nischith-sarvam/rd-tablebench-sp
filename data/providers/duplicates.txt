@@ -1,0 +1,41 @@
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/13260_png.rf.b0fd4d72c6b2893f7c7d2981c85fa96c_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/10035_png.rf.07e8e5bf2e9ad4e77a84fd38d1f53f38_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/10204_png.rf.a761b94d3da025306a0ed84bcf977725_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/13508_png.rf.e679be0dcb0c012c3294c2e29a8a1b71_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/13835_png.rf.573ad902b5e350454115ec587228ef48_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/14923_png.rf.26fe95d3f0f5573dd440d9966f8f2959_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/10161_png.rf.13ce7d1eff7e864a9fff55c3327301af_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/13467_png.rf.b331d18673ad67285dc99b911f466dc5_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/21549_png.rf.c8cbc115124e5a4ebbf32a43a36f35e4_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/21049_png.rf.f1260d5356e5d9aafa4000696b9057bc_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/6451_png.rf.512cac543e298b37c9edd56f35ab6db0_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/32038_png.rf.22d36cb7d61056002ce24fdc7f01fadb_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/13502_png.rf.1c98699afa56b0e9434308569e07f504_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/10190_png.rf.9f6b7af3f0606a8ec3539ea05100d8f7_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/23208_png.rf.0f8166e3eb9466a8f604114ce4e79063_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/6519_png.rf.16bdda5d9287fc0da343d70c91aab499_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/10157_png.rf.ff51bb01a4829affdb4cefe45089184a_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/13309_png.rf.3ef2cd914174e261e29cd496a0527497_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/23556_png.rf.efa39aca29fbf3814f68dab205c71536_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/29971_png.rf.883eb0b585f680be14b0888a7b2a022f_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/23571_png.rf.9f1d70b7df17b710bf330266b33f46ca_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/30013_png.rf.f991be0a42510fa56b22a9080073dc95_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/6442_png.rf.c0b694c9cbc4fd262c4a58301978f692_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/31975_png.rf.75cd23cdc6433e54b6b58f49b3b58852_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/19756_png.rf.a9d2d42e1c54d5433b2c97e3d55f9027_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/20201_png.rf.3606917691198a033a29930d3491d609_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/15197_png.rf.1d7614dbd1d14aa27d59d93f0c3dc096_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/15797_png.rf.75b625b0bdcc16917df0f80cbd395f79_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/10091_png.rf.a90765e31cc48705fb7241b99bef4472_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/13262_png.rf.63e4261034c94ab09528cf1252f8e7e4_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/23699_png.rf.fb43020256a94dca05a6a12fbb394522_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/6521_png.rf.a59eecfc6a8aee35d856da4be2e9e452_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/19575_png.rf.cd7b2adf58e9f31c51613355cb18bbc7_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/18609_png.rf.7208bd3b387485798f7e3d193578d83a_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/29976_png.rf.40e7331785e26fca57d43c6e6b903445_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/23559_png.rf.e8635e00915273e5784542b9a8036e3c_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/10174_png.rf.524bbc04d95b46c14d903102045dc4ae_1.html
+  /Users/nischithshadagopan/Sarvam/sarvam-parse/scripts/rd-tablebench/htmls/13490_png.rf.5a454ea23907d5294e3b887e6c658eed_1.html
+
+
+Summary: Found 19 duplicate files in 19 groups.

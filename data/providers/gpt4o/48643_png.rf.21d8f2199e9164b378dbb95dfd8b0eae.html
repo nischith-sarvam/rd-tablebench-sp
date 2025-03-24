@@ -1,0 +1,78 @@
+<table>
+  <tr>
+    <th>Key</th>
+    <th>Value</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td rowspan="3"></td>
+    <td rowspan="3"></td>
+    <td><key>IS_MANAGED</key></td>
+  </tr>
+  <tr>
+    <td>&lt;true/&gt;</td>
+  </tr>
+  <tr>
+    <td>&lt;/dict&gt;<br>&lt;/plist&gt;</td>
+  </tr>
+  <tr>
+    <td rowspan="4">IS_MANAGED</td>
+    <td>&#8226; true</td>
+    <td rowspan="4">
+      Set this key to true if you want to restrict extension only to managed apps.<br>
+      A sample.contents of managed app is as follow:<br>
+      &lt;?xml version="1.0" encoding="UTF-8"?&gt;<br>
+      &lt;!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"&gt;<br>
+      &lt;plist version="1.0"&gt;<br>
+      &lt;dict&gt;<br>
+      &lt;key&gt;IS_MANAGED&lt;/key&gt;<br>
+      &lt;true/&gt;<br>
+      &lt;/dict&gt;<br>
+      &lt;/plist&gt;<br>
+      The default values is set to False.
+    </td>
+  </tr>
+  <tr>
+    <td>&#8226; false</td>
+  </tr>
+  <tr></tr>
+  <tr></tr>
+  <tr>
+    <td colspan="3">Custom keyboards</td>
+  </tr>
+  <tr>
+    <td rowspan="3">MI_AC_IOS_ALLOW_KEYBOARDS</td>
+    <td>&#8226; true</td>
+    <td rowspan="3">
+      This key allows the admin to enable or disable the use of custom keyboards. This key is enabled for AppConnect. This is case sensitive.<br>
+      true: Email+ allows the use of custom keyboards<br>
+      false: Email+ does not allow the use of custom keyboards.<br>
+      Default if key-value is not configured: true.<br>
+      This key-value pair is case sensitive.
+    </td>
+  </tr>
+  <tr>
+    <td>&#8226; false</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td colspan="3">AppConnect logs</td>
+  </tr>
+  <tr>
+    <td rowspan="4">MI_AC_LOG_LEVEL</td>
+    <td>&#8226; Error</td>
+    <td rowspan="4">
+      Specifies the level of logging from the least to the most verbose.<br>
+      Default if key-value is not configured: true.
+    </td>
+  </tr>
+  <tr>
+    <td>&#8226; Info</td>
+  </tr>
+  <tr>
+    <td>&#8226; Verbose</td>
+  </tr>
+  <tr>
+    <td>&#8226; Debug</td>
+  </tr>
+</table>
