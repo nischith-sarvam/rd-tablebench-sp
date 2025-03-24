@@ -73,6 +73,7 @@ def process_pdf(pdf_path: str):
 
         return pdf_path, None
     except Exception as e:
+        print(e)
         return pdf_path, str(e)
 
 
