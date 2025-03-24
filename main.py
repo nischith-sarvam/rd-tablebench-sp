@@ -14,6 +14,7 @@ def parse_html(path: str) -> npt.NDArray[np.str_]:
 
 predicted_folder_path = (
     "/Users/nischithshadagopan/Sarvam/rd-tablebench/data/providers/sarvam-parse"
+    # "/Users/nischithshadagopan/Sarvam/rd-tablebench/data/providers/reducto"
 )
 ground_truth_folder_path = (
     "/Users/nischithshadagopan/Sarvam/rd-tablebench/data/groundtruth"
