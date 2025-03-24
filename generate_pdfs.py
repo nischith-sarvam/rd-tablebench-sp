@@ -68,17 +68,23 @@ def create_pdfs_from_tables(template_path, tables_folder, output_folder, base_fo
         # Try generating PDF with current font size
         current_font_size = base_font_size
         pdf_fits_one_page = False
-        while not pdf_fits_one_page and current_font_size >= 5:  # Minimum font size is 5px
-            # Update only the table font-size in the existing HTML
+
+        while not pdf_fits_one_page and current_font_size >= 5:  # Minimum font size is 8px
+            # Parse the HTML and find the existing style tag
             soup = BeautifulSoup(final_html, 'html.parser')
             existing_style = soup.find("style")
 
+            # Define padding dynamically based on font size
+            dynamic_padding = max(2, current_font_size // 3)  # Reduce padding proportionally, minimum 2px
+
+            # Append only the required changes to the style tag
             if existing_style:
                 existing_style.string += f"""
                     table {{
                         font-size: {current_font_size}px;
-                        width: 100%;
-                        page-break-inside: avoid;
+                    }}
+                    td {{
+                        padding: {dynamic_padding}px;
                     }}
                 """
             else:
@@ -86,8 +92,9 @@ def create_pdfs_from_tables(template_path, tables_folder, output_folder, base_fo
                 style_tag.string = f"""
                     table {{
                         font-size: {current_font_size}px;
-                        width: 100%;
-                        page-break-inside: avoid;
+                    }}
+                    td {{
+                        padding: {dynamic_padding}px;
                     }}
                 """
                 soup.head.append(style_tag)
@@ -105,34 +112,36 @@ def create_pdfs_from_tables(template_path, tables_folder, output_folder, base_fo
             if len(pdf.pages) <= 1:
                 pdf_fits_one_page = True
                 pdf.write_pdf(pdf_path)
-                print(f"Generated PDF: {pdf_path} with font size {current_font_size}px")
+                print(f"Generated PDF: {pdf_path} with font size {current_font_size}px and padding {dynamic_padding}px")
             else:
                 # Reduce font size and try again
                 current_font_size -= 1
 
 # If we couldn't fit on one page even with minimum font size
         if not pdf_fits_one_page:
-            print(f"Warning: {pdf_path} doesn't fit on one page. Using minimum font size (5px).")
-            
-            # Use the minimum font size (8px)
+            print(f"Warning: {pdf_path} doesn't fit on one page. Using minimum font size (5px) and padding (2px).")
+
+            # Use the minimum font size (8px) and minimum padding (2px)
             soup = BeautifulSoup(final_html, "html.parser")
             existing_style = soup.find("style")
 
             if existing_style:
                 existing_style.string += f"""
                     table {{
-                        font-size: 8px;
-                        width: 100%;
-                        page-break-inside: avoid;
+                        font-size: 5px;
+                    }}
+                    td {{
+                        padding: 1px;
                     }}
                 """
             else:
                 style_tag = soup.new_tag("style")
                 style_tag.string = f"""
                     table {{
-                        font-size: 8px;
-                        width: 100%;
-                        page-break-inside: avoid;
+                        font-size: 5px;
+                    }}
+                    td {{
+                        padding: 1px;
                     }}
                 """
                 soup.head.append(style_tag)
@@ -145,8 +154,9 @@ def create_pdfs_from_tables(template_path, tables_folder, output_folder, base_fo
             # Generate PDF with minimum font size
             weasyprint.HTML(filename=temp_html_path).write_pdf(pdf_path)
 
-        # Clean up temporary HTML file
+# Clean up temporary HTML file
         os.remove(temp_html_path)
+
 
         
 
