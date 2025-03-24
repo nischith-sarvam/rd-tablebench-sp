@@ -33,15 +33,24 @@ def create_pdfs_from_tables(template_path, tables_folder, output_folder, base_fo
         body_tag.append(table_soup)
         
         # Add custom style to control font size
-        style_tag = soup.new_tag('style')
-        style_tag.string = f"""
+        existing_style = soup.find("style")
+        new_style = f"""
             table {{
-                font-size: {base_font_size}px;
+                font-size: {12}px;
                 width: 100%;
                 page-break-inside: avoid;
             }}
         """
-        soup.head.append(style_tag)
+
+        if existing_style:
+            # Append new style instead of overwriting
+            existing_style.string += new_style
+        else:
+            # If no existing <style> tag, create one
+            style_tag = soup.new_tag('style')
+            style_tag.string = new_style
+            soup.head.append(style_tag)
+
         
         # Generate the new HTML with the table inserted
         final_html = str(soup)
@@ -59,30 +68,39 @@ def create_pdfs_from_tables(template_path, tables_folder, output_folder, base_fo
         # Try generating PDF with current font size
         current_font_size = base_font_size
         pdf_fits_one_page = False
-        
-        while not pdf_fits_one_page and current_font_size >= 5:  # Set minimum font size to 8
-            # Update font size in the HTML
+        while not pdf_fits_one_page and current_font_size >= 5:  # Minimum font size is 5px
+            # Update only the table font-size in the existing HTML
             soup = BeautifulSoup(final_html, 'html.parser')
-            style_tags = soup.find_all('style')
-            for style_tag in style_tags:
-                if 'font-size' in style_tag.string:
-                    style_tag.string = f"""
-                        table {{
-                            font-size: {current_font_size}px;
-                            width: 100%;
-                            page-break-inside: avoid;
-                        }}
-                    """
-            
-            final_html_adjusted = str(soup)
-            
+            existing_style = soup.find("style")
+
+            if existing_style:
+                existing_style.string += f"""
+                    table {{
+                        font-size: {current_font_size}px;
+                        width: 100%;
+                        page-break-inside: avoid;
+                    }}
+                """
+            else:
+                style_tag = soup.new_tag("style")
+                style_tag.string = f"""
+                    table {{
+                        font-size: {current_font_size}px;
+                        width: 100%;
+                        page-break-inside: avoid;
+                    }}
+                """
+                soup.head.append(style_tag)
+
+            final_html = str(soup)  # Update final_html with modified content
+
             # Write adjusted HTML
-            with open(temp_html_path, 'w', encoding='utf-8') as file:
-                file.write(final_html_adjusted)
-            
+            with open(temp_html_path, "w", encoding="utf-8") as file:
+                file.write(final_html)
+
             # Convert to PDF
             pdf = weasyprint.HTML(filename=temp_html_path).render()
-            
+
             # Check if PDF fits on one page
             if len(pdf.pages) <= 1:
                 pdf_fits_one_page = True
@@ -91,33 +109,46 @@ def create_pdfs_from_tables(template_path, tables_folder, output_folder, base_fo
             else:
                 # Reduce font size and try again
                 current_font_size -= 1
-        
-        # If we couldn't fit on one page even with minimum font size
+
+# If we couldn't fit on one page even with minimum font size
         if not pdf_fits_one_page:
-            # Use the minimum font size and generate PDF anyway
-            soup = BeautifulSoup(final_html, 'html.parser')
-            style_tags = soup.find_all('style')
-            for style_tag in style_tags:
-                if 'font-size' in style_tag.string:
-                    style_tag.string = f"""
-                        table {{
-                            font-size: 5px;
-                            width: 100%;
-                            page-break-inside: avoid;
-                        }}
-                    """
+            print(f"Warning: {pdf_path} doesn't fit on one page. Using minimum font size (5px).")
             
-            final_html_minimum = str(soup)
-            
-            with open(temp_html_path, 'w', encoding='utf-8') as file:
-                file.write(final_html_minimum)
-            
+            # Use the minimum font size (8px)
+            soup = BeautifulSoup(final_html, "html.parser")
+            existing_style = soup.find("style")
+
+            if existing_style:
+                existing_style.string += f"""
+                    table {{
+                        font-size: 8px;
+                        width: 100%;
+                        page-break-inside: avoid;
+                    }}
+                """
+            else:
+                style_tag = soup.new_tag("style")
+                style_tag.string = f"""
+                    table {{
+                        font-size: 8px;
+                        width: 100%;
+                        page-break-inside: avoid;
+                    }}
+                """
+                soup.head.append(style_tag)
+
+            final_html = str(soup)
+
+            with open(temp_html_path, "w", encoding="utf-8") as file:
+                file.write(final_html)
+
             # Generate PDF with minimum font size
             weasyprint.HTML(filename=temp_html_path).write_pdf(pdf_path)
-            print(f"Warning: {pdf_path} doesn't fit on one page. Generated with minimum font size 8px.")
-        
+
         # Clean up temporary HTML file
         os.remove(temp_html_path)
+
+        
 
 # Example usage
 currPath = os.getcwd()
