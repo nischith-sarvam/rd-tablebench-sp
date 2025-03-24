@@ -67,7 +67,7 @@ def process_pdf(pdf_path: str):
         result = analyze_document(base64_image)
 
         with open(output_path, "w") as f:
-            json.dump({"html_table": result}, f, indent=2)
+            json.dump({"html_table": result}, f, indent=2, ensure_ascii=False)
 
         print(output_path)
 
