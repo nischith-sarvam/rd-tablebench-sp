@@ -1,0 +1,36 @@
+{
+  "job_id": "ae346759-0a6b-4d3b-97bd-5a7d6ec5be5e",
+  "duration": 119.95445466041565,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/43ae84cf-51ab-4306-8060-e6faac366e1a.pdf?AWSAccessKeyId=ASIA2UOK6OVBHD4535BU&Signature=rZGahKyRWKwDoPDZWVg8bJqkDbU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCICRGXpbrly3D6WOJ82QDyH%2FqAKjXvIOJTIM1nq8KbDzDAiEAkGWmdA9aGQjPTE7zs3aY5k2M%2BeR44uKW5SVmwbEq%2Bo4qgwUIKRAAGgw3MzExMDY5MzIwMzQiDBKfWEbPVVp7RbR0nCrgBBosDn92cJvDMAYX8t46Svy216zNrAqVvC1RfnP4HLRvsLAnKurthFHUyI50mHVtM5hzPIuA8KBCcH4Ql7v0UTSzM6ZjkPb3l9OubaG6QIE9iJFupGntT5NRhaCgy6WV0zFI4SO4OsLXevOBbrhJPny%2Bhmr454hpKQtCHYIAhBZPQx0ZnliwaufK9OJ45LkwQR6yuNswVES7ltYHftbogKbb5%2BG5woFrkPY9jtFOjsE%2BP9TtcrB5ybY%2BswO7NgbcqYtV7zd6sIgUVaJo%2F31ic2Qkix5RHk2RGGMwybtZYEfhTF0YeNf%2FmoypWv7c0tXhB4B4%2BlEy4Q7HNcEAnvFd7%2BMbcy1S0tTiwcI2P%2BNCNXbLs1QdZOcapq1xwSYxjwTbS9zuN2J0h%2BWUFtw5EyOhEUVV7n5MzU52GPX8Nod12nWfYPey5dxD5KRsv2JYDgXE9TOJ8xFNMxhNM%2BUAHnZFYEucEDPjbGJX1vkNToeQoveHckjpIA7%2FttzvrflPuw93ldysGj%2FJWfBNtzzRJBzlb4e79RFhDTrcojlYRg4kARqWAji7FGblha9aeG3eJmh80R9bPVpbrnrAUkBD5WTfViCawSVHJG1qNlBf7E7L%2BniZkyX804XWHlmZHkADDi%2BGTU7Ib9LIqUr9voN4ViCKz7kg81dOa1X5SvGxfCCVrT96aUYuPc7uRhTeEYpV8l1jrfInUXWgROBCrLXkXGBLFuDCChK0p9mlaGk%2F7CqUDS1hS6uYwf2aTAwP3D37bRkjobsfb2xiZvoLiolLv6p5OEcciH2Ge%2FI1q84Cb%2BhZLl5eMKjfjr8GOpoBolMmhRfbl9WILs1LI3rrQqzS4UGGelSjUzli4qgV7%2B%2F3oGuJp3Kn44uv2VTtcyxxqEsO%2BNI8HCQrpiw7gN8tcHFRwdHhMFTjaDTkbc%2FNHxuQxmNHEwGCUKem4fw8qX%2FWq0M0zf7bYxLN9uYCAqlvOPZ%2BBWFVWh859VRJg4kVFU7oeSIzU4VkbbUvt6wfoHEsV1yrZTMoODuxsA%3D%3D&Expires=1742980956",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Die B\u00fccher:</th><th colspan=\"2\"></th></tr><tr><td rowspan=\"2\">Juli</td><td>Ay\u00f2b\u00e1mi Ad\u00e9b\u00e1y\u00f2</td><td rowspan=\"2\">978-3492314725</td></tr><tr><td>Bleib bei mir</td></tr><tr><td rowspan=\"2\">August</td><td>Deborah Feldman</td><td rowspan=\"2\">978-3442715343</td></tr><tr><td>Unorthodox</td></tr><tr><td rowspan=\"2\">September</td><td>Jasmyn Ward</td><td rowspan=\"2\">978-3548290287</td></tr><tr><td>Singt, ihr Lebenden und ihr Toten, singt</td></tr><tr><td rowspan=\"2\">Oktober</td><td>Dina Nayeri</td><td rowspan=\"2\">978-3036961064</td></tr><tr><td>Drei sind ein Dorf</td></tr><tr><td rowspan=\"2\">November</td><td>Kim Th\u1ee7y</td><td rowspan=\"2\">978-3423144155</td></tr><tr><td>Der Klang der Fremde</td></tr><tr><td rowspan=\"2\">Dezember</td><td>Maggie O'Farrell</td><td rowspan=\"2\">978-3492318556</td></tr><tr><td>Judith und Hamnet</td></tr></table>",
+        "embed": "<table><tr><th>Die B\u00fccher:</th><th colspan=\"2\"></th></tr><tr><td rowspan=\"2\">Juli</td><td>Ay\u00f2b\u00e1mi Ad\u00e9b\u00e1y\u00f2</td><td rowspan=\"2\">978-3492314725</td></tr><tr><td>Bleib bei mir</td></tr><tr><td rowspan=\"2\">August</td><td>Deborah Feldman</td><td rowspan=\"2\">978-3442715343</td></tr><tr><td>Unorthodox</td></tr><tr><td rowspan=\"2\">September</td><td>Jasmyn Ward</td><td rowspan=\"2\">978-3548290287</td></tr><tr><td>Singt, ihr Lebenden und ihr Toten, singt</td></tr><tr><td rowspan=\"2\">Oktober</td><td>Dina Nayeri</td><td rowspan=\"2\">978-3036961064</td></tr><tr><td>Drei sind ein Dorf</td></tr><tr><td rowspan=\"2\">November</td><td>Kim Th\u1ee7y</td><td rowspan=\"2\">978-3423144155</td></tr><tr><td>Der Klang der Fremde</td></tr><tr><td rowspan=\"2\">Dezember</td><td>Maggie O'Farrell</td><td rowspan=\"2\">978-3492318556</td></tr><tr><td>Judith und Hamnet</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9051217464315701,
+              "height": 0.33016627078384797,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Die B\u00fccher:</th><th colspan=\"2\"></th></tr><tr><td rowspan=\"2\">Juli</td><td>Ay\u00f2b\u00e1mi Ad\u00e9b\u00e1y\u00f2</td><td rowspan=\"2\">978-3492314725</td></tr><tr><td>Bleib bei mir</td></tr><tr><td rowspan=\"2\">August</td><td>Deborah Feldman</td><td rowspan=\"2\">978-3442715343</td></tr><tr><td>Unorthodox</td></tr><tr><td rowspan=\"2\">September</td><td>Jasmyn Ward</td><td rowspan=\"2\">978-3548290287</td></tr><tr><td>Singt, ihr Lebenden und ihr Toten, singt</td></tr><tr><td rowspan=\"2\">Oktober</td><td>Dina Nayeri</td><td rowspan=\"2\">978-3036961064</td></tr><tr><td>Drei sind ein Dorf</td></tr><tr><td rowspan=\"2\">November</td><td>Kim Th\u1ee7y</td><td rowspan=\"2\">978-3423144155</td></tr><tr><td>Der Klang der Fremde</td></tr><tr><td rowspan=\"2\">Dezember</td><td>Maggie O'Farrell</td><td rowspan=\"2\">978-3492318556</td></tr><tr><td>Judith und Hamnet</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

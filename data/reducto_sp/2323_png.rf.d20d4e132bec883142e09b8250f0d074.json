@@ -1,0 +1,36 @@
+{
+  "job_id": "3d240c25-0a8b-44d0-9311-db21b0723dba",
+  "duration": 121.44680285453796,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/aa9ddec4-6500-4c02-a805-dc335d1d4af4.pdf?AWSAccessKeyId=ASIA2UOK6OVBL2N27FQU&Signature=gf4%2F26o398FKz%2FyE7zg11nZ0nlo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIEpkMKclVF6n8Y%2FAxmTNuP2ZlSdKw6AxlwBClxEuN%2FHKAiA13o6KUpwOHcg2pPY%2FgOmUWAY4LBAxI4YkZbjwozR7DCqDBQgpEAAaDDczMTEwNjkzMjAzNCIMIwr%2BHOrSKIjG%2BgeUKuAEEqmCp4nY12cBVlKP%2FgItjZGAOkTWipHW9YKvc3gnD5tdNT%2FDwxaPG5%2B8SZw1lnLeddb0QXd4clSro0aKvx4VeP43nQNbRfGOEixqDbHiuGWAIuyx8Ax7Q2NsLX7Bt9hUaAc2pQh35rNOKYTE7pOfvaDpOwtD8H%2FlXPIG%2B9q5VUI%2FJZIw3kURvDV4pcBAWc8VdIcooGGj0GGG0Z7CSyY7TMm2aUAXnvXmXMruloD9K%2BXvBhF5zh5MIU%2FZU7bb8fGoTKP6yaP17y6qyXXg1Pi0UO%2Fmp0vT58ZMHyIitqJFl8yuRLvcz2WCNMBo7W6YBh07Uowo0Wr2g7TMmjDQRy5crDpQBooEpX9EqJEFLdLzAz3YIfkvNpwnma9ixyN0oPBo8Ow4M%2F4cp6MqHWILYe8OEV8KQ3ua16pjqmvIURFfrgmDI9m8fgPO3owj%2F73zqjKy8XuRqOjpBuGuK8kYOGxHbHZ%2B8qYPLxc3a%2BZk57ffecY7AEKsHNzabCgwqoft5SHYXLBeceaMcVeZrQsu3A6kiGeyVm3j%2BQUTJnxTqU0ceQv0uWgAJX%2B6LNPkX%2FagmtI%2FjfeoOPCJoiEWHBdI5OaHfz7AXGvj5Pl62nGhWMO8PUcEPZoFJcpgs5m07v7OAKtOKKf2oXhLSG9%2BTxskuGSa%2BcbptWipsreI5kf%2Bp5exKTQ4GXFQBsEVk3epqNL%2Fby4H9woDtANKSUUXpqE7NvD9IGelow8UEV4%2FeMYLdnUUsWqzSSe49Q%2FXAtN6mLkcA%2FY06pNUSGr6PcgMgVaorg%2FuIyIfYqW6TnhO2%2B9IG6%2FLXLwwqd6OvwY6mwGV8NVWlMVnZlHEAOsQp8%2B0Sc6FX2%2FTy9jlkpXh4tvUO8xlpEHermZVf7Y9ywI5ygv0I0OukX6C58N2G430Y8teVNfYd2Y5Yifne0m7Drf8EO4rRHCcExchLya6Fa5aKKNGgNKc%2B9ovM%2F3GSGCvX9qqi08XtYxIpWu7R31vViAFSRcklwIDqeGX7YDbVse%2BFYbV90RSRRnnt5ylnQ%3D%3D&Expires=1742980945",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"2\">Actives</th><th>Pr\u00e9stamos ...</th><th>Derivados ...</th><th>Mantenidos</th><th>Designados.</th><th>Costo amor...</th><th>A valor just</th><th>Total</th></tr><tr><td>MUSS</td><td>MUSS</td><td>MUSS</td><td>MUSS</td><td>MUSS</td><td>MUSS</td><td>MUSS</td></tr><tr><td>Saldo al 31 ...</td><td>2,446,864</td><td>62.867</td><td>1.915</td><td>501.890</td><td>-</td><td>-</td><td>3.013.536</td></tr><tr><td>Efective y e</td><td>(1.112.346)</td><td>-</td><td>-</td><td>(29.658)</td><td>1.112.346</td><td>29,658</td><td>-</td></tr><tr><td>Otros activo</td><td>(23.918)</td><td>-</td><td>(1.421)</td><td>(472.232)</td><td>23.918</td><td>473,653</td><td>-</td></tr><tr><td>Deudores CO</td><td>(1.214.050)</td><td>-</td><td>-</td><td>-</td><td>1,214,050</td><td>-</td><td>-</td></tr><tr><td>Cuentas por</td><td>(2.582)</td><td>-</td><td>-</td><td>-</td><td>2,582</td><td>-</td><td>-</td></tr><tr><td>Otros activo</td><td>(87.077)</td><td></td><td>(494)</td><td>-</td><td>87,077</td><td>494</td><td>-</td></tr><tr><td>Cuentas par</td><td>(6.891)</td><td>-</td><td>-</td><td>-</td><td>6.891</td><td>-</td><td>-</td></tr><tr><td>Saldo al 1 d</td><td>-</td><td>62.867</td><td>-</td><td>-</td><td>2,446,864</td><td>503.805</td><td>3,013,536</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"2\">Actives</th><th>Pr\u00e9stamos ...</th><th>Derivados ...</th><th>Mantenidos</th><th>Designados.</th><th>Costo amor...</th><th>A valor just</th><th>Total</th></tr><tr><td>MUSS</td><td>MUSS</td><td>MUSS</td><td>MUSS</td><td>MUSS</td><td>MUSS</td><td>MUSS</td></tr><tr><td>Saldo al 31 ...</td><td>2,446,864</td><td>62.867</td><td>1.915</td><td>501.890</td><td>-</td><td>-</td><td>3.013.536</td></tr><tr><td>Efective y e</td><td>(1.112.346)</td><td>-</td><td>-</td><td>(29.658)</td><td>1.112.346</td><td>29,658</td><td>-</td></tr><tr><td>Otros activo</td><td>(23.918)</td><td>-</td><td>(1.421)</td><td>(472.232)</td><td>23.918</td><td>473,653</td><td>-</td></tr><tr><td>Deudores CO</td><td>(1.214.050)</td><td>-</td><td>-</td><td>-</td><td>1,214,050</td><td>-</td><td>-</td></tr><tr><td>Cuentas por</td><td>(2.582)</td><td>-</td><td>-</td><td>-</td><td>2,582</td><td>-</td><td>-</td></tr><tr><td>Otros activo</td><td>(87.077)</td><td></td><td>(494)</td><td>-</td><td>87,077</td><td>494</td><td>-</td></tr><tr><td>Cuentas par</td><td>(6.891)</td><td>-</td><td>-</td><td>-</td><td>6.891</td><td>-</td><td>-</td></tr><tr><td>Saldo al 1 d</td><td>-</td><td>62.867</td><td>-</td><td>-</td><td>2,446,864</td><td>503.805</td><td>3,013,536</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9051217464315701,
+              "height": 0.25415676959619954,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"2\">Actives</th><th>Pr\u00e9stamos ...</th><th>Derivados ...</th><th>Mantenidos</th><th>Designados.</th><th>Costo amor...</th><th>A valor just</th><th>Total</th></tr><tr><td>MUSS</td><td>MUSS</td><td>MUSS</td><td>MUSS</td><td>MUSS</td><td>MUSS</td><td>MUSS</td></tr><tr><td>Saldo al 31 ...</td><td>2,446,864</td><td>62.867</td><td>1.915</td><td>501.890</td><td>-</td><td>-</td><td>3.013.536</td></tr><tr><td>Efective y e</td><td>(1.112.346)</td><td>-</td><td>-</td><td>(29.658)</td><td>1.112.346</td><td>29,658</td><td>-</td></tr><tr><td>Otros activo</td><td>(23.918)</td><td>-</td><td>(1.421)</td><td>(472.232)</td><td>23.918</td><td>473,653</td><td>-</td></tr><tr><td>Deudores CO</td><td>(1.214.050)</td><td>-</td><td>-</td><td>-</td><td>1,214,050</td><td>-</td><td>-</td></tr><tr><td>Cuentas por</td><td>(2.582)</td><td>-</td><td>-</td><td>-</td><td>2,582</td><td>-</td><td>-</td></tr><tr><td>Otros activo</td><td>(87.077)</td><td></td><td>(494)</td><td>-</td><td>87,077</td><td>494</td><td>-</td></tr><tr><td>Cuentas par</td><td>(6.891)</td><td>-</td><td>-</td><td>-</td><td>6.891</td><td>-</td><td>-</td></tr><tr><td>Saldo al 1 d</td><td>-</td><td>62.867</td><td>-</td><td>-</td><td>2,446,864</td><td>503.805</td><td>3,013,536</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

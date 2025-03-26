@@ -1,0 +1,36 @@
+{
+  "job_id": "6ceb2d10-574f-40c1-94ff-d9cdd1879ce1",
+  "duration": 142.4957458972931,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/5c10cdf6-7cd8-4273-9a73-7117f2fcf3e8.pdf?AWSAccessKeyId=ASIA2UOK6OVBKDNL3T4S&Signature=rA6otJvg2krzKKJ%2FwPFRmX6ur8Q%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQC0Ms8wak5Ob6K4RRTDI3I%2B%2BMAVKYBKOryutN3qOfW%2BGgIhAJFRs8qxOCqed0ceVEKPVGhrIG4fSekSUOxIn6VA4wrZKoMFCCoQABoMNzMxMTA2OTMyMDM0IgwplP279HjlAhHVcpgq4AT%2Be3dc80hU1iCjsOQpHawFSBPIMpd7yMfae9TYvHCy4lJOVooc5zu5B%2BJxzP3z4HNZTaasXurM275L9NoQBPOSYXGXoq2ofnD2mOnQC4vRxGjsgFk7M9qgj6z8tDC0EMD7K7mFjQ3J18tnfue7uDkI33XvZRoldVBTf7ddVgt5cjfaLpN0GWhx7NDVxM3eLKRhNFbBWAlJlURUpISWozkXRlv9o4DnZ%2B6IM6AmUu8JcNXYnzOMpxBqcZ%2BH6JX2qEX5Bixs4rEH66t2Yk%2B7kT0rsUJ1QWKXAMeBmcrRX%2FPytGweTrdmPgVo1aRuoQvkAy%2FLepU5LINrubZr%2BqID1NaC8kdrrjddhYLrsxo0IpbiuAJiCHEVOLpHooJGfYPxDMvxDY3mOl06EpZPrOgTgyzNTEbOkmCFJ6ELEtGGiFIlSC4VQW9kVlbpB3JnkM401vggbGKhMgwfgyhe1ZV8F9VGTXbcBBTPyn69C%2BbT81sPN7VOJSGco48llTB9QJDhN%2FMjSRQxx51MWiYVue5qLqNGzYmkVoQklcKA%2FEVAq2Tviu05LciHw8CIg2JzYHp1HvTyUyutqnMXXUpLWSJiZRYq7ltEb%2F6T1Ef3psVpltfospQVBTfbISjMaVuyPvK1vaTz8nzUxNt4ZlAeOGmRB940b3GzfjLCRslVcfjHXi%2Bith%2B%2BCf1OP6C8FZ%2FGei3TQ%2BnRmWe6R2WvsdRwDCkqnr3h%2B0QORsPqX8%2FMY6OvxTt4GiSrQlp5ihEUxD263MSF2jMkEUjN6%2FKyAthCOuAngSL1IRoemg8rxLpSb%2FxfMGOpXDDL8o6%2FBjqZAa4NvE0WRPlvt2Y91bOJQjE85oe%2FcLLQfNkO1qT0fY1gZunvJTz0Tg0KwS6Ovpzahh7mybMU3T%2F%2BEhLG6xsSX1Z5hkbOMCQOmMV3JNaM4xeHyoJV978fp5AhHvqsgwxt%2Br0mxoa5nd4jWc%2BQImyTrLxS17IsTUytAW%2Bvszccr%2FeWW1TFsH%2BQpa3b%2Fl%2Fxz7afxVjWHEpclTx1sg%3D%3D&Expires=1742980979",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th>Cost</th><th>Fair Value</th><th></th></tr><tr><td></td><td>$</td><td>$</td><td>%</td></tr><tr><td>Leith Wheeler International F...</td><td>684,848</td><td>587,045</td><td>13.0%</td></tr><tr><td>Leith Wheeler Canadian Equi</td><td>743,230</td><td>767,662</td><td>17.0 %</td></tr><tr><td>Leith Wheeler Fixed Income ...</td><td>1,177,066</td><td>1,228,213</td><td>27.3 %</td></tr><tr><td>Leith Wheeler Income Pooled</td><td>1,298,947</td><td>1,310,595</td><td>29.1 %</td></tr><tr><td>Leith Wheeler U.S. Equity Fu</td><td>680,443</td><td>613,536</td><td>13.6%</td></tr><tr><td></td><td>4,584,534</td><td>4,507,051</td><td>100.0%</td></tr></table>",
+        "embed": "<table><tr><th></th><th>Cost</th><th>Fair Value</th><th></th></tr><tr><td></td><td>$</td><td>$</td><td>%</td></tr><tr><td>Leith Wheeler International F...</td><td>684,848</td><td>587,045</td><td>13.0%</td></tr><tr><td>Leith Wheeler Canadian Equi</td><td>743,230</td><td>767,662</td><td>17.0 %</td></tr><tr><td>Leith Wheeler Fixed Income ...</td><td>1,177,066</td><td>1,228,213</td><td>27.3 %</td></tr><tr><td>Leith Wheeler Income Pooled</td><td>1,298,947</td><td>1,310,595</td><td>29.1 %</td></tr><tr><td>Leith Wheeler U.S. Equity Fu</td><td>680,443</td><td>613,536</td><td>13.6%</td></tr><tr><td></td><td>4,584,534</td><td>4,507,051</td><td>100.0%</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9051217464315701,
+              "height": 0.2042755344418052,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th>Cost</th><th>Fair Value</th><th></th></tr><tr><td></td><td>$</td><td>$</td><td>%</td></tr><tr><td>Leith Wheeler International F...</td><td>684,848</td><td>587,045</td><td>13.0%</td></tr><tr><td>Leith Wheeler Canadian Equi</td><td>743,230</td><td>767,662</td><td>17.0 %</td></tr><tr><td>Leith Wheeler Fixed Income ...</td><td>1,177,066</td><td>1,228,213</td><td>27.3 %</td></tr><tr><td>Leith Wheeler Income Pooled</td><td>1,298,947</td><td>1,310,595</td><td>29.1 %</td></tr><tr><td>Leith Wheeler U.S. Equity Fu</td><td>680,443</td><td>613,536</td><td>13.6%</td></tr><tr><td></td><td>4,584,534</td><td>4,507,051</td><td>100.0%</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

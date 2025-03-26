@@ -1,0 +1,36 @@
+{
+  "job_id": "43ab1c80-3c71-4a12-b73e-5a18ddbeed7c",
+  "duration": 172.81374788284302,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/77e25c13-3e39-4f09-9528-1bf76018ee63.pdf?AWSAccessKeyId=ASIA2UOK6OVBM4TFKMYA&Signature=KqLWJvyCWnNohlOInvcQeeIVdZ8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD%2BTHypUQLZy%2F6HSnepvByh1cOICKwJxuf2hnuGvnuLkgIgXKi6iQH3lVSnuR196ravYEvUIwo%2BgMdI6Fz%2FpXb4M98qgwUIKhAAGgw3MzExMDY5MzIwMzQiDEOw0%2FV%2FTynB%2BN7uIirgBCb7VrhRd%2BT1lyqRpn3tcjqp8NJjwPHszQx4E1TzLTvYellWd%2FMP1PUdLo1QzNC%2Fp1AF5TAlW4NHy0uOdLZV1YJ%2BRW0MC%2BOGZth8akcOqGuZQYz0yVCaHs1SqtUlG3a2VQVEfteYKQBEgClB3qmbknTffmH0SAfIJRzO7KCpFEJ0Rcg5PfxOVGa6CmYBBsx44wWF4ILQeacVsxbPjnKQGf47uPftPRDV5jQ%2Bt84H8aKGz6uEKw%2FPevRCbhmOuR1xjOuWOsoUQca8RtEbEuoGru74jdntXdvQJ52Gqi2xn7QbiHLD85YVeaQcEzf9yK3qkBjnaxTBL5IJkI0GwR6U3Nu%2B1ggvZEJGNwkK5MLCOpocPshmgmQRguqGgoSMQwKUCE%2FQSNV0HScxlTxpGk0JnFr5f7X%2FgfjU1bfD3kedDl6H2C6oXS%2B2eU8%2FYoBkKve%2B55PYLm0SORCVK20vyH%2BJupTi2KV2MpyCy2BXVATUJSWGtE8LpRc1m2tAjTO1mpeIwlOgQyu9CvXI79nEU%2B4V3F%2F6VVdiW12%2BZI%2BHk5xNGAZaW2rmIIBbjMyMkLZdpuP1clZa8scEx2ze9xvbz85zbvqMovJCOMR6AMDPDCheeNigELEC%2Fgxa%2F36cX97g97AJAvzKefr4i5IrcDNYcmmFmeUE%2BJ8qjPIX%2Fqod2fF8A21P2qclRr6sXK1HWWCA4YZBpGqJ4E%2FFwUxElC%2FvOGLjjJ9eDiStcFWMFYdfadbCsvhkj%2BJoW99exr41prwDULixY%2BawRzaFLsU9qRVsbWgjqukN%2FGXCeSr6ksxgfqdhoAEIMI3zjr8GOpoBDgrIidk66lKUcKocOF3130yUZfUtYll%2BsIVR1%2B5QqvQ5HINHZgvIuAZLVz%2FWKCJ8lOWIQ3gCuxJfleAzntj7b%2BP0z4hqR%2FVSFIVN0Du69LjUvRSeOEsDiQOFvvpTozeJfvDrZe8C0V0Jq6weIshR%2BhEYeQag4Tnc%2F2iWSaYK8k%2BHHv2ZlCKh28RuS1QVHeeRMSVI%2FadUmHMzVA%3D%3D&Expires=1742981027",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"2\">1. T...</th><th rowspan=\"2\">2. C...</th><th rowspan=\"2\">3. T...</th><th rowspan=\"2\">3A.</th><th colspan=\"2\">4. Transacti...</th><th colspan=\"2\">5. Number ...</th><th colspan=\"2\">6. Date Exe.</th><th colspan=\"2\">7. Title and ...</th><th rowspan=\"2\">8. P...</th><th rowspan=\"2\">9. N</th><th rowspan=\"2\">10.</th><th rowspan=\"2\">11. ...</th></tr><tr><td>Code</td><td>V</td><td>(A)</td><td>(D)</td><td>Dat..</td><td>Expi</td><td>Title</td><td>Am</td></tr><tr><td>Sto</td><td>$8.02</td><td>07/0...</td><td></td><td>A</td><td></td><td>2,22...</td><td></td><td>(2)</td><td>07/0</td><td>Co</td><td>2,225</td><td>$4.7...</td><td>2,225</td><td>D</td><td></td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"2\">1. T...</th><th rowspan=\"2\">2. C...</th><th rowspan=\"2\">3. T...</th><th rowspan=\"2\">3A.</th><th colspan=\"2\">4. Transacti...</th><th colspan=\"2\">5. Number ...</th><th colspan=\"2\">6. Date Exe.</th><th colspan=\"2\">7. Title and ...</th><th rowspan=\"2\">8. P...</th><th rowspan=\"2\">9. N</th><th rowspan=\"2\">10.</th><th rowspan=\"2\">11. ...</th></tr><tr><td>Code</td><td>V</td><td>(A)</td><td>(D)</td><td>Dat..</td><td>Expi</td><td>Title</td><td>Am</td></tr><tr><td>Sto</td><td>$8.02</td><td>07/0...</td><td></td><td>A</td><td></td><td>2,22...</td><td></td><td>(2)</td><td>07/0</td><td>Co</td><td>2,225</td><td>$4.7...</td><td>2,225</td><td>D</td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.0436607892527288,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.07779097387173396,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"2\">1. T...</th><th rowspan=\"2\">2. C...</th><th rowspan=\"2\">3. T...</th><th rowspan=\"2\">3A.</th><th colspan=\"2\">4. Transacti...</th><th colspan=\"2\">5. Number ...</th><th colspan=\"2\">6. Date Exe.</th><th colspan=\"2\">7. Title and ...</th><th rowspan=\"2\">8. P...</th><th rowspan=\"2\">9. N</th><th rowspan=\"2\">10.</th><th rowspan=\"2\">11. ...</th></tr><tr><td>Code</td><td>V</td><td>(A)</td><td>(D)</td><td>Dat..</td><td>Expi</td><td>Title</td><td>Am</td></tr><tr><td>Sto</td><td>$8.02</td><td>07/0...</td><td></td><td>A</td><td></td><td>2,22...</td><td></td><td>(2)</td><td>07/0</td><td>Co</td><td>2,225</td><td>$4.7...</td><td>2,225</td><td>D</td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

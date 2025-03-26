@@ -1,0 +1,36 @@
+{
+  "job_id": "0674b1d5-681c-4e6f-b710-9f3782470cd5",
+  "duration": 173.61300349235535,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/63a9b684-64eb-4be5-afff-d029fd804e7a.pdf?AWSAccessKeyId=ASIA2UOK6OVBABLRP7OU&Signature=%2BGoys8Q2Lq8F5FkTvc1qQmACRmM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIARDx565YnRnD2U4hH6iZSqOzX6CnMtfhSOR4HhKl3PZAiEA1A01zr5Piv5oE%2F9pWkNMdpB76h9mtPJXLD3f%2Boj5cSMqgwUIKhAAGgw3MzExMDY5MzIwMzQiDHD1KSXGbuE7Y507LSrgBOtWF3LTyBDCAfpMERcqExk%2Fh43LkKHkOqS0ylHzoldhbiqKfp5t4r8G95CC5XeQkg5Z151LGOR6P89veWXZxlKna9SXFwsDNeYoNjWRS7T57YoFa3iRs8JMQXVv2mi9wmUfqSPMUBSDsZXNE5IE2H5Ic2KM%2BhRgsiz7a1egengRIdTM%2BspzMSFVekFrrLA3nSiDY%2B7KZtqX1foxgjpu1PnZF%2Bp4cKXsz52uhJvoyaJ9X5GLVqMsg9PQBv%2F68TBtvCJlSTfKaC7fkqVHSGgVa5o0dA5uVTiP8FNYnqqDzMBx2%2BPYg0WECOqw9bKdsKgdi1QS3rRx8EEq%2BvkVPqifSBFR9cjH1xq8qSKeUNqBgOWEH5TwcxFy6caEa2Tm06GCXEsEODqrVlu51NIKvTcos5kKwkv7HMVqyQQj3Py9zz4q%2Busz7%2B99flGIPfCZTWzgBLxsEjefcndLSgpYO1X8USDTWpmUzfy23EiYiuuTococFeDgV7Bik7fpWtG02k6UglWta4W3IYHA2qdFAMa4pyjzMVnFm0ZuyVLFR4DYBL4UlfKuP1TfQjSlNnhEWAMimo7oHRV2lOWMlVLDKU2VYUs38WLKk2twEltSQCa8zPDP6e3fp63cEwJs2eYXIUCWcC6IYrCNUBgcIXi70LzI7XD%2Bl8t%2FplODKANnE1UWBj1Re0AS%2BjVRwls1j%2FcF%2BUSLjMvwPEYGVd6gHVeU3gbDevIILNWFh7HxNLr55Mm6DhqoLE5xxJkBa2fLVIaCTryb5rhpvTqxEdU68D0t7HBTihwcwp1ffYfC9ffeQrOVaJ0XMPTyjr8GOpoBlsYUUro0k4Z1qWch5pZZw8jkxlIbwZqEmPIzAPwC1aHd%2BhD88XDLKux5yhOFUP%2Fnd4PLTVL0NFVixPAcihXezs4mOvFJ3MxPFFNLStpc1VqyOaZqTU0tFqnx2cK2APnPRvrlHaj4P4ej4qhCO7ps%2Bi3P0mhsV%2Bw7%2FVEBkGh9VZbeZRsikHOk5e1tDtkgeqBBUcoFZ4Z%2FjNIPFg%3D%3D&Expires=1742981026",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th>As at 31 March 2018</th><th>As at 31 March 2017</th><th>As at 1 April 2016</th></tr><tr><td>General reserve</td><td>3.39</td><td>3.39</td><td>3.39</td></tr><tr><td>Securities premium</td><td>2,729.74</td><td>2,729.74</td><td>2,729.74</td></tr><tr><td>Surplus in Statement of Profit</td><td>560.08</td><td>549.66</td><td>534.43</td></tr><tr><td></td><td>3,293.21</td><td>3,282.79</td><td>3,267.56</td></tr></table>",
+        "embed": "<table><tr><th></th><th>As at 31 March 2018</th><th>As at 31 March 2017</th><th>As at 1 April 2016</th></tr><tr><td>General reserve</td><td>3.39</td><td>3.39</td><td>3.39</td></tr><tr><td>Securities premium</td><td>2,729.74</td><td>2,729.74</td><td>2,729.74</td></tr><tr><td>Surplus in Statement of Profit</td><td>560.08</td><td>549.66</td><td>534.43</td></tr><tr><td></td><td>3,293.21</td><td>3,282.79</td><td>3,267.56</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9059613769941226,
+              "height": 0.12885985748218529,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th>As at 31 March 2018</th><th>As at 31 March 2017</th><th>As at 1 April 2016</th></tr><tr><td>General reserve</td><td>3.39</td><td>3.39</td><td>3.39</td></tr><tr><td>Securities premium</td><td>2,729.74</td><td>2,729.74</td><td>2,729.74</td></tr><tr><td>Surplus in Statement of Profit</td><td>560.08</td><td>549.66</td><td>534.43</td></tr><tr><td></td><td>3,293.21</td><td>3,282.79</td><td>3,267.56</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

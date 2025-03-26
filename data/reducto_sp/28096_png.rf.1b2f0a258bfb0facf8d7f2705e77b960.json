@@ -1,0 +1,36 @@
+{
+  "job_id": "0ea3acad-be12-4966-8686-79beb79f2ff2",
+  "duration": 75.63859033584595,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/b9cdf73a-2c3c-4812-a053-4196ebb8569f.pdf?AWSAccessKeyId=ASIA2UOK6OVBC5VAWJGA&Signature=YYbDveCFJJFAxyaRjvgQ8AQNLTk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQChg9DbjBa23FmMfGEzJfaHV4Dq1NS5wUaFCwyOFgZrpAIgVEljdNrbLEU2pjElpzMmhVqmSDNmfmImpDLLtxQw72oqgwUIKRAAGgw3MzExMDY5MzIwMzQiDABS77yTSPW51LzdIyrgBIIGLXFq%2Bm5kmXNNaU2zBWcp2%2B%2BPO0cN7JFzdl8EVvivo3rPneex7njy3qNQH0iSVTQ5gpMLKdGSYuW2gVWIsVWQrlfYEphGyUWyYX7tuOR9BE1O3SRjuXUYuoZdUDX%2BwABHTk7ALRq87KjE0%2BnAbPSNml6PmpucemTN4G2TdFldLAGHA2B3CETH4VprpHr%2FTJ3j%2BZkEmaOcxIRuODPmLfkmCr5e2MGqDB5TMKQ%2BNdjt%2F8oZbZwjVkOEtxaoL%2FRAavj0oZzriBealfbeMljQ9K5nd55Aj4uZHrzk6I6MImi2lSw2UcgVHfDbmjT9ODeotyHWmi4KZoiqM0a98M2pmYod6tBpb270keNUHFGF65xEYA51sK9G2vsPZpwZQXEevgnbNJCPWS26y9sfKsJ6PEpEoWIP%2BaD3Ii6Ek6vm%2BvvhsNW%2FfL38csuFW83yx%2BEALWpjmsouatvWYf2nqoykpcJ%2BWINaBNlkjXnE%2FVMmdOpELadWe2oUdpAeRwYQfjQ%2FyjV7VsGFmE6ZpRc5fWbptUN9UROpIi4HYU%2FhhYMg7IWBpEnlgiBJgJEK0zSbqHlc1ciZEay3NjHE6OPPOKtU7Db6lySIxgOib2bdFyarxWHiQiQSUhJXNTLgmvSf648Ay2Z1LOGqqVZJdcLMvbGEXwqohuOgNSmGNOl8tSip1tyPFuiGOePpkXLptiHh6wf%2B%2BjuaUhFGeH0x2rvTZxjAuHvLTwr7B3Oa4GBAc5XOgXvqulgcpWxpm4zOVImaz%2B%2F5V%2BgM8BG9C31XyY%2B%2FvJ6vVg%2F6rJ154qFaVvgunuCmqsZnMPPkjr8GOpoB78pmYWbx4l%2F5fPAZbMmUhKcU3iFMbWR%2BvUm0EFFWn518RQ0ydozteVEJ0lqdgyH3m%2BQppNDffDwgkDWD9U%2FhnwaR4taOS5JFcAtJDP19kOxirofGtTubgPqM7IEs%2FhClYjnB0JGY76mAjJz%2FsrdfpcUPBvoCrWgOF%2FCv%2FWhIihzCxNlNUKaFDfg%2BUlIQJN%2F8i%2B%2FdX%2FOiNLVNqQ%3D%3D&Expires=1742980888",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"5\">\u041f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043e \u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0413\u0410\u0420\u0410\u041d\u0422</th></tr><tr><td>\u0421\u0443\u043c\u043c\u0430 \u043f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c\u0441\u0442...</td><td>590</td><td></td><td>X</td><td></td></tr><tr><td>\u0421\u0443\u043c\u043c\u0430 \u043e\u0442\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0445 \u043d...</td><td>600</td><td>505 232</td><td>X</td><td>505 232</td></tr><tr><td>\u0421\u0443\u043c\u043c\u0430 \u0437\u0430\u0434\u043e\u043b\u0436\u0435\u043d\u043d\u043e\u0441\u0442...</td><td>610</td><td></td><td>X</td><td></td></tr><tr><td>\u041f\u0440\u043e\u0447\u0438\u0435 \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432...</td><td>620</td><td></td><td>X</td><td></td></tr><tr><td colspan=\"5\">\u0418\u0442\u043e\u0433\u043e \u043f\u043e \u0441\u0442\u0440\u043e\u043a\u0430\u043c 530 620 60 667 457</td></tr><tr><td colspan=\"5\">PA3MEP \u0421\u041e\u0411\u0421\u0422\u0412\u0415\u041d\u041d\u042b\u0425 \u0421\u0420\u0415\u0414\u0421\u0422\u0412</td></tr><tr><td colspan=\"4\">\u0421\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430</td><td>92 616 520</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"5\">\u041f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043e \u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0413\u0410\u0420\u0410\u041d\u0422</th></tr><tr><td>\u0421\u0443\u043c\u043c\u0430 \u043f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c\u0441\u0442...</td><td>590</td><td></td><td>X</td><td></td></tr><tr><td>\u0421\u0443\u043c\u043c\u0430 \u043e\u0442\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0445 \u043d...</td><td>600</td><td>505 232</td><td>X</td><td>505 232</td></tr><tr><td>\u0421\u0443\u043c\u043c\u0430 \u0437\u0430\u0434\u043e\u043b\u0436\u0435\u043d\u043d\u043e\u0441\u0442...</td><td>610</td><td></td><td>X</td><td></td></tr><tr><td>\u041f\u0440\u043e\u0447\u0438\u0435 \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432...</td><td>620</td><td></td><td>X</td><td></td></tr><tr><td colspan=\"5\">\u0418\u0442\u043e\u0433\u043e \u043f\u043e \u0441\u0442\u0440\u043e\u043a\u0430\u043c 530 620 60 667 457</td></tr><tr><td colspan=\"5\">PA3MEP \u0421\u041e\u0411\u0421\u0422\u0412\u0415\u041d\u041d\u042b\u0425 \u0421\u0420\u0415\u0414\u0421\u0422\u0412</td></tr><tr><td colspan=\"4\">\u0421\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430</td><td>92 616 520</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9059613769941226,
+              "height": 0.20308788598574823,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"5\">\u041f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043e \u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0413\u0410\u0420\u0410\u041d\u0422</th></tr><tr><td>\u0421\u0443\u043c\u043c\u0430 \u043f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c\u0441\u0442...</td><td>590</td><td></td><td>X</td><td></td></tr><tr><td>\u0421\u0443\u043c\u043c\u0430 \u043e\u0442\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0445 \u043d...</td><td>600</td><td>505 232</td><td>X</td><td>505 232</td></tr><tr><td>\u0421\u0443\u043c\u043c\u0430 \u0437\u0430\u0434\u043e\u043b\u0436\u0435\u043d\u043d\u043e\u0441\u0442...</td><td>610</td><td></td><td>X</td><td></td></tr><tr><td>\u041f\u0440\u043e\u0447\u0438\u0435 \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432...</td><td>620</td><td></td><td>X</td><td></td></tr><tr><td colspan=\"5\">\u0418\u0442\u043e\u0433\u043e \u043f\u043e \u0441\u0442\u0440\u043e\u043a\u0430\u043c 530 620 60 667 457</td></tr><tr><td colspan=\"5\">PA3MEP \u0421\u041e\u0411\u0421\u0422\u0412\u0415\u041d\u041d\u042b\u0425 \u0421\u0420\u0415\u0414\u0421\u0422\u0412</td></tr><tr><td colspan=\"4\">\u0421\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430</td><td>92 616 520</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

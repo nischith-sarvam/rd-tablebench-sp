@@ -1,0 +1,36 @@
+{
+  "job_id": "643261f7-baf3-4d79-92a5-edeae7279f50",
+  "duration": 53.854716539382935,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/4ccb826f-36b9-45e9-9e24-601ada114c50.pdf?AWSAccessKeyId=ASIA2UOK6OVBNHZOJWKC&Signature=Pqht6lfroer3P4mXX31bf%2Bcoh24%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIDSGCmzD251u3Kvze%2BZC%2FV641m2x1tiHytZDLoJaWEG2AiEA3Lo%2FuoRJGnq%2FExyy1t0lGUSggovsOvtDlpteJWrnRQ8qgwUIKRAAGgw3MzExMDY5MzIwMzQiDDW4za4NmzipaiwpairgBAmiOrQrwcAlWayE0aZgxIXJHRGja1E26uCJuT65E3eQZpUg9rAdiw4om7gTJaWMW981Ma82jAH9gMZbdTVEZNt8ZleP%2FLCI0XkcrpeTigzb6L17Bfonx4pOlio%2BH6IF4BEtIOgrlViDH9vIfIbfmbm2A%2BdqF27djVVlHbB3qofB4b4jmqw8XBsdJNtfHLQAPE5kXxG2GprJm2XQZBc9YHQ1x6ERKYvdISKOBHowK5PFM3he9ErKoBBv3eZdjwZ1xguYkhIEIa58D2M9hWhwLZSvQkKjQnkezsiK5WOpQcXdX%2FS5DWGxR2SySKyHxYbu%2Fo1bFmlmNhB4bspGOTynqxHQfcvkWEYJwiCluCLzD%2B%2F%2FobedpInCKQ6MJAS%2FWdAxYHyPmJ%2BZJb11l1OhZ4eEYvt5UKsxE62vD9DppIDX7DyfU%2BLw7WmaomfFuT0Of5CTE%2B5V0x0rr7sZrx%2BhYu1U2ck%2FSOgbdB6SVoCs2DzlE%2BQeYuCeTcnyJ2bSQQsnAtC1zt1BbkK%2FeIXuJRqOXpq20UWq1Yv%2FhGpEMsEtVT9gedbJRZjuzE2LZaK%2Fsw9xt3A%2FMYKnXGqJXEoHWfjUE7Lo6KE0xL7%2BsktVxOWtoMjrta%2F5GYGFbs3UauQeuHvbmY%2B%2F8GCT6jdAR7W7ubLLZqZSkux9QbQUkTKfnW1ysKHY%2Bo03IULP07QFX5ZPyq6RFh86RstNy3pMHvTqVKWP016YRNcye9Zlg1BOrCep7UyjVsee%2BHQDcsiCBwfEqRBoyFgDXH38BgP2SmaFJP2R3CvlORLEN%2FdiN4MaIOQCOeETbsMdMPvejr8GOpoBDBLzwucXbItxLRfgGAMRBsJq7XiFNBu%2BynKvGD7mw9fMDIYDVsH%2F2MtwT9CeZjUTZ3jDIpRG10mSmSJ4LpgPmzAhiwY4d6PLbloJfzC74USROCP73GKVM%2BNEdM%2BYm7b%2BAO%2BzZzQE3n1Tr5WoGWJD3LSoR%2FC2iJUw3lNY5NffpXKsHW0S7itmKzGBmS37OuSAO2EdmfFuZsNCEQ%3D%3D&Expires=1742980875",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Date</th><th>Expenses</th><th>Amount</th></tr><tr><td>February 02, 2021</td><td>75(km)</td><td>$41.25</td></tr><tr><td colspan=\"3\">Burnaby to Victoria</td></tr><tr><td>February 04, 2021</td><td>75(km)</td><td>$41.25</td></tr><tr><td colspan=\"3\">Victoria to Burnaby</td></tr><tr><td>February 02, 2021</td><td>Ferry</td><td>$73.60</td></tr><tr><td>Van to Vic</td><td></td><td></td></tr><tr><td>February 02, 2021</td><td>Lunch and Dinner Only-Victoria</td><td>$48.50</td></tr><tr><td>February 03, 2021</td><td>MLA Per Diem - Victoria</td><td>$61.00</td></tr><tr><td>February 04, 2021</td><td>Breakfast &amp; Lunch Only-Victoria</td><td>$39.50</td></tr><tr><td>February 04, 2021</td><td>Ferry</td><td>$73.50</td></tr><tr><td colspan=\"3\">Victoria to Vancouver</td></tr><tr><td>February 04, 2021</td><td>Hotel Victoria - With Receipts</td><td>$278.84</td></tr></table>",
+        "embed": "<table><tr><th>Date</th><th>Expenses</th><th>Amount</th></tr><tr><td>February 02, 2021</td><td>75(km)</td><td>$41.25</td></tr><tr><td colspan=\"3\">Burnaby to Victoria</td></tr><tr><td>February 04, 2021</td><td>75(km)</td><td>$41.25</td></tr><tr><td colspan=\"3\">Victoria to Burnaby</td></tr><tr><td>February 02, 2021</td><td>Ferry</td><td>$73.60</td></tr><tr><td>Van to Vic</td><td></td><td></td></tr><tr><td>February 02, 2021</td><td>Lunch and Dinner Only-Victoria</td><td>$48.50</td></tr><tr><td>February 03, 2021</td><td>MLA Per Diem - Victoria</td><td>$61.00</td></tr><tr><td>February 04, 2021</td><td>Breakfast &amp; Lunch Only-Victoria</td><td>$39.50</td></tr><tr><td>February 04, 2021</td><td>Ferry</td><td>$73.50</td></tr><tr><td colspan=\"3\">Victoria to Vancouver</td></tr><tr><td>February 04, 2021</td><td>Hotel Victoria - With Receipts</td><td>$278.84</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9051217464315701,
+              "height": 0.33016627078384797,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Date</th><th>Expenses</th><th>Amount</th></tr><tr><td>February 02, 2021</td><td>75(km)</td><td>$41.25</td></tr><tr><td colspan=\"3\">Burnaby to Victoria</td></tr><tr><td>February 04, 2021</td><td>75(km)</td><td>$41.25</td></tr><tr><td colspan=\"3\">Victoria to Burnaby</td></tr><tr><td>February 02, 2021</td><td>Ferry</td><td>$73.60</td></tr><tr><td>Van to Vic</td><td></td><td></td></tr><tr><td>February 02, 2021</td><td>Lunch and Dinner Only-Victoria</td><td>$48.50</td></tr><tr><td>February 03, 2021</td><td>MLA Per Diem - Victoria</td><td>$61.00</td></tr><tr><td>February 04, 2021</td><td>Breakfast &amp; Lunch Only-Victoria</td><td>$39.50</td></tr><tr><td>February 04, 2021</td><td>Ferry</td><td>$73.50</td></tr><tr><td colspan=\"3\">Victoria to Vancouver</td></tr><tr><td>February 04, 2021</td><td>Hotel Victoria - With Receipts</td><td>$278.84</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

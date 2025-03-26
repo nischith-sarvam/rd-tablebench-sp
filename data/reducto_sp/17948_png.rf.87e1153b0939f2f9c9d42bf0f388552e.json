@@ -1,0 +1,36 @@
+{
+  "job_id": "f11ae833-e543-4cd4-aa3f-700f13c363a0",
+  "duration": 136.12410640716553,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/131985b8-08d6-4144-8d59-3e858b111313.pdf?AWSAccessKeyId=ASIA2UOK6OVBKVETWGWT&Signature=WLn484dbzI4tV4PhH2F9mKFJhK8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBBWGCTKlTXHj4464bXtfT5RxEaJxvkpZviwPU%2FRFEtUAiBVNbhKrVyHa%2BxL%2B5J6c%2F5cybD3a9y4%2BDfseIIKw3RUTSqDBQgqEAAaDDczMTEwNjkzMjAzNCIMcYAPnrm8QrdbGgodKuAEYJCitMQjWp2By4raLGhcHcU8qOzjUqqjD4DK7e2SjWy1NlsIhxCcnqQvMCNTMfkmzMGF%2BlRBIO9AtVvm1WFyS7Okp1H3bqG2zRFV4bzN0KLGTwWh7bZZDzVyigUsiygdBUREfznj9TLwUNAWZahaG%2BUcBhCmsgVGY2gM7Ymc%2BjLiDex00G5%2BkGv2X6uc3WK%2FAYr8cZIvRvAJLj5MknioCnHO4j9Bb8RzAE%2Bb6o%2Fenna%2B6s8ezBa%2FWSdzUa%2F3O5pxhpeVwWZatdQoHuS308toKnjQ2kyKHfwBsSK3q3jTejSuVeLSWoFnNuI9HPwIb0y5OcrKx2dsHwhZIdzyT7vJvRzGugDiR26IksJ2IbH1PzpxaYc8hL4R3knZYOMblOVM6XO3k%2FWR7pk3iD5i%2FTBKHHPksFwB6%2BqVGYoMTwKn%2B5T11sxmyj8rCVhRlcI2TGEL41fcdEyVWKpgZ0gD3oOTf1z6V7HD1mps8dQGsPsY04vcdadnDIm66gnhcDs9chYsxwENDr6Pq3RIm9NNtpexWJeD8X62rjbGnyCXeqWBYX1ccK9hVKTBRfC4XSZKgvutaiT6M6H6J2QMwwGcVSICWVZ6l1nfcF1%2FQiSub2ilh3h376%2FeNl2FXlWLWpS91ZcIKt8RX0Kb8mftf%2Bx7U9swnoZ9RcbHqs3fZwUf0%2BbcIKWKMaR7kmpt3LvhnM1X6%2FEfyM0Vh8Wx7%2B9D4co5BfN5D%2BxtYNXHbOqfcA8mQtDk%2FEVAxZdlcHv8e8WnUQ76PhAEoHBLPr%2B5qejiT3bD3EfaoqeWL646DwixMXnyRJw2%2B80wvvKOvwY6mwFcs%2Fo4oaRG6Bx7zCD2LjcBX5HmE%2BN32o6QABMyViFF19k7ldloNSSmPeIJj8C31JtUciV6FBnusNRBl2gawt8Mi4FeLBw3yr9V4TplOXH%2BE6DGwxL5bW1kPGbPRqrifVOYZGoQeQ6lMOQ45pIjLFdfFs8M5v497oUD5Se8lD%2FoIgBIOU1HAiG5ew95ZQxyAAlAWeBPYxzQxIs0wQ%3D%3D&Expires=1742980990",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Clade</th><th>N</th><th>Na</th><th>PA</th><th>Ne</th><th>Ho</th><th>He</th><th>Fst</th></tr><tr><td>A</td><td>7</td><td>5.5 + 0.9</td><td>5</td><td>4.12 + 0.81</td><td>0.47 + 0.08</td><td>0.59 + 0.1</td><td>0.17 +0.06</td></tr><tr><td>B</td><td>11</td><td>7.1 + 1.3</td><td>1</td><td>5.12 + 0.93</td><td>0.51 + 0.09</td><td>0.68 + 0.09</td><td>0.29 + 0.09</td></tr><tr><td>C</td><td>51</td><td>15.2 + 2.3</td><td>28</td><td>8.87 + 1.71</td><td>0.62 + 0.08</td><td>0.76 + 0.09</td><td>0.21 + 0.04</td></tr><tr><td>D</td><td>14</td><td>8.2 + 1.6</td><td>22</td><td>5.44 + 1.18</td><td>0.48 + 0.08</td><td>0.70 + 0.09</td><td>0.33 + 0.06</td></tr><tr><td>E</td><td>23</td><td>9.9 + 1.6</td><td>6</td><td>5.84 + 0.93</td><td>0.48 + 0.07</td><td>0.73 + 0.09</td><td>0.34 + 0.06</td></tr><tr><td>F</td><td>4</td><td>4.3+0.7</td><td>3</td><td>3.71 + 0.72</td><td>0.59 + 0.10</td><td>0.64 + 0.08</td><td>0.10 + 0.08</td></tr><tr><td>G</td><td>11</td><td>7.9 + 1.1</td><td>3</td><td>5.95 + 1.01</td><td>0.52 + 0.08</td><td>0.73 + 0.08</td><td>0.28 + 0.08</td></tr><tr><td>H</td><td>7</td><td>6.6 + 0.8</td><td>4</td><td>4.90 + 0.72</td><td>0.53 + 0.09</td><td>0.71 + 0.08</td><td>0.25 + 0.09</td></tr></table>",
+        "embed": "<table><tr><th>Clade</th><th>N</th><th>Na</th><th>PA</th><th>Ne</th><th>Ho</th><th>He</th><th>Fst</th></tr><tr><td>A</td><td>7</td><td>5.5 + 0.9</td><td>5</td><td>4.12 + 0.81</td><td>0.47 + 0.08</td><td>0.59 + 0.1</td><td>0.17 +0.06</td></tr><tr><td>B</td><td>11</td><td>7.1 + 1.3</td><td>1</td><td>5.12 + 0.93</td><td>0.51 + 0.09</td><td>0.68 + 0.09</td><td>0.29 + 0.09</td></tr><tr><td>C</td><td>51</td><td>15.2 + 2.3</td><td>28</td><td>8.87 + 1.71</td><td>0.62 + 0.08</td><td>0.76 + 0.09</td><td>0.21 + 0.04</td></tr><tr><td>D</td><td>14</td><td>8.2 + 1.6</td><td>22</td><td>5.44 + 1.18</td><td>0.48 + 0.08</td><td>0.70 + 0.09</td><td>0.33 + 0.06</td></tr><tr><td>E</td><td>23</td><td>9.9 + 1.6</td><td>6</td><td>5.84 + 0.93</td><td>0.48 + 0.07</td><td>0.73 + 0.09</td><td>0.34 + 0.06</td></tr><tr><td>F</td><td>4</td><td>4.3+0.7</td><td>3</td><td>3.71 + 0.72</td><td>0.59 + 0.10</td><td>0.64 + 0.08</td><td>0.10 + 0.08</td></tr><tr><td>G</td><td>11</td><td>7.9 + 1.1</td><td>3</td><td>5.95 + 1.01</td><td>0.52 + 0.08</td><td>0.73 + 0.08</td><td>0.28 + 0.08</td></tr><tr><td>H</td><td>7</td><td>6.6 + 0.8</td><td>4</td><td>4.90 + 0.72</td><td>0.53 + 0.09</td><td>0.71 + 0.08</td><td>0.25 + 0.09</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.22980997624703087,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Clade</th><th>N</th><th>Na</th><th>PA</th><th>Ne</th><th>Ho</th><th>He</th><th>Fst</th></tr><tr><td>A</td><td>7</td><td>5.5 + 0.9</td><td>5</td><td>4.12 + 0.81</td><td>0.47 + 0.08</td><td>0.59 + 0.1</td><td>0.17 +0.06</td></tr><tr><td>B</td><td>11</td><td>7.1 + 1.3</td><td>1</td><td>5.12 + 0.93</td><td>0.51 + 0.09</td><td>0.68 + 0.09</td><td>0.29 + 0.09</td></tr><tr><td>C</td><td>51</td><td>15.2 + 2.3</td><td>28</td><td>8.87 + 1.71</td><td>0.62 + 0.08</td><td>0.76 + 0.09</td><td>0.21 + 0.04</td></tr><tr><td>D</td><td>14</td><td>8.2 + 1.6</td><td>22</td><td>5.44 + 1.18</td><td>0.48 + 0.08</td><td>0.70 + 0.09</td><td>0.33 + 0.06</td></tr><tr><td>E</td><td>23</td><td>9.9 + 1.6</td><td>6</td><td>5.84 + 0.93</td><td>0.48 + 0.07</td><td>0.73 + 0.09</td><td>0.34 + 0.06</td></tr><tr><td>F</td><td>4</td><td>4.3+0.7</td><td>3</td><td>3.71 + 0.72</td><td>0.59 + 0.10</td><td>0.64 + 0.08</td><td>0.10 + 0.08</td></tr><tr><td>G</td><td>11</td><td>7.9 + 1.1</td><td>3</td><td>5.95 + 1.01</td><td>0.52 + 0.08</td><td>0.73 + 0.08</td><td>0.28 + 0.08</td></tr><tr><td>H</td><td>7</td><td>6.6 + 0.8</td><td>4</td><td>4.90 + 0.72</td><td>0.53 + 0.09</td><td>0.71 + 0.08</td><td>0.25 + 0.09</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

@@ -6,6 +6,7 @@ import json
 from typing import Any
 import os
 from bs4 import BeautifulSoup
+import re
 
 
 def parse_textract_response(path: str) -> tuple[str | None, Any]:
@@ -234,9 +235,29 @@ def parse_claude_outputs(inp_path:str, out_path:str):
                 print(f"No table found in {file_path}")
                 # os.remove(file_path)
 
+def parse_reducto_outputs(inp_path:str, out_path:str): 
+    empty_files = []
+    for file in os.listdir(inp_path):
+        if file.endswith(".json"):
+            file_path = os.path.join(inp_path, file)
+            (table, data) = parse_reducto_response(file_path)
+            # store the table in the out_path as a html file
+            if table:
+                with open(os.path.join(out_path, file.replace(".json", ".html")), "w") as f:
+                    f.write(table)
+            else:
+                match = re.search(r"(\d+)_png", file)
+                if match:
+                    empty_files.append(match.group(1))
+                print(f"No table found in {file_path}")
+                # os.remove(file_path)
+    print(empty_files)
         
 if __name__ == "__main__":
     inp_path="/home/vansh/work/sarvam/rd-tablebench-sp/data/claude_sp"
+    # out_path="/home/vansh/work/sarvam/rd-tablebench-sp/data/providers/reducto_sp"
+    # parse_reducto_outputs(inp_path, out_path)
+
     out_path="/home/vansh/work/sarvam/rd-tablebench-sp/data/providers/claude_sp"
     parse_claude_outputs(inp_path, out_path)
 

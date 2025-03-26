@@ -1,0 +1,36 @@
+{
+  "job_id": "1d0f1123-2303-4a7b-bf4e-4622ac70fbc7",
+  "duration": 175.27995347976685,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/8f819d9d-7589-4449-8176-07e7acb83dc4.pdf?AWSAccessKeyId=ASIA2UOK6OVBNQFTRN4J&Signature=gX1n1pit4WXgMD71BkyYWm1%2Fm8g%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBkLdKfEISeGQkPRKJ9xKjKrzMjg0XHcZktNYkyLAB1KAiANDb%2BQmpN0Ttv0%2BPL6YtUxIVwUkNu0l5vPrYblciHPcyqDBQgqEAAaDDczMTEwNjkzMjAzNCIM0xYWSkqLRXgZS7XKKuAEVLLpaX0Vat2%2B3%2BnaKDArWpw9eN%2BnIZSXvoobRLxg%2BdvrUSxhGhTaPOSdsGfW622JtW2BH4OJZvVYl2g5LwW90ZxVuSb20vcSiG%2BtCMvofjLlIkeaxPrEHEZIakl0ZzC4zsmYPntkLa6LQlZf%2FBgPr1aKRkjaXKsNPijXH%2BCzfTU8n4Gw%2Bm%2BL9vXXukdvRNp9kml%2Fsey0PY91ECDf%2BO9LnOsHb%2F9TdVdzJGKHANiVaFODeBtjyD3eBlyTe2b7KuZwDDg6wnSe9arDKrHYNzIKSD6xa%2BM9mqHvjtXET6SDfhSl%2FXHDSPZLVzS%2FWDYrzeX8C22t71FDYAp6zElHLqpRzo0rTkHusKem7OuwPZ2NmHCJMuHBWWCvN%2BbG8RHrZgp7WEmNGPsm6WaQHclIJV9iVM2bCHsKK0wF0MHw4z4cw9FkHPoja5qkxlcV8yMtrWc3Iv92RhamG9BHEmq8egwfyODwMea%2F%2FfE72IUFBHb31VUrl%2FmcRpdXsOeLpYn8R9iO8AHULGBN9jAIld%2Fhf4P8v%2FRxJABT5Phyy9aNlDGoMXHwpx7rLrCTRcPJv2yzpj3qvYh5Kyri8%2FD9GhyVGg76Z1b6TgFzKgWoo7rU62tIUPeudBTXuihmKJdg4VkqCWzqmMsE5fwzppBSBHdXWu7sVDvxBdI8N7rFrei5akS%2F0jdINMasaocJs7GPcEmbmbWcQX7CYmXYyAsUbAGF6Go1CygRbJZ8TGyTo1XuGWL7rWF8aW3Hsgb1UGzmxb109hyKRTgDEHuWiQVoJj2oMrUEu5Lh%2F5tx1tnPzlprRoKj6KAwjPOOvwY6mwHeYOsLEYnXz%2F48MLJNzLrGA7OQY%2FBLAaXY9sQYAfZRMVgKyA1DGulNJWtM8AOAB5Ycdm5DkdlEhDuT5hmPUqyQFe%2B6jag4g2xNVFA4vRrP0Fh%2BqFankyBCNxKyq4Km0TOEdJ3ZYv%2FVfz1Wqc3AQFsOZSMRAP9vnnHX1tzYA8bYBuDIQwIE3jY31802E2PW4oizej8QQqaXN1y9Bg%3D%3D&Expires=1742981022",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Avia\u00e7\u00e3o Regular</th><th>Movimentos</th><th>Atrasos</th></tr><tr><td>BRASIL (58 Aero.)</td><td>1.073 \u25bc</td><td>2,9% \u25b2</td></tr><tr><td>1\u00b0 Guarulhos</td><td>285</td><td>3,9% \u25b2</td></tr><tr><td>2\u00b0 Recife</td><td>131 \u25bc</td><td>3,1% \u25b2</td></tr><tr><td>3\u00b0 Confins</td><td>109 \u25bc</td><td>2,8% \u25b2</td></tr><tr><td>4\u00b0 Santos Dumont</td><td>84 \u25bc</td><td>4,8% \u25bc</td></tr><tr><td>5\u00b0 Congonhas</td><td>81 \u25bc</td><td>1,2%</td></tr><tr><td>6\u00b0 Bel\u00e9m</td><td>35</td><td>2,9% \u25b2</td></tr><tr><td>7\u00b0 Macei\u00f3 - AL</td><td>31 \u25bc</td><td>0,0%</td></tr><tr><td>8\u00b0 Curitiba</td><td>28 \u25bc</td><td>0,0%</td></tr><tr><td>9\u00b0 Gale\u00e3o</td><td>26</td><td>3,8%</td></tr><tr><td>10\u00b0 Manaus</td><td>24 \u25bc</td><td>0,0%</td></tr><tr><td>11\u00b0 Goi\u00e2nia</td><td>21</td><td>0,0%</td></tr><tr><td>12\u00b0 Cuiab\u00e1</td><td>19</td><td>5,3% \u25b2</td></tr><tr><td>13\u00b0 S\u00e3o Gon\u00e7alo A.</td><td>17</td><td>0,0%</td></tr><tr><td>14\u00b0 Navegantes</td><td>17</td><td>0,0%</td></tr><tr><td>15\u00b0 S\u00e3o Luis</td><td>16 \u25bc</td><td>6,3% A</td></tr><tr><td>16\u00b0 Foz Do Igua\u00e7u</td><td>16 \u25bc</td><td>0,0%</td></tr><tr><td>17\u00b0 Campo Grande</td><td>15 A</td><td>13,3% A</td></tr><tr><td>18\u00b0 Jo\u00e3o Pessoa</td><td>12</td><td>0,0%</td></tr><tr><td>19\u00b0 Aracaju - SE</td><td>11 \u25bc</td><td>0,0%</td></tr><tr><td>20\u00b0 Uberl\u00e2ndia</td><td>10 \u25bc</td><td>0,0% \u25bc</td></tr></table>",
+        "embed": "<table><tr><th>Avia\u00e7\u00e3o Regular</th><th>Movimentos</th><th>Atrasos</th></tr><tr><td>BRASIL (58 Aero.)</td><td>1.073 \u25bc</td><td>2,9% \u25b2</td></tr><tr><td>1\u00b0 Guarulhos</td><td>285</td><td>3,9% \u25b2</td></tr><tr><td>2\u00b0 Recife</td><td>131 \u25bc</td><td>3,1% \u25b2</td></tr><tr><td>3\u00b0 Confins</td><td>109 \u25bc</td><td>2,8% \u25b2</td></tr><tr><td>4\u00b0 Santos Dumont</td><td>84 \u25bc</td><td>4,8% \u25bc</td></tr><tr><td>5\u00b0 Congonhas</td><td>81 \u25bc</td><td>1,2%</td></tr><tr><td>6\u00b0 Bel\u00e9m</td><td>35</td><td>2,9% \u25b2</td></tr><tr><td>7\u00b0 Macei\u00f3 - AL</td><td>31 \u25bc</td><td>0,0%</td></tr><tr><td>8\u00b0 Curitiba</td><td>28 \u25bc</td><td>0,0%</td></tr><tr><td>9\u00b0 Gale\u00e3o</td><td>26</td><td>3,8%</td></tr><tr><td>10\u00b0 Manaus</td><td>24 \u25bc</td><td>0,0%</td></tr><tr><td>11\u00b0 Goi\u00e2nia</td><td>21</td><td>0,0%</td></tr><tr><td>12\u00b0 Cuiab\u00e1</td><td>19</td><td>5,3% \u25b2</td></tr><tr><td>13\u00b0 S\u00e3o Gon\u00e7alo A.</td><td>17</td><td>0,0%</td></tr><tr><td>14\u00b0 Navegantes</td><td>17</td><td>0,0%</td></tr><tr><td>15\u00b0 S\u00e3o Luis</td><td>16 \u25bc</td><td>6,3% A</td></tr><tr><td>16\u00b0 Foz Do Igua\u00e7u</td><td>16 \u25bc</td><td>0,0%</td></tr><tr><td>17\u00b0 Campo Grande</td><td>15 A</td><td>13,3% A</td></tr><tr><td>18\u00b0 Jo\u00e3o Pessoa</td><td>12</td><td>0,0%</td></tr><tr><td>19\u00b0 Aracaju - SE</td><td>11 \u25bc</td><td>0,0%</td></tr><tr><td>20\u00b0 Uberl\u00e2ndia</td><td>10 \u25bc</td><td>0,0% \u25bc</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.047019311502938706,
+              "top": 0.032660332541567694,
+              "width": 0.9026028547439127,
+              "height": 0.5564133016627079,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Avia\u00e7\u00e3o Regular</th><th>Movimentos</th><th>Atrasos</th></tr><tr><td>BRASIL (58 Aero.)</td><td>1.073 \u25bc</td><td>2,9% \u25b2</td></tr><tr><td>1\u00b0 Guarulhos</td><td>285</td><td>3,9% \u25b2</td></tr><tr><td>2\u00b0 Recife</td><td>131 \u25bc</td><td>3,1% \u25b2</td></tr><tr><td>3\u00b0 Confins</td><td>109 \u25bc</td><td>2,8% \u25b2</td></tr><tr><td>4\u00b0 Santos Dumont</td><td>84 \u25bc</td><td>4,8% \u25bc</td></tr><tr><td>5\u00b0 Congonhas</td><td>81 \u25bc</td><td>1,2%</td></tr><tr><td>6\u00b0 Bel\u00e9m</td><td>35</td><td>2,9% \u25b2</td></tr><tr><td>7\u00b0 Macei\u00f3 - AL</td><td>31 \u25bc</td><td>0,0%</td></tr><tr><td>8\u00b0 Curitiba</td><td>28 \u25bc</td><td>0,0%</td></tr><tr><td>9\u00b0 Gale\u00e3o</td><td>26</td><td>3,8%</td></tr><tr><td>10\u00b0 Manaus</td><td>24 \u25bc</td><td>0,0%</td></tr><tr><td>11\u00b0 Goi\u00e2nia</td><td>21</td><td>0,0%</td></tr><tr><td>12\u00b0 Cuiab\u00e1</td><td>19</td><td>5,3% \u25b2</td></tr><tr><td>13\u00b0 S\u00e3o Gon\u00e7alo A.</td><td>17</td><td>0,0%</td></tr><tr><td>14\u00b0 Navegantes</td><td>17</td><td>0,0%</td></tr><tr><td>15\u00b0 S\u00e3o Luis</td><td>16 \u25bc</td><td>6,3% A</td></tr><tr><td>16\u00b0 Foz Do Igua\u00e7u</td><td>16 \u25bc</td><td>0,0%</td></tr><tr><td>17\u00b0 Campo Grande</td><td>15 A</td><td>13,3% A</td></tr><tr><td>18\u00b0 Jo\u00e3o Pessoa</td><td>12</td><td>0,0%</td></tr><tr><td>19\u00b0 Aracaju - SE</td><td>11 \u25bc</td><td>0,0%</td></tr><tr><td>20\u00b0 Uberl\u00e2ndia</td><td>10 \u25bc</td><td>0,0% \u25bc</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

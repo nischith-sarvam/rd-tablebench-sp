@@ -1,0 +1,36 @@
+{
+  "job_id": "f452b7f4-895e-4bc5-9a19-f2876ce9824d",
+  "duration": 180.34121561050415,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/b7734c0c-8ad1-41c1-9a24-ca3f58972ef8.pdf?AWSAccessKeyId=ASIA2UOK6OVBD7AZ2BR3&Signature=jmSJHxgSkrypbFYytef0syvdf%2F8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQC4og%2BkAIW3VlrsvwzrXq93s66MoyMW0w0a2qRb2NIgJgIhAOyRddBWeYzFXuhURpY4JtbU3gChQc4zuOrY2oLqtQt%2FKoMFCCoQABoMNzMxMTA2OTMyMDM0IgwsfCbrQ%2FaTElK%2Ff3kq4AQO9U7fjEMMuld1esJDI4BKjlKi0XRcOb%2BVEl91J0nhVlV9IajefGTrGSMvv%2BhVjcEZOCYPlum3mhF%2Bd4zHLe5gG%2B59mXS04PTlWhZXpapN0FbmCiHe3a9By5Sh0fZRWIk4HhY%2F8VRhRFVN%2B3X7w0dKLXYlF1ZMvWkh%2BAOwbNUtf9rCHWe85g%2FDbbuXNWVZSLAXg%2BOGUBfs%2BdONpqpoItT9zRiR1NkSjrJQkXxBbELG%2BKjk01PAbOT4DvoksWBkZo%2F4er4%2BRA0qlxTzCBrpaT77zK%2BU3pKlpVpGIB5LEDeFPXj0FAvR%2F%2B0eSmu6IOnjSMBrYT5c7YDJvBOzOSe995tHz9zmRIU0%2B6JSInXDNER1fitsYGb8F4yZ7R%2FX2TX8rfziYXg9ZMiOQYN0wzbEl3Fjh%2BaqL640rkk40STBIXtfb8qVY6rixbReLkoN63v3SIKpGLkPOPsnRv1omRl%2BOVjGbg%2F1iSBFwIWyjceXuLpYLWcampIW4XPsycvZ6%2Bbr8dCEWwUzQ%2FsqxTTTOmuz2ErjJn9x1Y3yWpr2JC4ACQfFTN2WdwLq8QqbjEUMZeTndFy9w9KAmLcpAVzlYSVhOMD8Vl%2BkPydxqFFZNrUNEf69D%2BZvJ7PNB%2Fc8DjcueaQyjI4HDx1HPsrb3QRuImJzydfb604icY2J8dqWdjDIn%2FPj8XYobgscpUj3Z4VJd1KemMTRF%2BcupC5pK2nJ%2BL5HEmJnNPPa%2FqimqydSSO5oIc9OCbBL9HWgotZuRilD3ZZMvOX7KrKcuo%2BxsogkieivC8IkFG4CJDUHcapLVgFv0fkJDTDA8o6%2FBjqZARy92Vs3bK4AiIx%2FlHUwNqbxvsUlPm71oWJy578WnHctyXYtAfW3u5E11wOG5%2FK%2B32vm2DOaQO7NotWh3pDh8NWtFE6kaFSlzgLbh3%2FSVb3ShVqTSTU96lWBDE1U%2B0PjjA1OsTOS76CKZq%2FqFb7UUZvOLWOcg59zq9wXwlj30Oq6G6uO4X9NP5%2B0fNfmEBpMYulQvxG%2B4bSiFw%3D%3D&Expires=1742981041",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Formato</th><th></th><th>Dimensiones (cm)</th><th>Potencia W</th><th>Peso</th><th>Medidas caja exterio</th></tr><tr><td rowspan=\"3\" colspan=\"2\">Cuadrado Multipotencia</td><td rowspan=\"3\">60x60</td><td>1000</td><td rowspan=\"3\">20</td><td rowspan=\"3\">68,8x66,6x18</td></tr><tr><td>1500</td></tr><tr><td>2000</td></tr><tr><td rowspan=\"2\" colspan=\"2\">Vertical Multipotencia</td><td rowspan=\"2\">45x80</td><td>800</td><td rowspan=\"2\">20</td><td rowspan=\"2\">52,8x88,6x18</td></tr><tr><td>1300</td></tr></table>",
+        "embed": "<table><tr><th>Formato</th><th></th><th>Dimensiones (cm)</th><th>Potencia W</th><th>Peso</th><th>Medidas caja exterio</th></tr><tr><td rowspan=\"3\" colspan=\"2\">Cuadrado Multipotencia</td><td rowspan=\"3\">60x60</td><td>1000</td><td rowspan=\"3\">20</td><td rowspan=\"3\">68,8x66,6x18</td></tr><tr><td>1500</td></tr><tr><td>2000</td></tr><tr><td rowspan=\"2\" colspan=\"2\">Vertical Multipotencia</td><td rowspan=\"2\">45x80</td><td>800</td><td rowspan=\"2\">20</td><td rowspan=\"2\">52,8x88,6x18</td></tr><tr><td>1300</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.15320665083135393,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Formato</th><th></th><th>Dimensiones (cm)</th><th>Potencia W</th><th>Peso</th><th>Medidas caja exterio</th></tr><tr><td rowspan=\"3\" colspan=\"2\">Cuadrado Multipotencia</td><td rowspan=\"3\">60x60</td><td>1000</td><td rowspan=\"3\">20</td><td rowspan=\"3\">68,8x66,6x18</td></tr><tr><td>1500</td></tr><tr><td>2000</td></tr><tr><td rowspan=\"2\" colspan=\"2\">Vertical Multipotencia</td><td rowspan=\"2\">45x80</td><td>800</td><td rowspan=\"2\">20</td><td rowspan=\"2\">52,8x88,6x18</td></tr><tr><td>1300</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

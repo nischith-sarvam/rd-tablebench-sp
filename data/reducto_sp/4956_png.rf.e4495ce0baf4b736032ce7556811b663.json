@@ -1,0 +1,36 @@
+{
+  "job_id": "da5f0659-b865-4a10-b129-f6041feba11e",
+  "duration": 52.537453413009644,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/edc040d8-0b66-4166-a142-244aeb03c5e7.pdf?AWSAccessKeyId=ASIA2UOK6OVBL2N27FQU&Signature=CexNOZ%2F2jSZBimIRNLcxi%2FkiChs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIEpkMKclVF6n8Y%2FAxmTNuP2ZlSdKw6AxlwBClxEuN%2FHKAiA13o6KUpwOHcg2pPY%2FgOmUWAY4LBAxI4YkZbjwozR7DCqDBQgpEAAaDDczMTEwNjkzMjAzNCIMIwr%2BHOrSKIjG%2BgeUKuAEEqmCp4nY12cBVlKP%2FgItjZGAOkTWipHW9YKvc3gnD5tdNT%2FDwxaPG5%2B8SZw1lnLeddb0QXd4clSro0aKvx4VeP43nQNbRfGOEixqDbHiuGWAIuyx8Ax7Q2NsLX7Bt9hUaAc2pQh35rNOKYTE7pOfvaDpOwtD8H%2FlXPIG%2B9q5VUI%2FJZIw3kURvDV4pcBAWc8VdIcooGGj0GGG0Z7CSyY7TMm2aUAXnvXmXMruloD9K%2BXvBhF5zh5MIU%2FZU7bb8fGoTKP6yaP17y6qyXXg1Pi0UO%2Fmp0vT58ZMHyIitqJFl8yuRLvcz2WCNMBo7W6YBh07Uowo0Wr2g7TMmjDQRy5crDpQBooEpX9EqJEFLdLzAz3YIfkvNpwnma9ixyN0oPBo8Ow4M%2F4cp6MqHWILYe8OEV8KQ3ua16pjqmvIURFfrgmDI9m8fgPO3owj%2F73zqjKy8XuRqOjpBuGuK8kYOGxHbHZ%2B8qYPLxc3a%2BZk57ffecY7AEKsHNzabCgwqoft5SHYXLBeceaMcVeZrQsu3A6kiGeyVm3j%2BQUTJnxTqU0ceQv0uWgAJX%2B6LNPkX%2FagmtI%2FjfeoOPCJoiEWHBdI5OaHfz7AXGvj5Pl62nGhWMO8PUcEPZoFJcpgs5m07v7OAKtOKKf2oXhLSG9%2BTxskuGSa%2BcbptWipsreI5kf%2Bp5exKTQ4GXFQBsEVk3epqNL%2Fby4H9woDtANKSUUXpqE7NvD9IGelow8UEV4%2FeMYLdnUUsWqzSSe49Q%2FXAtN6mLkcA%2FY06pNUSGr6PcgMgVaorg%2FuIyIfYqW6TnhO2%2B9IG6%2FLXLwwqd6OvwY6mwGV8NVWlMVnZlHEAOsQp8%2B0Sc6FX2%2FTy9jlkpXh4tvUO8xlpEHermZVf7Y9ywI5ygv0I0OukX6C58N2G430Y8teVNfYd2Y5Yifne0m7Drf8EO4rRHCcExchLya6Fa5aKKNGgNKc%2B9ovM%2F3GSGCvX9qqi08XtYxIpWu7R31vViAFSRcklwIDqeGX7YDbVse%2BFYbV90RSRRnnt5ylnQ%3D%3D&Expires=1742980861",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th></th><th>Total s...</th><th>Africa</th><th>Hispanic</th><th>White</th><th>Indian</th><th>Asian</th><th>Pacifi</th><th>Two or</th><th>EL</th><th>Stude</th></tr><tr><td rowspan=\"3\">Presch</td><td>Male</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Female</td><td>'</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td rowspan=\"3\">Accele</td><td>Male</td><td>18</td><td>0</td><td>2</td><td>14</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Female</td><td>18</td><td>0</td><td>2</td><td>14</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td></tr><tr><td>Total</td><td>36</td><td>0</td><td>4</td><td>28</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td></tr><tr><td rowspan=\"3\">Interna...</td><td>Male</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Female</td><td>'</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></table>",
+        "embed": "<table><tr><th></th><th></th><th>Total s...</th><th>Africa</th><th>Hispanic</th><th>White</th><th>Indian</th><th>Asian</th><th>Pacifi</th><th>Two or</th><th>EL</th><th>Stude</th></tr><tr><td rowspan=\"3\">Presch</td><td>Male</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Female</td><td>'</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td rowspan=\"3\">Accele</td><td>Male</td><td>18</td><td>0</td><td>2</td><td>14</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Female</td><td>18</td><td>0</td><td>2</td><td>14</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td></tr><tr><td>Total</td><td>36</td><td>0</td><td>4</td><td>28</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td></tr><tr><td rowspan=\"3\">Interna...</td><td>Male</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Female</td><td>'</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032660332541567694,
+              "width": 0.9042821158690176,
+              "height": 0.25534441805225655,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th></th><th>Total s...</th><th>Africa</th><th>Hispanic</th><th>White</th><th>Indian</th><th>Asian</th><th>Pacifi</th><th>Two or</th><th>EL</th><th>Stude</th></tr><tr><td rowspan=\"3\">Presch</td><td>Male</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Female</td><td>'</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td rowspan=\"3\">Accele</td><td>Male</td><td>18</td><td>0</td><td>2</td><td>14</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Female</td><td>18</td><td>0</td><td>2</td><td>14</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td></tr><tr><td>Total</td><td>36</td><td>0</td><td>4</td><td>28</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td></tr><tr><td rowspan=\"3\">Interna...</td><td>Male</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Female</td><td>'</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

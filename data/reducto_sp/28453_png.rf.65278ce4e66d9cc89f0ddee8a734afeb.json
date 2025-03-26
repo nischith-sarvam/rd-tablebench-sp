@@ -1,0 +1,36 @@
+{
+  "job_id": "0d740912-66b6-42aa-bac5-5ad20f05e771",
+  "duration": 46.96137762069702,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/4e8553a2-b85a-4d02-b90b-2d8212ebffdd.pdf?AWSAccessKeyId=ASIA2UOK6OVBBNJFXKC5&Signature=LYaf%2Fo8fZsZh7d9V1iVNQtApcjU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCID1xHUkvSkccxhEUrRf0gNebqTVQjd7KRyRoSAunlhs4AiBjYOiUtE0PuPyYi63ulM5BDCra5McvcMX8phWipDAmpCqDBQgpEAAaDDczMTEwNjkzMjAzNCIMAISigZN%2Fj7JTCduuKuAEmJIZ7dabYQWo5UVddG%2Fdd2xXTLR3%2FBsrGSeYNuFXXed8lCEYP%2FyUd7zxuH8l6bIFOGpWqoDe25laS9Yg7fwA3hTkVFo3nj7AMOIfCoz1FI3YT8ZS2%2Br7NP6TXh4fd1p0lA5NBYJTnnUhpCyGYXZSPj2edXESQSkgwqjw5H1bEJJBxvR0LplqDtsMsVu1xjQw5%2BLaRCepGYNTuWxQSfdMJdK%2F9rO22E6UqON1LbGp7FWWymZfor7X0IoTJP6C1u6pROijD%2B11M0oX0iQwMMlhtO%2FZAe0RxftVLa6PDUAtwk5Ng%2FM4cHvUzPdAHrmDOyuNt%2Ff8LcwY1W6sSpw9ewfySnfzB7q5aFSTnKLx0OlpnWShj97F96iWXl0HrpEVmjYFzwZECa0UKd6PvhE0%2BwWpV%2FDTUnDOszqP%2FvUUo1mi09AEBntfzkGX7xOlZ3OJe2l%2FNp0ByMC%2Bln%2Bw3Zk%2BcqCgANaPtGEVmtlsob%2BOd0cxuPvwiHinYkPhl0Ad8qD%2BPhVnCEgOxd4KI0b7NXOjQ0XosfZ%2BfOzCyHNT0Bi%2BjCKf%2BNkGi4Umv79F306O15W%2FxUemQ%2B57%2BIn%2F80s29JkwjIKF2IzcyhEHL%2F9NikFM97%2BYyYRKyezukU5bOJYJyaGy34j7Fuf92mY76meNWXno9myvLKFwaDMpywGEDkrt6GYDuswej18foA1mny5AEB1TeW8MagDqjaxeVCVF0bfXmDvgKDEHp4SIGrkDb97F5sRHp3XKde1c84cFdLXfH6cdZbQtOd2%2F5o21hIwoyiWWNeQe70PZq221j8yu32XP3oegcwQwi9%2BOvwY6mwFA16x5Scu3bjftUYEWhosF7bGtz2LT91%2BYMCvsthEiW2yapVSuQl55K79NJ0VBbcGSIVW0FaxKU4by%2BH7eMnrGZzru%2F1rgXy%2FvU6CDreTGo6HJFvG%2FydljkcYz2ykOgIdgmK1tuczzzbKqQgzjAilleWMG1lAl1T4JE4ytLrsRhhuh%2B%2F3jHQSwucW5UD4rs5PbdX8cVdWpYozVCg%3D%3D&Expires=1742980863",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Sr.N O.</th><th>Types of Questions</th><th>No. of Questions</th><th>Marks</th><th>Total</th></tr><tr><td>1.</td><td>Fill ups</td><td>5</td><td>1</td><td>05</td></tr><tr><td>2.</td><td>Correct the Statement ...</td><td>5</td><td>1</td><td>05</td></tr><tr><td>3.</td><td>Very Short Answer / Q</td><td>5</td><td>2</td><td>10</td></tr><tr><td>4.</td><td>Short Answer / Questi</td><td>6</td><td>2.5</td><td>15</td></tr><tr><td>5.</td><td>Long Answer / Questions</td><td>5</td><td>3</td><td>15</td></tr><tr><td>6.</td><td>Viva</td><td></td><td></td><td>20</td></tr><tr><td>7.</td><td>Practical</td><td></td><td></td><td>30</td></tr></table>",
+        "embed": "<table><tr><th>Sr.N O.</th><th>Types of Questions</th><th>No. of Questions</th><th>Marks</th><th>Total</th></tr><tr><td>1.</td><td>Fill ups</td><td>5</td><td>1</td><td>05</td></tr><tr><td>2.</td><td>Correct the Statement ...</td><td>5</td><td>1</td><td>05</td></tr><tr><td>3.</td><td>Very Short Answer / Q</td><td>5</td><td>2</td><td>10</td></tr><tr><td>4.</td><td>Short Answer / Questi</td><td>6</td><td>2.5</td><td>15</td></tr><tr><td>5.</td><td>Long Answer / Questions</td><td>5</td><td>3</td><td>15</td></tr><tr><td>6.</td><td>Viva</td><td></td><td></td><td>20</td></tr><tr><td>7.</td><td>Practical</td><td></td><td></td><td>30</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9026028547439127,
+              "height": 0.20308788598574823,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Sr.N O.</th><th>Types of Questions</th><th>No. of Questions</th><th>Marks</th><th>Total</th></tr><tr><td>1.</td><td>Fill ups</td><td>5</td><td>1</td><td>05</td></tr><tr><td>2.</td><td>Correct the Statement ...</td><td>5</td><td>1</td><td>05</td></tr><tr><td>3.</td><td>Very Short Answer / Q</td><td>5</td><td>2</td><td>10</td></tr><tr><td>4.</td><td>Short Answer / Questi</td><td>6</td><td>2.5</td><td>15</td></tr><tr><td>5.</td><td>Long Answer / Questions</td><td>5</td><td>3</td><td>15</td></tr><tr><td>6.</td><td>Viva</td><td></td><td></td><td>20</td></tr><tr><td>7.</td><td>Practical</td><td></td><td></td><td>30</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

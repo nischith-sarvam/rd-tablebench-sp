@@ -1,0 +1,36 @@
+{
+  "job_id": "863f6f8e-b446-4cc9-889d-d9b8f60c9c68",
+  "duration": 182.6593062877655,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/9d54277c-6bd2-42bc-bd46-1ccccb5fc395.pdf?AWSAccessKeyId=ASIA2UOK6OVBFALYC3Z4&Signature=V3oHA6VLbUgX56Ars8pJr60%2BnHU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFH%2BcU98%2BhNGIeOVBzmxRQiv6J%2Bnhwrxm%2Bep1rOjkh2tAiA%2FHTEkT1Gv64jEHOH6%2FzD1W0YoTdDEi9Wi7D5X1dRa2yqDBQgpEAAaDDczMTEwNjkzMjAzNCIMSnDMdwqKS07iJq9yKuAEoepXcyjJvfxiYmM4DQwZnMm0laYuYET5RNTnrE9pQDaFC2B0NUwn4LhOdQ2mqrOqn%2BLI%2FlgPzwEJjt%2BEm6LOGYIIRZfR%2F2v%2Bsv6Zf2VbtZtUSPpRYmxSm6JE42av6NzYx6xKPI4mqvKUNaW8JCImqAMYuv5D2KZ6o4Qourtz3Uqsj0gFscORllf%2B3C0S6j%2Fq4%2BKcB%2FUM7z%2FhB%2B941WTDQaiKEUc0S7Zyd0tDGY%2Fo6l3a%2FxlegR4w4g%2FSsz5U4VF6FIp2r4lcR8qd3j3aZsrlP6jNh3NXRiusThTSqIXg1Ao9e0DRFkqUoYHsz9TmfNEIbJZHmMqxoqRtI0apThoNEMBUQLW37Tl478j1anncKjPck%2BDwJ4rgGHoiLJkEhf2pQIG4B5I%2BfxF8YhDLOARc8s7tGbuVYKHCUSL0mxyNCEJ3UlAiB%2FfLJsJLbOI2BXDpmk9bjriD7hY76Oupr8KTpBF9u2xMculy9M2yqSjgRBAe18eySyw2C9EvoVxmBTdPXFAHyBt%2FIXIODn%2BvRaRrOxPO3YhJaRGwcXtdsYzrqzo0QHz2AawAoitJo58ZjM%2F69tQPlfxobYajhl69CmrTkRSk1E61JNzUJLjaidzP8baE51EGL42aoyheC7kwDx96jxtu%2FsKFJ6HImtpOflmfyZ80QYZy3xkBq2fgcHA5HI5mDJoZOChcbaqsjBtFOrrNxmdGQitVGTUV1t7HdpKjtygH8XTbxG%2FTYxfvE0irLdnPdYrVYxCLFLdUFnbGibtt8sEH%2BG1pN6eiv4gZi%2Bho%2F3FuUA7hL0m6eYxLZ%2BjDJMUwwvGOvwY6mwEyoaHonRZLcc%2Fjhow%2BM6vBiwUfDHcSR83FAafbARVQxduwr1itGxvxsFZ7lvGigIOGvnCEBI2aNio6%2FD%2FIKlIqgRPuyJYed%2FYPVWBSNs4qW%2F0fS8ECMZgNUVTO50HW3SbEKBJrzALzLZbhudpzMjQo0a56z2se8cNj4xQQ72HwCzMIndR9dgiXi5sXLOyXz8qexSEFmGlMov8S9g%3D%3D&Expires=1742981044",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Test</th><th>Pros</th><th>Cons</th></tr><tr><td>Flexible sigmoidoscopy</td><td>Fairly quick and safe Usually doesn't req..</td><td>Looks at only about a third of the colon ...</td></tr><tr><td>Colonoscopy</td><td>Can usually look at the entire colon Can</td><td>Can miss small polyps Full bowel prep n...</td></tr><tr><td>Double-contrast barium enema (DCBE)</td><td>Can usually see the entire colon Relativ</td><td>Can miss small polyps Full bowel prep n...</td></tr><tr><td>CT colonography (virtual colonoscopy)</td><td>Fairly quick and safe Can usually see th...</td><td>Can miss small polyps Full bowel prep n...</td></tr><tr><td>Guaiac-based fecal occult blood test (gF</td><td>No direct risk to the colon No bowel prep</td><td>Can miss many polyps and some cancer</td></tr></table>",
+        "embed": "<table><tr><th>Test</th><th>Pros</th><th>Cons</th></tr><tr><td>Flexible sigmoidoscopy</td><td>Fairly quick and safe Usually doesn't req..</td><td>Looks at only about a third of the colon ...</td></tr><tr><td>Colonoscopy</td><td>Can usually look at the entire colon Can</td><td>Can miss small polyps Full bowel prep n...</td></tr><tr><td>Double-contrast barium enema (DCBE)</td><td>Can usually see the entire colon Relativ</td><td>Can miss small polyps Full bowel prep n...</td></tr><tr><td>CT colonography (virtual colonoscopy)</td><td>Fairly quick and safe Can usually see th...</td><td>Can miss small polyps Full bowel prep n...</td></tr><tr><td>Guaiac-based fecal occult blood test (gF</td><td>No direct risk to the colon No bowel prep</td><td>Can miss many polyps and some cancer</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9034424853064652,
+              "height": 0.15380047505938244,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Test</th><th>Pros</th><th>Cons</th></tr><tr><td>Flexible sigmoidoscopy</td><td>Fairly quick and safe Usually doesn't req..</td><td>Looks at only about a third of the colon ...</td></tr><tr><td>Colonoscopy</td><td>Can usually look at the entire colon Can</td><td>Can miss small polyps Full bowel prep n...</td></tr><tr><td>Double-contrast barium enema (DCBE)</td><td>Can usually see the entire colon Relativ</td><td>Can miss small polyps Full bowel prep n...</td></tr><tr><td>CT colonography (virtual colonoscopy)</td><td>Fairly quick and safe Can usually see th...</td><td>Can miss small polyps Full bowel prep n...</td></tr><tr><td>Guaiac-based fecal occult blood test (gF</td><td>No direct risk to the colon No bowel prep</td><td>Can miss many polyps and some cancer</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

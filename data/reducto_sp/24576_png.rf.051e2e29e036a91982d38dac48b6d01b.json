@@ -1,0 +1,36 @@
+{
+  "job_id": "7f0afda5-6094-44dc-bd56-c3cf96c1a5e8",
+  "duration": 21.774848222732544,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/f6865b7a-1a0e-4668-8647-0e87dff4d621.pdf?AWSAccessKeyId=ASIA2UOK6OVBG2SSCMY3&Signature=vei6fAPN4PI7JCQjIG4nJJlDrCs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEML%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD9lcnB4l684%2Fqb4wVON1lCIcE%2F91Q1U34x6K%2B3AETMoAIgeklqL6wUlaFegS2bIQN4Nv0SFsN64wZuwsfB9W7bHvoqgwUIKhAAGgw3MzExMDY5MzIwMzQiDFc%2FoU7KV33GlS7ITCrgBBoONIEjRJRfbs9OPy0%2FtPPFu0rbPLQjVvki%2Blw1cQ6qHXpGh3VNtjXAA%2F1gYUKS3L%2FciyiGyZ9HdC%2BLmVVMHjFgkqp1t8o8dDrg9xSAOvINZsATcVu1aEHbXFzx6PK0fcxjqXnOrskrL6jq3bjT5wyEdEFISjyX1yMLI%2BDzz17%2Bdqnny0Dubm3Nb0LHANJml9ge1%2BzoX8ZU88UEZ1jYoK8z4hP3GKYJ7kx4EKxVYqBo19hBjA9lQJkRiTYWK%2FLM5MaR9GXluCZmqc2IKpYyKimRrwre1IoanljljYaguxxqg0R2pGnbq1mQl2dn62fIDGva8BTe0LJ1O6Oj%2F47d%2B0x6j2m%2B2rRXz%2FkYffAm1raULm67krWb38RvKsLsAQ0poBiPPWmKHoyqPaHck%2FNv5oTGT6RkJmkjn%2Fl61kjgV8rHJ09Pf8OISaoRshxkKGK41q9NPY3iZz%2FwZkAmbxP7OKx5Omn4FUn%2BWEy3FE%2ByZrB0dKkSG%2Bsdx%2FfopLe12RxvgSirdiXIag93UONe7VtwEaRiP9VMSpLjMyxf%2FktYwRj5N%2BzY2a%2BpGUHTBU7L%2BEIXL08njUVVkH7A2N7mXjXeyZV5Z8ViaKoM78Hxaka7mM33biNrZoQSysH8nbZPyEXmgBywaEol8Y9pVHGnjgm4MaJf42aAaiZFrKnwEmnWnis4bUvHlgF%2Bby0WgMfKTCWlcYaQAMrPO8gCQUjEMn0venaUBJ%2BsTCZSP0ujcLpSoqfiQvuIlXGFK00vjUlHjOvPkmG%2F%2FxA33snb2KaLusqnisv1my2YRkFPohUOO8sH4LlVMLONj78GOpoBRqKiXDDKk%2FACCyNEaI1Z1Fwyvy2JfODBw%2BetFbRmm4RkKCmCWmbiyU7k2ClG%2FlyVpsbaPd3HMdNwveo0n2nRs7eswdWl%2FCgEOgWtoG65Zcifs%2Buw0EKOcQF%2Bn7YF2ktVwqu0trMR0%2BY3qogC0yE8VjnztnF8saMEZYr1AkRQlMFzVO2Xi1uQJ47fy9M%2BAT8pEXbHOJx%2F9TppOg%3D%3D&Expires=1742984516",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "Appellant's details for service'\n\nName:\nStreet address:\nTelephone:\nEmail:\nFax No.:\nSignature of appellant or lawyer:\nAppellant/Appellant's lawyer:\nDate:",
+        "embed": "Appellant's details for service'\n\nName:\nStreet address:\nTelephone:\nEmail:\nFax No.:\nSignature of appellant or lawyer:\nAppellant/Appellant's lawyer:\nDate:",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Key Value",
+            "bbox": {
+              "left": 0.04561834071084894,
+              "top": 0.0332541567695962,
+              "width": 0.9065227172236598,
+              "height": 0.07853126978930838,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "Appellant's details for service'\n\nName:\nStreet address:\nTelephone:\nEmail:\nFax No.:\nSignature of appellant or lawyer:\nAppellant/Appellant's lawyer:\nDate:",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

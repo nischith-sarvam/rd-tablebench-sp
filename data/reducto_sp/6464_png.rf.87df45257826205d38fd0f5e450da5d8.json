@@ -1,0 +1,36 @@
+{
+  "job_id": "4a965804-69fa-4dc2-97a5-7156575543da",
+  "duration": 115.87106490135193,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/1d58eee1-7391-48c7-89a9-54a30929ffe7.pdf?AWSAccessKeyId=ASIA2UOK6OVBF6T4XWGG&Signature=LhPfn98IullADwGpfUof1gT22eQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIGWPJ%2BSvWfYm9QyAssaNR8s5fGODTL4ArgIR5MPFCHGpAiBWtXxPODFPPXdyR1dCvmgk4MyJX7aVpFMQ19Yldvu3BCqDBQgqEAAaDDczMTEwNjkzMjAzNCIMxFdA5j5i81BUFWKdKuAEhdD6%2BHQD8F3nb2EZHcU6n%2FOuQ7u%2FwHlc5UhAo8IJZjNELkxEbvxh%2FrP7wCFH6X7FzK%2BJOW2fvFBq6Mj5BO8Iy6bCs5dgBWpZmcWuvizTo1ZW1eM1%2B%2BvTex5tV5ludEtNIXJm7mWrwXLq4GtDuo9PN1xlNHwahvbRsnzKO%2B8WojT0ckl45vFD1fylM%2Fboc36yNY6r3CTdcJRVUJWbFbWkj2BAsIDfAzUJvp%2FflRZNFQkVVl85d5MTHfgFaJEg%2BLhnKpbYq47cqqWoqLHqFa0V56IXdFz9VHPl410WJhqtjEMU4zpeZaV%2BuE3FxQTKkDoBeZpLS%2Bi9gZ%2BXXReVX9nzEWrXDmgsKgu1Mryj2R1lHtlbGwK0EjkFCmr%2BrRO4xaWb4CMOKqoUsGwa2SgbSez8f7Jwxel%2Fqg0NAweTGreRFh5HRcMoGc75oW%2FaaGMCRmwfbjp9xEvPl9%2FbAD4DBAH8u35ytTBjjFAeAr1oN3mOf9smOBPUSt2oZWiTUAv%2FQu5m14AOToKll74p6vgrogGELFfCqsXJksYszLsDC%2F3imWnyNLEKaJQJ1%2Bo9xfB%2Bmu6ucMWis1TUIGsNToh7E3fUsBgdSxOJLM6dZrqUKOd3Q3XEbKdusxqtT%2FN5DflX7lqMdHwL1x2uQn4383vPsUGSZ4Tw7L0jBm1Y70ltkCI8rr7TSCCpaQ8ZoS0XKY0jSnyh7sF10d696fGm4%2B7o%2BEb7xpudfGqeazcKdrk09o%2B3TqrasBcjQOO6eEf7zgSprjNJfEt2YcDywY1MeDg6YMZ3NcsbAB51LXB46tJGePoV%2B90wvPKOvwY6mwFgqfzDFQtimT%2Fkz4A9Nu5hRAv1FcwqOVqJqTn%2B87fvO%2FBBmnTYcnUIV1lWg%2BykKvRqUGvEpVrxkp1t%2BIIxADP9JXVKA1YxCBhcIGIqJGZqho2aGK84iJVuhwXCqhzrAaWhjDNM8qMEex39%2B5O1OJtM5cednns93vYDFYcjtJH4QWgZxLaANv2zs3LHzAqe4YeJEzfi3H6PecYKCw%3D%3D&Expires=1742980944",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Naam</th><th>Rol</th><th>Functie</th><th>Nevenfuncties</th></tr><tr><td>Mevr. Drs. M.J.C. Heeremans</td><td>Voorzitter</td><td>Advies, bestuur en toezicht</td><td>- - Voorzitter Waterrecreatie N</td></tr><tr><td>Dhr. E.P. Schat RA</td><td>Lid</td><td>Partner RSM Accountants-</td><td>- Bestuur stichting beheersch</td></tr><tr><td>Dhr. drs. B.J. Drenth</td><td>Lid</td><td>Managing Partner Bart Drent...</td><td>- Voorzitter MKB Amsterdam ...</td></tr><tr><td>Dhr. M.W.H. van Honk BCom</td><td>Lid</td><td>Partner The Source BV Mana.</td><td>- Hallo, voorzitter bestuur</td></tr><tr><td>Dhr. mr. M.C. de Voogd</td><td>Lid</td><td>Vidimus Consultancy BV - dir</td><td>- - Stichting Bevordering van V...</td></tr></table>",
+        "embed": "<table><tr><th>Naam</th><th>Rol</th><th>Functie</th><th>Nevenfuncties</th></tr><tr><td>Mevr. Drs. M.J.C. Heeremans</td><td>Voorzitter</td><td>Advies, bestuur en toezicht</td><td>- - Voorzitter Waterrecreatie N</td></tr><tr><td>Dhr. E.P. Schat RA</td><td>Lid</td><td>Partner RSM Accountants-</td><td>- Bestuur stichting beheersch</td></tr><tr><td>Dhr. drs. B.J. Drenth</td><td>Lid</td><td>Managing Partner Bart Drent...</td><td>- Voorzitter MKB Amsterdam ...</td></tr><tr><td>Dhr. M.W.H. van Honk BCom</td><td>Lid</td><td>Partner The Source BV Mana.</td><td>- Hallo, voorzitter bestuur</td></tr><tr><td>Dhr. mr. M.C. de Voogd</td><td>Lid</td><td>Vidimus Consultancy BV - dir</td><td>- - Stichting Bevordering van V...</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9051217464315701,
+              "height": 0.1543942992874109,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Naam</th><th>Rol</th><th>Functie</th><th>Nevenfuncties</th></tr><tr><td>Mevr. Drs. M.J.C. Heeremans</td><td>Voorzitter</td><td>Advies, bestuur en toezicht</td><td>- - Voorzitter Waterrecreatie N</td></tr><tr><td>Dhr. E.P. Schat RA</td><td>Lid</td><td>Partner RSM Accountants-</td><td>- Bestuur stichting beheersch</td></tr><tr><td>Dhr. drs. B.J. Drenth</td><td>Lid</td><td>Managing Partner Bart Drent...</td><td>- Voorzitter MKB Amsterdam ...</td></tr><tr><td>Dhr. M.W.H. van Honk BCom</td><td>Lid</td><td>Partner The Source BV Mana.</td><td>- Hallo, voorzitter bestuur</td></tr><tr><td>Dhr. mr. M.C. de Voogd</td><td>Lid</td><td>Vidimus Consultancy BV - dir</td><td>- - Stichting Bevordering van V...</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "job_id": "c30060f5-2a4a-4a74-819d-5cb5caa4c210",
+  "duration": 56.26440787315369,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/23bcb291-36d6-4620-bb00-c92cc6bdcc24.pdf?AWSAccessKeyId=ASIA2UOK6OVBOZMDWJLD&Signature=9LBLgBmEjU95ryDyy3UPI%2FPImA4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCXEjX%2F15Sdneko47qgSEtmz2S6WIgraiDYZl9PAMOyygIgV9J2uQB0zZnXKzhFGm%2FjZ%2BMhKsmPMip5AP5F8lqMKwEqgwUIKRAAGgw3MzExMDY5MzIwMzQiDDk4JieMyfVF8e8eEyrgBL8P5fXzleYARGrTyMsdV07ij0RWTkj7OEIlAjFO1Jv6X9fW9hMNB9%2BRP8Ygylj37ACD1Cueyg4fVuT9cwtITVMtZtAaHCoXlzjbxpVvSbTS71uhobLEroPP1J65zHrXoJULY6RnkFliaxNgrVtGw7QfGb4vfl1jn3K3faiBuq3FE7Jt8Q%2BlG1bqkeP4Hm6QdDypbjoo%2FI8o8JXTbsqOMtoJQR8l9wOApOL4M0oZXGzoND7H7%2BNO2DJoAxMIn%2BfScx33r1z1iL1y2K8E6JhrtxRbWMmRx9t7P53HUI35Iun%2FSsk3abxYzOqpmh%2F0ViOtZlSNaHIrTfV25EgDlhp8nnt7ziX3ltFckp9pa7fjSf1s2gagdJeaL3c0sVDVe0CHUSze6mZuSIyu67TyCqpKqFgHcMUneMoSS3EVLfI1JX7G6zrku6eHHZF6Cd3ICsWAoMXN1q7a%2B9lPoZSRiq8CYeuVPutWr5oBOVXuZ2pjK23cqaBT7sEpISgo5QRinYzWF5qUD5zgRFEL8%2BZqDqZsJ1gtl0zJmiPq3ZOeD4DfmUStiDjVLoGpDfST%2FqEXcepdo80AEZNFZyINNQINHlwBho37No1JnpegPRYSGh5kifGHz9P%2BUdSpyKl6Y%2FIo4MOnzVGpuBc06jBRmPSgiWUffnXW6OnGGJ6Jhf9F8xbuXk08RmWbYAUai5FZC0hr8MMuVAy%2BMzZW6g838xmyYrsQ2gd8gXJ3L%2BILNDz%2BFCORsh3TgdooH%2BHs6PgrXyFruECNwQ2uT59nzSw4w3uportQyZlXFMCT6KYXL4VwzFE0jgOLMLjojr8GOpoBXGrD%2B7affqPCWwdrP8vgyLKPQ1caYkCj8PqzeuH1IKSDPCsbq9Q00Co%2BxDxkLGzn0CxqTmZZYm%2F25y2k2DschkyGjPgAX8s7Z1nWrggaXMdwlbBT3MyHLcdo8x4UItDGAAbLPpXv7LkNSY7JOrcCjQj8DLxI2rmX8NzX4D0vG5LodqsA%2FcvF99aFhWK%2FJ58UasMmoyAvZX%2BgNA%3D%3D&Expires=1742980878",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th colspan=\"2\">Clasificaci\u00f3n NIC 39</th><th>Clasificacion NIIF 9</th><th></th></tr><tr><td>Pasivos</td><td>Otros pasivos financie...</td><td>Derivados de cobertura</td><td>Costo amortizado</td><td>Total</td></tr><tr><td></td><td>MUSS</td><td>MUSS</td><td>MUSS</td><td>MUSS</td></tr><tr><td>Saldo al 31 de diciemb</td><td>10.086,434</td><td>14.817</td><td>-</td><td>10.101.251</td></tr><tr><td>Otros ivos financieros,...</td><td>(1.288.749)</td><td>-</td><td>1,288,749</td><td>-</td></tr><tr><td>Cuentas or pagar com..</td><td>(1.695.202)</td><td>.</td><td>1.695.202</td><td>-</td></tr><tr><td>Cuentas or pagar a en...</td><td>(760)</td><td>-</td><td>760</td><td>-</td></tr><tr><td>Otros pasivos financie...</td><td>(6,602,891)</td><td>-</td><td>6.602891</td><td>-</td></tr><tr><td>Cuentas or pagar. no c...</td><td>(498,832)</td><td></td><td>498,832</td><td>-</td></tr><tr><td>Saldo al 1 de enero de</td><td>-</td><td>14.817</td><td>10.086.434</td><td>10.101.251</td></tr></table>",
+        "embed": "<table><tr><th></th><th colspan=\"2\">Clasificaci\u00f3n NIC 39</th><th>Clasificacion NIIF 9</th><th></th></tr><tr><td>Pasivos</td><td>Otros pasivos financie...</td><td>Derivados de cobertura</td><td>Costo amortizado</td><td>Total</td></tr><tr><td></td><td>MUSS</td><td>MUSS</td><td>MUSS</td><td>MUSS</td></tr><tr><td>Saldo al 31 de diciemb</td><td>10.086,434</td><td>14.817</td><td>-</td><td>10.101.251</td></tr><tr><td>Otros ivos financieros,...</td><td>(1.288.749)</td><td>-</td><td>1,288,749</td><td>-</td></tr><tr><td>Cuentas or pagar com..</td><td>(1.695.202)</td><td>.</td><td>1.695.202</td><td>-</td></tr><tr><td>Cuentas or pagar a en...</td><td>(760)</td><td>-</td><td>760</td><td>-</td></tr><tr><td>Otros pasivos financie...</td><td>(6,602,891)</td><td>-</td><td>6.602891</td><td>-</td></tr><tr><td>Cuentas or pagar. no c...</td><td>(498,832)</td><td></td><td>498,832</td><td>-</td></tr><tr><td>Saldo al 1 de enero de</td><td>-</td><td>14.817</td><td>10.086.434</td><td>10.101.251</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9051217464315701,
+              "height": 0.25475059382422804,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th colspan=\"2\">Clasificaci\u00f3n NIC 39</th><th>Clasificacion NIIF 9</th><th></th></tr><tr><td>Pasivos</td><td>Otros pasivos financie...</td><td>Derivados de cobertura</td><td>Costo amortizado</td><td>Total</td></tr><tr><td></td><td>MUSS</td><td>MUSS</td><td>MUSS</td><td>MUSS</td></tr><tr><td>Saldo al 31 de diciemb</td><td>10.086,434</td><td>14.817</td><td>-</td><td>10.101.251</td></tr><tr><td>Otros ivos financieros,...</td><td>(1.288.749)</td><td>-</td><td>1,288,749</td><td>-</td></tr><tr><td>Cuentas or pagar com..</td><td>(1.695.202)</td><td>.</td><td>1.695.202</td><td>-</td></tr><tr><td>Cuentas or pagar a en...</td><td>(760)</td><td>-</td><td>760</td><td>-</td></tr><tr><td>Otros pasivos financie...</td><td>(6,602,891)</td><td>-</td><td>6.602891</td><td>-</td></tr><tr><td>Cuentas or pagar. no c...</td><td>(498,832)</td><td></td><td>498,832</td><td>-</td></tr><tr><td>Saldo al 1 de enero de</td><td>-</td><td>14.817</td><td>10.086.434</td><td>10.101.251</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

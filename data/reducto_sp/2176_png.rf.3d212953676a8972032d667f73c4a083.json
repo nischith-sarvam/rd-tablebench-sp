@@ -1,0 +1,101 @@
+{
+  "job_id": "b02b15fa-6dd4-43b8-9039-c43ed4df44c8",
+  "duration": 20.21239161491394,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/296c3f77-b9a5-4564-9fbe-b74c8c18e231.pdf?AWSAccessKeyId=ASIA2UOK6OVBNN6X5RJZ&Signature=vcPW9mwnZ%2ByJqGKLO0QNJZugk9U%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCf92JjiiMom%2BIMFMWOqv9mP%2BlUkqZjiFRNeQX%2BbKdu8wIgN4%2BRp2tCCKzpnpxbzXwF2EtZbmnDgoYVP9ipeV%2BPxrEqgwUIKhAAGgw3MzExMDY5MzIwMzQiDCQtBIfCmL3xkboCMyrgBCB7e%2B8w3r4xlkJ3nRMZ3Pq9BFEb11fSbHzjimWr8RVveTE3H%2F9mIS9AhZFTAn27ilMPCCuPlbXjZ3LBCLWICUY1%2BKKfNWkXmyQpqW40SIutuFbwxBeD9dtkloNpo2GH7eVnJJm%2B%2F4CAoyao%2Bq9fO6aQ3KX7ydD5YJLRaotFw111vPj3BMcbNiwvLi5IM9MfpdFGPSPS6cRzioKd49y0mJy8i47i04E25FAffdCuLGEYjrkWEhuFuCAvirPfnoDSp6Ac5LmCsbQNTfYwSQY0Nooj0KR3st1SDjv5YHTqWXrSv5TxyY%2BZ%2BgB9GSEvRopqfG%2F%2BWwD%2F3pL8AiWPCOfW2Ms8llKXDS5LfP%2Fzqn6r3uozai88hZGfmRjvU1kb9H0yCmy4xpAgfECH7JzLeIW0p%2FEQ8DceUZcOFh00nSXwODIFR8xmLpF%2F9AZwhp9aCF4HrviX69yc2DK3O1ZeuZq8Oa8tZ9BT7Iq6U85ry4dXCoib8RVWaRxi2MLlUMgTHuQc5q%2F4BxS0c0P5MQsS6CBOAPyi%2BFo%2F6A8EYhDidM5OjTJdDRXkNIqPLEqjgUwnyu7v%2FwPTWA5pgycKbVI1JR8mxUdXCtIXE%2B7g8DCn3bnQWWZunW2ENelt5LAUFGwdKBbB70uRyk3skFexqd8sRP0Cs8iK3e2iTZyvd7H9QsR%2FBa4DIZDyA5Cs5ZW3cuJ60ZtvBIwvReV7OooPMSUxOWFre4ka79QA7Y1TtrPzyDrD9DAj4vktxcpHBFZcTEFd9a%2FMyGrSfhr8T9kEB7aqtYLHCpcWL7%2F7QKon%2FxGUZiOMiverMOuCj78GOpoBsdZ0xVcAtc8RnsTrLitL1xzX9wvzV7HYvVSF4lMixuQnX4ITlKYWM9%2F%2B45mmvcLy6%2BgIMwFKtQWv6bVBFdbMjnZr5UsgmKlsb0k5Lh9OVeTeiAaSH5eDQKG4bkwBYNKG7UrX4b52asEhuYgw5jq2UjeZRcPeA6W0xrge3UjChiLw29yjVExqLPvTqTzI8rr1nMXkBE%2B7pc4nyw%3D%3D&Expires=1742984514",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "Natura\n\nMarca\n\nNr. de bucati\n\nAnul de fabricatie\n\nModul de dob\u00e2ndire",
+        "embed": "Natura\n\nMarca\n\nNr. de bucati\n\nAnul de fabricatie\n\nModul de dob\u00e2ndire",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Text",
+            "bbox": {
+              "left": 0.05373635600335852,
+              "top": 0.042161520190023755,
+              "width": 0.04869857262804366,
+              "height": 0.008907363420427554,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "Natura",
+            "image_url": null
+          },
+          {
+            "type": "Text",
+            "bbox": {
+              "left": 0.23425692695214106,
+              "top": 0.042161520190023755,
+              "width": 0.04450041981528128,
+              "height": 0.008907363420427554,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "Marca",
+            "image_url": null
+          },
+          {
+            "type": "Text",
+            "bbox": {
+              "left": 0.4147774979009236,
+              "top": 0.042161520190023755,
+              "width": 0.0906801007556675,
+              "height": 0.010688836104513063,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "Nr. de bucati",
+            "image_url": null
+          },
+          {
+            "type": "Text",
+            "bbox": {
+              "left": 0.5944584382871536,
+              "top": 0.04156769596199525,
+              "width": 0.12762384550797648,
+              "height": 0.009501187648456057,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "Anul de fabricatie",
+            "image_url": null
+          },
+          {
+            "type": "Text",
+            "bbox": {
+              "left": 0.7749790092359362,
+              "top": 0.04156769596199525,
+              "width": 0.14357682619647355,
+              "height": 0.009501187648456057,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "Modul de dob\u00e2ndire",
+            "image_url": null
+          },
+          {
+            "type": "Figure",
+            "bbox": {
+              "left": 0.0,
+              "top": 0.061825849664466116,
+              "width": 0.9827192099929156,
+              "height": 0.9381741503355339,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

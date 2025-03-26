@@ -1,0 +1,36 @@
+{
+  "job_id": "e7dc3faa-d13d-4e81-8a98-aebe2ca0e54e",
+  "duration": 118.57036685943604,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/e465b84c-07b4-4f31-9651-e4c94888a585.pdf?AWSAccessKeyId=ASIA2UOK6OVBJHZC6OJ7&Signature=wvMcdX47F%2F1araRkamH8e0wY0vM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAPe%2F17vkaM2iNhpRj8gH90rZUY2EPrITunbX78yp9naAiA9b7WDYjT1KPlL048G4%2BzMy8qEYJ0d1Zwp%2FN8y%2FLaMHiqDBQgpEAAaDDczMTEwNjkzMjAzNCIMbZ9dhTDgOum9jqq2KuAEHjnToqoF97a39bobd2hRK69OCD89330XlX37%2BqZbum%2FU9G5T6oiNV9ersQdWXMu1szkLFsBcfDY1n83YJbc7WcmbFqWepdYr378f0rEMnv7juPM9OoFZVRw82J5RsIGa4d5CsU2hWCZai0chI7bs2ixG78SxlQi7fmmcH0ot%2BW96%2FerEKq0l00KJXSxP9q4ksB95u7VnwvpjhI6MAkkJW5wczJlkOVxBni49APdt9eza%2F9b4%2BrLF9bCL8%2BfyNeJdS7398blkO25BaFut32MhwgkxDRz5nCx0Ld0GgAwOxUVZOQuup6u5UVFfkx6NpUbE8Yk8Evo6MChHtupCwJtvEjLvfCSheStgEndSSJqB1h49nATwfkUk6J0hv5c9ryHlfstMTUkxONVIXe4jagJCwaSq0wSxMzW2XTDyWUz26aTdXPLEp%2FrFDfczH2cGPIqXqBhhoCZUv3ORohuTUM3Nc03Y%2FLPqKJoSLWWfmsF5W1%2B5IPKIIT%2FvZSTGm8odjgc89Hs1OzhN%2Bkbi9wt4HXcGq4qzT8LT3jLSyC5rZ3EJZSNtxLu%2FCrNBIzW5CaZ0Eu8%2BbSBeznf0C8DvbuLt%2BY6RkoAz45oys0Jd64OisBh9PJ87ZxO2EQjawG5sZoQAWAvQCJOGfXQEFGmj4qC%2B4GISBulpPdGHtanfb%2FQ8x3rSfeRScEJxhKkOJtczaOQwbGS9FZ0mUQT7o1QzrpuvFhsK7p22pH8E1yBqM7n0Ju7RMQTByPM6j45WOdwrOHbpNY3Amn9yP0IvQ%2Bb96z7f4QXGi%2BQgapMBxV7SlpUkGQmKZWQw%2Bu%2BOvwY6mwGHSbNnNs699fQjrdjEdfnbgt0vqLbqT97ok1JVzseZL1ivo1spOsMPz3YreLIbngTiW72kLLmOE8cbHiO29W%2FhxCnxOm%2BlUItuuM%2B0WJDa04yEgQv9UBX2nRGRA2XfFNm2hPC81Jq8QOSn2h667C9SMf5zkAqiEe1W157w6%2FMz3kqjnV60nAvF%2FXbySBx9jVES2%2BLT4NXNb5olYg%3D%3D&Expires=1742980952",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Realizada em: 04/</th><th colspan=\"5\">novembro de 2019 Pre\u00e7os anteriores</th></tr><tr><td>Produto</td><td>Unidade</td><td>Pre\u00e7o</td><td>1 SEMANA</td><td>4 SEMANAS</td><td>1 ANO</td></tr><tr><td>Su\u00edno Ga\u00facho Ind</td><td>Kg. Vivo</td><td>R$ 4,99</td><td>R$ 4,97</td><td>R$ 4,70</td><td>R$ 3,73</td></tr><tr><td>Milho Pre\u00e7o pago ...</td><td>saco</td><td>R$ 40,50</td><td>R$ 38.16</td><td>R$ 37,00</td><td>R$ 37,00</td></tr><tr><td>Farelo soja \u00e0 vista...</td><td>tonelada</td><td>R$ 1.280,00</td><td>R$ 1.300,00</td><td>R$ 1.260,00</td><td>R$ 1.320,00</td></tr><tr><td>Farelo soja 30 dd</td><td>tonelada</td><td>R$ 1.295,00</td><td>R$ 1.320,00</td><td>R$ 1.280,00</td><td>R$ 1.335,00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cota\u00e7\u00e3o Agroindu...</td><td>Kg.Vivo</td><td>R$ 3,97</td><td>R$ 3,91</td><td>R$ 3,84</td><td>R$ 2,86</td></tr></table>",
+        "embed": "<table><tr><th>Realizada em: 04/</th><th colspan=\"5\">novembro de 2019 Pre\u00e7os anteriores</th></tr><tr><td>Produto</td><td>Unidade</td><td>Pre\u00e7o</td><td>1 SEMANA</td><td>4 SEMANAS</td><td>1 ANO</td></tr><tr><td>Su\u00edno Ga\u00facho Ind</td><td>Kg. Vivo</td><td>R$ 4,99</td><td>R$ 4,97</td><td>R$ 4,70</td><td>R$ 3,73</td></tr><tr><td>Milho Pre\u00e7o pago ...</td><td>saco</td><td>R$ 40,50</td><td>R$ 38.16</td><td>R$ 37,00</td><td>R$ 37,00</td></tr><tr><td>Farelo soja \u00e0 vista...</td><td>tonelada</td><td>R$ 1.280,00</td><td>R$ 1.300,00</td><td>R$ 1.260,00</td><td>R$ 1.320,00</td></tr><tr><td>Farelo soja 30 dd</td><td>tonelada</td><td>R$ 1.295,00</td><td>R$ 1.320,00</td><td>R$ 1.280,00</td><td>R$ 1.335,00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cota\u00e7\u00e3o Agroindu...</td><td>Kg.Vivo</td><td>R$ 3,97</td><td>R$ 3,91</td><td>R$ 3,84</td><td>R$ 2,86</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9051217464315701,
+              "height": 0.1876484560570071,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Realizada em: 04/</th><th colspan=\"5\">novembro de 2019 Pre\u00e7os anteriores</th></tr><tr><td>Produto</td><td>Unidade</td><td>Pre\u00e7o</td><td>1 SEMANA</td><td>4 SEMANAS</td><td>1 ANO</td></tr><tr><td>Su\u00edno Ga\u00facho Ind</td><td>Kg. Vivo</td><td>R$ 4,99</td><td>R$ 4,97</td><td>R$ 4,70</td><td>R$ 3,73</td></tr><tr><td>Milho Pre\u00e7o pago ...</td><td>saco</td><td>R$ 40,50</td><td>R$ 38.16</td><td>R$ 37,00</td><td>R$ 37,00</td></tr><tr><td>Farelo soja \u00e0 vista...</td><td>tonelada</td><td>R$ 1.280,00</td><td>R$ 1.300,00</td><td>R$ 1.260,00</td><td>R$ 1.320,00</td></tr><tr><td>Farelo soja 30 dd</td><td>tonelada</td><td>R$ 1.295,00</td><td>R$ 1.320,00</td><td>R$ 1.280,00</td><td>R$ 1.335,00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cota\u00e7\u00e3o Agroindu...</td><td>Kg.Vivo</td><td>R$ 3,97</td><td>R$ 3,91</td><td>R$ 3,84</td><td>R$ 2,86</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

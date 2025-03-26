@@ -1,0 +1,36 @@
+{
+  "job_id": "25cf3e38-0c7a-4f1b-8591-4b6e3bb137e5",
+  "duration": 61.95185112953186,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/3b16182e-6aaa-4fb6-93b4-a29f37bbadb2.pdf?AWSAccessKeyId=ASIA2UOK6OVBPNYIPQ4S&Signature=4iuz6ao8vQzpoNKWqRjOeMjfzCY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDq320X7paiWZEgZwujcvscH%2B1PV%2F9VhZ2%2FKxVv38KgwgIgEPuqb8K4Vz54ZPXF8v9LFpxEcCzBw5u3KkPZ2XrSZgUqgwUIKRAAGgw3MzExMDY5MzIwMzQiDK7vAT5J0d4hyV3WtirgBOBvkrsT0QW4IEzIB3NeLas0BfmnvwBEuAQ0tnYx9vgf4rmWrvuFHM5%2BMFS4ffvfeUEZQKOl5RoClwhqoBOJJak0zqRWvj7ypmYdofOIIjyz8LpQoDEVPMKxIXixV4XEHIfW7U%2FyV4pOfhxb80BLKxd7%2F0xxNWMUo48vlPmDCY3V0rpKbY6nVwkRsz97iuTqEqiDadgNpN8yuYurEXFFCUGNnn%2FIyeKOTfrT9Q8u%2Fye%2B5I8M%2BmmDzr6SRKz9NLJaJB9xww3Ld9Ac0Qi4%2BQ8fD27yQ14c8nOvGlnWlFnAXYHOyxGEme8DE7q10TNTCUcpHAGarWgY3ge3u7pjz5K7BDBiuPVy7puq8FT8OM9WPDX1DzuUoW3yoYqFkkOwGqmb%2FeaRqrN9rVWvhYVZTzhxxliL1TKyDFB%2BUeMVxUxlcLMNTosgWs7kSXTBhnBTMFX4XGLBa78%2FXf9retJ5iQRlNlB%2F5Rzm9MMliSXZYFIX6lgtBRJ5pWaLEDsZL3VAgimElOMdzX3zWcoOtMy%2FZIS%2FEv1VKWNLprkbNTDwsFihcAqaybTXNt%2Blgh8JaCuvoDy6Rtb05ZG99F%2FKjXZp3banQjeTDctHYW%2BtIjgX3SVPvj%2BaktCZWYzGMuYQrlqI8%2Fzp22FR5GbIKv2%2BzxKWdHrzN2g6GrnxaJ4Wvujik4Gdze3c0aANaRbADexCMR2yGOtwAN7QsYb1DcB9y6mTHZ8R1RN%2FN%2FAmgFFhtnJgl32OhutWDpkGaFkbjUY%2FaZdKYfelQNxeGUyhJ%2BBcqhrIPOdmtuxh7wn28wRiasHB5Lp%2FgSB9MKjujr8GOpoBw0BM2wa0MpoZWmVjBLkWw0%2B3ewKqJhRQrYRbtc4PPI5It8OWcm%2F6pIDIXLk1K3V3IXaqDGnJyAiOAJFTmZ5YOz%2B7ta8LQpXp2Hns%2Bwd74Ksi2pFAkFOAAIrm64uoD6zjmtexbacCkaUecpgk2siQZa5ODXmMFMW098HSbrsVxDNDoujlr1h%2F1iVM3MC%2FUTfcB3A71zEDpa6%2FAw%3D%3D&Expires=1742980875",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>ANAL...</th><th>RESULT</th><th>LOD</th><th>LLOQ</th><th>ACTION</th><th>LEVEL</th><th>ANAL...</th><th>RESULT</th><th>LOD</th><th>LLOQ</th><th>ACTION</th><th>LEVEL</th></tr><tr><td>A.fumi...</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td><td>A. flavus</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td></tr><tr><td>A. niger</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td><td>A. terr</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td></tr><tr><td>STEC</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td><td>Salmo</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td></tr></table>",
+        "embed": "<table><tr><th>ANAL...</th><th>RESULT</th><th>LOD</th><th>LLOQ</th><th>ACTION</th><th>LEVEL</th><th>ANAL...</th><th>RESULT</th><th>LOD</th><th>LLOQ</th><th>ACTION</th><th>LEVEL</th></tr><tr><td>A.fumi...</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td><td>A. flavus</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td></tr><tr><td>A. niger</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td><td>A. terr</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td></tr><tr><td>STEC</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td><td>Salmo</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9059613769941226,
+              "height": 0.10273159144893111,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>ANAL...</th><th>RESULT</th><th>LOD</th><th>LLOQ</th><th>ACTION</th><th>LEVEL</th><th>ANAL...</th><th>RESULT</th><th>LOD</th><th>LLOQ</th><th>ACTION</th><th>LEVEL</th></tr><tr><td>A.fumi...</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td><td>A. flavus</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td></tr><tr><td>A. niger</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td><td>A. terr</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td></tr><tr><td>STEC</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td><td>Salmo</td><td>ND</td><td>33.00</td><td>0.0</td><td>0.0</td><td>Pass</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

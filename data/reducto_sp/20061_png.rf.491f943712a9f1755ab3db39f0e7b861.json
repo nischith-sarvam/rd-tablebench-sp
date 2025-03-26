@@ -1,0 +1,36 @@
+{
+  "job_id": "75772aeb-b96b-452f-b008-1b3a0675e5ef",
+  "duration": 186.87555480003357,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/bcb57cc7-17c1-447c-bab0-0a1bc0388d77.pdf?AWSAccessKeyId=ASIA2UOK6OVBPHMAR34K&Signature=3KQYydDFfehcOGiAHiiGPOxVf0E%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCID8sYwzSLhvOnAYPAFKiTtEsWzV0%2BRWcNJ9%2B7XY5ffWbAiBFDULoTJd8%2BoCLhZ9wkn2jtfCcot9oIry5fcvGV1jhqCqDBQgpEAAaDDczMTEwNjkzMjAzNCIM7y1YRVQMwubqusI7KuAEceGiZLjnV1CDgLDdrh5IpNMysicYqx8JtImbU%2F2pjlGTs0O29CeHWkjFjOYZYAK%2BiwnoaESO5tk0%2FMr7Z6aNoFacN5rMg%2BlEf%2B8fTiKr5Ei6SxrlfL6Q9%2FEG3mp9i%2FKtMb2T3RaZsPKK%2BQGKChg5LwPoQzSfoTPrNsKPmfdaa8yFBZpc4DVmWIEMfvYkmPfNB7ucrxkLU8ItmZXafGcss9%2Bz9tumeUCbIIXHNlqqsfQfRnahoI0RN2vbB5pzcY%2F1yXQPLeqHusnwUQjqybLuzodS7M67wdyOw3vQYUtxtXfGJTahneRObBkgEYp84zlAairjOvjeYEukM46dDdLEGpnLd3A1ULi9TAscQJcYRSZKFzkVakpktvZceOrZVSWZgh2V6dOAbxsjgL%2BkLsQRTByNk5dcp3CNypUeq5K0Ma7%2B4k0AJWSFgTfBJtUwvkPM0PUvMUMSfTvi7ZgAc8o1eqVFPkcnjLxVzxzV%2Fu3EKQ733OAqPKlSuSdOhu%2FH2wEnZt1qZnstka97zEdFKfuSLCbYTw9ekP%2F4Zw4WJ6GEAwQDOHiauqxR52%2FB4KJsQlfTXHiLnOLytzhe70Rw%2Fgu%2BzymVWHkjD7nU8BNCOwnc1Axn%2F651psa6DNsmf0XDCuy4Zf0OUt4OSQ3VdJECX4R4SC7accXGuwcBX59%2F8pyz9lOjJW5x%2BszB7RkuK5A9FKQk0atMSq59vdqJsbobWKZxLDyY7Sq3Voo4vvvO3%2Fu49cCWvtFgip4VQgwVeDQ%2BMdvJzNnN1p%2BQycCQgelDZ78JPi17McYMcMvilPkAwXb%2BX98wje2OvwY6mwFgIzfPjh%2FSjxjvtZTQinzgnUxhmHS0mvd%2BCnwKBVd8OJ%2BkYXUrnYMdWBYAlgYSecWbc03eLOqmnqJWa7EVp%2Bk1t1YYGwOWtdgSNa4q91oQ3W84%2BsEdSSgPf%2BLf4Ieddg%2FVC%2FgpF3G9VFqLagAFf0PvvnAhWOFhpd5sr0k2h0vqgv8o9kuj4BBd9NUvrQkTGKyH6IBjwRMkIy09ZA%3D%3D&Expires=1742981030",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"2\">Faixa de.</th><th colspan=\"2\">Diferencial</th><th rowspan=\"2\">Valor Li...</th><th rowspan=\"2\">Comuta...</th><th colspan=\"3\">Materiais do Sensor</th><th rowspan=\"2\">Conex\u00e3...</th><th rowspan=\"2\">Massa (...</th><th rowspan=\"2\">C\u00f3digo</th></tr><tr><td>No in\u00edcio</td><td>No fim d...</td><td>Corpo</td><td>Fole</td><td></td></tr><tr><td colspan=\"11\">Diferencial N\u00e3o Ajust\u00e1vel (fixo)</td></tr><tr><td>-1 a 0</td><td>0,2</td><td>0,23</td><td>10</td><td rowspan=\"10\">m\u00e1x. 20</td><td rowspan=\"10\" colspan=\"3\">Componentes em cont...</td><td>G 1/2</td><td>1,0</td><td>0850181</td></tr><tr><td>-1 a 2,5</td><td>0,2</td><td>0,28</td><td>10</td><td>G1/2</td><td>1,0</td><td>0850481</td></tr><tr><td>0 a 1,6</td><td>0,16</td><td>0,2</td><td>10</td><td>G 1/2</td><td>1,0</td><td>0851281</td></tr><tr><td>0,1 a 2,5</td><td>0,18</td><td>0,22</td><td>10</td><td>G 1/2</td><td>1,0</td><td>0851381</td></tr><tr><td>0,2 a 4</td><td>0,5</td><td>0,6</td><td>20</td><td>G 1/2</td><td>0,85</td><td>0851481</td></tr><tr><td>0,3 a 6</td><td>0,6</td><td>0,7</td><td>20</td><td>G 1/2</td><td>0,85</td><td>0851581</td></tr><tr><td>0,3 a 10</td><td>0,7</td><td>0,9</td><td>20</td><td>G 1/2</td><td>0,85</td><td>0851681</td></tr><tr><td>0,5 a 16</td><td>1,1</td><td>1,4</td><td>50</td><td>G 1/2</td><td>0,9</td><td>0851781</td></tr><tr><td>0,5 a 25</td><td>1,3</td><td>1,8</td><td>50</td><td>G 1/2</td><td>0,9</td><td>0851881</td></tr><tr><td>3 a 63</td><td>2</td><td>5</td><td>85</td><td>G 1/2</td><td>0,9</td><td>0851981</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"2\">Faixa de.</th><th colspan=\"2\">Diferencial</th><th rowspan=\"2\">Valor Li...</th><th rowspan=\"2\">Comuta...</th><th colspan=\"3\">Materiais do Sensor</th><th rowspan=\"2\">Conex\u00e3...</th><th rowspan=\"2\">Massa (...</th><th rowspan=\"2\">C\u00f3digo</th></tr><tr><td>No in\u00edcio</td><td>No fim d...</td><td>Corpo</td><td>Fole</td><td></td></tr><tr><td colspan=\"11\">Diferencial N\u00e3o Ajust\u00e1vel (fixo)</td></tr><tr><td>-1 a 0</td><td>0,2</td><td>0,23</td><td>10</td><td rowspan=\"10\">m\u00e1x. 20</td><td rowspan=\"10\" colspan=\"3\">Componentes em cont...</td><td>G 1/2</td><td>1,0</td><td>0850181</td></tr><tr><td>-1 a 2,5</td><td>0,2</td><td>0,28</td><td>10</td><td>G1/2</td><td>1,0</td><td>0850481</td></tr><tr><td>0 a 1,6</td><td>0,16</td><td>0,2</td><td>10</td><td>G 1/2</td><td>1,0</td><td>0851281</td></tr><tr><td>0,1 a 2,5</td><td>0,18</td><td>0,22</td><td>10</td><td>G 1/2</td><td>1,0</td><td>0851381</td></tr><tr><td>0,2 a 4</td><td>0,5</td><td>0,6</td><td>20</td><td>G 1/2</td><td>0,85</td><td>0851481</td></tr><tr><td>0,3 a 6</td><td>0,6</td><td>0,7</td><td>20</td><td>G 1/2</td><td>0,85</td><td>0851581</td></tr><tr><td>0,3 a 10</td><td>0,7</td><td>0,9</td><td>20</td><td>G 1/2</td><td>0,85</td><td>0851681</td></tr><tr><td>0,5 a 16</td><td>1,1</td><td>1,4</td><td>50</td><td>G 1/2</td><td>0,9</td><td>0851781</td></tr><tr><td>0,5 a 25</td><td>1,3</td><td>1,8</td><td>50</td><td>G 1/2</td><td>0,9</td><td>0851881</td></tr><tr><td>3 a 63</td><td>2</td><td>5</td><td>85</td><td>G 1/2</td><td>0,9</td><td>0851981</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032660332541567694,
+              "width": 0.9042821158690176,
+              "height": 0.3307600950118765,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"2\">Faixa de.</th><th colspan=\"2\">Diferencial</th><th rowspan=\"2\">Valor Li...</th><th rowspan=\"2\">Comuta...</th><th colspan=\"3\">Materiais do Sensor</th><th rowspan=\"2\">Conex\u00e3...</th><th rowspan=\"2\">Massa (...</th><th rowspan=\"2\">C\u00f3digo</th></tr><tr><td>No in\u00edcio</td><td>No fim d...</td><td>Corpo</td><td>Fole</td><td></td></tr><tr><td colspan=\"11\">Diferencial N\u00e3o Ajust\u00e1vel (fixo)</td></tr><tr><td>-1 a 0</td><td>0,2</td><td>0,23</td><td>10</td><td rowspan=\"10\">m\u00e1x. 20</td><td rowspan=\"10\" colspan=\"3\">Componentes em cont...</td><td>G 1/2</td><td>1,0</td><td>0850181</td></tr><tr><td>-1 a 2,5</td><td>0,2</td><td>0,28</td><td>10</td><td>G1/2</td><td>1,0</td><td>0850481</td></tr><tr><td>0 a 1,6</td><td>0,16</td><td>0,2</td><td>10</td><td>G 1/2</td><td>1,0</td><td>0851281</td></tr><tr><td>0,1 a 2,5</td><td>0,18</td><td>0,22</td><td>10</td><td>G 1/2</td><td>1,0</td><td>0851381</td></tr><tr><td>0,2 a 4</td><td>0,5</td><td>0,6</td><td>20</td><td>G 1/2</td><td>0,85</td><td>0851481</td></tr><tr><td>0,3 a 6</td><td>0,6</td><td>0,7</td><td>20</td><td>G 1/2</td><td>0,85</td><td>0851581</td></tr><tr><td>0,3 a 10</td><td>0,7</td><td>0,9</td><td>20</td><td>G 1/2</td><td>0,85</td><td>0851681</td></tr><tr><td>0,5 a 16</td><td>1,1</td><td>1,4</td><td>50</td><td>G 1/2</td><td>0,9</td><td>0851781</td></tr><tr><td>0,5 a 25</td><td>1,3</td><td>1,8</td><td>50</td><td>G 1/2</td><td>0,9</td><td>0851881</td></tr><tr><td>3 a 63</td><td>2</td><td>5</td><td>85</td><td>G 1/2</td><td>0,9</td><td>0851981</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

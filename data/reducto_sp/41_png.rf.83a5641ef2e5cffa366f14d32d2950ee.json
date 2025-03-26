@@ -1,0 +1,36 @@
+{
+  "job_id": "22175e74-6f72-4bc6-a53b-9424e54aab67",
+  "duration": 53.29194641113281,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/ddb36c75-5712-4542-abb3-8c52ad20ab23.pdf?AWSAccessKeyId=ASIA2UOK6OVBL2N27FQU&Signature=PWzDlzBoDcgTsxSjMvz9wFF2%2Fec%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIEpkMKclVF6n8Y%2FAxmTNuP2ZlSdKw6AxlwBClxEuN%2FHKAiA13o6KUpwOHcg2pPY%2FgOmUWAY4LBAxI4YkZbjwozR7DCqDBQgpEAAaDDczMTEwNjkzMjAzNCIMIwr%2BHOrSKIjG%2BgeUKuAEEqmCp4nY12cBVlKP%2FgItjZGAOkTWipHW9YKvc3gnD5tdNT%2FDwxaPG5%2B8SZw1lnLeddb0QXd4clSro0aKvx4VeP43nQNbRfGOEixqDbHiuGWAIuyx8Ax7Q2NsLX7Bt9hUaAc2pQh35rNOKYTE7pOfvaDpOwtD8H%2FlXPIG%2B9q5VUI%2FJZIw3kURvDV4pcBAWc8VdIcooGGj0GGG0Z7CSyY7TMm2aUAXnvXmXMruloD9K%2BXvBhF5zh5MIU%2FZU7bb8fGoTKP6yaP17y6qyXXg1Pi0UO%2Fmp0vT58ZMHyIitqJFl8yuRLvcz2WCNMBo7W6YBh07Uowo0Wr2g7TMmjDQRy5crDpQBooEpX9EqJEFLdLzAz3YIfkvNpwnma9ixyN0oPBo8Ow4M%2F4cp6MqHWILYe8OEV8KQ3ua16pjqmvIURFfrgmDI9m8fgPO3owj%2F73zqjKy8XuRqOjpBuGuK8kYOGxHbHZ%2B8qYPLxc3a%2BZk57ffecY7AEKsHNzabCgwqoft5SHYXLBeceaMcVeZrQsu3A6kiGeyVm3j%2BQUTJnxTqU0ceQv0uWgAJX%2B6LNPkX%2FagmtI%2FjfeoOPCJoiEWHBdI5OaHfz7AXGvj5Pl62nGhWMO8PUcEPZoFJcpgs5m07v7OAKtOKKf2oXhLSG9%2BTxskuGSa%2BcbptWipsreI5kf%2Bp5exKTQ4GXFQBsEVk3epqNL%2Fby4H9woDtANKSUUXpqE7NvD9IGelow8UEV4%2FeMYLdnUUsWqzSSe49Q%2FXAtN6mLkcA%2FY06pNUSGr6PcgMgVaorg%2FuIyIfYqW6TnhO2%2B9IG6%2FLXLwwqd6OvwY6mwGV8NVWlMVnZlHEAOsQp8%2B0Sc6FX2%2FTy9jlkpXh4tvUO8xlpEHermZVf7Y9ywI5ygv0I0OukX6C58N2G430Y8teVNfYd2Y5Yifne0m7Drf8EO4rRHCcExchLya6Fa5aKKNGgNKc%2B9ovM%2F3GSGCvX9qqi08XtYxIpWu7R31vViAFSRcklwIDqeGX7YDbVse%2BFYbV90RSRRnnt5ylnQ%3D%3D&Expires=1742980882",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th colspan=\"4\">Contributi per previdenza complementare</th></tr><tr><td>E27</td><td></td><td>DEDUCIBILITA ORDINARIA</td><td>Dedotti dal sostituto 1,00</td><td>Non dedotti dal sostituto 2 , ,00</td></tr><tr><td>E28</td><td></td><td>LAVORATORI DI PRIMA OC</td><td>,00</td><td>,00</td></tr><tr><td>E29</td><td></td><td>FONDI IN SQUILIBRIO FINA...</td><td>,00</td><td>,00</td></tr><tr><td>E30</td><td></td><td>FAMILIARI A CARICO</td><td>,00</td><td>,00</td></tr></table>",
+        "embed": "<table><tr><th></th><th colspan=\"4\">Contributi per previdenza complementare</th></tr><tr><td>E27</td><td></td><td>DEDUCIBILITA ORDINARIA</td><td>Dedotti dal sostituto 1,00</td><td>Non dedotti dal sostituto 2 , ,00</td></tr><tr><td>E28</td><td></td><td>LAVORATORI DI PRIMA OC</td><td>,00</td><td>,00</td></tr><tr><td>E29</td><td></td><td>FONDI IN SQUILIBRIO FINA...</td><td>,00</td><td>,00</td></tr><tr><td>E30</td><td></td><td>FAMILIARI A CARICO</td><td>,00</td><td>,00</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.033847980997624705,
+              "width": 0.9017632241813602,
+              "height": 0.12707838479809977,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th colspan=\"4\">Contributi per previdenza complementare</th></tr><tr><td>E27</td><td></td><td>DEDUCIBILITA ORDINARIA</td><td>Dedotti dal sostituto 1,00</td><td>Non dedotti dal sostituto 2 , ,00</td></tr><tr><td>E28</td><td></td><td>LAVORATORI DI PRIMA OC</td><td>,00</td><td>,00</td></tr><tr><td>E29</td><td></td><td>FONDI IN SQUILIBRIO FINA...</td><td>,00</td><td>,00</td></tr><tr><td>E30</td><td></td><td>FAMILIARI A CARICO</td><td>,00</td><td>,00</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

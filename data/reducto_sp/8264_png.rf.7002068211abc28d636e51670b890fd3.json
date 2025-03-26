@@ -1,0 +1,36 @@
+{
+  "job_id": "fe878834-5b05-4a15-8418-a561558d75c0",
+  "duration": 174.7004358768463,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/75e92621-d7c9-4f69-aa92-950b364b1c2b.pdf?AWSAccessKeyId=ASIA2UOK6OVBA55WUSJF&Signature=TPgDzLuMomXQRIve2rYDu9fNkts%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDJc2XMNCFrs6OmLELd2MJcYKo5ztV3JJMuQN%2FqvLJP4AIgR%2FU%2Fq5GR99qdwVWDFhspUkgaFwjvzyhYawp4r8wmYywqgwUIKRAAGgw3MzExMDY5MzIwMzQiDJ2aNK9RUai6ZZZklirgBAxQdG%2BazELuVA0LcC0Zwjzs3nmPezDU77Mrvhwl77o%2Bf7rLOCdRRht4V8h0r%2FSo5BCQTxHzrMhVh0xv38%2FgJ%2BLf3U2%2BgfvjGQH%2FxTwfVe69VPjWDI5k5YBwU8ld9NgQwD5n%2Bq4m2osxSf%2FzmI91zt6MOVtPLv5DBaaFPQBU7FoL5DcB17A88kc8AXVmfd6rHHuLj5mK6gJvUxUYgSsRFt9BHM2U%2B%2FxlqZUAFmL936If9JLw6jIESDJmWdYkd9SLMznTMgXV%2BSsC0SZffNA7hIWIwQEZD9yssN6MNrvEoyrOP8GgiZFL%2B7d2KpFHUzSt%2FnPNY35AcR8UWlkB%2BP%2FHCynAPl5JlghaFruayzMWlbVHCxVYC3lfY%2BaUkxtW2FrkZ3eIuWsSk66CZQIciIhOfPmpfPMaDzsO7LU3QBZdj18PBAcLwtv15FnXyKjavMa8zDCL%2F%2B3IS74Yq4thiIT6sA4a1eZlKJZi%2BHY1%2B5wHg58aEUSqBvvOqhYmcJHtoOaJxw3FwRWYdhj47xU1EWE13hY7izhCYZ2spJiFfJMa0cgMIWvrG%2FYdzAUqSGKs1TnKkNNacSOtKrgd4aADKh17WOgPilqEjs5qcB4xTIKbA5qEwlS5diFDJr8jCiDXyE3LkbVD8lv8s2Tcm2N%2BFy490jUV2S3%2B8Bl1AYNTeKoIwI%2B1bHIXkxsIaU59Yclymumx8umoAioN6yVxm00XP86hyx%2BtfIx0hRtD%2FG6N6my9xiJC4bP0zvvUqNjwWaoVgvm2tp0Vo8Ge62XMSiwpSN67PqyPWKfNpQJnohE9vGpTNxeYMPvejr8GOpoB%2BDeig15YHwT53%2BuxjY0mbYehzXsIauT5JAOb795VvzgVbCCSb6iPO5057dJHUOUsu5aX74qX4x%2BLvfrJUjfkOg3IZA5VUhOeaiUHDLIA0w700pmvXpFKa7jGkuWiccs30vLB9CyauWlKzX86M7oN%2BJmK9dIFO1LetXd9DK%2Bgkk%2FKWjc3hj3EgaNLKEqPuZnnUXjV1kGg0YRzMw%3D%3D&Expires=1742981022",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"2\">Type</th><th colspan=\"2\">Maximum Submersible Pu</th><th rowspan=\"2\">Relay Rang.</th><th colspan=\"2\">Cat. No.</th><th rowspan=\"2\">Std. Pkg. (N...</th><th rowspan=\"2\" colspan=\"2\">M.R.P. (\u20b9) P...</th></tr><tr><td>HP</td><td>kW</td><td>Coil Voltage</td><td>Coil Voltage</td></tr><tr><td rowspan=\"4\">MU-G10 DOL</td><td>3</td><td>2.2</td><td>4-6.5</td><td>SS95983CO...</td><td>SS95983DO...</td><td>1</td><td>8340</td><td></td></tr><tr><td>5</td><td>3.7</td><td>6-10</td><td>SS95983CO..</td><td>SS95983DO...</td><td>1</td><td>8340</td><td></td></tr><tr><td>6</td><td>4.5</td><td>9-14</td><td>SS95983CO..</td><td>SS95983DO...</td><td>1</td><td>8465</td><td></td></tr><tr><td>7.5/10</td><td>5.5/7.5</td><td>13-21</td><td>SS95983CO...</td><td>SS95983DO...</td><td>1</td><td>8575</td><td></td></tr><tr><td rowspan=\"2\">MU-G10H D</td><td>10</td><td>7.5</td><td>20 32</td><td>SS95974CO...</td><td>SS95974DO...</td><td>1</td><td>9645</td><td></td></tr><tr><td>10</td><td>7.5</td><td>28-42</td><td>SS95974CO...</td><td>SS95974DO...</td><td>1</td><td>9940</td><td></td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"2\">Type</th><th colspan=\"2\">Maximum Submersible Pu</th><th rowspan=\"2\">Relay Rang.</th><th colspan=\"2\">Cat. No.</th><th rowspan=\"2\">Std. Pkg. (N...</th><th rowspan=\"2\" colspan=\"2\">M.R.P. (\u20b9) P...</th></tr><tr><td>HP</td><td>kW</td><td>Coil Voltage</td><td>Coil Voltage</td></tr><tr><td rowspan=\"4\">MU-G10 DOL</td><td>3</td><td>2.2</td><td>4-6.5</td><td>SS95983CO...</td><td>SS95983DO...</td><td>1</td><td>8340</td><td></td></tr><tr><td>5</td><td>3.7</td><td>6-10</td><td>SS95983CO..</td><td>SS95983DO...</td><td>1</td><td>8340</td><td></td></tr><tr><td>6</td><td>4.5</td><td>9-14</td><td>SS95983CO..</td><td>SS95983DO...</td><td>1</td><td>8465</td><td></td></tr><tr><td>7.5/10</td><td>5.5/7.5</td><td>13-21</td><td>SS95983CO...</td><td>SS95983DO...</td><td>1</td><td>8575</td><td></td></tr><tr><td rowspan=\"2\">MU-G10H D</td><td>10</td><td>7.5</td><td>20 32</td><td>SS95974CO...</td><td>SS95974DO...</td><td>1</td><td>9645</td><td></td></tr><tr><td>10</td><td>7.5</td><td>28-42</td><td>SS95974CO...</td><td>SS95974DO...</td><td>1</td><td>9940</td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9017632241813602,
+              "height": 0.20368171021377673,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"2\">Type</th><th colspan=\"2\">Maximum Submersible Pu</th><th rowspan=\"2\">Relay Rang.</th><th colspan=\"2\">Cat. No.</th><th rowspan=\"2\">Std. Pkg. (N...</th><th rowspan=\"2\" colspan=\"2\">M.R.P. (\u20b9) P...</th></tr><tr><td>HP</td><td>kW</td><td>Coil Voltage</td><td>Coil Voltage</td></tr><tr><td rowspan=\"4\">MU-G10 DOL</td><td>3</td><td>2.2</td><td>4-6.5</td><td>SS95983CO...</td><td>SS95983DO...</td><td>1</td><td>8340</td><td></td></tr><tr><td>5</td><td>3.7</td><td>6-10</td><td>SS95983CO..</td><td>SS95983DO...</td><td>1</td><td>8340</td><td></td></tr><tr><td>6</td><td>4.5</td><td>9-14</td><td>SS95983CO..</td><td>SS95983DO...</td><td>1</td><td>8465</td><td></td></tr><tr><td>7.5/10</td><td>5.5/7.5</td><td>13-21</td><td>SS95983CO...</td><td>SS95983DO...</td><td>1</td><td>8575</td><td></td></tr><tr><td rowspan=\"2\">MU-G10H D</td><td>10</td><td>7.5</td><td>20 32</td><td>SS95974CO...</td><td>SS95974DO...</td><td>1</td><td>9645</td><td></td></tr><tr><td>10</td><td>7.5</td><td>28-42</td><td>SS95974CO...</td><td>SS95974DO...</td><td>1</td><td>9940</td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

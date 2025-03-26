@@ -1,0 +1,36 @@
+{
+  "job_id": "19998b3d-5e23-460c-b21d-3817c008a4e8",
+  "duration": 179.05337762832642,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/355d4078-487e-4640-8d0a-3e2c94b98dd3.pdf?AWSAccessKeyId=ASIA2UOK6OVBIBPIYE2X&Signature=h%2Fj1i%2BawHt3%2BOUp6FEKr1TaoTHo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIQDJdIaFv0pI3KjYRGrTm33IRD%2BzO5i8JlvsiJP6BW%2Fe8QIfKnPMXgACyPLwVUsU9otDnTsFgAmMmkAPZEBJwhlBcSqDBQgqEAAaDDczMTEwNjkzMjAzNCIM3Z7XjPLeJyuusNPPKuAErYNrqDLwVYigRLC9rvLnXWsXyA%2BgN6Z7l2akS00oajiZ0R%2FIptWSqfceyRB3mqEpmrzJ73DI7IUn%2BkVST5X4Uoz1ppDi1N6mKEPFHDEuA%2BPoZE2Y8t26Xwl%2Fe%2BV67OnktQB%2Bc5RTA54zI6mi5JGph8GpAFIC7XohInYSBvLaiS5BrxheXlZR5BgOz6K3gE7N37SQ6lbmxd6DSIDFKCDqIFU8Cat6bs8T8fkXI7YqW1hT1VNSYQbN804VYNz%2F%2BRYTgCNPHOGvapSndTmQyKSHb5CHDnjfmzv1uMHhV8zDuZyBYQzlx27pQcoC50hQYlI1%2Fd9NB317XETo4%2BX%2FvaFLrIcm%2B3hMRY6JPAzVcqYRbzCMCjPIi%2BkneOmbb1UbJdRmDifuKxddgnzqhFVqZGgmlBhiAN2ZnFHidAmk7pk1qgTrH4Qd4jlV53O%2FD4tvVDl%2FKKXttSpu4PDEjIz6ltwDpJVP6jWRDaDgqr8d9iK%2BHFrMG30hPbEoFTryHSWP7TwUOiSjm6DHbm9%2FhKqs6LahVFB6UboOhp8uShNXcU%2FJ2bjQJGx%2BTFA9noAp4N6sXdwVyMr7n5WoBhWrcxMymKUIlncWmxMZtznMqJQhQo8zTTu7XKNCxNaXTCOEV2%2BtmUL7N%2F4H1hFXUz9oTqFGH8rN2Ps8Lqt4cXHc%2FETgO1vv12VgxZZNPl%2BxEwTKjS93%2FqGa6OFYSALjE%2BusmNmI%2FG3g02jHWBfq9d%2FhvEAQM1yfC%2BYYTzLP7V85%2FeFFVQER%2B9kpkkFNz%2FrTLy%2BNeQE74SdnpAwA8oT5ULSGsoZ8HvLQ3r0wjfOOvwY6mwHsWXC%2Fcg%2F%2BSVjEvAv8o9KTsNdsaZNsnkxll4Ejl3xM47ilqcj4G%2F%2BFptLsp4G6yZPMymmaj3ABS09vWPa%2Box0dHBgwuMxuK0ZBSKD3NUIscEULYP44hCk%2BqypRc38RSUugT3sh00AoLYUpWoYWCCLGYt7jA4AGE4vS13TVNg8FUZL%2BEF91zghMxEtl%2FUS1CesMxtr1FkhraO0%2BFg%3D%3D&Expires=1742981034",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"8\">61 70</th><th>1</th><th>Arithmetic - terminology</th></tr><tr><td>4</td><td>Arithmetic - fractions</td></tr><tr><td>17</td><td>Algebra - expansion and factorisation of ...</td></tr><tr><td>19</td><td>Arithmetic - scale drawing</td></tr><tr><td>22</td><td>Probability - tree diagram</td></tr><tr><td>24</td><td>Arithmetic - approximations</td></tr><tr><td>37</td><td>Arithmetic - percentage increase</td></tr><tr><td>39</td><td>Graphs - solution of simultaneous equati...</td></tr><tr><td rowspan=\"7\">51 60</td><td>10</td><td>Arithmetic sequences</td></tr><tr><td>13</td><td>Algebra - factorisation of quadratic functi</td></tr><tr><td>26</td><td>Trigonometry - 2 right angled triangles</td></tr><tr><td>28</td><td>Trigonometry - Sine rule</td></tr><tr><td>30</td><td>Trigonometry - 3D problem</td></tr><tr><td>34</td><td>Graphs - speed/time graph</td></tr><tr><td>40</td><td>Statistics - cumulative frequency graph</td></tr><tr><td rowspan=\"5\">41 50</td><td>11</td><td>Graphs - points on a curve</td></tr><tr><td>12</td><td>Algebraic powers</td></tr><tr><td>20</td><td>Probability</td></tr><tr><td>32</td><td>Graphs - graphical properties of the strai.</td></tr><tr><td>33</td><td>Graphs - properties of a cubic curve</td></tr><tr><td>31 40</td><td>29</td><td>Algebra - sum of algebraic fractions</td></tr><tr><td rowspan=\"3\">21 30</td><td>8</td><td>Arithmetic</td></tr><tr><td>25</td><td>Arithmetic - cumulative errors</td></tr><tr><td>35</td><td>Vectors</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"8\">61 70</th><th>1</th><th>Arithmetic - terminology</th></tr><tr><td>4</td><td>Arithmetic - fractions</td></tr><tr><td>17</td><td>Algebra - expansion and factorisation of ...</td></tr><tr><td>19</td><td>Arithmetic - scale drawing</td></tr><tr><td>22</td><td>Probability - tree diagram</td></tr><tr><td>24</td><td>Arithmetic - approximations</td></tr><tr><td>37</td><td>Arithmetic - percentage increase</td></tr><tr><td>39</td><td>Graphs - solution of simultaneous equati...</td></tr><tr><td rowspan=\"7\">51 60</td><td>10</td><td>Arithmetic sequences</td></tr><tr><td>13</td><td>Algebra - factorisation of quadratic functi</td></tr><tr><td>26</td><td>Trigonometry - 2 right angled triangles</td></tr><tr><td>28</td><td>Trigonometry - Sine rule</td></tr><tr><td>30</td><td>Trigonometry - 3D problem</td></tr><tr><td>34</td><td>Graphs - speed/time graph</td></tr><tr><td>40</td><td>Statistics - cumulative frequency graph</td></tr><tr><td rowspan=\"5\">41 50</td><td>11</td><td>Graphs - points on a curve</td></tr><tr><td>12</td><td>Algebraic powers</td></tr><tr><td>20</td><td>Probability</td></tr><tr><td>32</td><td>Graphs - graphical properties of the strai.</td></tr><tr><td>33</td><td>Graphs - properties of a cubic curve</td></tr><tr><td>31 40</td><td>29</td><td>Algebra - sum of algebraic fractions</td></tr><tr><td rowspan=\"3\">21 30</td><td>8</td><td>Arithmetic</td></tr><tr><td>25</td><td>Arithmetic - cumulative errors</td></tr><tr><td>35</td><td>Vectors</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032066508313539195,
+              "width": 0.9051217464315701,
+              "height": 0.6068883610451307,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"8\">61 70</th><th>1</th><th>Arithmetic - terminology</th></tr><tr><td>4</td><td>Arithmetic - fractions</td></tr><tr><td>17</td><td>Algebra - expansion and factorisation of ...</td></tr><tr><td>19</td><td>Arithmetic - scale drawing</td></tr><tr><td>22</td><td>Probability - tree diagram</td></tr><tr><td>24</td><td>Arithmetic - approximations</td></tr><tr><td>37</td><td>Arithmetic - percentage increase</td></tr><tr><td>39</td><td>Graphs - solution of simultaneous equati...</td></tr><tr><td rowspan=\"7\">51 60</td><td>10</td><td>Arithmetic sequences</td></tr><tr><td>13</td><td>Algebra - factorisation of quadratic functi</td></tr><tr><td>26</td><td>Trigonometry - 2 right angled triangles</td></tr><tr><td>28</td><td>Trigonometry - Sine rule</td></tr><tr><td>30</td><td>Trigonometry - 3D problem</td></tr><tr><td>34</td><td>Graphs - speed/time graph</td></tr><tr><td>40</td><td>Statistics - cumulative frequency graph</td></tr><tr><td rowspan=\"5\">41 50</td><td>11</td><td>Graphs - points on a curve</td></tr><tr><td>12</td><td>Algebraic powers</td></tr><tr><td>20</td><td>Probability</td></tr><tr><td>32</td><td>Graphs - graphical properties of the strai.</td></tr><tr><td>33</td><td>Graphs - properties of a cubic curve</td></tr><tr><td>31 40</td><td>29</td><td>Algebra - sum of algebraic fractions</td></tr><tr><td rowspan=\"3\">21 30</td><td>8</td><td>Arithmetic</td></tr><tr><td>25</td><td>Arithmetic - cumulative errors</td></tr><tr><td>35</td><td>Vectors</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

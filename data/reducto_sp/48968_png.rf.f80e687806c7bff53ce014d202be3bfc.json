@@ -1,0 +1,36 @@
+{
+  "job_id": "1a453d68-023c-4ab3-9e96-bd460321bf6e",
+  "duration": 133.28558492660522,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/376881d9-1918-48ca-8415-33c37130ad31.pdf?AWSAccessKeyId=ASIA2UOK6OVBNIOKJLBR&Signature=OokMm4EZNd5uQlOIdMjUdhXuROA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIEazhoVdI2ptxaXT2sNG2H3APknlwnk2IiGkEufvY1H0AiBnyOOCW9kKEui5uIQssOM7c%2FM0003TxNeXCitnzojwuCqDBQgqEAAaDDczMTEwNjkzMjAzNCIMKdHOeqztlcZZKoGLKuAE%2BVggustzMMQcgZSpGn0oaKOFyS2ShYHOq7Fab%2FN%2Ft37YKPyfCZk9kUKiX39wpV%2BWRJQvSv%2Bhrf8zgeDeRqzz7Wgr4XMmhrK9GCjl1hYLhqhyHgiti2adIe%2FLTNheS2biMPM4FjOvMqQBOe3FPehz01TrksggoagrjQAsewVbFSzu7JVPRgdxYVPc87YvGqf5A5vifxio7IStUz3F43qilTalSg0IEAOvc9fY3iSoa9aSgy2Oy209vxXp1w6Uxb8EXc92W9kort1Hp6s74DA8dJaxpio4TplFCuPiwEjS3lAcTrdFtcxMZgX1K2J36GV0ARWO9iD1Ey4Ibiin4V4sEAe7hHcvsCNLNDksk06XVyOMaYYVsPKpshUWrmRdCM2n8Y9yAj137KNY1GTE%2B2zEwSwK5lBa0XrqqzfXo4zTuK0bwII7sDHewH0MfSkMTbue0NhDnZfjg35eCeYPs88Rl8MYEX39oubXrldShB0evCr6DqdZfJXA%2BlpclK4dZMYd7yVF1QjB%2BdNK%2BPyKZOqYqin7hBFOQuMzyMJ8inbylxoyVA3ajuI7v6dzuJQHJwFt8VHWPmUW7emxA8VyrVhBtQSgNWQF0rgPF%2FhIN8yqX6a%2FjtoJQc2TObdDGyq1cFYOE67KEksp8QCb8u%2BVAbTh59ebMgGgTbhPncP%2BP4%2FKUPOhN5dZVZ844Vha%2Fd%2Fm3Y5efKxchSu538CxTJ2GtPRFnAGVL1FBeolITqEv7aibn%2B4T7fz%2FbKQrBxwJ4B8LdOca%2BBzzdMOfZ5gvBstYB8g%2FQD3S6QSfHtnZplKO%2BxKh%2F40wv%2FKOvwY6mwGckI%2BfWv%2BiCQedELBrzFcaAHKzZjBom6wqDJex6vPbkCtQCL5OCwpACNhNLRQOGNhzh3LSeC2Jxbe4YHCEYyDsc5LO3ufuJV%2Bf1beYplU1GXQTq4XZAMi040FST6z4DQ0qwkseuzCJeifY%2BvEHh0KvHsIyZo%2BOMoS4yMTdzwZ%2FLwdZDTLKKMxRF0O5eLCBLOGaNWFsZrzwkBjsGA%3D%3D&Expires=1742980987",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th>van 07:00 uur tot 19:00 uur</th><th>van 19:00 uur tot 23:00 uur</th><th>van 23:00 uur tot 07:00 uur</th></tr><tr><td>Lar,LT op de gevel van naast...</td><td>50 dB(A)</td><td>45 dB(A)</td><td>40 dB(A)</td></tr><tr><td>Lamax op de gevel van gevo.</td><td>70 dB(A)</td><td>65 dB(A)</td><td>60 dB(A)</td></tr></table>",
+        "embed": "<table><tr><th></th><th>van 07:00 uur tot 19:00 uur</th><th>van 19:00 uur tot 23:00 uur</th><th>van 23:00 uur tot 07:00 uur</th></tr><tr><td>Lar,LT op de gevel van naast...</td><td>50 dB(A)</td><td>45 dB(A)</td><td>40 dB(A)</td></tr><tr><td>Lamax op de gevel van gevo.</td><td>70 dB(A)</td><td>65 dB(A)</td><td>60 dB(A)</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9026028547439127,
+              "height": 0.07779097387173396,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th>van 07:00 uur tot 19:00 uur</th><th>van 19:00 uur tot 23:00 uur</th><th>van 23:00 uur tot 07:00 uur</th></tr><tr><td>Lar,LT op de gevel van naast...</td><td>50 dB(A)</td><td>45 dB(A)</td><td>40 dB(A)</td></tr><tr><td>Lamax op de gevel van gevo.</td><td>70 dB(A)</td><td>65 dB(A)</td><td>60 dB(A)</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

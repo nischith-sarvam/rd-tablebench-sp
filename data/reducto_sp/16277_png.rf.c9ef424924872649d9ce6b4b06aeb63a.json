@@ -1,0 +1,36 @@
+{
+  "job_id": "11cc2a65-750c-4f9a-9c92-de68272b67f3",
+  "duration": 188.57310795783997,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/f211c741-271f-4cb9-bd41-64524c6392e6.pdf?AWSAccessKeyId=ASIA2UOK6OVBPWMIJISJ&Signature=KuTczGFkMW%2BAT6%2BpuuhzvTmwX34%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCwowoloNy554v%2FMdvL4Rb6qKHZg3HClj1zrlTInLTeJwIhAIrETWAU3wIhejL2Bxad9X478kPBtjY53t7LwJFHcAP6KoMFCCkQABoMNzMxMTA2OTMyMDM0Igyahihp9sDGkQbK7ikq4ARFbPHra4%2BMWpDkpXpKQyOdz02M9BK4ObXjdgBEhl0MsWj8g9Y8el2bPNeRtUNd%2FF0DvoOMgfRZSxBbBn9U5xv6OXN3LvOWpyBI3QEIcaqbQ7CtAeg0NW9PU%2B7cnz%2BAXEnkJTOg8WtpPDDMlBlM9kn%2BCJzZ%2BHNh3B6AO5Mg519BeTxVoO8CknsmgyNqIOXPQxIsic3XJydnAlUQ7FLXSAlq7iZ%2BEGI4sETDzr7pgdMJtx6BuQoJ00lVNodoZir1KNZU4BlsZEPyrzxewMLsW7ywYC1ECV6uW5lBRwav46L0rDJoSz5dJEkHfgyqfNUDHABqoUrgcCgepwdK4HAPNMdQTlgsyOssdx8J%2F7yPo8jRaQqY6fjpSnSdfZIwHO%2BqdH4TNRkm2lQ9vM3g3SEz1EW1kmmGwOrnyUHRZoOizZa9k8QLT9nLIuM7tYRmzo1PmezcHKRNM%2F0aL84mvFv5s%2F3K66EuYFWxubgLw868Mufl1I329KII4kqNEPry0budQaGfxaRVq8L1OB4qbuqMnuPmyD8LZbXZsDXZ856LoJMQRgHSwj13BtL1LBtqnvMEcKoh2ONVRQGGEIMC6P03U1SMR2ec7pukdWqnlVKpL8PxR4f68bdVzCCOo%2FOh1nGt%2B%2BRpZbFTuVxRa7IbOf7R50GJJTbgBmH7mzcclFYDBNIk2FohvVZrjrbeWh1cQgPdXl%2Fbo30kXp%2FJA9GyjN8sJKeJVvgFYTalbXC4nX3nWfrQuktVcxX2yHiSLnUw4CPuXYyld%2FkQx7qd%2BwY5RvPi6iCtp0GmCvPlDDH503oEJDG52zCu5o6%2FBjqZAQZhd%2F8ZG6qPorGCZHweQvCcY4WAKXp%2BF1fxXbbPTkJa2whmrVnPGyrKahG5Y4dAZROJQj9BdV%2B8mryEwCIg1V6tiJah68mHVfSq2tS7%2BXywx70ZL92mXWxo8kwCD1fzRayvC%2BGDosAhCWYMWIA3t0C1YjXF76b%2FOPEgigjJ7B%2FSx0G3KEIWPjspxXh%2FXcQax3Lnw4V1LZsC6g%3D%3D&Expires=1742981030",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th></th><th></th><th>2. \u6301\u7e8c\u63a8\u52d5\u65b0\u838a\u7dda\u5927\u6a4b\u982d\u7ad9\u897f....</th></tr><tr><td></td><td></td><td>&lt;\u56db&gt;\u50f9\u503c\u5de5\u7a0b</td><td>1. 1.\u5728\u7dad\u6301\u6a5f\u80fd\u8207\u54c1\u8cea\u7684\u524d\u63d0\u4e0b....</td></tr><tr><td></td><td></td><td>&lt;\u4e94&gt;\u5b89\u885b\u74b0\u4fdd \u7ba1\u7406</td><td>1.\u914d\u5408\u653f\u7b56\u63a8\u52d5\u5168\u54e1\u5b89\u885b\u53ca\u9810....</td></tr><tr><td>\u53c3\u5de5\u7a0b\u7d30\u90e8\u8a2d\u8a08</td><td>\u4e00\u571f\u6728\u5efa\u7bc9\u5de5\u7a0b\u8a2d\u8a08 my</td><td>&gt;\u65b0\u838a\u7dda</td><td>1. \u914d\u5408\u5728\u5efa\u5de5\u7a0b\u9700\u8981,\u8fa6\u7406\u65b0....</td></tr><tr><td></td><td></td><td>&lt;\u4e8c&gt;\u4fe1\u7fa9\u7dda</td><td>1. \u914d\u5408\u5728\u5efa\u5de5\u7a0b\u9700\u8981,\u8fa6\u7406\u4fe1...</td></tr><tr><td></td><td></td><td>&lt;\u4e09&gt;\u677e\u5c71\u7dda</td><td>1. \u914d\u5408\u5728\u5efa\u5de5\u7a0b\u9700\u8981,\u8fa6\u7406\u677e.....</td></tr></table>",
+        "embed": "<table><tr><th></th><th></th><th></th><th>2. \u6301\u7e8c\u63a8\u52d5\u65b0\u838a\u7dda\u5927\u6a4b\u982d\u7ad9\u897f....</th></tr><tr><td></td><td></td><td>&lt;\u56db&gt;\u50f9\u503c\u5de5\u7a0b</td><td>1. 1.\u5728\u7dad\u6301\u6a5f\u80fd\u8207\u54c1\u8cea\u7684\u524d\u63d0\u4e0b....</td></tr><tr><td></td><td></td><td>&lt;\u4e94&gt;\u5b89\u885b\u74b0\u4fdd \u7ba1\u7406</td><td>1.\u914d\u5408\u653f\u7b56\u63a8\u52d5\u5168\u54e1\u5b89\u885b\u53ca\u9810....</td></tr><tr><td>\u53c3\u5de5\u7a0b\u7d30\u90e8\u8a2d\u8a08</td><td>\u4e00\u571f\u6728\u5efa\u7bc9\u5de5\u7a0b\u8a2d\u8a08 my</td><td>&gt;\u65b0\u838a\u7dda</td><td>1. \u914d\u5408\u5728\u5efa\u5de5\u7a0b\u9700\u8981,\u8fa6\u7406\u65b0....</td></tr><tr><td></td><td></td><td>&lt;\u4e8c&gt;\u4fe1\u7fa9\u7dda</td><td>1. \u914d\u5408\u5728\u5efa\u5de5\u7a0b\u9700\u8981,\u8fa6\u7406\u4fe1...</td></tr><tr><td></td><td></td><td>&lt;\u4e09&gt;\u677e\u5c71\u7dda</td><td>1. \u914d\u5408\u5728\u5efa\u5de5\u7a0b\u9700\u8981,\u8fa6\u7406\u677e.....</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032660332541567694,
+              "width": 0.9042821158690176,
+              "height": 0.1680522565320665,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th></th><th></th><th>2. \u6301\u7e8c\u63a8\u52d5\u65b0\u838a\u7dda\u5927\u6a4b\u982d\u7ad9\u897f....</th></tr><tr><td></td><td></td><td>&lt;\u56db&gt;\u50f9\u503c\u5de5\u7a0b</td><td>1. 1.\u5728\u7dad\u6301\u6a5f\u80fd\u8207\u54c1\u8cea\u7684\u524d\u63d0\u4e0b....</td></tr><tr><td></td><td></td><td>&lt;\u4e94&gt;\u5b89\u885b\u74b0\u4fdd \u7ba1\u7406</td><td>1.\u914d\u5408\u653f\u7b56\u63a8\u52d5\u5168\u54e1\u5b89\u885b\u53ca\u9810....</td></tr><tr><td>\u53c3\u5de5\u7a0b\u7d30\u90e8\u8a2d\u8a08</td><td>\u4e00\u571f\u6728\u5efa\u7bc9\u5de5\u7a0b\u8a2d\u8a08 my</td><td>&gt;\u65b0\u838a\u7dda</td><td>1. \u914d\u5408\u5728\u5efa\u5de5\u7a0b\u9700\u8981,\u8fa6\u7406\u65b0....</td></tr><tr><td></td><td></td><td>&lt;\u4e8c&gt;\u4fe1\u7fa9\u7dda</td><td>1. \u914d\u5408\u5728\u5efa\u5de5\u7a0b\u9700\u8981,\u8fa6\u7406\u4fe1...</td></tr><tr><td></td><td></td><td>&lt;\u4e09&gt;\u677e\u5c71\u7dda</td><td>1. \u914d\u5408\u5728\u5efa\u5de5\u7a0b\u9700\u8981,\u8fa6\u7406\u677e.....</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

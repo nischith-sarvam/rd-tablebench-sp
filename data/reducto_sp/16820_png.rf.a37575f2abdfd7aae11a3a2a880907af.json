@@ -1,0 +1,36 @@
+{
+  "job_id": "4ec16d6b-0472-4a8f-875b-2312316c3b7d",
+  "duration": 179.65378093719482,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/4c7e3390-5ed5-4d93-8936-47af42315998.pdf?AWSAccessKeyId=ASIA2UOK6OVBIKM43UJW&Signature=siUdTnrRifVeeib6nZBWaJDyvrE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD8qugAxPcr%2FFH47y3cgus3FIBl17lsl%2Bdq%2BFdd1HpMkQIgZv1YkvPOpaJgK1fJvPs8WQ9BX7v8WgoZp6M%2BdCGwtN8qgwUIKhAAGgw3MzExMDY5MzIwMzQiDA5raH4rtbnLDlonCCrgBOx0Ly%2FUL3E9q%2FxhVsmHX217eeuXmywMva0dMLNf9bQE5fac7J5jjZZ1d9P2the2Nc2IociNvCR8WsbKkDGWLpeQM7Lcqqrj4iQ8wvF7ZP%2F94VIO77pMLpW9hg29D1UaplFscsKAz%2FYqREN%2FYyOX97HWlnviIlNCVdhSRiVSrH3ZwzAzwb20KhXmugYMj8LGf8ozo9ASI%2FCPSaUD0TGpg83I42S8%2BZToj%2Ffca6HOpwjhyaMHwUTSUqYSFfcJ%2FQZydZHt0SmB9e98ccMpcJK4mk8fFeiH15OGJ9siSD4gI9%2Bf9B955%2FREeQl1ZZi1DZU%2B1MAiBG164QOj8TE4isW%2FO2ZwCOSNg3Wg7Evip%2Fh%2BxARTdci85KbXheJaPqKvIEW4CDFjPyjscBPM7%2BZ3KmbfeNXJ2EOdm3A1YBOFkJZN5j4o0D6iELCix49ueaXX2wZtjQI6VplN4NIIlTEFXqp%2BSufK720UR3ycN%2Fp8G7u6axKeloKVk0fvhhG3eeiuQ5whAioQqwOCyRy%2Fo1UCJeq43DEcfwlpLht1ptDiFSKcKWH7mNo9YGNU5jTPRPOar5E0QpdtjpzZTeRJ4a2IyBev6qHPmH%2F0aAhetGlu7j2A%2B02uILldYdRxOafe6K2PHv%2F7VrpnqrJPRAUGstgTqGlPm4GvLAbvMJmsvAX3qJ5XTnQItJXy4oTzdTa%2BRzn7LF8FgEkVkSYap2cX91CV6w0IrxYGPJ0JyusC32pgQK5ltwBR%2BJzhg6VTcoSAU5iG4Pv4lWImFC%2BnWcJAzKQz%2FroiHRQkLK3IEtNaWq6gj3tWlKHYMMfyjr8GOpoB%2FjVxfDS774fYbtffcrvEOyzllp5sX5QrxDsklC8ZG7334TluoWzDa1N7Xm6Nmj13%2BBBP3nVve%2BkBct%2FEVKtOD%2FABX4BTA2dSNlusYMCAO%2BBvGiXFTfqnYquohsRdPIypRVjNoqwR%2BUgGdxe5rNx8pYULzYPgtveuXavuijvMBjKtglm3fsWZZwkmfbpsI6C%2FHb%2Fz0TrBjszuZg%3D%3D&Expires=1742981021",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>\u8a66\u9a13\u54c1 / \u691c\u67fb\u9805\u76ee</th><th>\u691c\u67fb\u7d50\u679c</th><th>\u5355\u4f4d</th><th>\u691c\u67fb\u57fa\u6e96\u53ca\u3073\u691c\u67fb\u6cd5\u7b49</th></tr><tr><td>\u3010\u8a66\u9a13\u54c1\u3011 \u30ab\u30e9\u4ed8\u30ab\u30ad</td><td></td><td></td><td>\u751f\u98df\u7528\u304b\u304d</td></tr><tr><td>\u7d30\u83cc\u6570 (\u751f\u83cc\u6570)</td><td>10</td><td>\u4ee5\u4e0bCFU/g</td><td>\u691c\u67fb\u57fa\u6e96:5.0 \u00d7 104CFU / g\u4ee5...</td></tr><tr><td>E. coli</td><td>|18\u672a\u6e80</td><td>MPN/100g</td><td>\u691c\u67fb\u57fa\u6e96: 230MPN / 100g \u4ee5...</td></tr><tr><td>|\u8178\u708e\u30d3\u30d6\u30ea\u30aa</td><td>3.0</td><td>MPN/g</td><td>\u30a2\u30eb\u30ab\u30ea\u30da\u30d7\u30c8\u30f3\u5897\u83cc\u57f9\u990a\u6cd5...</td></tr></table>",
+        "embed": "<table><tr><th>\u8a66\u9a13\u54c1 / \u691c\u67fb\u9805\u76ee</th><th>\u691c\u67fb\u7d50\u679c</th><th>\u5355\u4f4d</th><th>\u691c\u67fb\u57fa\u6e96\u53ca\u3073\u691c\u67fb\u6cd5\u7b49</th></tr><tr><td>\u3010\u8a66\u9a13\u54c1\u3011 \u30ab\u30e9\u4ed8\u30ab\u30ad</td><td></td><td></td><td>\u751f\u98df\u7528\u304b\u304d</td></tr><tr><td>\u7d30\u83cc\u6570 (\u751f\u83cc\u6570)</td><td>10</td><td>\u4ee5\u4e0bCFU/g</td><td>\u691c\u67fb\u57fa\u6e96:5.0 \u00d7 104CFU / g\u4ee5...</td></tr><tr><td>E. coli</td><td>|18\u672a\u6e80</td><td>MPN/100g</td><td>\u691c\u67fb\u57fa\u6e96: 230MPN / 100g \u4ee5...</td></tr><tr><td>|\u8178\u708e\u30d3\u30d6\u30ea\u30aa</td><td>3.0</td><td>MPN/g</td><td>\u30a2\u30eb\u30ab\u30ea\u30da\u30d7\u30c8\u30f3\u5897\u83cc\u57f9\u990a\u6cd5...</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9051217464315701,
+              "height": 0.1336104513064133,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>\u8a66\u9a13\u54c1 / \u691c\u67fb\u9805\u76ee</th><th>\u691c\u67fb\u7d50\u679c</th><th>\u5355\u4f4d</th><th>\u691c\u67fb\u57fa\u6e96\u53ca\u3073\u691c\u67fb\u6cd5\u7b49</th></tr><tr><td>\u3010\u8a66\u9a13\u54c1\u3011 \u30ab\u30e9\u4ed8\u30ab\u30ad</td><td></td><td></td><td>\u751f\u98df\u7528\u304b\u304d</td></tr><tr><td>\u7d30\u83cc\u6570 (\u751f\u83cc\u6570)</td><td>10</td><td>\u4ee5\u4e0bCFU/g</td><td>\u691c\u67fb\u57fa\u6e96:5.0 \u00d7 104CFU / g\u4ee5...</td></tr><tr><td>E. coli</td><td>|18\u672a\u6e80</td><td>MPN/100g</td><td>\u691c\u67fb\u57fa\u6e96: 230MPN / 100g \u4ee5...</td></tr><tr><td>|\u8178\u708e\u30d3\u30d6\u30ea\u30aa</td><td>3.0</td><td>MPN/g</td><td>\u30a2\u30eb\u30ab\u30ea\u30da\u30d7\u30c8\u30f3\u5897\u83cc\u57f9\u990a\u6cd5...</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "job_id": "00252dd3-5411-423c-90b6-7471ec7b29c5",
+  "duration": 117.90638518333435,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/a936b05a-5ca8-4040-9510-5c50f82932c5.pdf?AWSAccessKeyId=ASIA2UOK6OVBK42DZP3B&Signature=uAJvtyhO58TaFtSJm99Bnrp3HDc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGzn6VOpuuTbobiO4yCTgI9jaoy%2BOgXHkHnFpRvAgMjpAiEA7%2BmncMs%2BtmQSj0CIZ9T4Y8qMgnLswOMP83w038mGWrsqgwUIKhAAGgw3MzExMDY5MzIwMzQiDDmRGoI5wWjFojqXISrgBAMuBRskLII7C0maiFkGR4paxaHiHheJyXo7sxpZWdX0IuMj4II%2BnxmgRJVmu9wH%2Bl0knSWiEHoTYqym5Xg298kLmMLC1Y41pL26zJxx0M%2BeJnuls689NiqIFCLXYGLqZKJa6lzlhRJKNtWZH0RefmDinicXDk8FvJq7mG1k2rsFC9E2VCvdDjMGJ2J%2BvpSKDKkWOTY03UaPN%2B9ZFyXamT2vK8b3rrJ8tSw%2FlmiEzVirQx%2BioUwrLYqzhH7dBWwCa1oCndJ9DOeJQVRILyQkkVV2s%2FJMnREacA%2FwWdR4bksfg49N47RizEwhuO4OO5jdt5IEJ%2BfSCS9yqcyayU3zwOlpAsuF5qWm4x4i1oQHbKDR35K6vFr0xwCQjFpfeBwe%2FfVsWbF%2BRiVrP%2FgpBebOGDzIatA0GqwQA5rWORxr3IkV0f%2Bd7zRa3vJUjezdmnzFggofpkHAa7WC7u17C2GIpyoV%2B7E1f5NCdcJRFnTXzm8BVL0hHDr1Kwm5nnsI2icx1JTV2037%2BM1Nsqb6Vz0DuF4gMnad2acXzwxNJHzDb5fW5R03msQzwHCYf5OXjSuBRM7TnCkzM4JtImRD1rAFbELHY%2F9b%2FsCDePMfc73XjxgcdcRoD%2BDu0GgurDUEmZnLETzxImk84RLFWJYRbnXzIPBFiNXG0GOY2g%2FL8PtRPUImLHM%2FXZ5IfrknIgPvw9YdhRJWE4s9pGnA9p19NA%2F3pH3EZwhpzoD6sQytM1qKtCqS4bikJ7idoXaH4GXaAeLXQfNdqzRoc6CAqL5B1YUJBzw3Z3aeM1uj7cFVB6xu6kAMML3yjr8GOpoBYhA5LM6Wce9b%2BVEwDDCZFkAk5CfU4m3o2k1RsPT0qKZgu5CewNVuyh4R9zWmUfyOlsSnXm1Jx5KtN5uBqQcK7vgBjYW5KRMwUwuT15urQkiu3ByeDh4fM7QsQX6A0T7V6ED2RukdpLJuJQKoLuzMONdQ8KSfF2gfivr7odGBcC6lEVuxfgnw0Gn3Wzk7Pjyk2KlFFgWPM38vtw%3D%3D&Expires=1742980948",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"3\"></th><th>\u54c1\u540d</th><th>\u4e0d\u92b9\u92fc\u7403</th><th>\u7279\u5fb5</th></tr><tr><td>\u5546\u54c1\u4ee3\u78bc</td><td>152561</td><td rowspan=\"2\">\u6a5f\u68b0\u624b\u5074\u76f4\u901a\u63a5\u982d\u7528\u4e0d\u92b9\u92fc\u92fc....</td></tr><tr><td>\u578b\u865f</td><td>PHI.10</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"3\"></th><th>\u54c1\u540d</th><th>\u4e0d\u92b9\u92fc\u7403</th><th>\u7279\u5fb5</th></tr><tr><td>\u5546\u54c1\u4ee3\u78bc</td><td>152561</td><td rowspan=\"2\">\u6a5f\u68b0\u624b\u5074\u76f4\u901a\u63a5\u982d\u7528\u4e0d\u92b9\u92fc\u92fc....</td></tr><tr><td>\u578b\u865f</td><td>PHI.10</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.042821158690176324,
+              "top": 0.0332541567695962,
+              "width": 0.9059613769941226,
+              "height": 0.08016627078384798,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"3\"></th><th>\u54c1\u540d</th><th>\u4e0d\u92b9\u92fc\u7403</th><th>\u7279\u5fb5</th></tr><tr><td>\u5546\u54c1\u4ee3\u78bc</td><td>152561</td><td rowspan=\"2\">\u6a5f\u68b0\u624b\u5074\u76f4\u901a\u63a5\u982d\u7528\u4e0d\u92b9\u92fc\u92fc....</td></tr><tr><td>\u578b\u865f</td><td>PHI.10</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

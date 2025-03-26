@@ -1,0 +1,36 @@
+{
+  "job_id": "bc327509-a553-41e7-881d-b0c23eaa1a9c",
+  "duration": 128.3673415184021,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/fba06711-6da2-40ca-a7b7-8e7814187a30.pdf?AWSAccessKeyId=ASIA2UOK6OVBCTZA7CNH&Signature=9AfGSRnhLMs%2FJ%2B9Azbi02D9EfjQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIF%2FhAtACd2ZCqOBfvYfUr8Pxt6Fo%2BshfZvp8neBws9NwAiBY4q2jifpk9UpIqENi63cBM%2FOTktiWvbA9zgNSghuXqSqDBQgpEAAaDDczMTEwNjkzMjAzNCIMJpOreqoOS%2BMdX06dKuAEzcBczEs5%2BoobJxC6dQigS93PEiVp1PNJxFHn4PNwbXmjHriXLyYKwVC5jfC%2F5SlX1Dl8rwm64XHJtCdISaNDxC7Bh%2FKnISttlsdhdaNjH1gl4XFGLcElC2sccaTSgEtKC1zYRGnM2NCVu1ndrKjHaX2uezd6QAmCpwedTwoKOmemxPO%2B4mP9D91ep36Bc6eJoKIUnE0I5yBaTOZXkYxLBMZQ9EmDGn9ZTW4DkRGL%2Bn2gG1F0p5%2BVJ7vfxE22deP4i70855zhPAYdGgFOoZ%2FHZB1FqU0PrKvCUfpn8SVAH73DphMLIpZYb7DRivqeF0TLVLqiaEIXaK6A15jfDZ9gjwCHVBbbaJFfbWlSYWjEq0PQZ%2Br3oRGBx%2BpcZQx1vQLGCmu0Njg1vs61ckREbNO0iv0rF9w9dsmnLhGfoMRV1BVqxIGabo2Cg%2FHQpSnt51qSdOzT9eWs2USEBpJr5WAVVf953gcT77itMrKnaTgjYtkX%2BB2W5coGE4zIyfKU%2F9HUA2YYMzgkpkxtqmE%2BosO01ptom%2F%2FYvUYdeq4FlrZlu3lt42mzhrgtkQ%2FTX9Ph2luyW%2BIfEL2xZgTCjOSLYtgaGssgqxZEONHW6%2FtImzDx8QCjcdq0AUfTqgXnUY8fVkKXWmtgTVI5PVAvUWWKCCgcWgzIdV7CXQGLFtsv%2FWiemdHvv4gpN69Cq4KwI26wzkQ7BodQ1DFJ3ictwSJbRqBeUxEsova7k3AeWyjGLHzLLl888tZQhxumQxeoapOKLaWv5QZaAFMpQmz86kQSp%2FVCX8tHOkn2DpJ9R7nLp3AcPLAwlOiOvwY6mwHRIEh%2BaCNqEKH2lRKRHcdQ3VICC0qoC1ZofCYNTKj7VpAAUbeeRQ2kBtzj7BXe6Qr%2B2R7Dla29OLpe%2B3tXExLdbvkJ3ijuCcPQS2Q7vmqqHB58PiAdyTF6bi9fvdv7BPOsUi5Q95d9iZs5JyXOTCJ%2B63B3AT1uuehRqXPuRhqIGTphfx%2F0rkM%2Ff1xh42HU%2FLN1BZiHMkzY%2FcbOZg%3D%3D&Expires=1742980951",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Sociedad</th><th>Tribunal</th><th>N\u00b0 Rol de la causa</th><th>Origen</th><th>Etapa procesal e...</th><th>Montos compro...</th></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>10 a Vara das Exe...</td><td>0061196-68.2016...</td><td>Embargos a la Eje...</td><td>El 16/02/2017 la e...</td><td>39.584</td></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>Secretar\u00eda de Rec.</td><td>5002912.29.20 19...</td><td>Acci\u00f3n judicial par</td><td>Distribuida la acci</td><td>11.139</td></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>DERAT SPO (Del</td><td>13808.005459/20...</td><td>Cobranza del Imp...</td><td>Proceso qued\u00f3 en</td><td>23.228</td></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>Delegacia de Rec.</td><td>10611.720630/20...</td><td>Juicio administrati...</td><td>La defensa admini</td><td>20.410</td></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>Delegac\u00eda de Rec...</td><td>10611.720852/20...</td><td>Valor cobrado ind...</td><td>Actualmente espe</td><td>14.631</td></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>Delegac\u00eda de Rec</td><td>16692.721.933/ 2...</td><td>Servicio Federal d...</td><td>El 29/05/2018 se ...</td><td>31.381</td></tr></table>",
+        "embed": "<table><tr><th>Sociedad</th><th>Tribunal</th><th>N\u00b0 Rol de la causa</th><th>Origen</th><th>Etapa procesal e...</th><th>Montos compro...</th></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>10 a Vara das Exe...</td><td>0061196-68.2016...</td><td>Embargos a la Eje...</td><td>El 16/02/2017 la e...</td><td>39.584</td></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>Secretar\u00eda de Rec.</td><td>5002912.29.20 19...</td><td>Acci\u00f3n judicial par</td><td>Distribuida la acci</td><td>11.139</td></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>DERAT SPO (Del</td><td>13808.005459/20...</td><td>Cobranza del Imp...</td><td>Proceso qued\u00f3 en</td><td>23.228</td></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>Delegacia de Rec.</td><td>10611.720630/20...</td><td>Juicio administrati...</td><td>La defensa admini</td><td>20.410</td></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>Delegac\u00eda de Rec...</td><td>10611.720852/20...</td><td>Valor cobrado ind...</td><td>Actualmente espe</td><td>14.631</td></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>Delegac\u00eda de Rec</td><td>16692.721.933/ 2...</td><td>Servicio Federal d...</td><td>El 29/05/2018 se ...</td><td>31.381</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.17874109263657958,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Sociedad</th><th>Tribunal</th><th>N\u00b0 Rol de la causa</th><th>Origen</th><th>Etapa procesal e...</th><th>Montos compro...</th></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>10 a Vara das Exe...</td><td>0061196-68.2016...</td><td>Embargos a la Eje...</td><td>El 16/02/2017 la e...</td><td>39.584</td></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>Secretar\u00eda de Rec.</td><td>5002912.29.20 19...</td><td>Acci\u00f3n judicial par</td><td>Distribuida la acci</td><td>11.139</td></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>DERAT SPO (Del</td><td>13808.005459/20...</td><td>Cobranza del Imp...</td><td>Proceso qued\u00f3 en</td><td>23.228</td></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>Delegacia de Rec.</td><td>10611.720630/20...</td><td>Juicio administrati...</td><td>La defensa admini</td><td>20.410</td></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>Delegac\u00eda de Rec...</td><td>10611.720852/20...</td><td>Valor cobrado ind...</td><td>Actualmente espe</td><td>14.631</td></tr><tr><td>TAM Linhas A\u00e9rea...</td><td>Delegac\u00eda de Rec</td><td>16692.721.933/ 2...</td><td>Servicio Federal d...</td><td>El 29/05/2018 se ...</td><td>31.381</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

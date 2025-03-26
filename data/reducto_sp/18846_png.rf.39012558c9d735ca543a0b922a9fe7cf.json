@@ -1,0 +1,36 @@
+{
+  "job_id": "47c12e85-6846-467e-b0de-1c4dd7c8ec9b",
+  "duration": 48.44111156463623,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/75eebaeb-a851-4789-b5f5-1f5360765931.pdf?AWSAccessKeyId=ASIA2UOK6OVBIXFBIGDF&Signature=MxuypPpoMK8%2BXj%2BTCVnc34Ue3j0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFrBPoAbDrEBZwL5m03pW4yw3OYTL9RXR7ZP5fnxV5CNAiEAvG%2FS5GGvyTwCKqxChnRpjt8yWU4RbdgXNS1rcG4ZkJ0qgwUIKRAAGgw3MzExMDY5MzIwMzQiDARAZOHiSD7VsyxBrSrgBN5Da2Jbn4%2B%2B22bzg99e1evOwpiir89SZbQZRfAz0ja6T9iEoczSCcln5BLlaX%2FqWAmtZAmXB4WeuxMzGPkxX%2FRbhI037lOHdG460ozE4gqLUiTDFtkavioHi9fXJrRln17VxLgKlGCy1fC%2F72NxK6BUppYTsG%2FdOjZzVbOOlotstH5ly1cY7brfemlxzGer9xLf0Nq%2Bv40rDx76SlybtZO5i9OOR8L2MUB%2BHbwFW1GbYqTsOo81wdbPZrzD6B8vO56Wqho%2B46H%2BcPNWauGazRT%2BZawPDqxZlTDRsGpUObLNIS4BE0u4N3RXptTICUo5KMC9uibyKovCMYDIBdA%2Fugdb1hF4GoHZQTgP4Zz0HHeNXm5S8M6ZtIm35E3Ru3%2Fd5AZblr7g60Qs8ii2gabJOs7izTtMAiLRud%2FDNjnhuxkpGarmFo%2FCT4fK3LeDlXKKJXYZp6pQg5a3Px9s%2F6kur3YwFIrCCc%2FQtGQ01CMUrwzmYOdApNXlBWgH9F6DUytKRc0eiqGdOt2vzI2wkfZvNCSqgf3PVLNQrPR4fhuiHEWO2nmVLgyIQn8kPErvmywpGycHCymbrKewGWBw7ISCQJAzFdOUpYZc6qKVzDKXuB99wQh%2FjBGrUXziTezgZjAI1gcjKM9r%2B7hbZXIyEl9TqCoYtfFh%2BW8pI2qCi1dvHLPeZosikQeUZS3odiKMR6p3bg9JyJYDYxAsCwxB1kUKybfe6O1gU8slTEaqQukdDKio2Mwm5s8O5SrnY%2F3pDLvYjbaE%2BUxWTie2IErVSwO754cJWRUh7ILBvDQgb%2BA0C8AiMKjfjr8GOpoB3qNuKeHQeNUUBhwoR1YcPMD61TQnpsEnHJWa%2FBE3V03g%2FODrU%2BWFcisbupQFxRw3rRAZFqROArFTHO%2FDbzzfItfUqqOPSFUObaYYmJ2Mazqnh%2BA8c%2B%2FF7%2BSXW76TPfr6VcGhNfAKUaeB6wpS9AmT6HZ97QE4dV2UWaZYEHJSClV9l5VcaYzHzRXnCw2fDzDvpgj6QndoH7F4xg%3D%3D&Expires=1742980866",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>\u65b0\u5317\u5e02</th><th>20,140,846,290</th><th>20,221,746,457</th><th>80,900,167</th><th>0.40%</th></tr><tr><td>\u6843\u5712\u5e02</td><td>27,436,224,894</td><td>27,789,098,258</td><td>352,873,364</td><td>1.29%</td></tr><tr><td>\u9ad8\u96c4\u5e02</td><td>27,282,633,871</td><td>27,719,544,376</td><td>436,910,505</td><td>1.60%</td></tr><tr><td>\u5609\u7fa9\u7e23</td><td>2,584,006,145</td><td>2,630,782,891</td><td>46,776,746</td><td>1.81%</td></tr><tr><td>\u5f70\u5316\u7e23</td><td>10,129,009,428</td><td>10,371,440,455</td><td>242,431,027</td><td>2.39%</td></tr><tr><td>\u5c4f\u6771\u7e23</td><td>4,353,672,161</td><td>4,462,197,358</td><td>108,525,197</td><td>2.49%</td></tr><tr><td>\u96f2\u6797\u7e23</td><td>5,313,146,381</td><td>5,456,202,030</td><td>143,055,649</td><td>2.69%</td></tr><tr><td>\u65b0\u7af9\u7e23</td><td>9,200,593,481</td><td>9,505,554,453</td><td>304,960,972</td><td>3.31%</td></tr><tr><td>\u9023\u6c5f\u7e23</td><td>48,792,479</td><td>52,114,198</td><td>3,321,719</td><td>6.81%</td></tr><tr><td>\u53f0\u4e2d\u5e02</td><td>26,353,739,787</td><td>28,222,831,498</td><td>1,869,091,711</td><td>7.09%</td></tr><tr><td>\u5168\u570b</td><td>204,169,262,066</td><td>207,152,893,621</td><td>2,983,631,555</td><td>1.46%</td></tr></table>",
+        "embed": "<table><tr><th>\u65b0\u5317\u5e02</th><th>20,140,846,290</th><th>20,221,746,457</th><th>80,900,167</th><th>0.40%</th></tr><tr><td>\u6843\u5712\u5e02</td><td>27,436,224,894</td><td>27,789,098,258</td><td>352,873,364</td><td>1.29%</td></tr><tr><td>\u9ad8\u96c4\u5e02</td><td>27,282,633,871</td><td>27,719,544,376</td><td>436,910,505</td><td>1.60%</td></tr><tr><td>\u5609\u7fa9\u7e23</td><td>2,584,006,145</td><td>2,630,782,891</td><td>46,776,746</td><td>1.81%</td></tr><tr><td>\u5f70\u5316\u7e23</td><td>10,129,009,428</td><td>10,371,440,455</td><td>242,431,027</td><td>2.39%</td></tr><tr><td>\u5c4f\u6771\u7e23</td><td>4,353,672,161</td><td>4,462,197,358</td><td>108,525,197</td><td>2.49%</td></tr><tr><td>\u96f2\u6797\u7e23</td><td>5,313,146,381</td><td>5,456,202,030</td><td>143,055,649</td><td>2.69%</td></tr><tr><td>\u65b0\u7af9\u7e23</td><td>9,200,593,481</td><td>9,505,554,453</td><td>304,960,972</td><td>3.31%</td></tr><tr><td>\u9023\u6c5f\u7e23</td><td>48,792,479</td><td>52,114,198</td><td>3,321,719</td><td>6.81%</td></tr><tr><td>\u53f0\u4e2d\u5e02</td><td>26,353,739,787</td><td>28,222,831,498</td><td>1,869,091,711</td><td>7.09%</td></tr><tr><td>\u5168\u570b</td><td>204,169,262,066</td><td>207,152,893,621</td><td>2,983,631,555</td><td>1.46%</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.0436607892527288,
+              "top": 0.032660332541567694,
+              "width": 0.9059613769941226,
+              "height": 0.2915676959619953,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>\u65b0\u5317\u5e02</th><th>20,140,846,290</th><th>20,221,746,457</th><th>80,900,167</th><th>0.40%</th></tr><tr><td>\u6843\u5712\u5e02</td><td>27,436,224,894</td><td>27,789,098,258</td><td>352,873,364</td><td>1.29%</td></tr><tr><td>\u9ad8\u96c4\u5e02</td><td>27,282,633,871</td><td>27,719,544,376</td><td>436,910,505</td><td>1.60%</td></tr><tr><td>\u5609\u7fa9\u7e23</td><td>2,584,006,145</td><td>2,630,782,891</td><td>46,776,746</td><td>1.81%</td></tr><tr><td>\u5f70\u5316\u7e23</td><td>10,129,009,428</td><td>10,371,440,455</td><td>242,431,027</td><td>2.39%</td></tr><tr><td>\u5c4f\u6771\u7e23</td><td>4,353,672,161</td><td>4,462,197,358</td><td>108,525,197</td><td>2.49%</td></tr><tr><td>\u96f2\u6797\u7e23</td><td>5,313,146,381</td><td>5,456,202,030</td><td>143,055,649</td><td>2.69%</td></tr><tr><td>\u65b0\u7af9\u7e23</td><td>9,200,593,481</td><td>9,505,554,453</td><td>304,960,972</td><td>3.31%</td></tr><tr><td>\u9023\u6c5f\u7e23</td><td>48,792,479</td><td>52,114,198</td><td>3,321,719</td><td>6.81%</td></tr><tr><td>\u53f0\u4e2d\u5e02</td><td>26,353,739,787</td><td>28,222,831,498</td><td>1,869,091,711</td><td>7.09%</td></tr><tr><td>\u5168\u570b</td><td>204,169,262,066</td><td>207,152,893,621</td><td>2,983,631,555</td><td>1.46%</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

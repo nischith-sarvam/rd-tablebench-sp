@@ -1,0 +1,36 @@
+{
+  "job_id": "1baa74df-9f45-4e96-9923-108a39997c4d",
+  "duration": 208.51866626739502,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/11b39511-9051-4f29-be31-71bac3825e95.pdf?AWSAccessKeyId=ASIA2UOK6OVBLYKZT6C5&Signature=3NOMd7PaJWc%2Bk%2Bp5IdvQK1r2IIE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGQo32y5NVvmGZteejuZ%2BTZ7HHWk1wUWq391y0vt57PhAiEAv7dXN4Sw5MbMwD175ZgrmZXZMoPULK4tO7YSDfMYkuoqgwUIKRAAGgw3MzExMDY5MzIwMzQiDLatM2Qc8L9AzKNoeyrgBH9I0XMbpXD2DpaFUDZi4YD4cuvZlGdNO37XcWNQUPSaOqBt8F8pR4PF3UGim8b3uWxLO4LuHEVcoVWaTeS2IOZ3yaUmqnfnjrxr3dPsFKJ9N7UCCsEn8cgTYhesAU0%2BseaYKyNhOU28VbZyB8Yv%2BeNFpjo9dRd1toRv%2FDkkTKJ7XPm6UvNn4pOYJRZ4cFq1XkHoMjlS6Nuyi68lJlm3kkm0YLCvagBuiA0u7qbfGLhCuS6Zkm%2Fb6TQyrWYm97Tpy4qKPWn3T6e3TkLYGyLB6eWYmGDj3E758%2BFRdz464S0L8CZ8sJAtUoNbNFGaQFgBUMflLMuozR%2FWgpmwXZ4ki%2BxwAN327X9okI%2FZr4M13yfhMiET%2BlgJIDAF7Ki3oRYhGN%2FoNRFEHHxVdaL%2FixMKsi9VTwqGibr%2BrzH4IpNm9wDtwIS8eFl0xLLghhb32oTMx8LXRPFAC2THIMRwB0dQljm1kcqFuEoZAotDdNXSkgB21QAwHktv%2BBj%2F2tCOjTH%2FdIrh27rOqoHbiwpAKxcn%2B70fPO0L16QjHEpCwaSfFDtHEm9mUQoRO33g2%2BBFInCYNm1SgzPFowM5qY4dnX%2FzFTm98m2hA0T5E%2FQ6CQqCvBJnCvaDj9XssUsVhsOxede%2BRLUIAy%2Frt%2FQDfH8tovZUhRF2WQ%2FbDWSqDlaqnuTuzI4Yp5ZLj3yReQRgZKVn51xZT%2FAgW7UphLUlO7gCb%2FM4kUY1sQu0kHRzd2t0QvcczEqQP5clKnealrN6NT8DSNBwNwc1ZnSKjhE%2B1O2xfADGzH1q9PH6fs1h%2BicO%2Bz89jI2%2FMKfrjr8GOpoBf6bGswngQMMZhn%2Bdcm2YTXrsxr61yJQRagYw7roJ7BlR7KhL380CMXVOtDW6%2FnbZs5l5mwunFRmjIDyhY2gRz7IUQ0U7X51G9DWKNEUYraB8tr1md97j945%2BKKmGrbpCpXtNFxUoCjgcutjZbr9ZwSXtsmmSiwzUXNg6y4LtrpuAsIsdjPxa3Bp0DyrbaIKibva3I8m4iNI%2B6g%3D%3D&Expires=1742981044",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"3\">Available Dinner 7 days a week &amp; lunch on Saturday &amp; Sunday</th></tr><tr><td>Fish &amp; Chips W. chips, salad &amp; house m...</td><td>M: $16.00</td><td>NM: $17.50</td></tr><tr><td>Chicken Parma Crumbed chicken breast</td><td>M: $16.00</td><td>NM: $17.50</td></tr><tr><td>Crumbed Calamari W. chips, salad &amp; ho</td><td>M: $17.00</td><td>NM: $18.50</td></tr><tr><td>Roast of the Day gf W. roasted chat pota</td><td>M: $17.00</td><td>NM: $18.50</td></tr><tr><td>Seafood Basket Tempura whiting, crumb</td><td>M: $18.00</td><td>NM: $19.50</td></tr><tr><td>Penne Bolognese Rich beef bolognese t...</td><td>M: $16.00</td><td>NM: $17.50</td></tr><tr><td>Crumbed Lamb Cutlets W. creamy mash</td><td>M: $19.50</td><td>NM: $21.00</td></tr><tr><td>Corned Beef gf on request W. mash, veg</td><td>M: $18.00</td><td>NM: $19.50</td></tr><tr><td>Curried Sausages W. creamy mash &amp; ve</td><td>M: $18.00</td><td>NM: $19.50</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"3\">Available Dinner 7 days a week &amp; lunch on Saturday &amp; Sunday</th></tr><tr><td>Fish &amp; Chips W. chips, salad &amp; house m...</td><td>M: $16.00</td><td>NM: $17.50</td></tr><tr><td>Chicken Parma Crumbed chicken breast</td><td>M: $16.00</td><td>NM: $17.50</td></tr><tr><td>Crumbed Calamari W. chips, salad &amp; ho</td><td>M: $17.00</td><td>NM: $18.50</td></tr><tr><td>Roast of the Day gf W. roasted chat pota</td><td>M: $17.00</td><td>NM: $18.50</td></tr><tr><td>Seafood Basket Tempura whiting, crumb</td><td>M: $18.00</td><td>NM: $19.50</td></tr><tr><td>Penne Bolognese Rich beef bolognese t...</td><td>M: $16.00</td><td>NM: $17.50</td></tr><tr><td>Crumbed Lamb Cutlets W. creamy mash</td><td>M: $19.50</td><td>NM: $21.00</td></tr><tr><td>Corned Beef gf on request W. mash, veg</td><td>M: $18.00</td><td>NM: $19.50</td></tr><tr><td>Curried Sausages W. creamy mash &amp; ve</td><td>M: $18.00</td><td>NM: $19.50</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032660332541567694,
+              "width": 0.9042821158690176,
+              "height": 0.25534441805225655,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"3\">Available Dinner 7 days a week &amp; lunch on Saturday &amp; Sunday</th></tr><tr><td>Fish &amp; Chips W. chips, salad &amp; house m...</td><td>M: $16.00</td><td>NM: $17.50</td></tr><tr><td>Chicken Parma Crumbed chicken breast</td><td>M: $16.00</td><td>NM: $17.50</td></tr><tr><td>Crumbed Calamari W. chips, salad &amp; ho</td><td>M: $17.00</td><td>NM: $18.50</td></tr><tr><td>Roast of the Day gf W. roasted chat pota</td><td>M: $17.00</td><td>NM: $18.50</td></tr><tr><td>Seafood Basket Tempura whiting, crumb</td><td>M: $18.00</td><td>NM: $19.50</td></tr><tr><td>Penne Bolognese Rich beef bolognese t...</td><td>M: $16.00</td><td>NM: $17.50</td></tr><tr><td>Crumbed Lamb Cutlets W. creamy mash</td><td>M: $19.50</td><td>NM: $21.00</td></tr><tr><td>Corned Beef gf on request W. mash, veg</td><td>M: $18.00</td><td>NM: $19.50</td></tr><tr><td>Curried Sausages W. creamy mash &amp; ve</td><td>M: $18.00</td><td>NM: $19.50</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

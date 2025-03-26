@@ -1,0 +1,36 @@
+{
+  "job_id": "fd4003a0-7bbc-4b1c-a5d1-c584d6bacbfa",
+  "duration": 45.66529846191406,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/885665f0-b8eb-4626-b19b-b33ec4ae2ee2.pdf?AWSAccessKeyId=ASIA2UOK6OVBPIA3Z4JB&Signature=VQaCIfVKwjDTgmcmSXTgviRPhW0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQD%2FXjCQF9fx6D%2FXsvVV5Fqf5HaWG4GAw%2Bt%2F4qKjvaJqPAIhAJc598PJ0R2TMJE656N5FTP%2Bjzg5m%2Fa%2BMhdIRhY6hlgfKoMFCCkQABoMNzMxMTA2OTMyMDM0IgyzqS27cMCrLKkGAHwq4ASIMmg%2FFSO7zlSateO3sbzxWzD%2F0XdinR9m6Qwe%2FzsH3fuCrzOm%2BhgHws82fyk8LnXH5fs0n21h2i479mzo9s0C%2Bfjxy1C3NySrs1ZyWc6kqT29DxkdzK8DR1T0L4jxKkBvtpAN3TdcZRsKbtbPZxjOdPNxhBV78kJ%2Flwa8B5yLNmtLo3qfwkzNzdQn%2B7cMfZ42vl%2BbpvZ%2FtTBIgmHSohemiPQ2EeDoep0mwBnA43lKp5hcr6dEACc8OzEV1V86P2%2FyPOF0JXtjU%2FNUS%2BGPpqpw0H%2BpTT3Cudw3Q1ADwzOHDtoZZhT0Fzm%2B0qDtP%2FMixT%2BeRRg%2Fsmn5hAxQXfvs77%2B%2BLIjtAtLjCxaL4tJP5FAcTSMn6BiQB6fvDCZHB8huBHf5ePMfccJb0L%2FzEEUutl%2BtZ8cJCUHGUIxUza49PD3xad2hP3H8jqWThTefiW0oVBHIy2xhAivQ%2FJYUFDYaZE10KyQO%2Fs1m26SXKRUwS02UxGTOPjC49sSteEXmRoK4d7KyrKUdnrSopbqELBTemHCuyGJDiiRpxjh%2F4d%2FZ2oOZde%2BzsvtzDKksbqRQWeAGW7kFgcNfCU3F7BRhEAX01jt8Nq16SpgqpAU%2FxN%2BOmHqhw5kABJNdiCxXQDGz%2Fn0mZTW1bLKS5iRu1jnjKxjCqZKxhu%2F2LNbbpWPM1bT71vdE5Uqn862rzmqUbTMirwEGPw6Ry8iWCcWY%2BdYS7bJUwWLuz7Sureb1LxC0t8YD4lF719rdR6RaEDS5cvX8C4Q9aIFq0HHZmjPrHQJcmZpyfTs6VfY6GPFAAI%2FQuGFcXi9X%2FzD9646%2FBjqZAXCc%2F3pPjqcTtHU%2BxV5dGTFpgabO4qWtHBRQPjLiDofvlzjMr%2FaH%2FINhNsq%2F1BcNqW2LgZp7qogFY5SFcvMxMQniQrgxxEl8LsB1NfpOCTlt9f1T10Boc47phrDyRxecbyTS2lPJO07TD9afgX0WTT9CcQrtJ3yPrUX%2FxfzXs7Ru%2BlcN8hAHCaLk%2FDCnxBy67Tlb3kzHCUnu%2Bg%3D%3D&Expires=1742980864",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th>1 January 2021</th><th>(Restated) 3 January 2020</th></tr><tr><td></td><td>\u00a3m</td><td>\u00a3m</td></tr><tr><td>Current</td><td>9.2</td><td>10.7</td></tr><tr><td>Non-current</td><td>17.3</td><td>23.1</td></tr><tr><td>Total lease liabilities (notes 28 and 29)</td><td>26.5</td><td>33.8</td></tr></table>",
+        "embed": "<table><tr><th></th><th>1 January 2021</th><th>(Restated) 3 January 2020</th></tr><tr><td></td><td>\u00a3m</td><td>\u00a3m</td></tr><tr><td>Current</td><td>9.2</td><td>10.7</td></tr><tr><td>Non-current</td><td>17.3</td><td>23.1</td></tr><tr><td>Total lease liabilities (notes 28 and 29)</td><td>26.5</td><td>33.8</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032660332541567694,
+              "width": 0.9034424853064652,
+              "height": 0.12826603325415678,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th>1 January 2021</th><th>(Restated) 3 January 2020</th></tr><tr><td></td><td>\u00a3m</td><td>\u00a3m</td></tr><tr><td>Current</td><td>9.2</td><td>10.7</td></tr><tr><td>Non-current</td><td>17.3</td><td>23.1</td></tr><tr><td>Total lease liabilities (notes 28 and 29)</td><td>26.5</td><td>33.8</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

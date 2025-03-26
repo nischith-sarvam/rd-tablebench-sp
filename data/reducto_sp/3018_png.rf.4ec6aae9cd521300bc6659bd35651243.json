@@ -1,0 +1,36 @@
+{
+  "job_id": "d80b1eb4-bd4d-406f-8cf2-158a0cba8475",
+  "duration": 120.33156561851501,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/441119de-bae4-499f-a9cc-65354d37a132.pdf?AWSAccessKeyId=ASIA2UOK6OVBNFLF53RT&Signature=Z5lH%2FoPH%2F38xRj%2BmRVUsgAqGpPw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDoFZk2vyFe1e34G8hJNbAUQ7YMda6Fc4ugwpDMyBQVbQIgHmE%2FrJf%2F2SkwZp7a%2BMRLrB%2Fr99Y8tHdlgJ1qUan%2FkPgqgwUIKRAAGgw3MzExMDY5MzIwMzQiDNNu%2Bwd73raGL8I4QCrgBIXSg3jEQI%2FpoMzD36g087LrhcTtwYKjy7vwpNa6UK0gLxwd6yICmUz2eNgTg%2BHzUggZvSOE2FnB58LxBtIH3MKIBzF65Jv4POzeXEXybESc0nMIMBHOL5KgVb6xOrDAOobV8yszZGLCbeZ7KCyTdNKDwGCcg9GocAAi3IMlBO9FzH2kbzupScMpOYelhVh9mhiJdcn1Uo9Ow1LeZDQw9BMyIAu7tWDkUj3L4pbjLc7gtSd3lfldSxRVYCaIp7NFUottuGlrasQlsw%2FhAOiPc6ljHPgHpntvYKrn0eDU3nwX6wkytIFGrwcLJvKinHjy5yeN%2Fz30%2Fuxh2KF1NbSh2wDncX0kvCO%2Bi%2BV7yd%2BjxZAzcO1xI5KAqakb0%2FQvrLtyKr4vMbLJIyjQBR8xCGTrF512iWyjEzbMSSFHkQ2tzvR4Ol0E7fDoz6yi6Idy9l8x3RmFE4bAaVLc4ukWzA%2FvsLuuCr18E8CHXbXJol9nUg7GOOYe4hT%2FH%2FM7mTnZbvPCsVJgpo6C6E76vwAyYmqf1SXu1mLgeM%2FE0B8pnw50Gk4jAFk1GKWfMk1RggUrkE2VUn83zCgitC14SNkWvsyOX%2By1PZe13%2FcAcq%2FeqP71fOy68kPnzdTUlxro%2B9gZfolnp6CLtHRyHQOS79rMTYQ5c%2ByRp0lAEy0FYJydeg2P7DFaeLOyAPQOv%2Fc4kuwo2HHfZWz2EpTUTBaEZz96s9bcvPu4u7FxkdDmf8KvXXQyZnan%2BGOvvZXNXFGsmyer0BEogRUuk5RK1N59WTs8SWqkFOmor5Cqu058S6YJyZX9iBU9MOzxjr8GOpoBFScx1dFQ1RR5fRJ40aDUk2MVzPDx414Ss%2FiVawQ4NZUwvX5qEFt%2FUclrn3eJHLwn0T38uu3YnC%2FOlO69ZtSeHZ%2BUqquKvZZrWuOPe7TsPikmMb8HzWjadBrNkpZaKpqLlhSJ%2FwefuArxI1CS4z4PkZsz80MU9A6FsV%2FZSYmvogRlPvkfNVz1sOzNKCbX58AW7mDP4VyRteYE4A%3D%3D&Expires=1742980951",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>SG</th><th>Zertifiziert als EBA SW</th><th>Abweichungen, Besonderheiten</th></tr><tr><td>5 Kleinger\u00e4te und kleine Ger\u00e4te der Infor.</td><td>ja</td><td>Arbeitsteilige Erstbehandlung in aufeina</td></tr><tr><td>6</td><td>nein</td><td>-</td></tr></table>",
+        "embed": "<table><tr><th>SG</th><th>Zertifiziert als EBA SW</th><th>Abweichungen, Besonderheiten</th></tr><tr><td>5 Kleinger\u00e4te und kleine Ger\u00e4te der Infor.</td><td>ja</td><td>Arbeitsteilige Erstbehandlung in aufeina</td></tr><tr><td>6</td><td>nein</td><td>-</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04617968094038623,
+              "top": 0.0332541567695962,
+              "width": 0.9017632241813602,
+              "height": 0.07719714964370546,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>SG</th><th>Zertifiziert als EBA SW</th><th>Abweichungen, Besonderheiten</th></tr><tr><td>5 Kleinger\u00e4te und kleine Ger\u00e4te der Infor.</td><td>ja</td><td>Arbeitsteilige Erstbehandlung in aufeina</td></tr><tr><td>6</td><td>nein</td><td>-</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

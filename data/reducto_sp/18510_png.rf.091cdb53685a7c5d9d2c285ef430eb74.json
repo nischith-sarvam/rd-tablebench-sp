@@ -1,0 +1,36 @@
+{
+  "job_id": "f679c686-18a6-405a-a34a-be943c1ea9f3",
+  "duration": 61.85123562812805,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/b810018c-3c0e-40f3-b69a-483867369d9d.pdf?AWSAccessKeyId=ASIA2UOK6OVBOUEF5PQA&Signature=KrC%2BvHf1ljp4IPdB1LWuMxnRT7c%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQC0d%2BxkaY6WNRt%2ByehP4lS3anZhUWlut%2BHnGIqsycD8ogIgFfmvP6ogxptlORiLg806YOIQDPVoNGcexxWCIeWMONYqgwUIKRAAGgw3MzExMDY5MzIwMzQiDBaCyv32m4rupHgeuCrgBG%2BQ%2BOMI3eOuADkCoF3c9MpQMWTL7qRydDe9XZ8%2FOGqveu4W4hyAiUL%2BZWYZHG%2FmtVa3Swd9HqWuhx4jtyhZWaQ1ibwZWeXEivxIB2zmAI3XZXacqMrN1yrlV%2BkT6gJgVB7tX8ykObns64DT%2FSBVn7pQZilyWvyOFKDn7lMCNSXcr8thce5jfmzlSkNwvuct90vl3tknTXQ2haiN7zfOOxzEz5RW1t8Avhgg2ToVN3qw8kJ%2BV0fJguR0c8%2FLIFM5aERDDMkpPw5VbmCvsfsHwHovFGubYCIXyEY1jI%2FWrOIammf8Gh6%2BkspTRJCEUb%2BqB94Vq43uv%2BvXDEOf1rnB1bpZQJwFBhd0yxuq2LjHZ2STS4WxcRWx%2FIDzygpZJua9mDk9CK5YxQDw7NDVDUxo6LZqyTl7Tynmron4IpCBmAtcCtHhTATmGzRH920tsIZcLEgcZ0%2FPDoE9Lpan%2Blw8%2BnywSa%2B%2FOEIdm7Ssl72LDQM0CnXdXbvV%2BaPlzgrDUHmcgQJRV3Asl2FbqbUWepcePhVsEEhdsXwW8Nw7A4r3XuqHSQ%2Fl4Pr59BgUpEHXK7eXmZkiotOgrWCPVdpOuIARQbQnyR4V%2Bbb7wGQ79LvdUoWEgWHp94Dtrw81OSfpn6pbGgHspzWqLZosFKiX7e%2BiyqMWN4FJkVZ7A50xM%2FMKPC42Op4QI7ZRGqJXN2x%2BavctUn2I77PkE9%2FenHLhsAIa2wf72CvlFT5D8gnBwISdLWwfqatBDIyT0Ji%2BRXwOeVu5k%2FsbH3NdAYa8yE%2FzWa%2B2JTIZslol8K1sjMk6Tem0BfshMLTxjr8GOpoBc%2BrApHD%2BnlZHm0yd3jnJozXPFP0JesK6Esy2wL1m4lEkPvOICXTmqXvH23fkSxAyEXNkUItsTc%2F2Tr9Jx%2BM8p7bkeIlPkN0YPxYYwuDk1zTOjlfjW8tbkTWyDi8VhGXrLfwKzpJmWRJRpll1orKPXXCFmzuyfM98l0AFaJm95Fa7jjn34ReLYW4JmW82GCzC108YModYA45tAw%3D%3D&Expires=1742980875",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>|\u6771\u4eac\u91d1\u66dc\u6559...</th><th></th><th>(B)</th><th></th><th>\u540d\u53e4\u5c4bC\u6559...</th><th></th><th>\u9759\u5ca1</th><th></th></tr><tr><td>(A) \u30aa\u30f3...</td><td></td><td>\u6a2a\u6d5c(\u6c34) \u30aa...</td><td></td><td>|\u5927\u962a (B) \u30aa...</td><td></td><td>\u798f\u5ca1 \u30aa\u30f3\u30e9...</td><td></td></tr><tr><td>\u6771\u4eac(\u571fE) \u30aa...</td><td></td><td>\u6a2a\u6d5c (\u571fB) ...</td><td></td><td>\u5b87\u90fd\u5bae</td><td></td><td></td><td></td></tr><tr><td>\u6771\u4eac(BA) \u30aa...</td><td></td><td>\u540d\u53e4\u5c4b (B)</td><td></td><td>\u9ad8\u5d0e\u30aa\u30f3\u30e9...</td><td></td><td></td><td></td></tr></table>",
+        "embed": "<table><tr><th>|\u6771\u4eac\u91d1\u66dc\u6559...</th><th></th><th>(B)</th><th></th><th>\u540d\u53e4\u5c4bC\u6559...</th><th></th><th>\u9759\u5ca1</th><th></th></tr><tr><td>(A) \u30aa\u30f3...</td><td></td><td>\u6a2a\u6d5c(\u6c34) \u30aa...</td><td></td><td>|\u5927\u962a (B) \u30aa...</td><td></td><td>\u798f\u5ca1 \u30aa\u30f3\u30e9...</td><td></td></tr><tr><td>\u6771\u4eac(\u571fE) \u30aa...</td><td></td><td>\u6a2a\u6d5c (\u571fB) ...</td><td></td><td>\u5b87\u90fd\u5bae</td><td></td><td></td><td></td></tr><tr><td>\u6771\u4eac(BA) \u30aa...</td><td></td><td>\u540d\u53e4\u5c4b (B)</td><td></td><td>\u9ad8\u5d0e\u30aa\u30f3\u30e9...</td><td></td><td></td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.033847980997624705,
+              "width": 0.9059613769941226,
+              "height": 0.10629453681710213,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>|\u6771\u4eac\u91d1\u66dc\u6559...</th><th></th><th>(B)</th><th></th><th>\u540d\u53e4\u5c4bC\u6559...</th><th></th><th>\u9759\u5ca1</th><th></th></tr><tr><td>(A) \u30aa\u30f3...</td><td></td><td>\u6a2a\u6d5c(\u6c34) \u30aa...</td><td></td><td>|\u5927\u962a (B) \u30aa...</td><td></td><td>\u798f\u5ca1 \u30aa\u30f3\u30e9...</td><td></td></tr><tr><td>\u6771\u4eac(\u571fE) \u30aa...</td><td></td><td>\u6a2a\u6d5c (\u571fB) ...</td><td></td><td>\u5b87\u90fd\u5bae</td><td></td><td></td><td></td></tr><tr><td>\u6771\u4eac(BA) \u30aa...</td><td></td><td>\u540d\u53e4\u5c4b (B)</td><td></td><td>\u9ad8\u5d0e\u30aa\u30f3\u30e9...</td><td></td><td></td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

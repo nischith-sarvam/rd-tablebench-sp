@@ -1,0 +1,36 @@
+{
+  "job_id": "32c70641-89c1-4b00-9a3f-1b5de79a60f6",
+  "duration": 144.6772756576538,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/937f5780-3cd9-477b-9c1c-8b754a851e73.pdf?AWSAccessKeyId=ASIA2UOK6OVBGTMZJF25&Signature=5E8Q%2FNo9sq5jykabRM0B9IF3NV8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQClg4xaOcsKWK0L7YGpoEDjCKGnVg2891PhLDqvZxU88gIgR7rSRO76kPB9navD%2BPquiWZA51lC8k5GmCSABlZz5sUqgwUIKRAAGgw3MzExMDY5MzIwMzQiDGnNJMkwqjX2WtOH9CrgBAk3CG1r0ps0dm8Lb3nJtzvvV3dbEYFfpDXTWKCyhV0%2FNYfLZzHRcR5YsOHe2wnKEWt39MrcEIvGSmx6gvclwZEbBVngXl7yJ%2FAkn9OOZ7A42ZJTGKMY1kno%2Fu8t9%2Fo44F5Mdqa43qc5MKaoIC8xSf4oYHKB7gPoGV0FlO2p%2B4BCecYcu8Pgvh5WFSPmzAYOHKov%2BVarEybKDLo06o%2BtRhD9DEJEKrQ%2FK7Cw3%2BYZ8t%2FKlZ1txOFvhH5hM4usHkKzRAYYm0njEvXuTr6e1hRxCowZ3jgPoT%2FVl2zhGHI4exO%2B21oPbpq0W5GwpGa8HWlLJF2ngnOPr2UNayPSHkyjyItvUjtZmtTWQ2dEL4B4fokiYKDYZAxOET024%2FSHWdQK6wTWLw313Tdt6sI8BWW0mj%2BJ95L%2BadDk5aVzN3EsbDj7zGtxXUhEzFft2oXeJuMzd9MI9woJH1ZnGkZD%2BDL7HX%2F1omPCTDpfuCX6iFHNVcGJJhaHs9utHrRta4s9svFq123RC3pB3xp1wABtvL7bwleAAF3OwD4HYMxvnneQxOGN%2FQv6IRMVVkK3%2FXrzJ4y4FrCBbJswjwZSkmIwvtIY%2BDBV%2BLGlWeIBLIFwjD6sWis%2B4Lg5jjAk54JEWCaXwvL%2BmJcC1cfn44ooa9F5Mitb0p2xosdhAq3M1Ag1wOghDzY2GCM38qnVWCavK%2F0T7aSs7kx799dzAUp71tgKGT2c7JVS6cG%2F2NJeF28pp8Q9FNwYI94%2FJWE53O0crLvYB4WY4VWHCqsu2v2Xo3VKCC9lvZKz%2BT6ImrBbE%2F7H6UtF%2FPccMMrojr8GOpoBhcOAVwq6BKAwiJQatQ1KTH9dML4ieFbCbQDo6YHEahOSWgCSkJIV9x9p6UGUxeCOZEyFMOCzVbcxuMF8Wgbl3zJyqilwjvXpjx11j4pYi1iE%2B0pAT0%2BBmw8c9uuBwj2AS1ebs4xWDo3ZWrMdzLE0JH5COOJaoIAgufvojhU%2BIRctYiH%2BRWZmxZ0lMI%2BecUf5i9v4CrcsSOwCmg%3D%3D&Expires=1742980981",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Fr\u00e9quences (...</th><th>125</th><th>250</th><th>500</th><th>1000</th><th>2000</th><th>4000</th></tr><tr><td>Aire d'absorpti...</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Panneaux en s...</td><td>0,30</td><td>1,01</td><td>1,97</td><td>2,38</td><td>2,15</td><td>2,16</td></tr></table>",
+        "embed": "<table><tr><th>Fr\u00e9quences (...</th><th>125</th><th>250</th><th>500</th><th>1000</th><th>2000</th><th>4000</th></tr><tr><td>Aire d'absorpti...</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Panneaux en s...</td><td>0,30</td><td>1,01</td><td>1,97</td><td>2,38</td><td>2,15</td><td>2,16</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.0436607892527288,
+              "top": 0.0332541567695962,
+              "width": 0.9059613769941226,
+              "height": 0.07779097387173396,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Fr\u00e9quences (...</th><th>125</th><th>250</th><th>500</th><th>1000</th><th>2000</th><th>4000</th></tr><tr><td>Aire d'absorpti...</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Panneaux en s...</td><td>0,30</td><td>1,01</td><td>1,97</td><td>2,38</td><td>2,15</td><td>2,16</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

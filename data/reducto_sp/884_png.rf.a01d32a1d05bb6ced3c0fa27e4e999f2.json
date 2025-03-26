@@ -1,0 +1,36 @@
+{
+  "job_id": "44332c10-8aa1-4aba-a96f-7e6b93ff78c6",
+  "duration": 54.01481366157532,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/9e5e7cb1-7651-40ca-bf92-310eaec9e748.pdf?AWSAccessKeyId=ASIA2UOK6OVBC5YYXRSQ&Signature=wWEJkW6273B4fIT6DO3PDsIimdc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDGr%2BDUmMRGRX7BM92kwpsPz58v6LAVwecdHEqdff8ElQIhAL1ptaum52%2B1Pdxvu4PaMTIIezWwgbaAEZIqv%2BHiMo8NKoMFCCkQABoMNzMxMTA2OTMyMDM0IgyWscOhPqkh1Y5W49Qq4ASLEJJmPC0rddvVRb79dT%2BjoqWePNBRfXkUsbahxioxQSlXyoTGp6S4iaFjVHlD3JGviTMp6dzlfGlhY6fX3i7EGReNhwuv8sC%2Fu5wFivzeInxlhXX7r%2F3HRtTxnEUvGfAJHv4pV3PQdfCO06SHPdzXpshD7Ey49MruoDv7Z7zci3TPftu4w2JGMZ1BTAeG0DxTp53igiCnjtTEzrrOLztLVJlBxFZ9sfh7PqzZ2RPAYYo3WIOIUxrt5vfAPnzCNcJzQAoioBI31le9OhvelMurpSxp0ASCbE1UK9c9FS6rw%2BL%2FJEpk3G2MyQsjD4%2B9kJjz30adez7Eai89scD7CvBacWaz4IFMtEypOBFJwW49fbnUGaGfnEHbulf0w7wjeteCNmjB1WOUF9sGq4HSPZzx2DOCSXaqyTm%2FEn87DUTBIGarVR6g5cJ2jyTOu4mVbyg6V7hm%2Ba%2B2VLTnf4LDenOQXpI%2FvoWhYqjJQBszxsJBbhcJnYkFwA5kmBN2hKcusErLBOuVP32At2Dza5%2BiOqs6jSXKkRUeygj28Z0%2B1%2BW3xKCRnhyZus7urBFriUsHopnHR3a2Etf9FU%2FWciJr2ECjUNHcwniqDEMHXmkujA7Y4uPXrpiNSF9A9Xczb7tzNcHRi3xpwKflfq0avG2KdpD8nBijFIxlS3qvYCXNH%2BvfHLkwYlulgzfirDISBGFiwIFs6oRdr3NEtCawkGFa8sOqU2arOGx5Sypi%2FfbWRXHV66GmGBMroDxSzvHe6iTop4qDYFF2VkznNqu434EoU28r%2F2CJWZORMP6zaMsSC4aQ1zC9446%2FBjqZAU6Lbb57R0jsiGgp28HYvepOscWhXz3rqyUg7dEV7MLVAaI8dmUtrtrUtxmz2iuxUR9xfr3zlbFVRfmB7uRngx%2BC3oMQEAFqKqDaqpybKQKcAKBI%2FpqNJU2U19kZOrPwXnrLx85V66vLlh1yrpElY7IqansFVoN%2FVyLw4fZOk2wKtFtJqGESk1xILmGzSt9i4rLXD2UYhMzpcA%3D%3D&Expires=1742980866",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"2\" colspan=\"2\">System No.</th><th rowspan=\"2\">Deck (Note</th><th colspan=\"2\">Base Insulation Layer</th><th colspan=\"2\">Top Insulation Layer</th><th rowspan=\"2\">Roof Cover ...</th><th rowspan=\"2\">MDP (psf)</th></tr><tr><td>Type</td><td>Attach (Note.</td><td>Type</td><td>Attach (Note...</td></tr><tr><td>G-1.</td><td></td><td>Existing pou...</td><td>One or more</td><td>JM-OSFA</td><td>Min. 1.5-inc.</td><td>JM-OSFA</td><td>JM PVC Fle</td><td>-45.0</td></tr><tr><td>G-2.</td><td></td><td>Existing pou.</td><td>One or more</td><td>UIA-TWO-P...</td><td>Min. 0.25-in...</td><td>UIA-TWO-P...</td><td>JM PVC / TA</td><td>-105.0</td></tr><tr><td>G-3.</td><td></td><td>Existing pou...</td><td>(Optional) O...</td><td>UIA-TWO-P...</td><td>Min. 1.5-inc...</td><td>UIA-TWO-P...</td><td>JM PVC / TA</td><td>-105.0</td></tr><tr><td>G-4.</td><td></td><td>Existing pou...</td><td>One or more.</td><td>Polyset CR-20</td><td>Min. 0.25-in...</td><td>Polyset CR-20</td><td>JM PVC/TA</td><td>-112.5</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"2\" colspan=\"2\">System No.</th><th rowspan=\"2\">Deck (Note</th><th colspan=\"2\">Base Insulation Layer</th><th colspan=\"2\">Top Insulation Layer</th><th rowspan=\"2\">Roof Cover ...</th><th rowspan=\"2\">MDP (psf)</th></tr><tr><td>Type</td><td>Attach (Note.</td><td>Type</td><td>Attach (Note...</td></tr><tr><td>G-1.</td><td></td><td>Existing pou...</td><td>One or more</td><td>JM-OSFA</td><td>Min. 1.5-inc.</td><td>JM-OSFA</td><td>JM PVC Fle</td><td>-45.0</td></tr><tr><td>G-2.</td><td></td><td>Existing pou.</td><td>One or more</td><td>UIA-TWO-P...</td><td>Min. 0.25-in...</td><td>UIA-TWO-P...</td><td>JM PVC / TA</td><td>-105.0</td></tr><tr><td>G-3.</td><td></td><td>Existing pou...</td><td>(Optional) O...</td><td>UIA-TWO-P...</td><td>Min. 1.5-inc...</td><td>UIA-TWO-P...</td><td>JM PVC / TA</td><td>-105.0</td></tr><tr><td>G-4.</td><td></td><td>Existing pou...</td><td>One or more.</td><td>Polyset CR-20</td><td>Min. 0.25-in...</td><td>Polyset CR-20</td><td>JM PVC/TA</td><td>-112.5</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9051217464315701,
+              "height": 0.15380047505938244,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"2\" colspan=\"2\">System No.</th><th rowspan=\"2\">Deck (Note</th><th colspan=\"2\">Base Insulation Layer</th><th colspan=\"2\">Top Insulation Layer</th><th rowspan=\"2\">Roof Cover ...</th><th rowspan=\"2\">MDP (psf)</th></tr><tr><td>Type</td><td>Attach (Note.</td><td>Type</td><td>Attach (Note...</td></tr><tr><td>G-1.</td><td></td><td>Existing pou...</td><td>One or more</td><td>JM-OSFA</td><td>Min. 1.5-inc.</td><td>JM-OSFA</td><td>JM PVC Fle</td><td>-45.0</td></tr><tr><td>G-2.</td><td></td><td>Existing pou.</td><td>One or more</td><td>UIA-TWO-P...</td><td>Min. 0.25-in...</td><td>UIA-TWO-P...</td><td>JM PVC / TA</td><td>-105.0</td></tr><tr><td>G-3.</td><td></td><td>Existing pou...</td><td>(Optional) O...</td><td>UIA-TWO-P...</td><td>Min. 1.5-inc...</td><td>UIA-TWO-P...</td><td>JM PVC / TA</td><td>-105.0</td></tr><tr><td>G-4.</td><td></td><td>Existing pou...</td><td>One or more.</td><td>Polyset CR-20</td><td>Min. 0.25-in...</td><td>Polyset CR-20</td><td>JM PVC/TA</td><td>-112.5</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

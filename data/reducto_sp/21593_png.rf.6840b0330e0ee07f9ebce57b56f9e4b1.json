@@ -1,0 +1,36 @@
+{
+  "job_id": "1992d944-c229-424a-a5d4-89ac476b9349",
+  "duration": 170.9455316066742,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/6581342e-9058-452f-b34d-5799335057c6.pdf?AWSAccessKeyId=ASIA2UOK6OVBPT4GCXWC&Signature=RBxpBwkqsT1HclKpzdTP9j3hBNM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIG%2F%2Bped0HVFvHQrAJNjPrZL7bxMJ58A8NdzlVdnezDTNAiEA4OWfArNQQhzTTO0%2F0CouWnwnAw9yNKnpq3TkGDHn3toqgwUIKhAAGgw3MzExMDY5MzIwMzQiDP37rp6o9%2BKtQasSjyrgBJ9YwCPz8TOVZT%2FrOKH1xJShAop4LraYCm36zOxQgYETle6Jar0MIuBMHz%2FqBCjwrbO1mo5ZD%2BuTaB2FVdHFg8xrbfmD%2ByXZXLOKzGdp5CKEAWTxPIV6J%2B9uY%2FevAy1H4ntZvBMlN81wf5Lonmhoe8x%2Bld1Bakn8NoeI28F2C8awH6O7gYKZzKXDJW9MQkRXXDrVq15yUa1HnSD3h3WTpwE2BD8hq%2FMHMHAZFGqQ7BHC8U2GIhfy%2FzCYlGSRMSbIR6MIpR5OhdeOucDmIdzs1faaAlMLw311ewRL5tv%2BC2NmqWCnWfLekE6h0w%2Foo76VNOCTterm8t90xb5%2Fwqao2Ur0ZU4HXuIg%2F8SwbW9XoaKq4qNSwn7XlkzPhWP%2F0xUolsCIQL5aRDGeL7eEGiN%2BeSckZiPHatUVYsLJV3aebmhrYck0HaaP6JecMS0kCbZPPRa53PVpb4wfFEdV7WBDf0Sl6T%2F%2B%2FGTAr6VzIlFeSitBd27YeA3BEBHNBr4q0J98LzKJwNRE%2BXgBFlPopcMtuffVEdK6xBuP9ynXb0G%2F5%2FA3C18ludWHoh6R2P%2FUt1G2imUdQr4nw%2B9TlDzzo45jIWshTwxqnyLNX8AnuRVxAkH4Vap5kj1Wx0DSOk9CwsnXHklrV6V7t2reGNAGXIBPs%2FE%2Bnc61pWKDDaALyULG6MEKZMHsFoHHe8m%2BQBcchaboCuICRi8oEr3x2DSWdxuRDG6BTaP8Rhq20VGF7TQ%2FtfPjUBigwv9XsjB8GV%2BlvGfJHOLElh%2Bc2MJS4T%2BhQFn9mvb%2Bt9nQlKSnvy0%2BpF2UFcEPMP3yjr8GOpoBLQuyl5sD%2FUZp%2FQ%2FBPJAGkGHE8Mpn8J073gSUyLRmQkozPNH6pLRf7e74JWCa6%2Fo%2Fp2q4%2Be%2BW2KiHPHcSL9SBgtrz7JWU445HOAbN0nPi4sbOSA7ATP86FowZJdIH9OsxktZkZeK6VedxJ03%2BT6D0H2pmVSKJjOmiWkm2OYz6C5Mc2y3FWm5i68mwNlRxeAd60u%2F%2BVVZUdWHAVA%3D%3D&Expires=1742981022",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Father's Name</th><th>:</th><th>Shri Kadam Singh</th></tr><tr><td>Mother's Name</td><td>:</td><td>Shrimati Santra Devi</td></tr><tr><td>Date of Birth</td><td>:</td><td>30 June 1969</td></tr><tr><td>Place of Birth</td><td>:</td><td>Ajmer (Rajasthan)</td></tr><tr><td>Marital Status</td><td>:</td><td>Married on 21 November 1996</td></tr><tr><td>Spouse's Name</td><td>:</td><td>Shrimati Babita Yadav</td></tr><tr><td>Children</td><td>:</td><td>Two daughters</td></tr></table>",
+        "embed": "<table><tr><th>Father's Name</th><th>:</th><th>Shri Kadam Singh</th></tr><tr><td>Mother's Name</td><td>:</td><td>Shrimati Santra Devi</td></tr><tr><td>Date of Birth</td><td>:</td><td>30 June 1969</td></tr><tr><td>Place of Birth</td><td>:</td><td>Ajmer (Rajasthan)</td></tr><tr><td>Marital Status</td><td>:</td><td>Married on 21 November 1996</td></tr><tr><td>Spouse's Name</td><td>:</td><td>Shrimati Babita Yadav</td></tr><tr><td>Children</td><td>:</td><td>Two daughters</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9051217464315701,
+              "height": 0.17933491686460806,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Father's Name</th><th>:</th><th>Shri Kadam Singh</th></tr><tr><td>Mother's Name</td><td>:</td><td>Shrimati Santra Devi</td></tr><tr><td>Date of Birth</td><td>:</td><td>30 June 1969</td></tr><tr><td>Place of Birth</td><td>:</td><td>Ajmer (Rajasthan)</td></tr><tr><td>Marital Status</td><td>:</td><td>Married on 21 November 1996</td></tr><tr><td>Spouse's Name</td><td>:</td><td>Shrimati Babita Yadav</td></tr><tr><td>Children</td><td>:</td><td>Two daughters</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

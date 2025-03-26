@@ -1,0 +1,36 @@
+{
+  "job_id": "30f6e26e-5993-40a5-a803-0211e92a89d9",
+  "duration": 145.10679006576538,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/6acc1c89-1d5e-47d3-ab2b-36c45ea7824f.pdf?AWSAccessKeyId=ASIA2UOK6OVBLRLLFD5M&Signature=5V1%2Brw%2BcCDMPbSY2hIHPyZUXLEg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDEcohWkogTMxjWI9DWPIsrQ8W%2FZEq2nFHXd3ChI9J%2BIAiAh%2FYOZj0YfD7ntO5sedutlNK3082wLXT%2Fqp5KXuExmFiqDBQgpEAAaDDczMTEwNjkzMjAzNCIMLVLjp5Bb%2B2VEQmpSKuAE4j1FE9%2F1CgCI3oTBrIlGx3Rt1ZEUfgyLSvuYEqQeaFC1AzSE1FWqOvfJy11XQgJFrXuDnCbgtey2r2kikAmlYYvuW8xS0KKe4xnd%2FRqIyNDneGhIAMYghjPQPkCHIJ72AEfKCm92nIKPBJRX4vaMJPiM2FoTJirkx7%2FbrJJiWfm8m%2BGN3FQR9s5vfWTO4V0LpPBJHTkt7l9L5zm%2Fd2EatasD2YUZxIGU2qlD7O39uKt6M8OatXLAKEIHj1VnX8uhYPNCv4M7nfzBmdv%2BgRVIXTjiv0rAA15RrVikrkNzmwgCckbjKGnoItfhYtVSO4DV0tjgNtIK21amIsMjzkrifOtWK06yF12CbSyf%2FKHMD2UYPqJSBG2atZBXIUrfVd29Ky32SIBgreeKKpa8LmKwCwY7M1uIDBjlMGqBbvuEMfDih0ZqhltlqTitVu2bn5JL%2BbcCsrV0soSzeQpJpSKAUN3P8J9lFQ01Q2n7NBPs3zXupvxKWyEL718Z1nBz3fEmNfHaNSXYoVn6wWNw97hB%2FebqVzn4Sdmn223Gkc%2BQNaAK4mnXfvpJPsX%2Fp%2FHYmU%2ByubuyrZJykpDOeYnVG5Ur2QvRrPG4e1ErIAXqaS3pd9cbri1ikWz8PxdUbiWIq52N887kiZEDrynweBrnfWx%2F5Jlua5VEllfqBg%2FnxMjugq5gGOUGjG8zSL%2Ff2ULHAz60ZrYf3USM1frewPn5CqG8FxoqKuIA38Fn8MjW8Rkap2PGpGrSCExGPcF7aBSgjyGUKsLguT2rlyq5nME9psaHui2VqgAko83Q0wOWmMs2Jhowx%2B2OvwY6mwESsS1VnJE8EZ1LQ06JlqGu8BVhhao3hxjEWCwLnCI3UiGbR4I08SmpgS1ONnqdFoL0qrS1Zql2guAQ7ixIeKOocQ3qCI1my5CAq17eDXTBSABZzGkKtUUBf%2BTM6adXPA%2F0ciLVaEumFuDq6DNpuos9ArL9ksck83cmJUit4GSFuyJ3rHPZa8sCTDtkX%2F%2Fkx3i0PY%2FeGBxCMuK4jA%3D%3D&Expires=1742980979",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th>Courses</th><th>Pre- or co-reqs</th><th>Credit</th><th>GE</th></tr><tr><td rowspan=\"3\">Semester 2</td><td>COMSC 165 - Advanc</td><td></td><td>4</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Total</td><td>4</td><td></td></tr></table>",
+        "embed": "<table><tr><th></th><th>Courses</th><th>Pre- or co-reqs</th><th>Credit</th><th>GE</th></tr><tr><td rowspan=\"3\">Semester 2</td><td>COMSC 165 - Advanc</td><td></td><td>4</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Total</td><td>4</td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.0436607892527288,
+              "top": 0.0332541567695962,
+              "width": 0.9059613769941226,
+              "height": 0.10154394299287411,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th>Courses</th><th>Pre- or co-reqs</th><th>Credit</th><th>GE</th></tr><tr><td rowspan=\"3\">Semester 2</td><td>COMSC 165 - Advanc</td><td></td><td>4</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Total</td><td>4</td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

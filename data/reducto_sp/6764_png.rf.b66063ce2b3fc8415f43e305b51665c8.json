@@ -1,0 +1,36 @@
+{
+  "job_id": "c898d128-e99a-4110-a151-319663f24f29",
+  "duration": 117.25933599472046,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/2fc5ad07-fea8-4752-9e86-95183cd54fbb.pdf?AWSAccessKeyId=ASIA2UOK6OVBBQ3V4TQX&Signature=uqLzA04%2FXvISuItF4GANBmew%2BX0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDwIwp2a93Aslh11%2B6SvwfdIay%2BF558loSv8qxdtbHjQAIgIaa6ZaHG9fj5MlFoCqZRxcIxHwrpK56KEWblBAqJo1kqgwUIKRAAGgw3MzExMDY5MzIwMzQiDJxHZjI9egFBc4wA8irgBIGDCbVe0TE69iPiPABXHuEl6cccliLFTIltTvaIzLlgDoFA%2FzNqnMKR4CU3e6e1rqOgqUXJSfUDWUFyaa%2F253ENoL6HTNVk07hjal%2BROlKg6AfWdN8%2FNruG4GMy7gulxbhXIcKddubjLG66S%2FXJKIdISBkfddCZxo2y2WHQV0i16LUZ2Llov1A13CxccG1gfOx6DOkS8m3iQZk7PNCF6eHaNe4tMEupFB9rZwSJUs2MA2zrjq4WkHnfTdeeWbTUWZJUAkg1wp6sacSvggGBdvtlrFgv%2BgbYa0eEKCmDKb2iVbq4uYHcnH9RbF6NAmgsgLMbwVoGk7y6AO0QIhZJBVhvfBstP2SnkHH86aJDGuZC36bfDYO%2FvuPxgh7C%2B6KJMrdAWiTLDn%2BbZav6AO%2F8HH8%2FJXYf2XAbPpoMKyX7IqjuyHpVBQEVFbPxHIahq77qj5e8FFPqLVthtWg3Bl55KDvjn9QWI21aga1p8onMO%2FpHtzrTASrKWHWzijDyFmGg8tVZXaWmjzZroXxqrFd0VvQOTXlShuV2WPB7eDnQ%2F6nWj2DghXp7REqhUgeFv%2FSPh4tr4bBck6zpMWQuYfCkJAfiziuXzY%2F6LTkK%2BKIQ4L42ZFomTbm%2BYAnLvkWstco%2BcwZSPxqzwa77KFij0tuzXQQF48RS8u%2Bk1siVgJedJ4lcv3nK7%2FAlFG6L%2Fc69stVEysT1jZ%2F%2BH03baFjmG2mVCZWBER%2BD%2BtRGFqZ3jLZyKn1RHOlF1HmQp2MAXTk%2BxCOWwLOKbOxw2nSz%2Bn0ZA5P0oCgen%2B68u4cmHWdyR%2ByuNpJ1ML%2Fvjr8GOpoBACuykxsMLtVbZow5qZy%2F%2F1kykaPijm9fM42ETMfj4DMByX8boKBQRXKkzmvDTcoIdUklsVOulTzRSvJ6MCgRsEhy7sUFSAZGKAs0pux7jTNcezkPAo5ezv2UrM0XSWwSHgZsaF3oYMF2wsPvgl%2ByTeazd8DSwQDZ3rERonL2frjZbU3qabMSHXshd4Ym6NSsz8ma0CZtOOEoCg%3D%3D&Expires=1742980950",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>NOMBRE:</th><th colspan=\"4\">CALDO DE CEREBRO \u26ab CORAZ\u00d3N (Brain Heart Broth)</th></tr><tr><td>Descripci\u00f3n y Uso:</td><td colspan=\"4\">Para el cultivo de diversos microorganismos pat\u00f3genos exigentes. Estos medios de cultivo correspond...</td></tr><tr><td>Forma de actuaci\u00f3n:</td><td colspan=\"4\">Estos medios de cultivo se basan en el principio del Caldo Rosenow preparado con trozos de cerebro ( ...</td></tr><tr><td rowspan=\"7\">Composici\u00f3n: (g/L)</td><td>Substrato alimenticio</td><td>27,5</td><td rowspan=\"7\">Preparaci\u00f3n:</td><td rowspan=\"7\">Disolver 52 g/litro (Aga...</td></tr><tr><td>(extracto de cerebro, e...</td><td></td></tr><tr><td>D(+)-glucosa</td><td>2,0</td></tr><tr><td>Cloruro s\u00f3dico</td><td>5,0</td></tr><tr><td>Hidr\u00f3genofosfato dis\u00f3...</td><td>2,5</td></tr><tr><td>Agar</td><td>15,0</td></tr><tr><td></td><td>52,0</td></tr><tr><td>Empleo e Interpretaci\u00f3n:</td><td colspan=\"4\">De acuerdo con la correspondiente descripci\u00f3n y uso.</td></tr></table>",
+        "embed": "<table><tr><th>NOMBRE:</th><th colspan=\"4\">CALDO DE CEREBRO \u26ab CORAZ\u00d3N (Brain Heart Broth)</th></tr><tr><td>Descripci\u00f3n y Uso:</td><td colspan=\"4\">Para el cultivo de diversos microorganismos pat\u00f3genos exigentes. Estos medios de cultivo correspond...</td></tr><tr><td>Forma de actuaci\u00f3n:</td><td colspan=\"4\">Estos medios de cultivo se basan en el principio del Caldo Rosenow preparado con trozos de cerebro ( ...</td></tr><tr><td rowspan=\"7\">Composici\u00f3n: (g/L)</td><td>Substrato alimenticio</td><td>27,5</td><td rowspan=\"7\">Preparaci\u00f3n:</td><td rowspan=\"7\">Disolver 52 g/litro (Aga...</td></tr><tr><td>(extracto de cerebro, e...</td><td></td></tr><tr><td>D(+)-glucosa</td><td>2,0</td></tr><tr><td>Cloruro s\u00f3dico</td><td>5,0</td></tr><tr><td>Hidr\u00f3genofosfato dis\u00f3...</td><td>2,5</td></tr><tr><td>Agar</td><td>15,0</td></tr><tr><td></td><td>52,0</td></tr><tr><td>Empleo e Interpretaci\u00f3n:</td><td colspan=\"4\">De acuerdo con la correspondiente descripci\u00f3n y uso.</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04617968094038623,
+              "top": 0.032066508313539195,
+              "width": 0.9026028547439127,
+              "height": 0.27969121140142517,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>NOMBRE:</th><th colspan=\"4\">CALDO DE CEREBRO \u26ab CORAZ\u00d3N (Brain Heart Broth)</th></tr><tr><td>Descripci\u00f3n y Uso:</td><td colspan=\"4\">Para el cultivo de diversos microorganismos pat\u00f3genos exigentes. Estos medios de cultivo correspond...</td></tr><tr><td>Forma de actuaci\u00f3n:</td><td colspan=\"4\">Estos medios de cultivo se basan en el principio del Caldo Rosenow preparado con trozos de cerebro ( ...</td></tr><tr><td rowspan=\"7\">Composici\u00f3n: (g/L)</td><td>Substrato alimenticio</td><td>27,5</td><td rowspan=\"7\">Preparaci\u00f3n:</td><td rowspan=\"7\">Disolver 52 g/litro (Aga...</td></tr><tr><td>(extracto de cerebro, e...</td><td></td></tr><tr><td>D(+)-glucosa</td><td>2,0</td></tr><tr><td>Cloruro s\u00f3dico</td><td>5,0</td></tr><tr><td>Hidr\u00f3genofosfato dis\u00f3...</td><td>2,5</td></tr><tr><td>Agar</td><td>15,0</td></tr><tr><td></td><td>52,0</td></tr><tr><td>Empleo e Interpretaci\u00f3n:</td><td colspan=\"4\">De acuerdo con la correspondiente descripci\u00f3n y uso.</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

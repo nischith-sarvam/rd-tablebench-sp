@@ -1,0 +1,36 @@
+{
+  "job_id": "005fc3b2-d2e4-4577-bfa9-89dc52326c69",
+  "duration": 133.99293446540833,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/69eec955-4658-4c3f-9547-3e068aac183a.pdf?AWSAccessKeyId=ASIA2UOK6OVBOA7E5AEG&Signature=wBx%2B%2B9FlRGqalk5wEdPMaGv%2FPqA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIBUE0izjqjMekc%2B9Uyfud7wLxWQ5yFqCMwxNVO3zk5RjAiEAiBetAVO2CJaVFzcTAP0Ap0c6kA2S4phMFQ5w71K0LPQqgwUIKRAAGgw3MzExMDY5MzIwMzQiDKlu4z%2Bl7v4Eyut%2BGSrgBEdF%2FKcXBMjws7fcLeuVZ5LvKuvuGpUSL4FriEyI2PXWf4JrmZb%2BBi1fFTB6wfJjTxX1HXwvk4Mxd%2FtHXbmDAUgKYGUf1resCNuTWPb84y0d0vWe9zETKc8pTYC5x9fdvD0wS9zYzp%2FqQ%2FM3zZXuSdh96EZhfpneEm2G2nLDPL5CXJoMmJ4FhgnmoH2U%2FokIkzDTbs5vdobJU4RIBRphHt8Yt1hLipNo%2Fshsn3cJywwRokm33QeyuEbD9nemeKyNBgTcnLM0LYF5TzVnEOiz5KFvK3xxunImk3nPCJsf%2Fr%2BUIo9olMGmnrGycI0sX5NesEpEYiCdP8GgUHHkx2M2T8VnNkUYnY1xirVYa%2BQqqXRZ6ahuANgUliOlY2jUN8HsF9NiUTM43uu7D8%2FOqi%2BEHjzT1TqTcxhC%2BYnDopckaIk8KDEKxFyiIlUhiIH7Hi9H4wjtFSReeMoIThlua2tsp0aceHoqbmsW5pPNr3zBWRACNmc40CEZLpk9a0o6lrIN5r6AHjELs0O7fX73Bqnx0g%2BPws15AxZyusqdMn7Q3NG8ulZkRRKxq4pgoQWwCtOsXhCw80FEC2ZXXPuOKTWJM4gMhFan1pIPWnjSA5FbUGcFeZtJp48EWP0SZO%2BeKdfT%2B7W3bGTiHi1sSwyjhBHYW7mHG9gW%2F%2B5FYAucH%2FGWTojW65csrm9%2BmiCz%2FyiqkicCAbmH4jF68fznDM7WmAkx4Hgm4GARAT2dYZHuInvi9h43TzcPo4GjO7bk5KvPwj1Zt3RSpbFiTSmEW1hJtmvYHWnj3XpNN2zcoEfrDp6KekyWMM3hjr8GOpoBLT8rxNo22%2FtDLOcECmA1KMR21aDUFBIN5zlcWP43RyEZtveLROu3Asdt9dxcIn%2FIC0gVe%2BRL85LrA%2B0X7fA5i0NvKAKpHaA%2BYcvb8UGDapiDbxkmE1yAUnhWFUxe2IvmgfBPyhGG19BS8KwJgtphBUySomntk8bDHLgYMTiPvLwWj1YdWccKCsg78QMrx890iJ6uREmtdNlivA%3D%3D&Expires=1742980957",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"3\">Resultatenrekening van 1 januari tot en met 31 december 2018 (in euro's)</th></tr><tr><td></td><td>2018</td><td>2017</td></tr><tr><td colspan=\"3\">Baten</td></tr><tr><td>- baten van organisaties zonder winststr...</td><td>42.866</td><td>50.985</td></tr><tr><td>- baten van particulieren</td><td>1.843</td><td>8.624</td></tr><tr><td>Som van de geworven baten</td><td>44.708</td><td>59.609</td></tr><tr><td>- baten als tegenprestatie voor de leveri...</td><td>6.349</td><td>3.469</td></tr><tr><td>- overige baten</td><td>20</td><td>625</td></tr><tr><td>Som van de baten</td><td>51.078</td><td>63.703</td></tr><tr><td colspan=\"3\">Lasten</td></tr><tr><td>Besteed aan doelstelling</td><td>42.645</td><td>45.131</td></tr><tr><td>Wervingskosten</td><td>806</td><td>812</td></tr><tr><td>Kosten beheer en administratie</td><td>2.642</td><td>1.526</td></tr><tr><td>Kosten afschrijving vaste activa</td><td>698</td><td>456</td></tr><tr><td>Som van de lasten</td><td>46.791</td><td>47.925</td></tr><tr><td>Saldo v\u00f3\u00f3r financi\u00eble baten en lasten</td><td>4.287</td><td>15.778</td></tr><tr><td></td><td></td><td>-</td></tr><tr><td>Saldo financi\u00eble baten en lasten</td><td>124</td><td>121</td></tr><tr><td>Saldo van baten en lasten</td><td>4.163</td><td>15.657</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"3\">Resultatenrekening van 1 januari tot en met 31 december 2018 (in euro's)</th></tr><tr><td></td><td>2018</td><td>2017</td></tr><tr><td colspan=\"3\">Baten</td></tr><tr><td>- baten van organisaties zonder winststr...</td><td>42.866</td><td>50.985</td></tr><tr><td>- baten van particulieren</td><td>1.843</td><td>8.624</td></tr><tr><td>Som van de geworven baten</td><td>44.708</td><td>59.609</td></tr><tr><td>- baten als tegenprestatie voor de leveri...</td><td>6.349</td><td>3.469</td></tr><tr><td>- overige baten</td><td>20</td><td>625</td></tr><tr><td>Som van de baten</td><td>51.078</td><td>63.703</td></tr><tr><td colspan=\"3\">Lasten</td></tr><tr><td>Besteed aan doelstelling</td><td>42.645</td><td>45.131</td></tr><tr><td>Wervingskosten</td><td>806</td><td>812</td></tr><tr><td>Kosten beheer en administratie</td><td>2.642</td><td>1.526</td></tr><tr><td>Kosten afschrijving vaste activa</td><td>698</td><td>456</td></tr><tr><td>Som van de lasten</td><td>46.791</td><td>47.925</td></tr><tr><td>Saldo v\u00f3\u00f3r financi\u00eble baten en lasten</td><td>4.287</td><td>15.778</td></tr><tr><td></td><td></td><td>-</td></tr><tr><td>Saldo financi\u00eble baten en lasten</td><td>124</td><td>121</td></tr><tr><td>Saldo van baten en lasten</td><td>4.163</td><td>15.657</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.047019311502938706,
+              "top": 0.032660332541567694,
+              "width": 0.9026028547439127,
+              "height": 0.4809976247030879,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"3\">Resultatenrekening van 1 januari tot en met 31 december 2018 (in euro's)</th></tr><tr><td></td><td>2018</td><td>2017</td></tr><tr><td colspan=\"3\">Baten</td></tr><tr><td>- baten van organisaties zonder winststr...</td><td>42.866</td><td>50.985</td></tr><tr><td>- baten van particulieren</td><td>1.843</td><td>8.624</td></tr><tr><td>Som van de geworven baten</td><td>44.708</td><td>59.609</td></tr><tr><td>- baten als tegenprestatie voor de leveri...</td><td>6.349</td><td>3.469</td></tr><tr><td>- overige baten</td><td>20</td><td>625</td></tr><tr><td>Som van de baten</td><td>51.078</td><td>63.703</td></tr><tr><td colspan=\"3\">Lasten</td></tr><tr><td>Besteed aan doelstelling</td><td>42.645</td><td>45.131</td></tr><tr><td>Wervingskosten</td><td>806</td><td>812</td></tr><tr><td>Kosten beheer en administratie</td><td>2.642</td><td>1.526</td></tr><tr><td>Kosten afschrijving vaste activa</td><td>698</td><td>456</td></tr><tr><td>Som van de lasten</td><td>46.791</td><td>47.925</td></tr><tr><td>Saldo v\u00f3\u00f3r financi\u00eble baten en lasten</td><td>4.287</td><td>15.778</td></tr><tr><td></td><td></td><td>-</td></tr><tr><td>Saldo financi\u00eble baten en lasten</td><td>124</td><td>121</td></tr><tr><td>Saldo van baten en lasten</td><td>4.163</td><td>15.657</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

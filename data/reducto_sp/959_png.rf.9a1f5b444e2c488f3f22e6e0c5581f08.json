@@ -1,0 +1,36 @@
+{
+  "job_id": "1140b4d7-c7d5-420b-9bbd-26d85749ab2d",
+  "duration": 122.93605947494507,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/25cbd935-74ef-462f-90a2-af205b330035.pdf?AWSAccessKeyId=ASIA2UOK6OVBOUEF5PQA&Signature=yAnUezkkitNUFKsC%2B1%2FDe50Gtwk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQC0d%2BxkaY6WNRt%2ByehP4lS3anZhUWlut%2BHnGIqsycD8ogIgFfmvP6ogxptlORiLg806YOIQDPVoNGcexxWCIeWMONYqgwUIKRAAGgw3MzExMDY5MzIwMzQiDBaCyv32m4rupHgeuCrgBG%2BQ%2BOMI3eOuADkCoF3c9MpQMWTL7qRydDe9XZ8%2FOGqveu4W4hyAiUL%2BZWYZHG%2FmtVa3Swd9HqWuhx4jtyhZWaQ1ibwZWeXEivxIB2zmAI3XZXacqMrN1yrlV%2BkT6gJgVB7tX8ykObns64DT%2FSBVn7pQZilyWvyOFKDn7lMCNSXcr8thce5jfmzlSkNwvuct90vl3tknTXQ2haiN7zfOOxzEz5RW1t8Avhgg2ToVN3qw8kJ%2BV0fJguR0c8%2FLIFM5aERDDMkpPw5VbmCvsfsHwHovFGubYCIXyEY1jI%2FWrOIammf8Gh6%2BkspTRJCEUb%2BqB94Vq43uv%2BvXDEOf1rnB1bpZQJwFBhd0yxuq2LjHZ2STS4WxcRWx%2FIDzygpZJua9mDk9CK5YxQDw7NDVDUxo6LZqyTl7Tynmron4IpCBmAtcCtHhTATmGzRH920tsIZcLEgcZ0%2FPDoE9Lpan%2Blw8%2BnywSa%2B%2FOEIdm7Ssl72LDQM0CnXdXbvV%2BaPlzgrDUHmcgQJRV3Asl2FbqbUWepcePhVsEEhdsXwW8Nw7A4r3XuqHSQ%2Fl4Pr59BgUpEHXK7eXmZkiotOgrWCPVdpOuIARQbQnyR4V%2Bbb7wGQ79LvdUoWEgWHp94Dtrw81OSfpn6pbGgHspzWqLZosFKiX7e%2BiyqMWN4FJkVZ7A50xM%2FMKPC42Op4QI7ZRGqJXN2x%2BavctUn2I77PkE9%2FenHLhsAIa2wf72CvlFT5D8gnBwISdLWwfqatBDIyT0Ji%2BRXwOeVu5k%2FsbH3NdAYa8yE%2FzWa%2B2JTIZslol8K1sjMk6Tem0BfshMLTxjr8GOpoBc%2BrApHD%2BnlZHm0yd3jnJozXPFP0JesK6Esy2wL1m4lEkPvOICXTmqXvH23fkSxAyEXNkUItsTc%2F2Tr9Jx%2BM8p7bkeIlPkN0YPxYYwuDk1zTOjlfjW8tbkTWyDi8VhGXrLfwKzpJmWRJRpll1orKPXXCFmzuyfM98l0AFaJm95Fa7jjn34ReLYW4JmW82GCzC108YModYA45tAw%3D%3D&Expires=1742980951",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"7\">DIMENSIONES mm</th><th></th></tr><tr><td rowspan=\"2\">TIPO</td><td rowspan=\"2\">A1</td><td rowspan=\"2\">A2</td><td rowspan=\"2\">B</td><td rowspan=\"2\">C</td><td rowspan=\"2\">D</td><td colspan=\"2\">CARGA</td></tr><tr><td>M\u00cdN</td><td>M\u00c1X</td></tr><tr><td>A-35-b</td><td>30</td><td>40</td><td>24</td><td>M-8</td><td>24</td><td>3</td><td>30</td></tr><tr><td>A-35</td><td>30</td><td>40</td><td>24</td><td>M-8</td><td>24</td><td>25</td><td>50</td></tr><tr><td>A-45-b</td><td>40</td><td>50</td><td>34</td><td>M-8</td><td>24</td><td>50</td><td>85</td></tr><tr><td>A-45</td><td>40</td><td>50</td><td>34</td><td>M-8</td><td>24</td><td>50</td><td>85</td></tr><tr><td>A-60</td><td>60</td><td>65</td><td>48</td><td>M-12</td><td>Hembra</td><td>85</td><td>150</td></tr><tr><td>A-130</td><td>130</td><td>140</td><td>72</td><td>M-18</td><td>Hembra</td><td>500</td><td>1.000</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"7\">DIMENSIONES mm</th><th></th></tr><tr><td rowspan=\"2\">TIPO</td><td rowspan=\"2\">A1</td><td rowspan=\"2\">A2</td><td rowspan=\"2\">B</td><td rowspan=\"2\">C</td><td rowspan=\"2\">D</td><td colspan=\"2\">CARGA</td></tr><tr><td>M\u00cdN</td><td>M\u00c1X</td></tr><tr><td>A-35-b</td><td>30</td><td>40</td><td>24</td><td>M-8</td><td>24</td><td>3</td><td>30</td></tr><tr><td>A-35</td><td>30</td><td>40</td><td>24</td><td>M-8</td><td>24</td><td>25</td><td>50</td></tr><tr><td>A-45-b</td><td>40</td><td>50</td><td>34</td><td>M-8</td><td>24</td><td>50</td><td>85</td></tr><tr><td>A-45</td><td>40</td><td>50</td><td>34</td><td>M-8</td><td>24</td><td>50</td><td>85</td></tr><tr><td>A-60</td><td>60</td><td>65</td><td>48</td><td>M-12</td><td>Hembra</td><td>85</td><td>150</td></tr><tr><td>A-130</td><td>130</td><td>140</td><td>72</td><td>M-18</td><td>Hembra</td><td>500</td><td>1.000</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9059613769941226,
+              "height": 0.22980997624703087,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"7\">DIMENSIONES mm</th><th></th></tr><tr><td rowspan=\"2\">TIPO</td><td rowspan=\"2\">A1</td><td rowspan=\"2\">A2</td><td rowspan=\"2\">B</td><td rowspan=\"2\">C</td><td rowspan=\"2\">D</td><td colspan=\"2\">CARGA</td></tr><tr><td>M\u00cdN</td><td>M\u00c1X</td></tr><tr><td>A-35-b</td><td>30</td><td>40</td><td>24</td><td>M-8</td><td>24</td><td>3</td><td>30</td></tr><tr><td>A-35</td><td>30</td><td>40</td><td>24</td><td>M-8</td><td>24</td><td>25</td><td>50</td></tr><tr><td>A-45-b</td><td>40</td><td>50</td><td>34</td><td>M-8</td><td>24</td><td>50</td><td>85</td></tr><tr><td>A-45</td><td>40</td><td>50</td><td>34</td><td>M-8</td><td>24</td><td>50</td><td>85</td></tr><tr><td>A-60</td><td>60</td><td>65</td><td>48</td><td>M-12</td><td>Hembra</td><td>85</td><td>150</td></tr><tr><td>A-130</td><td>130</td><td>140</td><td>72</td><td>M-18</td><td>Hembra</td><td>500</td><td>1.000</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

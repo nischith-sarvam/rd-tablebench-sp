@@ -1,0 +1,36 @@
+{
+  "job_id": "a1fc8dab-c140-4de0-901c-091c1d8e77e8",
+  "duration": 117.8769359588623,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/4ad28e7d-4675-4634-9328-9576be75dddf.pdf?AWSAccessKeyId=ASIA2UOK6OVBLD7SGJQ5&Signature=3lMhLpbJkOV5CdiY1GiaCRSf6kE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQClyibp4jmjN0SRcaZhPZA5IP3tbhNShIa9Krc8pN9gmAIgfI8j0FIqc0GwL0NjPEjOxycKNyLreoxKuSefCEdiPzYqgwUIKRAAGgw3MzExMDY5MzIwMzQiDFFKNHyNSTFOL0L4OCrgBJmZceiNJUj%2B9VfNuYIu6EpbI1sQscXjWAQwOssYgYCOTtyyOi8A9V1SLL%2FSrLJpkVrVcaEOvtaxGlO8VFqZr8%2FEQChRg2IN9IhJMrN%2FCXd%2BScYB8wWHpHLrFD70p4ODCNbm7mHQZ9Kp5dnr8rbxCuUGc9hlv1VIZj7Fv2G1w6buLJRAXIQYcofEKR3BJLgg6BR1EXPNmdBTtv2T5KDh%2FTuZfWPEjtR1co3vWRB51B%2FBS1rBQalXfAogxQemadyRFQyNpQR5Xc6UoLXoOHBNMsiNvcB0pGM6T6Z93%2FBJMG3cSxQnVUvsLRtHWMwQacWfF%2Fyhxr%2FA947gPB%2BbnvaXLcYQ8BlE4pdjokfJkoPXxAVQNeWPoFwNtAtvIG9%2BewPYITBQ5CuTz5sp4M4Cc%2FXkxcu5Lg%2F7AXTqztfw7mSwXBHtrA7ncsN1da6le%2BvmQWWFV1Ct6dSX3IzFM2nrZckAndOKA%2FUK9H%2BzRgFhTOyviZ74egZ0%2BsRY4009Tde%2Fe7QS6j80ebgy3DBw6aegS7swr8%2BchM8Hj1%2FvLwmUA91G7StbENkTpRh99u5JbZNpeYtgEqEdxLgkGKU3wOR%2F8Xp5xGXJI%2FCKjf0UsrXYfGhYkf8UrJvDkfz3hDLe6XHVCXjf%2BZfTEy7x4CH26LEjGTrPxdLKXFeMplj5zDLw9Z0ByeQ3pefXXlIEEZjGJXTaQcBepdjOIOUiqL2Bq42DjyqZy75DcnZoYz8qsWbQNjviywOrSgMF6ULwpb825FcWuK6Vcgeq4ws7s5wD%2FS1JmH6mw06r3r1lBLGmaCwoi%2Bece0e5MLngjr8GOpoB2Qb8LBoB2jkD5gDo7KJXDizjfx%2Bq%2Fpal%2BVovOaC7giUE3%2FY84xYIidmKDpCtxsy7AzPo2zwGUsjWFD58mc7MAp5fsMcxIJLAjgV4QWcSWKtkWMMqTJrPJezBpLHYF6mYyH8Qss7jo1dLflL3%2FTHXuM%2BfnQslR1MRu%2F0eOZ6QrgZ466DMCQ2J5tUYMnEgALXlF4qDIL2yQA%2Bb0A%3D%3D&Expires=1742980953",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>\u54c1\u540d</th><th>\u6c1f\u5438\u76e4\u00b7\u6ce2\u7d0b\u7ba1\u00b7\u9ed1\u8272</th><th>\u7279\u5fb5</th></tr><tr><td>\u5546\u54c1\u4ee3\u78bc</td><td>042045</td><td rowspan=\"2\">\u5438\u76e4\u76f4\u5f9140mm\u3002\u5438\u9644\u6642\u4e0d\u6613\u7559\u4e0b\u75d5\u8de1,\u4e26....</td></tr><tr><td>\u578b\u865f</td><td>EPCG-40-F</td></tr></table>",
+        "embed": "<table><tr><th>\u54c1\u540d</th><th>\u6c1f\u5438\u76e4\u00b7\u6ce2\u7d0b\u7ba1\u00b7\u9ed1\u8272</th><th>\u7279\u5fb5</th></tr><tr><td>\u5546\u54c1\u4ee3\u78bc</td><td>042045</td><td rowspan=\"2\">\u5438\u76e4\u76f4\u5f9140mm\u3002\u5438\u9644\u6642\u4e0d\u6613\u7559\u4e0b\u75d5\u8de1,\u4e26....</td></tr><tr><td>\u578b\u865f</td><td>EPCG-40-F</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04617968094038623,
+              "top": 0.033847980997624705,
+              "width": 0.9017632241813602,
+              "height": 0.08016627078384798,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>\u54c1\u540d</th><th>\u6c1f\u5438\u76e4\u00b7\u6ce2\u7d0b\u7ba1\u00b7\u9ed1\u8272</th><th>\u7279\u5fb5</th></tr><tr><td>\u5546\u54c1\u4ee3\u78bc</td><td>042045</td><td rowspan=\"2\">\u5438\u76e4\u76f4\u5f9140mm\u3002\u5438\u9644\u6642\u4e0d\u6613\u7559\u4e0b\u75d5\u8de1,\u4e26....</td></tr><tr><td>\u578b\u865f</td><td>EPCG-40-F</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

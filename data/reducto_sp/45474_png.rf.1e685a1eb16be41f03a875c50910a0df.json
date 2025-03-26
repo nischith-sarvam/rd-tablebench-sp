@@ -1,0 +1,36 @@
+{
+  "job_id": "583a4b95-7fb2-4207-bb31-c7126fe7ae7c",
+  "duration": 185.04255843162537,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/aedeeb4e-13e6-4a1d-bd1f-013bce4a4a1c.pdf?AWSAccessKeyId=ASIA2UOK6OVBHYV5FV6C&Signature=XJdzZt9MV82UlJllOJ7aB3xEWOo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD%2Fe16ftvM79PWzYAjwpBw04rNg2PgZfo1CNfHzyh1fewIgPcfqPBr9XTcdyMLH9gsWUfdWpFSVfMSrNf%2Fk0%2FiziVkqgwUIKRAAGgw3MzExMDY5MzIwMzQiDKW5SFWofGva0fK%2B9SrgBGTXxIi9SbmvCmS4qQHfZZs89RzE%2BvmwOJ5dvrLEHFkgwP3b2h054LVCWe3LHL%2FyMTWoRlvoLbdRtmJ67Q8CT0amPPfM2Rrmn%2B10AfkPXyqFpvGWS2auzHMtlYVbVZqqfQnWuao5vV7MN8JplGjePJW02G1waM5tNTvB4c2XGolzOZkOCL1Shqe3zVMnZNMxW2AJsfVyIUJVkEgNo%2F2jh9%2B6wdyKj2zERIcVTb1zaIGK4R0bp3Z1d9Ex3fxffdq5brURvhuT4svJBlWjKxW26ue2Uz64yhMqkog5NnfDZ5Xy5HfUZlyVM%2BKm3qok3QHuvHFb3%2B%2FMH7TSyeqe4IDqSlRS8ja35H%2BxRlArLBtb5yyXO9iWeqC4TkM0y42KW%2Fe5FCmg%2Foq2s7hbDfT3Of33D%2F4fhPrk7EFfcZYPUPB2oMTmMarhCxAUnP1q9Gm2%2FrLnsPDhH3y%2B%2FobE1t%2Fes3eJPPq87u5FsSKXjwviimwOeoymfzojs%2FM2bM%2FWWT69SlNmMWwaPEkEej5Yd4lSz%2BLzYAD9XrhYQSffJI3pgEYAQWlzM0au2kAzQVunZ7uby5C3wtlXrWl803St3K8FaxjBhtje0dBGDMyRl05eqQJtlD98UOZJj%2FGEEkkJJchiXL4psD5F4hvqM9bqJxydrOUjPYT1xV03XnYAy3w4abtEtRrVBUsrGq5F5ApJf4ulSN%2BOOn%2B%2FKX0nQEg0HGFw8GEneZvokvda0K1Z9zAmlUVFth9MjiNyC7DALG5%2BrS2i1vwpX3eXbxK9U%2B1CQHjUX06gEe%2BfmXrO9n09vwDg6LtKQl8cMN%2Fjjr8GOpoBLFoADlDTK8MDcKO3xnQP2jn%2FCJQhyhDqykjlmRBmqheRrNSsWcaZYG3VL%2Bsltm9IHPuUdT4bRpIG7R%2F%2B%2BO7P2%2Bt5kHN9%2BC6WUABKAJ7o8HNqGholVSMTLm0q5SNP8HjYDIdWaYnhd%2Fr0g9TZVEfSufa%2FLCct6Zje7NW8djxhrp%2BFgUZjdNGCBsXcKvkU8Y6GuSbUosWs0Muqhw%3D%3D&Expires=1742981027",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"3\">QUADRO 1FC - RECEITAS DERIVADAS E ORIGIN\u00c1RIAS</th></tr><tr><td></td><td>Exerc\u00edcio Atual</td><td>Exerc\u00edcio Anterior</td></tr><tr><td colspan=\"3\">Receitas derivadas e origin\u00e1rias</td></tr><tr><td>Receita Tribut\u00e1ria</td><td>0,00</td><td>0,00</td></tr><tr><td>Receita de Contribui\u00e7\u00f5es</td><td>0,00</td><td>0,00</td></tr><tr><td>Receita Patrimonial</td><td>0,00</td><td>5.072,34</td></tr><tr><td>Receita Agropecu\u00e1ria</td><td>0,00</td><td>0,00</td></tr><tr><td>Receita Industrial</td><td>0,00</td><td>0,00</td></tr><tr><td>Receita de Servi\u00e7os</td><td>0,00</td><td>0,00</td></tr><tr><td>Remunera\u00e7\u00e3o das Disponibilidades</td><td>528,55</td><td>0,00</td></tr><tr><td>Outras Receitas Derivadas e Origin\u00e1rias</td><td>0,00</td><td>0,00</td></tr><tr><td>Total das Receitas Derivadas e Origin\u00e1rias</td><td>528,55</td><td>5.072,34</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"3\">QUADRO 1FC - RECEITAS DERIVADAS E ORIGIN\u00c1RIAS</th></tr><tr><td></td><td>Exerc\u00edcio Atual</td><td>Exerc\u00edcio Anterior</td></tr><tr><td colspan=\"3\">Receitas derivadas e origin\u00e1rias</td></tr><tr><td>Receita Tribut\u00e1ria</td><td>0,00</td><td>0,00</td></tr><tr><td>Receita de Contribui\u00e7\u00f5es</td><td>0,00</td><td>0,00</td></tr><tr><td>Receita Patrimonial</td><td>0,00</td><td>5.072,34</td></tr><tr><td>Receita Agropecu\u00e1ria</td><td>0,00</td><td>0,00</td></tr><tr><td>Receita Industrial</td><td>0,00</td><td>0,00</td></tr><tr><td>Receita de Servi\u00e7os</td><td>0,00</td><td>0,00</td></tr><tr><td>Remunera\u00e7\u00e3o das Disponibilidades</td><td>528,55</td><td>0,00</td></tr><tr><td>Outras Receitas Derivadas e Origin\u00e1rias</td><td>0,00</td><td>0,00</td></tr><tr><td>Total das Receitas Derivadas e Origin\u00e1rias</td><td>528,55</td><td>5.072,34</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04617968094038623,
+              "top": 0.032660332541567694,
+              "width": 0.9034424853064652,
+              "height": 0.30522565320665085,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"3\">QUADRO 1FC - RECEITAS DERIVADAS E ORIGIN\u00c1RIAS</th></tr><tr><td></td><td>Exerc\u00edcio Atual</td><td>Exerc\u00edcio Anterior</td></tr><tr><td colspan=\"3\">Receitas derivadas e origin\u00e1rias</td></tr><tr><td>Receita Tribut\u00e1ria</td><td>0,00</td><td>0,00</td></tr><tr><td>Receita de Contribui\u00e7\u00f5es</td><td>0,00</td><td>0,00</td></tr><tr><td>Receita Patrimonial</td><td>0,00</td><td>5.072,34</td></tr><tr><td>Receita Agropecu\u00e1ria</td><td>0,00</td><td>0,00</td></tr><tr><td>Receita Industrial</td><td>0,00</td><td>0,00</td></tr><tr><td>Receita de Servi\u00e7os</td><td>0,00</td><td>0,00</td></tr><tr><td>Remunera\u00e7\u00e3o das Disponibilidades</td><td>528,55</td><td>0,00</td></tr><tr><td>Outras Receitas Derivadas e Origin\u00e1rias</td><td>0,00</td><td>0,00</td></tr><tr><td>Total das Receitas Derivadas e Origin\u00e1rias</td><td>528,55</td><td>5.072,34</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

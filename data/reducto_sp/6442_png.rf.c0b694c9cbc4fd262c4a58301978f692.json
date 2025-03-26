@@ -1,0 +1,36 @@
+{
+  "job_id": "3e60337a-b4b5-4eb4-be20-b187d03c1394",
+  "duration": 123.96546983718872,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/963c4620-f7f2-4f05-94bb-4b018d85e310.pdf?AWSAccessKeyId=ASIA2UOK6OVBKMKKYXEH&Signature=srkPlIMGhCQ6aOcnHmRE7kZhSuI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDehfS%2F22D83Oepqi3BKWp0191WYV3ZNEEwCiGQKw6kCQIhAK6lrP%2B6%2FtaiyADxBcFz6MIju6vHa7oWnZCOvexcYwm1KoMFCCkQABoMNzMxMTA2OTMyMDM0IgzBlWpCOjtWa%2FcMJJcq4AQi5GVUn1SpvxW%2BnXirYcUw%2F54nAoXXqoB7UeKi46qSojYFHMbmjTuB8l7CnRMREeYANz8nwrKC14kkxySZQ7%2FRpbEnJreSGjEOt%2F58upUmFHom%2B3eDNTsokdGIzaj%2BJtnwRQTqH9KUTZvEtrJXUptITcTBa7SLTlf3CnhXcBSUjmASNQ5n1dZUqkil4gMyUJi8%2BcTJPL%2Bw%2FZJBAn%2FhhGGlkZ6zJzKWvxZBfeS92Yl5c8Ozo98LLojVNfyLbCRZtyb2hzNccwgvQf7ujYoP7mBrkSMQ1IlHMR900KMGLZqCFdNmuOYmMZDNcrGBMvhM5PolceqrxPDgmB%2FXfPtjLMtE3T3xWCs%2BQQYuW724kIqOuuatak5bAMAaDvi9ARqF66jQDiewM0Q6DKrqaR4CsepNZz5fcx1HuHNUDoPwAP0bthc4gA8krqqXsZ6WOUQU8FpKa%2F31DNJNw0Ts7PYXPhNIkpD4ztZedDhmK2YS2GUBN8%2Fii9RaXdwWEx%2BB15Cd%2BmZACW9OolqIpzGrxVQisaewMq3YaYXDGVdHz1ahiG0wZATdbq5hr%2FEUi1bwYy105JSBxMOxaliy43bR8A4uSl7uXkMKF%2BqduzIIYJPjL2%2FAsiRIbbOWVaHiM%2BAEVRi8IaLS7bFOe9FxNrMzXTFi2RL7gty2P%2BtCS99vHDtkaVNTHpVOA8LImn2%2FhaKeHY7%2BJndd5yX88dVcjzZmzw6oEvLjeSB580mAvepuPQaoJHxqcA3YSxZ9puzfUAhrVzo26SP5r1vax308AO%2BNGHTnS9wrl3GlKM8Fj6gAZMYNKTznVDDu446%2FBjqZAfEUD%2FvIDCI%2F7wXjjpDSWI7jRvGCsyxS%2B7gPNQlzDn6jNidduZnS0%2FMViUFCyEMr1y1u0Su%2BEdmXQdgP4B5kfXjTON3knXWvBRKcDX3ZnWPsjaGm29SPCe5XVmrDgGH00%2BXpVRh14aoYoPoEZHbvYe2vQUBcoKYpFlhnGj3IHYH6oJ6wU1hs9%2BT0eSYR6BXpwgbX7rVmddrAKw%3D%3D&Expires=1742980952",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th>Andapa</th><th>Ambodi</th><th>Andasib</th><th>Befingotra</th><th>Eastern ...</th><th>Trailhea</th><th>Trailhea</th><th>River Ma...</th><th>Boundar</th></tr><tr><td>Andapa</td><td>0.0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ambodip</td><td>17.2</td><td>0.0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Andasibe</td><td>20.0</td><td>2.8</td><td>0.0</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Befingotra</td><td>27.1</td><td>9.9</td><td>7.1</td><td>0.0</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Main Eas</td><td>30.6</td><td>13.4</td><td>10.6</td><td>3.5</td><td>0.0</td><td></td><td></td><td></td><td></td></tr><tr><td>Ranomaf</td><td>34.5</td><td>17.3</td><td>14.5</td><td>7.4</td><td>3.9</td><td>0.0</td><td></td><td></td><td></td></tr><tr><td>Takhtaja</td><td>36.0</td><td>18.8</td><td>16.0</td><td>8.9</td><td>5.4</td><td>1.5</td><td>0.0</td><td></td><td></td></tr><tr><td>Marolaka</td><td>37.1</td><td>19.9</td><td>17.1</td><td>10.0</td><td>6.5</td><td>2.6</td><td>1.1</td><td>0.0</td><td></td></tr><tr><td>Western ...</td><td>44.4</td><td>27.2</td><td>24.4</td><td>17.3</td><td>13.8</td><td>9.9</td><td>8.4</td><td>7.3</td><td>0.0</td></tr><tr><td>Anjiamaz</td><td>46.5</td><td>29.3</td><td>26.5</td><td>19.4</td><td>15.9</td><td>12.0</td><td>10.5</td><td>9.4</td><td>2.1</td></tr></table>",
+        "embed": "<table><tr><th></th><th>Andapa</th><th>Ambodi</th><th>Andasib</th><th>Befingotra</th><th>Eastern ...</th><th>Trailhea</th><th>Trailhea</th><th>River Ma...</th><th>Boundar</th></tr><tr><td>Andapa</td><td>0.0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ambodip</td><td>17.2</td><td>0.0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Andasibe</td><td>20.0</td><td>2.8</td><td>0.0</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Befingotra</td><td>27.1</td><td>9.9</td><td>7.1</td><td>0.0</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Main Eas</td><td>30.6</td><td>13.4</td><td>10.6</td><td>3.5</td><td>0.0</td><td></td><td></td><td></td><td></td></tr><tr><td>Ranomaf</td><td>34.5</td><td>17.3</td><td>14.5</td><td>7.4</td><td>3.9</td><td>0.0</td><td></td><td></td><td></td></tr><tr><td>Takhtaja</td><td>36.0</td><td>18.8</td><td>16.0</td><td>8.9</td><td>5.4</td><td>1.5</td><td>0.0</td><td></td><td></td></tr><tr><td>Marolaka</td><td>37.1</td><td>19.9</td><td>17.1</td><td>10.0</td><td>6.5</td><td>2.6</td><td>1.1</td><td>0.0</td><td></td></tr><tr><td>Western ...</td><td>44.4</td><td>27.2</td><td>24.4</td><td>17.3</td><td>13.8</td><td>9.9</td><td>8.4</td><td>7.3</td><td>0.0</td></tr><tr><td>Anjiamaz</td><td>46.5</td><td>29.3</td><td>26.5</td><td>19.4</td><td>15.9</td><td>12.0</td><td>10.5</td><td>9.4</td><td>2.1</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.27909738717339666,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th>Andapa</th><th>Ambodi</th><th>Andasib</th><th>Befingotra</th><th>Eastern ...</th><th>Trailhea</th><th>Trailhea</th><th>River Ma...</th><th>Boundar</th></tr><tr><td>Andapa</td><td>0.0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ambodip</td><td>17.2</td><td>0.0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Andasibe</td><td>20.0</td><td>2.8</td><td>0.0</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Befingotra</td><td>27.1</td><td>9.9</td><td>7.1</td><td>0.0</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Main Eas</td><td>30.6</td><td>13.4</td><td>10.6</td><td>3.5</td><td>0.0</td><td></td><td></td><td></td><td></td></tr><tr><td>Ranomaf</td><td>34.5</td><td>17.3</td><td>14.5</td><td>7.4</td><td>3.9</td><td>0.0</td><td></td><td></td><td></td></tr><tr><td>Takhtaja</td><td>36.0</td><td>18.8</td><td>16.0</td><td>8.9</td><td>5.4</td><td>1.5</td><td>0.0</td><td></td><td></td></tr><tr><td>Marolaka</td><td>37.1</td><td>19.9</td><td>17.1</td><td>10.0</td><td>6.5</td><td>2.6</td><td>1.1</td><td>0.0</td><td></td></tr><tr><td>Western ...</td><td>44.4</td><td>27.2</td><td>24.4</td><td>17.3</td><td>13.8</td><td>9.9</td><td>8.4</td><td>7.3</td><td>0.0</td></tr><tr><td>Anjiamaz</td><td>46.5</td><td>29.3</td><td>26.5</td><td>19.4</td><td>15.9</td><td>12.0</td><td>10.5</td><td>9.4</td><td>2.1</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

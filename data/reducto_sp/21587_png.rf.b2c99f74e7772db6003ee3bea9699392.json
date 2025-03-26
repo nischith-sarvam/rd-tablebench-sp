@@ -1,0 +1,36 @@
+{
+  "job_id": "7b3f1503-c17a-4f44-ba97-ab609256ff21",
+  "duration": 170.91398787498474,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/091cf6a6-ffd6-48f5-acaa-2f049360dc35.pdf?AWSAccessKeyId=ASIA2UOK6OVBJNZSIPGC&Signature=umuDAr1aQafaeHnp9yGQJjIXwM8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDU%2B%2Bfk5Xvp82%2BTWPQnG0HxeQQcCYaWDp17Csyezd4b%2FQIhAJ3ro97wKOUknFALZWo1CvVTfzgQKKlzMGYvKE9J15McKoMFCCoQABoMNzMxMTA2OTMyMDM0Igw6SBdbN8l4TengYtgq4AQokkXy1%2FNTX%2Fhf620e9mcgFDSnAPM0h%2Bq6aQm0L79qXQumq376DPqWyZpdNsENtIGUpEM%2FdUVfvraLD0KewlVS8lgWgZtmXG9mB0man2asePsGaGYl2cJLTcMX5aVaKu8qSkdqBeul3sHOIS%2BomEL%2Fkn7x3ouDa36XQYalwLFzVBfVT1esjo%2FlSvyZ21ZHXqqnYojY%2BmKUcB3AhYbczlpHUaTDl1k6Jbc%2Fs4EUn2GJ1X0L2s64Y3n%2F7hpNfDKQbnPAS75E8fRz3VwxJe3OfTZMA24dCE4qck6N9TU3H8vxRbgfCFotlH29q%2FJ72u%2BLR4r%2BLw3DOeq%2FxqWvJmImIa4vxqXptrX7lmlF%2BH%2BAdX7Tu8eIE7SZER5%2FKgdR1wBFMhjE0YB1eJuXvm19E6FsS9oBJjvhTEESMwSGWk4Qw9S8%2Fi%2FLYwnD05fWI1tKzBD0Kl%2B%2FXzr9nLqu6MgKiSlVr97TsTK7QHO67c88xMlNL%2BwWnoYd75S7hMldqWzt3A83UQGGD0ZtdVJE8ZBhZcuKOcCvLP7uygCUbSzmQYkbzGykrYiSJjggQD%2B%2Ffx1Fu%2FiUfVTElkbq1l4nVMTIkXnVCONZz510Rx68dqz02puFGE9A2soKydtU5xkPkHo%2F4NbSunafPszlPSS93UclgsngpqulNPZtuNdhoWDpS8h9spWnNjw%2B5XiVFm4x2nAhyQRcjvb9lGjo%2F6p4xgkR2ApUzet2AqG%2BRhHUYl9c5HCcxbfV850m0dmC2nbWeyquvhJZuxCkCA775j42fsje0nE%2BcTSjjmLhINN4FCNtXVBpgf3GtjCM846%2FBjqZAfQRpm648muhzx8LZzTs6sG6lRSYu5ztebOwb5FDICFFjR9cRQzKbGRddR6xl7wxmGNW3pxaoTZrbJe5ufhLxEldoX11jOI1bbn7dtP7hJ9PW0h%2BDRNADeR7VT3Cv7Ww3R%2BvD761AH6RpV6lJrmfAzjNWHbVaacoch8wxnBQcVcg%2FNvxsXIeob0f5Mj8g%2BngV1H0fw%2B1Q%2BJBBg%3D%3D&Expires=1742981029",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>in K\u20ac</th><th>HY 2020</th><th>FY 2019</th><th>HY 2019</th></tr><tr><td>Consolidated net result</td><td>1746</td><td>1141</td><td>969</td></tr><tr><td>Capacity of self-financing bef</td><td>3211</td><td>4 017</td><td>2194</td></tr><tr><td>- Variation of working capital</td><td>214</td><td>-2731</td><td>-1155</td></tr><tr><td>Net operating cash flow</td><td>2 997</td><td>6 748</td><td>3 349</td></tr><tr><td>Change in fixed assets</td><td>-2 521</td><td>-4 217</td><td>-1947</td></tr><tr><td>Change in other cash flow lin</td><td>884</td><td>1374</td><td>635</td></tr><tr><td>Net investing cash flow</td><td>-1 637</td><td>-2 843</td><td>-1 312</td></tr><tr><td>Net financing cash flow</td><td>-366</td><td>-2 562</td><td>-466</td></tr><tr><td>Cash variation</td><td>994</td><td>1343</td><td>1571</td></tr><tr><td>Cash at the end of the period</td><td>5 001</td><td>4 007</td><td>4 235</td></tr></table>",
+        "embed": "<table><tr><th>in K\u20ac</th><th>HY 2020</th><th>FY 2019</th><th>HY 2019</th></tr><tr><td>Consolidated net result</td><td>1746</td><td>1141</td><td>969</td></tr><tr><td>Capacity of self-financing bef</td><td>3211</td><td>4 017</td><td>2194</td></tr><tr><td>- Variation of working capital</td><td>214</td><td>-2731</td><td>-1155</td></tr><tr><td>Net operating cash flow</td><td>2 997</td><td>6 748</td><td>3 349</td></tr><tr><td>Change in fixed assets</td><td>-2 521</td><td>-4 217</td><td>-1947</td></tr><tr><td>Change in other cash flow lin</td><td>884</td><td>1374</td><td>635</td></tr><tr><td>Net investing cash flow</td><td>-1 637</td><td>-2 843</td><td>-1 312</td></tr><tr><td>Net financing cash flow</td><td>-366</td><td>-2 562</td><td>-466</td></tr><tr><td>Cash variation</td><td>994</td><td>1343</td><td>1571</td></tr><tr><td>Cash at the end of the period</td><td>5 001</td><td>4 007</td><td>4 235</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032066508313539195,
+              "width": 0.9051217464315701,
+              "height": 0.29631828978622327,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>in K\u20ac</th><th>HY 2020</th><th>FY 2019</th><th>HY 2019</th></tr><tr><td>Consolidated net result</td><td>1746</td><td>1141</td><td>969</td></tr><tr><td>Capacity of self-financing bef</td><td>3211</td><td>4 017</td><td>2194</td></tr><tr><td>- Variation of working capital</td><td>214</td><td>-2731</td><td>-1155</td></tr><tr><td>Net operating cash flow</td><td>2 997</td><td>6 748</td><td>3 349</td></tr><tr><td>Change in fixed assets</td><td>-2 521</td><td>-4 217</td><td>-1947</td></tr><tr><td>Change in other cash flow lin</td><td>884</td><td>1374</td><td>635</td></tr><tr><td>Net investing cash flow</td><td>-1 637</td><td>-2 843</td><td>-1 312</td></tr><tr><td>Net financing cash flow</td><td>-366</td><td>-2 562</td><td>-466</td></tr><tr><td>Cash variation</td><td>994</td><td>1343</td><td>1571</td></tr><tr><td>Cash at the end of the period</td><td>5 001</td><td>4 007</td><td>4 235</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

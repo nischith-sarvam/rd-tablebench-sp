@@ -1,0 +1,36 @@
+{
+  "job_id": "25812c94-a8d0-4274-a5d6-c3b3da476ad0",
+  "duration": 195.9704625606537,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/d065039d-7c2a-472f-86db-c927cb68daea.pdf?AWSAccessKeyId=ASIA2UOK6OVBCQT3TK22&Signature=vUO61g8bZmaFQB4kYAiflzCiwbY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDdmGh50zYy3K4cKJg2jz33ov6oh0rnmBRfYG4CqlfM1wIgF5jaE2PBdFd1MRL692E0i8blMxEv3BeZ%2FoK1I8rPlNgqgwUIKhAAGgw3MzExMDY5MzIwMzQiDFlCU%2BVUXWf80%2B51QirgBHIptJzuIRxe695AAb3ubslr736m6lKCd2bP6uwc8M9uLbastFZ1px%2FGyUx8OIx3jLzxL42gSRMvEwM1D35BOVJYpx0OATS6Xj3LtRdxbYUxrRvg%2Bk9nlQsLE5k8ZtdBD0jTrbO9HOQyJ56wlufyajL0cpgSgskm2TugK2p48%2BZzKG7Sts6uStyfPdq1isTLTolxNv98pupQZqlGnAJVpEEBV7qOtD1VM95EuabFbpcYkmPGTvIFQYloPczCK0aXU7IG1%2FMZz6%2FVzIGNEdVX3AtDbNMr%2Fn9G01uQxs9oG%2F2yxGYg4iGmwIImi9dCQkC86O2yZYKhkxkQSIT86vyis46lsj4Ek8sM6YlDX8I5vbXtVMpMASjSpxC3kfVCiempTw9pocp7aqZ3dsiArHIlRb9Q8xt0pumfSpzgvOEx763T063hfGL84O7xZ2br8jLrYqUPNurMYLtOnL%2FXao3Ha8XM5AjU05%2BNgJuicgcGZtTJazNuT%2FhMSZwC4PvzbV4q8DThWvzb1MtuCgKdoYcJ1U6DpOtWoExBPmyxkrE0NU3JWy26ghxMC1mHrNnKg7kOKZxiZWoBymyFcedb4qFhDIa73%2FjH%2Ftuz0hxJoObnOf0uIaOB%2BcsGAyYJn4TnPTUhC5IdBw4TnQmPR4I9Cd9oI%2FHM4tqmU1x%2BouhYLFh8HaT45l3KOBgN%2FflkM4sd%2FotkmoppPpp5FfjzH7r1O1JnyXRSeuAYd0cpFBt%2BkNLg6u9NTHcAnuQjHlBAc%2FhsIJUYoUickih2eWFTnNo%2BzMP4gLwyBPwP%2FRaDpFfa6qxwF2LwMP3yjr8GOpoBVSMSLOMWInZb3T3VydewkK8HSo%2BdAX8VWzwNyff0Y%2BaWtgmOKpiZ1ukN3ejP%2Brre57pWt%2Bu%2FVo9wNqP3TawSFlmsocHZ%2BwBdZtAVV1j6lhOsya91Hzag3Qa%2FduFwXBq0Q3WHrI0CMeE%2Fjo2AAE%2F9hIloDMlAt4Y2%2BN56NuxflQ9vyth9w3q7vLy7189WPel7Z5TzSSYe6Y%2BWUw%3D%3D&Expires=1742981033",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"4\">Et\u00e0</th><th>da 18 a 65 anni</th><th></th></tr><tr><td>da 17 a 18 anni</td><td>- a meno che definito minorenne dalla le...</td></tr><tr><td>Persone che donano per la prima volta d...</td><td>- a discrezione del medico del centro em</td></tr><tr><td>Oltre i 65 anni</td><td>- con permesso annuale del medico del ...</td></tr><tr><td>Peso corporeo</td><td colspan=\"2\">&gt;50 kg per donatori di sangue intero o di emocomponenti per aferesi</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"4\">Et\u00e0</th><th>da 18 a 65 anni</th><th></th></tr><tr><td>da 17 a 18 anni</td><td>- a meno che definito minorenne dalla le...</td></tr><tr><td>Persone che donano per la prima volta d...</td><td>- a discrezione del medico del centro em</td></tr><tr><td>Oltre i 65 anni</td><td>- con permesso annuale del medico del ...</td></tr><tr><td>Peso corporeo</td><td colspan=\"2\">&gt;50 kg per donatori di sangue intero o di emocomponenti per aferesi</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9034424853064652,
+              "height": 0.12885985748218529,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"4\">Et\u00e0</th><th>da 18 a 65 anni</th><th></th></tr><tr><td>da 17 a 18 anni</td><td>- a meno che definito minorenne dalla le...</td></tr><tr><td>Persone che donano per la prima volta d...</td><td>- a discrezione del medico del centro em</td></tr><tr><td>Oltre i 65 anni</td><td>- con permesso annuale del medico del ...</td></tr><tr><td>Peso corporeo</td><td colspan=\"2\">&gt;50 kg per donatori di sangue intero o di emocomponenti per aferesi</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

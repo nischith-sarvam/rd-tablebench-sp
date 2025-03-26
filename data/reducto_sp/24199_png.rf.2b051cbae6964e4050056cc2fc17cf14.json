@@ -1,0 +1,36 @@
+{
+  "job_id": "57920a47-8bca-434e-9ab2-d345a49f1acb",
+  "duration": 190.9503927230835,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/edb3cf85-90d3-40be-9eeb-bbd9e89b453f.pdf?AWSAccessKeyId=ASIA2UOK6OVBKN4ZGCJF&Signature=ZsZhWFljX4CpMqp2SK6c517w1ZA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIDrqBEaOQkNI%2BgWkZmENxVW7cF9YJMbBpQ%2Byli%2FkxsCMAiEA5XncZkX9hS6%2FWic50HWK%2BX05Eu%2BcAPwLmUNezWviB8cqgwUIKhAAGgw3MzExMDY5MzIwMzQiDDGiU6n9IZN9sqQdlCrgBBfFSp4FmTS2n4%2Bb3Zy2q3ZljfQ5FN0z983nQ1YlwXS5weKxGIkhLAVnQO3tbk3qrwBSo5Wz2JbemGqG540gGqWOUu4o7UCZDdvEXDY27Dtq1vjg%2FpAwmGLl0mB%2Fo3uTxKDaNLBQz2EP3baZuzBK0%2BobehxcF2lOJe%2BZN6X3YG9%2FRReTB2RUyoQaZzNe704JdtIOZKiB03ZlA9BooxQ4LePUgJRN318x2t8rt0WMhUYZxkvz3YQV5gK9Y0aM1z5hIr7QL%2BI8Y1Oi7gfKscSfroyR9vXpR2XAYOFhpvqBz5cMauTKBZiYOkl3Dhbh7G3HD%2BXIx0brLxt7lAsfofgLmtqg8JhwGwrsya66KNfGKu%2Bd4v%2F1Jil5hVMMn%2Fl9BgLZslAgbHCfne2V6UYGgsinWpI0kMGZwdkN8c6fqquDnJ8QiMViLNCiuuuoTDYMMHXqgtMTEkWGGp8Lx9zOYKMd7lCTpAdzlLIJUvorvKT3M2qXgoY0T9PJy34OOucqP9PC7d6e6kOQj0SEQfa2QpL0PuSlJT2f42qmGn%2BLSvf2OY4jl7d1Zr2IjuT8gxlm3AxdyenCIeAZND3JRUPcyiqd4ybyRIIbAKAlCOdnvvpCLoTl2nUEcHxEtOP0jUQV0bVlBCHasSQqQI0T7UCh46KSoh9xc3iFSxtu0WFsrFDv9eT1oxukXflz%2FvMG%2FtBUH1A7hAaqeNOG2ut%2BkrNExIda3mYYrBsdeCWsLkZrIynkh5BnOAZIEgJy3DvyesQrakpilb1RMinqDLzcw%2Fza%2F7rFNo8ckUTOWnOPuzUiwvZg5bSYMMLyjr8GOpoBRpz4XZUhttapVoroHzpCONkCxAdSB2a1%2BuZaOYX9rgmdivbTu8Q6%2BPj%2BZEzuoVXJw%2FwvvKxndO6Ae%2Bm9O86gUQnqexLghQQbcwR4EW8ZkCyCqMFfETZEXyHKK1RguN6zP7XDdnrngD1%2FT5uCDAYD2MsJGDQChNIBaB5UJwr%2BUIQu4TaLUKOB5xsKmV3L5vtC56XN5E5iCsCoHw%3D%3D&Expires=1742981025",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th></th><th colspan=\"3\">Existing tax credits for Taxpayer</th><th colspan=\"3\">Existing tax credits for Taxpayer</th></tr><tr><td></td><td></td><td colspan=\"3\">Current year</td><td colspan=\"3\">Current year</td></tr><tr><td>Calculate CPP</td><td></td><td>No</td><td></td><td></td><td>No</td><td></td><td></td></tr><tr><td>Calculate El</td><td></td><td>No</td><td></td><td></td><td>No</td><td></td><td></td></tr><tr><td>Claim disabil...</td><td></td><td>No</td><td></td><td></td><td>No</td><td></td><td></td></tr><tr><td>Donations 7...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Donations 1...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Donations -...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tuition and r...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Medical exp</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Other federa...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tuition and r...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Other provin</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Other provin</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Other than e...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Eligible divid</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "embed": "<table><tr><th></th><th></th><th colspan=\"3\">Existing tax credits for Taxpayer</th><th colspan=\"3\">Existing tax credits for Taxpayer</th></tr><tr><td></td><td></td><td colspan=\"3\">Current year</td><td colspan=\"3\">Current year</td></tr><tr><td>Calculate CPP</td><td></td><td>No</td><td></td><td></td><td>No</td><td></td><td></td></tr><tr><td>Calculate El</td><td></td><td>No</td><td></td><td></td><td>No</td><td></td><td></td></tr><tr><td>Claim disabil...</td><td></td><td>No</td><td></td><td></td><td>No</td><td></td><td></td></tr><tr><td>Donations 7...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Donations 1...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Donations -...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tuition and r...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Medical exp</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Other federa...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tuition and r...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Other provin</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Other provin</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Other than e...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Eligible divid</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032066508313539195,
+              "width": 0.9042821158690176,
+              "height": 0.40558194774346795,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th></th><th colspan=\"3\">Existing tax credits for Taxpayer</th><th colspan=\"3\">Existing tax credits for Taxpayer</th></tr><tr><td></td><td></td><td colspan=\"3\">Current year</td><td colspan=\"3\">Current year</td></tr><tr><td>Calculate CPP</td><td></td><td>No</td><td></td><td></td><td>No</td><td></td><td></td></tr><tr><td>Calculate El</td><td></td><td>No</td><td></td><td></td><td>No</td><td></td><td></td></tr><tr><td>Claim disabil...</td><td></td><td>No</td><td></td><td></td><td>No</td><td></td><td></td></tr><tr><td>Donations 7...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Donations 1...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Donations -...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tuition and r...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Medical exp</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Other federa...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tuition and r...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Other provin</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Other provin</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Other than e...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Eligible divid</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

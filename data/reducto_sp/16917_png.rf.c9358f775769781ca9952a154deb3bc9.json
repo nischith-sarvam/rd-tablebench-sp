@@ -1,0 +1,36 @@
+{
+  "job_id": "f62264a1-296a-439b-a535-76481da52eb7",
+  "duration": 180.29253435134888,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/901accf9-ba9a-40a8-a99e-7c2810ea89cb.pdf?AWSAccessKeyId=ASIA2UOK6OVBFVWQWWSM&Signature=knykgThN3EWxdBxfhcqjvYYqYnU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIDJsBVoPy1vg6ADCq2Zl7xhfHUG1gZgk7UTl8w8Aa5CgAiEA5JL02rD%2F%2FAgD6w0OHyoyQ5ifCWjflknRIR47XhWttp4qgwUIKhAAGgw3MzExMDY5MzIwMzQiDHeDnOfmsLSAlH4k6irgBBGMo9zsutNQLyTyDkFHFlsAoIvhfsynlF6ZKBXtZIq%2FqCadMEDfHiizSzvSKJn%2F0bjRZg2WtI%2B7DJB4uSGXszZ6h%2FuPVxbPYU9JrTFrz8C5h2i9h1fcFpKuVkhVFx%2FodMX6OTfes74g98GW4Qt%2Fe%2BzZ5QpjYN2IRlYe9ePqCgNg6KQ1h3MQuFtyL0HlVQ%2BQp7PN%2FLQN5qratczKkBR1L2pH27kpIBNsQgKBc8xLEjdwEnFqkDgUSII8p4nnPgsqf3KkA0lfwUGcXCM9b5hQv1Gx4EVpS%2FPpkwgskFyWCIMthPpbEr0sJ7ncwAsqfROlC5QZrG%2FjQQQ%2FOtOd6akS5xqJ4KQ2N%2FAlV46D%2BGK4r%2BZgL212aQDqmxYhQwJWwtzdwPuV4aUh%2FVfRY9AZV%2F9mNFvAIxQ2CS%2BteVNIX2rQIBbnjAtWIIFoR09qEFOpIlNQ%2BLwNOEEmJl6QgrgGqKv6N%2FsTN1JPfqhWNgvJy68lJ9fLJOil7cwtlgK368onjuIAiQodeFrHiJLJ9k7RlNJysCc0upTRehhz4uEPGmcfg2kyXHY72K%2BieYNx5Q5xiF5X%2Bn4F2UOfsNFd9AFFtE1%2BvDEFC0lWgHviidDe8T3nI7P6nSXy831NSce%2BdMwLM31wXLHtMu5ILFhZkDyJi2L1jD4JWoVyAzWaWWG63dDG74y2oWooHoC8ef%2FO%2Bx2hg50NLhxoq%2FGSYXNewit820cZX3EqlMAwxQ5CFH%2BfG1dBjhqm%2FtNgVOksFEw35aaJKmRBDAAJp2efB1VOi%2FnUnbtnSx9Bo9SMoFjMLPOISOjtBmT6MI3zjr8GOpoBuk2x760s3Acsz25m%2FLxG9XmHvyeLZW4xm%2FAhRtXOWk63JZ%2BpGQe8bsSwD6iefsUWy5mcWFhbMcEgSWm1zj9LDl24DpcxBh6ZBQRxQe2TIzFYOQl3a6wcdkGn5C50eYfZd4WLzIM5aOFPHfoIcg20%2FM1Ahjyq8m3oktkZ0wRFMvBP5WBZ1RgFeY7uRULT92%2B%2FH8aIg5vcQPJsVg%3D%3D&Expires=1742981026",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Principal Assumptions</th><th>2020</th><th>2019</th></tr><tr><td>Discount rate for obligations</td><td>0.75%</td><td>1.30%</td></tr><tr><td>Rate of future compensation increases</td><td>3.50%</td><td>3.50%</td></tr><tr><td>Rate of pension increases</td><td>1.75%</td><td>1.75%</td></tr><tr><td>Actuarial tables</td><td>ICSLT</td><td>ICSLT</td></tr></table>",
+        "embed": "<table><tr><th>Principal Assumptions</th><th>2020</th><th>2019</th></tr><tr><td>Discount rate for obligations</td><td>0.75%</td><td>1.30%</td></tr><tr><td>Rate of future compensation increases</td><td>3.50%</td><td>3.50%</td></tr><tr><td>Rate of pension increases</td><td>1.75%</td><td>1.75%</td></tr><tr><td>Actuarial tables</td><td>ICSLT</td><td>ICSLT</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032066508313539195,
+              "width": 0.9042821158690176,
+              "height": 0.12945368171021376,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Principal Assumptions</th><th>2020</th><th>2019</th></tr><tr><td>Discount rate for obligations</td><td>0.75%</td><td>1.30%</td></tr><tr><td>Rate of future compensation increases</td><td>3.50%</td><td>3.50%</td></tr><tr><td>Rate of pension increases</td><td>1.75%</td><td>1.75%</td></tr><tr><td>Actuarial tables</td><td>ICSLT</td><td>ICSLT</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

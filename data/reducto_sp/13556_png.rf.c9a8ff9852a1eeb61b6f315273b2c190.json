@@ -1,0 +1,36 @@
+{
+  "job_id": "258b4c76-1ebc-4cef-801f-88bcefbb00a7",
+  "duration": 173.3092019557953,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/36683bf1-6c6c-4585-a334-8ad6a90f42ab.pdf?AWSAccessKeyId=ASIA2UOK6OVBOY3ROCTZ&Signature=sfno%2BO0d8FapCuQeAN6rcLsDob0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDQfDtROZuXRF2IOEb1mZZdPOaExLTMh8hoXuHEV1ic1QIgNnMNiu8KQj5mdUJfs0gtDVsKiM6fd3rPLIRREEkxmuUqgwUIKhAAGgw3MzExMDY5MzIwMzQiDPuCeE%2FkrxUqVOXcEirgBLofa08ljugvIIF8ObbSRZc9stWlxvzyDVNaiMv4Qyz1U8mGVitobIgq5zpLqEKqkMeu2EvB906ViFf32rKgZuN4y1uNE37dmS%2FIMzfR1taIumGFMQnBnNt0S%2BEYsftVV54yyU0nszCfxRaP%2BSWEYjAuYjQVCqJMxBpwADKoiiRi2q0jvPdszqidTtMlQi4K1QBVc%2BA7u2l4rV7rKhzeTLOd7alCIlPDxL1PUmZCp%2FgM%2BSD35r4cIit615rVqCkYi%2FptjXebyl1UCRA4u%2FO1Omd%2FrXgUAu2%2BxuLhobTxklAum9fh5tpeTbM9hPjv5oHCsX8d7uSHrsEow4%2B1nNM2sGt4YWLNqCm%2BLl4WaNxwWG8aDepN3AIbhKNfHimaafnrU3dtQ%2FKHzsxrW2KneBrNcbxMvpW6HZjKLqQ6jTawQVsHW%2F%2F0Xu0fukty6nNVh%2BX1E%2Be%2BEk30D%2B8nu8T3%2F8s%2B3foVPVHdqHOZmZ9clADeEYDCPFyXaCXW7UHd%2FJE87GIBCNv9vbqVrznfIGkw7LTJKnpFI4LAEiuKn4jf2FpuG38OWV3xJ5g4oRZV2YuFS%2FsZr3%2BTSrMzvoaNSyHHCDS5cZHo7nwW9SlI6vWU0R7M0q%2BqpY69cQB2U3ODaLmU22bpJLRew0BI6jT%2FQl47ysmg1WfVE5SHFTsvsdNU9QuBoWV%2Fg9PF1lxWzjCf3XmiSfTIBklFxl08TP7iAvLucd2Nh%2Foqr1tktQFu%2FECP1urWJamV%2FHthr4bPU0BhyLCgAlbLxGbwYFvEQrzvqyz2gFTlJtsGAsc5u%2BUnr0ebsKyOkTx8MP3yjr8GOpoB2KxeO98pQDN5YKIgFTPuiMyhiNx6M6ZXQ22a96ABWayHZogZEUSwvy%2FO0FjOArY5ymHh0orlaMYdoYFhtFEq2M2adyubo9VCKQizuPv2joWLOfah8dfoDzDQkEUvPbMWb1er2GNix4a5TcDllPmsV9jSuvhbBmbbCQKCnsz82noDANN1hi57nsWPI70uoEi6YATYXJc2BvVhuA%3D%3D&Expires=1742981024",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th>Percent</th><th>Book Value</th><th>Market Value</th></tr><tr><td>Cash &amp; Cash Equivalents</td><td>100%</td><td>$4,145,541</td><td>$4,145,541</td></tr><tr><td>Total</td><td>100%</td><td>$4,145,541</td><td>$4,145,541</td></tr></table>",
+        "embed": "<table><tr><th></th><th>Percent</th><th>Book Value</th><th>Market Value</th></tr><tr><td>Cash &amp; Cash Equivalents</td><td>100%</td><td>$4,145,541</td><td>$4,145,541</td></tr><tr><td>Total</td><td>100%</td><td>$4,145,541</td><td>$4,145,541</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04617968094038623,
+              "top": 0.0332541567695962,
+              "width": 0.9034424853064652,
+              "height": 0.07779097387173396,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th>Percent</th><th>Book Value</th><th>Market Value</th></tr><tr><td>Cash &amp; Cash Equivalents</td><td>100%</td><td>$4,145,541</td><td>$4,145,541</td></tr><tr><td>Total</td><td>100%</td><td>$4,145,541</td><td>$4,145,541</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

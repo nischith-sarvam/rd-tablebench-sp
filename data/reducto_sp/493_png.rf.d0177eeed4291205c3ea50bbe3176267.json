@@ -1,0 +1,36 @@
+{
+  "job_id": "1b6db4aa-4803-4e87-966f-c63eec14a78b",
+  "duration": 137.88820099830627,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/d302301c-a09f-4ed9-b832-9074360bccae.pdf?AWSAccessKeyId=ASIA2UOK6OVBCKBMO7TV&Signature=3Y5At8fSDamtGbQzNmIc9hJVe5c%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIHVyIiU9ObZw6vo%2FBGqVOawV9DkZ6k1DPXlMLBtZhzkOAiAHLCIC49FyBZ9JViSbH5oavNPHEwrEKtEcAizDHcLz1iqDBQgpEAAaDDczMTEwNjkzMjAzNCIMjO4IRWJ5mGwT%2BffNKuAEzkb66u5SHe9OuOuFr9VFw0wdXPrMfw1G9NnQlLHQSO%2FxzuSWdAp09Kq%2B%2Fk3uwlzjwOSrbQId3rnu7f0NakmH0X%2BVMQEApA1SDJWGPYaR2kNWczvVQgUBFYUBo3YEH0lk6zaPJ47otfVJYBAkr3zHLlfXsBMyp%2FERmmrDI9zuSEkd%2BRvNiqTMTCHf%2BymNyahUM%2BHuJ%2FvTtcH48oetkQcjGv%2FDDm2THrN2lciyv6H%2BpQF4JGHVtIK7hhsGQSPVw0wqoUVdXqEVVzrX1GR7kLuRNeHyYpbWTW5N8XlHknGaS%2FermtnL5KyHHRNO4q5wL7l%2BJ45jiv9tqUMcijNoYvx2mn%2FyHrJaWcIoX4l%2BPj1ShnBOHyg4mfrSpD9jM7WvmovMaaEXS0%2B8MZ6OhcxHx1X8eOmdHcncUZJhezWWnWO9Pm6yH52zqkFCajJ7Gkp6SCuByiUn6hqPvCpfskNaojzbJgNnohNYtSn4uMGxAKjIo5tEMtmmCYgwZQueUn7puuUgbZVai7pZ9n8hsI9ClxtF0s85%2By%2BqC2%2F5HTC%2FQpoKb0U4SYPXu0zzUesR8MPtCSJ9APtn0z0GA9Npzm901DwzYnes8bjZI3dy7MGM%2FH0owKQpUypcALoc9Yd%2FGxIQLpiSVoU2DqMlIJ9gfhjosqKTyZa6pmDVVo0qreXWxFv4PJ%2BQnIQimoEyjt4S4YeeYeo4%2BGWswM9JHWX6AubgKQSLu00HciLiJtvMwmZQokE5yhVAjSY40sY4RExqGMz%2B7xN16vuRkbyr1vo5k2CI%2BQewjQSgKgeSCGmnKhpJ0KY4GAww1%2ByOvwY6mwFAI%2FX3v1OFQDrO1gWIZ477iFmS6zv%2BbE5uQ4e%2BVYtUbnf%2BP5e%2B8D9I1lnSeiG3TFa84lp%2BHzttF0HLFkEwv9HKuGZueyOjWYrPdi0USDBW7AxTI7a8ohIu4V7h4Vwbq0BIL%2B1ER4O9tVIRgv%2Bt62pczvi6D8qstl0Oqs7EZ5vADga1Pg8oUARbTd0GUnWIGi2H1BbANZ1FTgFDIw%3D%3D&Expires=1742980991",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Informations nutritionnelles</th><th>Pour 100 g</th><th></th><th>Pour 25 g</th></tr><tr><td>\u00c9nergie</td><td>1496 kJ 356 kcal</td><td></td><td>374 kJ 89 kcal</td></tr><tr><td>Mati\u00e8res grasses</td><td colspan=\"2\">7,5 g</td><td>1,9 g</td></tr><tr><td>dont acides gras satur\u00e9s</td><td colspan=\"2\">2,4 g</td><td>0,6 g</td></tr><tr><td>Glucides</td><td colspan=\"2\">44 g</td><td>10 g</td></tr><tr><td>dont sucres</td><td colspan=\"2\">40 g</td><td>3g</td></tr><tr><td>Fibres alimentaires</td><td colspan=\"2\">12 g</td><td>3 g</td></tr><tr><td>Prot\u00e9ines</td><td colspan=\"2\">22 g</td><td>5,5 g</td></tr><tr><td>Sel</td><td>og</td><td></td><td>og</td></tr><tr><td></td><td colspan=\"2\">AQR'</td><td>AQR'</td></tr><tr><td>Vitamine E (mg)</td><td>7,2</td><td>60%</td><td>1,8 15%</td></tr><tr><td>Thiamine (B1) (mg)</td><td>0,7</td><td>64%</td><td>0,2 16%</td></tr><tr><td>Riboflavine (B2) (mg)</td><td>0,7</td><td>50%</td><td>0,2 13%</td></tr><tr><td>Niacine (B3) (mg)</td><td>5,8</td><td>36%</td><td>1,5 9%</td></tr><tr><td>Acide pantoth\u00e9nique (mg)</td><td>1,8</td><td>30%</td><td>0,5 8%</td></tr><tr><td>Biotine (B8) (ug)</td><td>20</td><td>40%</td><td>5 10%</td></tr><tr><td>Folates (B9) (ug)</td><td>120</td><td>60%</td><td>30 15%</td></tr><tr><td>Potassium (mg)</td><td>600</td><td>30%</td><td>150 7,5%</td></tr><tr><td>Phosphore (mg)</td><td>350</td><td>50%</td><td>88 13%</td></tr><tr><td>Fer (mg)</td><td>5,6</td><td>40%</td><td>1,4 10%</td></tr><tr><td colspan=\"3\">| Apports Quotidiens de R\u00e9f\u00e9rence</td><td></td></tr></table>",
+        "embed": "<table><tr><th>Informations nutritionnelles</th><th>Pour 100 g</th><th></th><th>Pour 25 g</th></tr><tr><td>\u00c9nergie</td><td>1496 kJ 356 kcal</td><td></td><td>374 kJ 89 kcal</td></tr><tr><td>Mati\u00e8res grasses</td><td colspan=\"2\">7,5 g</td><td>1,9 g</td></tr><tr><td>dont acides gras satur\u00e9s</td><td colspan=\"2\">2,4 g</td><td>0,6 g</td></tr><tr><td>Glucides</td><td colspan=\"2\">44 g</td><td>10 g</td></tr><tr><td>dont sucres</td><td colspan=\"2\">40 g</td><td>3g</td></tr><tr><td>Fibres alimentaires</td><td colspan=\"2\">12 g</td><td>3 g</td></tr><tr><td>Prot\u00e9ines</td><td colspan=\"2\">22 g</td><td>5,5 g</td></tr><tr><td>Sel</td><td>og</td><td></td><td>og</td></tr><tr><td></td><td colspan=\"2\">AQR'</td><td>AQR'</td></tr><tr><td>Vitamine E (mg)</td><td>7,2</td><td>60%</td><td>1,8 15%</td></tr><tr><td>Thiamine (B1) (mg)</td><td>0,7</td><td>64%</td><td>0,2 16%</td></tr><tr><td>Riboflavine (B2) (mg)</td><td>0,7</td><td>50%</td><td>0,2 13%</td></tr><tr><td>Niacine (B3) (mg)</td><td>5,8</td><td>36%</td><td>1,5 9%</td></tr><tr><td>Acide pantoth\u00e9nique (mg)</td><td>1,8</td><td>30%</td><td>0,5 8%</td></tr><tr><td>Biotine (B8) (ug)</td><td>20</td><td>40%</td><td>5 10%</td></tr><tr><td>Folates (B9) (ug)</td><td>120</td><td>60%</td><td>30 15%</td></tr><tr><td>Potassium (mg)</td><td>600</td><td>30%</td><td>150 7,5%</td></tr><tr><td>Phosphore (mg)</td><td>350</td><td>50%</td><td>88 13%</td></tr><tr><td>Fer (mg)</td><td>5,6</td><td>40%</td><td>1,4 10%</td></tr><tr><td colspan=\"3\">| Apports Quotidiens de R\u00e9f\u00e9rence</td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04617968094038623,
+              "top": 0.032660332541567694,
+              "width": 0.9034424853064652,
+              "height": 0.5296912114014252,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Informations nutritionnelles</th><th>Pour 100 g</th><th></th><th>Pour 25 g</th></tr><tr><td>\u00c9nergie</td><td>1496 kJ 356 kcal</td><td></td><td>374 kJ 89 kcal</td></tr><tr><td>Mati\u00e8res grasses</td><td colspan=\"2\">7,5 g</td><td>1,9 g</td></tr><tr><td>dont acides gras satur\u00e9s</td><td colspan=\"2\">2,4 g</td><td>0,6 g</td></tr><tr><td>Glucides</td><td colspan=\"2\">44 g</td><td>10 g</td></tr><tr><td>dont sucres</td><td colspan=\"2\">40 g</td><td>3g</td></tr><tr><td>Fibres alimentaires</td><td colspan=\"2\">12 g</td><td>3 g</td></tr><tr><td>Prot\u00e9ines</td><td colspan=\"2\">22 g</td><td>5,5 g</td></tr><tr><td>Sel</td><td>og</td><td></td><td>og</td></tr><tr><td></td><td colspan=\"2\">AQR'</td><td>AQR'</td></tr><tr><td>Vitamine E (mg)</td><td>7,2</td><td>60%</td><td>1,8 15%</td></tr><tr><td>Thiamine (B1) (mg)</td><td>0,7</td><td>64%</td><td>0,2 16%</td></tr><tr><td>Riboflavine (B2) (mg)</td><td>0,7</td><td>50%</td><td>0,2 13%</td></tr><tr><td>Niacine (B3) (mg)</td><td>5,8</td><td>36%</td><td>1,5 9%</td></tr><tr><td>Acide pantoth\u00e9nique (mg)</td><td>1,8</td><td>30%</td><td>0,5 8%</td></tr><tr><td>Biotine (B8) (ug)</td><td>20</td><td>40%</td><td>5 10%</td></tr><tr><td>Folates (B9) (ug)</td><td>120</td><td>60%</td><td>30 15%</td></tr><tr><td>Potassium (mg)</td><td>600</td><td>30%</td><td>150 7,5%</td></tr><tr><td>Phosphore (mg)</td><td>350</td><td>50%</td><td>88 13%</td></tr><tr><td>Fer (mg)</td><td>5,6</td><td>40%</td><td>1,4 10%</td></tr><tr><td colspan=\"3\">| Apports Quotidiens de R\u00e9f\u00e9rence</td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

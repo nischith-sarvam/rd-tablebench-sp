@@ -1,0 +1,36 @@
+{
+  "job_id": "32278b73-7e5d-4faa-99be-f34d7a294292",
+  "duration": 179.27565574645996,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/7298c778-560b-4e02-9344-d421dce0f7ae.pdf?AWSAccessKeyId=ASIA2UOK6OVBEY5YJKXG&Signature=svej6A%2F3FgE9UMINQk0%2BtLAU2HA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIHCS4B3SKPXaOnRAkKL61ERL75jqdOMBlNO5FvsjYE9wAiBfZJaaAfaeQaCbKAJBVK9mYfkpnKE%2BuNAj4QsI76DAPSqDBQgqEAAaDDczMTEwNjkzMjAzNCIMjI0YyNlIeYLB6vz9KuAEcIV1r3q1ekctb2c5gTWcn747PJP5qSpyT1sA2%2BfL2f5iM8fp6xqb084yFZxMWbl7EYuY3Twwp%2F9cCNVPAjrZJ68p4q3PAccMo83axn60fWReCXY7UiLZsRWCX5VXFnAIMRKQEacw7yLiLtsgkExpQzAudsXmTb6DXj82V4rn0vrLvs6uw4ukS5QOeEhasa6C4WH4WQ0wplnZ7xIIKicDee0DH8ICCXk8uf%2BGfQVC5jncclw3TsiTj6pHEZQ8SkgynAhnucBWiNCt6AY75oD0Fxl8v5HNL7O4yQdcqBmgk%2BlB7E1dzUzDk7OdKgmpd1XCtHhPQ9Az1dB26iRZIrGrLCyfX7ePVJoDqx1ES3B1ruDpOsHGV%2ByCrGmywimj%2B7DHZVH8Lq8ZRsCFzWfeO8T5KsA69nAwwa0W7e0zLQrMpJd1YT8bkd2D0oZZhoCYhx3ifZknGMDbCgddKhfUXPkNEx9aNEviY2afvIqmHabB2PeyrxPweB4XnX06dl%2B39sAsMAnHHp%2BU9yYBlpbisVj0yflYvUOn0dJU%2B6bXBETZQ2Txv8t%2B9H7NDW9Uw1BFRc8H2pCxAPMcGKvr8BLo5NfWlBNVcXXPzV4wCIY98nvy64%2F1WvSN972%2FlKENiaB5vDkJB3M%2BJajFbi%2FvkLgO5S5BWjkOgneqlpOiZbLMRlPTsAjL6sasiYkGtdLHxcbM0bReDogxJ31ntvD1Po5ITgVfrykWxS%2BxubTMTZfv8vEdQeiCU9QLB1OHyb4Siw8qeglyAa4IJA3qqh%2BsJv5c6OjjIWgx%2BICtlYdiO57XXWTqJgcwi%2FOOvwY6mwEuEvbKoKxWwFFswEkAHZ8Lexr8%2FCOA4lHwQEEXdvPsKk6gVHTGqk18HhUU1WTOeyaBuK%2FCdj51wx%2BLLxVgGTOB9qTB8alsQHqnnBiekAymQwjwe%2FC9CXrW5uE59QT84m65GJgzilc3EXdORoHb%2FmjEifgWBCEAELSOwXr7E5l%2B0neAic7YUCvtbSEeFMDp0VP9GpNAh5f0yAI49A%3D%3D&Expires=1742981021",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>VOL...</th><th>ago-16</th><th>sep-16</th><th>oct-16</th><th>nov-16</th><th>dic-16</th><th>ene-17</th><th>feb-17</th><th>mar-17</th><th>abr-17</th><th>may-17</th><th>jun-17</th><th>jul-17</th><th>ago-17</th></tr><tr><td>VINO</td><td>2.256,5</td><td>2.264,3</td><td>2.242,3</td><td>2.239,6</td><td>2.226,0</td><td>2.232,8</td><td>2.213,2</td><td>2.226,3</td><td>2.196,2</td><td>2.224,5</td><td>2.218,1</td><td>2.257,2</td><td>2.274,0</td></tr><tr><td>Licor</td><td>19,5</td><td>19,4</td><td>17,9</td><td>18,3</td><td>18,4</td><td>18,2</td><td>18,0</td><td>17,6</td><td>17,2</td><td>17,2</td><td>16,9</td><td>17,0</td><td>17,3</td></tr><tr><td>Espu</td><td>182,2</td><td>181,8</td><td>182,8</td><td>186,1</td><td>187,7</td><td>190,2</td><td>190,1</td><td>195,0</td><td>199,1</td><td>201,7</td><td>203,9</td><td>208,8</td><td>206,5</td></tr><tr><td>Enva.</td><td>779,1</td><td>781,6</td><td>773,8</td><td>767,1</td><td>765,5</td><td>776,1</td><td>777,2</td><td>780,8</td><td>776,5</td><td>781,8</td><td>785,7</td><td>795,0</td><td>796,6</td></tr><tr><td>BiB ...</td><td>1.275,8</td><td>1.281,5</td><td>1.267,7</td><td>1.268,0</td><td>1.254,4</td><td>1.248,2</td><td>1.228,0</td><td>1.232,9</td><td>1.203,4</td><td>1.223,8</td><td>1.211,6</td><td>1.236,5</td><td>1.253,6</td></tr></table>",
+        "embed": "<table><tr><th>VOL...</th><th>ago-16</th><th>sep-16</th><th>oct-16</th><th>nov-16</th><th>dic-16</th><th>ene-17</th><th>feb-17</th><th>mar-17</th><th>abr-17</th><th>may-17</th><th>jun-17</th><th>jul-17</th><th>ago-17</th></tr><tr><td>VINO</td><td>2.256,5</td><td>2.264,3</td><td>2.242,3</td><td>2.239,6</td><td>2.226,0</td><td>2.232,8</td><td>2.213,2</td><td>2.226,3</td><td>2.196,2</td><td>2.224,5</td><td>2.218,1</td><td>2.257,2</td><td>2.274,0</td></tr><tr><td>Licor</td><td>19,5</td><td>19,4</td><td>17,9</td><td>18,3</td><td>18,4</td><td>18,2</td><td>18,0</td><td>17,6</td><td>17,2</td><td>17,2</td><td>16,9</td><td>17,0</td><td>17,3</td></tr><tr><td>Espu</td><td>182,2</td><td>181,8</td><td>182,8</td><td>186,1</td><td>187,7</td><td>190,2</td><td>190,1</td><td>195,0</td><td>199,1</td><td>201,7</td><td>203,9</td><td>208,8</td><td>206,5</td></tr><tr><td>Enva.</td><td>779,1</td><td>781,6</td><td>773,8</td><td>767,1</td><td>765,5</td><td>776,1</td><td>777,2</td><td>780,8</td><td>776,5</td><td>781,8</td><td>785,7</td><td>795,0</td><td>796,6</td></tr><tr><td>BiB ...</td><td>1.275,8</td><td>1.281,5</td><td>1.267,7</td><td>1.268,0</td><td>1.254,4</td><td>1.248,2</td><td>1.228,0</td><td>1.232,9</td><td>1.203,4</td><td>1.223,8</td><td>1.211,6</td><td>1.236,5</td><td>1.253,6</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9051217464315701,
+              "height": 0.15380047505938244,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>VOL...</th><th>ago-16</th><th>sep-16</th><th>oct-16</th><th>nov-16</th><th>dic-16</th><th>ene-17</th><th>feb-17</th><th>mar-17</th><th>abr-17</th><th>may-17</th><th>jun-17</th><th>jul-17</th><th>ago-17</th></tr><tr><td>VINO</td><td>2.256,5</td><td>2.264,3</td><td>2.242,3</td><td>2.239,6</td><td>2.226,0</td><td>2.232,8</td><td>2.213,2</td><td>2.226,3</td><td>2.196,2</td><td>2.224,5</td><td>2.218,1</td><td>2.257,2</td><td>2.274,0</td></tr><tr><td>Licor</td><td>19,5</td><td>19,4</td><td>17,9</td><td>18,3</td><td>18,4</td><td>18,2</td><td>18,0</td><td>17,6</td><td>17,2</td><td>17,2</td><td>16,9</td><td>17,0</td><td>17,3</td></tr><tr><td>Espu</td><td>182,2</td><td>181,8</td><td>182,8</td><td>186,1</td><td>187,7</td><td>190,2</td><td>190,1</td><td>195,0</td><td>199,1</td><td>201,7</td><td>203,9</td><td>208,8</td><td>206,5</td></tr><tr><td>Enva.</td><td>779,1</td><td>781,6</td><td>773,8</td><td>767,1</td><td>765,5</td><td>776,1</td><td>777,2</td><td>780,8</td><td>776,5</td><td>781,8</td><td>785,7</td><td>795,0</td><td>796,6</td></tr><tr><td>BiB ...</td><td>1.275,8</td><td>1.281,5</td><td>1.267,7</td><td>1.268,0</td><td>1.254,4</td><td>1.248,2</td><td>1.228,0</td><td>1.232,9</td><td>1.203,4</td><td>1.223,8</td><td>1.211,6</td><td>1.236,5</td><td>1.253,6</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

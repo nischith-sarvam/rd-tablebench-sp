@@ -1,0 +1,36 @@
+{
+  "job_id": "9993b637-8491-4f17-9ebd-143d02ace5b7",
+  "duration": 147.77980852127075,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/b7f6c288-a9ba-47ad-b80d-1e470d4d8d2b.pdf?AWSAccessKeyId=ASIA2UOK6OVBBMXLYE3P&Signature=hl55OeJPCuq0MA2V8mSDVEx5xCE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFIIU1h%2B3aUSQB8suwRCGC4KMcf6c8oUGjLwhOFnX77RAiBMgHTdcIiCNcrQydpLpVa%2BATyf%2B4OmjU5LBWDLZZ6%2FbiqDBQgpEAAaDDczMTEwNjkzMjAzNCIMHvwIoPiy3u3QJyYqKuAEHqJFORPB8XPg1EOY5isu%2BiiOPqht4%2B6j0wkPeV5LtI8Os6JUYmTFGOHOis%2FuLgJqGLxefsBhEbsHSlMc9i2fOMBN7LUdKA7iVuSwhK4pSakazUSUw%2FeQf7AwNGjcgqxPQsbdGYzWcVyeltw%2FNH7FaPvyerCMIwTJea%2B1YpXb9fq6COMHtU22CBfvA89vXi1t1aBW%2Ffy%2B5Z0y7ToY2E%2B4SwcSGLB%2Fkzz0CCNk5Ia5m1gS9dExep8hrj6G97KXaZ2hkKSpH5eqhtChfgXlsTZk9bJ2%2BDjm4HX5Q6bSZ3gzKy3l%2F1LRFmwRaLgdjL8bnZ7J6VpmSSj4mXfHxCvMmsrBNa7jPK4A8wzdVLQnUfKeD11JLHRhYGoZfqIfrCNWPNOzj5z%2FMC%2FjJf8%2BBpKx4H4Vio6jGpE%2BP1dDXssqxDyNNiRRo9X6oM2eOJST%2FiCCnS895hURiEtL2miKz3NxVZdm1kQO5bSoltOvlY0h0%2FnISzWlKiLmZjz5hX1ndSDcj52539OYPj05Z6rJPsuFYF7Vz%2FwuR%2BEDetWqkF5eCInrsihIPqlPCVWTbxAjg7MxFgcy%2B4TTecVPniZm6JpfUIhPoWiqAyuZB6M509qdPkwITXWRcG2MBnra21O019Yl4YJYUoOa2pR%2BhaSxiAZYLpEi5vqFyl%2FvklYvrj4xFw5MmudTtOVc0PfyN10%2F8ypMt0%2BcyOwUTsp1RWG5WLqjSjNrr9Zw6LAAQqDehpM9QanpW8lblHGZ%2FH1geiwFRuIEsY1wtRZk2RR5STanroHl41CAR9oXFw19VTg%2BvMVdzl3rkZQwouGOvwY6mwFT0%2BCVmbeVbWPJBfrmCOV%2BAKOl0ug5XRT53746jU8qFubifInCTNlJnwNriTdSqKjYvX8ge6PMYX1iBcyhx6BDWQlxZvm9ndOmetpi%2B2P%2FGE3H9yiycf%2FgFo21CaXAhdf3SN08FNVYjdTnm2WQ7yNBVxmaQpmNX%2BtEdKgxqaOsdE2%2B8z0YrDo5RElx6y4BfdtgeZ3KOkBqGtCELA%3D%3D&Expires=1742980979",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th></th><th>Yes</th><th>No</th><th>Amount</th></tr><tr><td>a Partnership/joint ven.</td><td>3a</td><td></td><td>X</td><td></td></tr><tr><td>b Employer real property</td><td>3b</td><td></td><td>X</td><td></td></tr><tr><td>C Real estate (other th</td><td>3c</td><td></td><td>X</td><td></td></tr><tr><td>d Employer securities</td><td>3d</td><td>X</td><td></td><td>3,794,164</td></tr><tr><td>e Participant loans</td><td>3e</td><td>X</td><td></td><td>80,939</td></tr><tr><td>f Loans (other than to</td><td>3f</td><td></td><td>X</td><td></td></tr><tr><td>g Tangible personal pr</td><td>3g</td><td></td><td>X</td><td></td></tr></table>",
+        "embed": "<table><tr><th></th><th></th><th>Yes</th><th>No</th><th>Amount</th></tr><tr><td>a Partnership/joint ven.</td><td>3a</td><td></td><td>X</td><td></td></tr><tr><td>b Employer real property</td><td>3b</td><td></td><td>X</td><td></td></tr><tr><td>C Real estate (other th</td><td>3c</td><td></td><td>X</td><td></td></tr><tr><td>d Employer securities</td><td>3d</td><td>X</td><td></td><td>3,794,164</td></tr><tr><td>e Participant loans</td><td>3e</td><td>X</td><td></td><td>80,939</td></tr><tr><td>f Loans (other than to</td><td>3f</td><td></td><td>X</td><td></td></tr><tr><td>g Tangible personal pr</td><td>3g</td><td></td><td>X</td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032660332541567694,
+              "width": 0.9017632241813602,
+              "height": 0.20368171021377673,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th></th><th>Yes</th><th>No</th><th>Amount</th></tr><tr><td>a Partnership/joint ven.</td><td>3a</td><td></td><td>X</td><td></td></tr><tr><td>b Employer real property</td><td>3b</td><td></td><td>X</td><td></td></tr><tr><td>C Real estate (other th</td><td>3c</td><td></td><td>X</td><td></td></tr><tr><td>d Employer securities</td><td>3d</td><td>X</td><td></td><td>3,794,164</td></tr><tr><td>e Participant loans</td><td>3e</td><td>X</td><td></td><td>80,939</td></tr><tr><td>f Loans (other than to</td><td>3f</td><td></td><td>X</td><td></td></tr><tr><td>g Tangible personal pr</td><td>3g</td><td></td><td>X</td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

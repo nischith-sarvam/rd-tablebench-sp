@@ -1,0 +1,36 @@
+{
+  "job_id": "e0036816-5145-44d6-9921-9f04c568fcc3",
+  "duration": 139.17451095581055,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/de12116a-e195-409e-8dc4-649f4277ab46.pdf?AWSAccessKeyId=ASIA2UOK6OVBI32ZVXY4&Signature=RUG3JdgNobgzFTcNBvm8RC42qo4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDjKXLP21Y%2BFcnt%2B5NrLYk%2B%2B2hZEGYeDogCqPyzux6wCAIgPuAHlh7OmGRPkvYMEq%2B8E%2B4JwamNnK1DAPVzc55D87sqgwUIKhAAGgw3MzExMDY5MzIwMzQiDAqEZwTgfnUEIBvTiirgBNobrW97sHP3SvF9XVPhdgcQYg%2BGKb38aBa24zJB%2BURJLpUtf6zGTP4RXO84u9ZouSyXhaTR2miW8JXSrAIkSZSYTQ2dbYXmMzceIKiFso7aSKLlsUm%2BG7EibtHrAbtybgb%2BPoQyvCFihLmSdCSte1NWwFNRuUqJb6TVkQbkLT7IVjO3PX%2FM8F2PUMCrjYNu6z9VeHciS1Ghjn%2FAfrFbRb8XxpnTIV8b7PHjZT%2Fn71Hx4il2uBuXBYFw5U2wZFf11Zjfj4wdbJYx0iFnQoNImjvYkxo2SdwJWCDz1fKeacMy%2FpBSOPkMrj5vmDc1m%2F9IHtzVzHXVVZr0IYg77laCvMcgwn%2FfdIWVPqdi9dbOU44j8uIrDn5rctyNTw%2B6pcj8%2FliLL8t8NYcEXnzE0i43NE1Tiuyz18mxq1WDIr2t8pHqIrJaYO9sF%2BkdRn6Iid5Zx7GvoTJAOLV0PbVNq7f1NDO%2FHKho%2BlOwB36yNVNoa5RE18%2BgSwFm%2FnuumIriHl02sad3%2FkwRSfqvtkB2%2B0DyMHScjUsN5zjuVEzQJ%2F0BDSp0lQywJhkUtEZEZkdWfnNY7uJ6pAO53IbSU55J8KVz%2FT6sF1y7iU6iC%2F9V%2FTtsAv%2BkpCnFQIB%2FBE2kdT8viy5OZWBP4kaZTr%2BBcFa6ZeCtOUCYAFlBrJ4osfBBLGlXG%2BZYj%2FLMKk9QQPZuo0w26sNIV5JkEs7eH%2Fg%2FCypOqOeWa2DN8J0%2FE49PiC%2FnHcizT0mAtF%2FSw165nSt45bTeY0AxyNAKW9s0cRAIQNyEWluYyMoNhdS6SOrAgo8ZQmpbAcMlMOLyjr8GOpoBC3OPx56XxBJkVpObU%2BwUyZOiWKPchuxzfGYRrgH1MHEBTrnZyu6G0ARirfjlYvEzz8e7y2wMBiTnytTDtLeODlXj8F34krdydmLaKyuoqIDjl8S%2F5ryiRPheHMZNC2T5bkJtWuwWp9roHamU6qwZWZbnLFQ9rSq5jX%2F%2BGs01qn%2F1%2F%2F%2BKXpc4Zwl%2BxNwmbk%2FoSGQw0SPvMhIZAw%3D%3D&Expires=1742980983",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"2\">\u5e8f\u53f7</th><th rowspan=\"2\">\u5e93\u623f\u6e29\u5ea6 \u00b0C</th><th colspan=\"2\">\u8089\u7c7b\u964d\u6e29\u60c5\u51b5</th><th rowspan=\"2\">\u51b7\u52a0\u5de5\u65f6\u95f4/n\u00ae</th><th colspan=\"2\">\u5358\u4f4d\u8017\u51b7/ (w/t)</th></tr><tr><td>\u5165\u5e93 \u2103</td><td>\u51fa\u5e93\u00b0C</td><td>\u51b7\u5374\u8bbe\u5907\u8d1f\u8377</td><td>\u673a\u68b0\u8d1f\u8377</td></tr><tr><td>1</td><td>-2</td><td>35</td><td>4</td><td>20</td><td>3000</td><td>2300</td></tr><tr><td>2</td><td>-7/-22</td><td>35</td><td>4</td><td>11</td><td>5000</td><td>4000</td></tr><tr><td>3</td><td>-10</td><td>35</td><td>12</td><td>8</td><td>620</td><td>5000</td></tr><tr><td>4</td><td>-10</td><td>35</td><td>10</td><td>3</td><td>13000</td><td>10000</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"2\">\u5e8f\u53f7</th><th rowspan=\"2\">\u5e93\u623f\u6e29\u5ea6 \u00b0C</th><th colspan=\"2\">\u8089\u7c7b\u964d\u6e29\u60c5\u51b5</th><th rowspan=\"2\">\u51b7\u52a0\u5de5\u65f6\u95f4/n\u00ae</th><th colspan=\"2\">\u5358\u4f4d\u8017\u51b7/ (w/t)</th></tr><tr><td>\u5165\u5e93 \u2103</td><td>\u51fa\u5e93\u00b0C</td><td>\u51b7\u5374\u8bbe\u5907\u8d1f\u8377</td><td>\u673a\u68b0\u8d1f\u8377</td></tr><tr><td>1</td><td>-2</td><td>35</td><td>4</td><td>20</td><td>3000</td><td>2300</td></tr><tr><td>2</td><td>-7/-22</td><td>35</td><td>4</td><td>11</td><td>5000</td><td>4000</td></tr><tr><td>3</td><td>-10</td><td>35</td><td>12</td><td>8</td><td>620</td><td>5000</td></tr><tr><td>4</td><td>-10</td><td>35</td><td>10</td><td>3</td><td>13000</td><td>10000</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032066508313539195,
+              "width": 0.9059613769941226,
+              "height": 0.15676959619952494,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"2\">\u5e8f\u53f7</th><th rowspan=\"2\">\u5e93\u623f\u6e29\u5ea6 \u00b0C</th><th colspan=\"2\">\u8089\u7c7b\u964d\u6e29\u60c5\u51b5</th><th rowspan=\"2\">\u51b7\u52a0\u5de5\u65f6\u95f4/n\u00ae</th><th colspan=\"2\">\u5358\u4f4d\u8017\u51b7/ (w/t)</th></tr><tr><td>\u5165\u5e93 \u2103</td><td>\u51fa\u5e93\u00b0C</td><td>\u51b7\u5374\u8bbe\u5907\u8d1f\u8377</td><td>\u673a\u68b0\u8d1f\u8377</td></tr><tr><td>1</td><td>-2</td><td>35</td><td>4</td><td>20</td><td>3000</td><td>2300</td></tr><tr><td>2</td><td>-7/-22</td><td>35</td><td>4</td><td>11</td><td>5000</td><td>4000</td></tr><tr><td>3</td><td>-10</td><td>35</td><td>12</td><td>8</td><td>620</td><td>5000</td></tr><tr><td>4</td><td>-10</td><td>35</td><td>10</td><td>3</td><td>13000</td><td>10000</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

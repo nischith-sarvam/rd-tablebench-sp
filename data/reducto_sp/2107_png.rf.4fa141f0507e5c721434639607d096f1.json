@@ -1,0 +1,36 @@
+{
+  "job_id": "f801ab92-fc21-409f-9fb9-4cc1062a2ce9",
+  "duration": 177.01036477088928,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/f56abb8d-3a71-4cd7-ab10-d28a211da62d.pdf?AWSAccessKeyId=ASIA2UOK6OVBMTDTBQHX&Signature=0KyXUgZLMgNbUyFw2wIjO8AmmSA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDib353Km4fj3HOAWzHcWwkpFvA%2Betxmayb5SSAW2eHpQIgDGFPaBeDysgc8y5E9GJiRG342TeU76DliccQIXaxNf4qgwUIKhAAGgw3MzExMDY5MzIwMzQiDNqJBxQaRM701B45mCrgBMwyQODgql7Mcv%2BeTJGWTWvIwvogQvb2zGyGAGkg7EylMHQNqx9VR35mKlRw6VN%2F%2Bz%2B%2Bkb6BIRBk%2Bx3hUMUKFS6xXQKsnFuGixAx0xcXmm3AGhmseT4R4rJnrCqTuZvVJ2UFkR19g4zsuXx3dCdJn0AmaSURxp38ijSUbNObGTecqNCtxunPYMvO%2FFVSuoBQgyoMBKDOZmLm8NRCTxwXNYn7geXdKgL3zOA2aZIOaKn6zBY01gmiBxO%2FD1vtVYsquwYM8oYESUQAMcazxGC%2BDxancSo8O6zdctw69H2kW7OouYI1DPvljm55RMKoPPsnLipsWRgD%2BOvEeoZRDK9HoiOBqEvJido2FRRz8KtVK2A%2BhmMYlDSZHxIOuz89DBqq%2Bj5Qw02Z3SzS5yMLBSqn2Sb0HL12ZXiOTDfYSVOX3H9Jn4IjhDhM7n1ZXjBnqHdv9bBUVi591HBXXMzPBSRRdSqNZkgDDjR2262oSUQOF%2BjIbsCATcXgIJtCneJEphnpWhQWYzxqm2ncpThU245xz3XOXwGge3jRdCu6EVKLfjEsysj7b692Xh%2BsDxXdLIVhqXeAyUiu7AAD97C1LZtsSGBeMuIGb2M67PFsPPWcnQ3EGoQBz64ND%2F%2FMfPgsskjk09g%2FnieVWsLBxfwB2KLU5YSlBXq3EbF78e7f3xiQvprJzn%2FEubicSIahwByhymCIyNQRD58RDO2r0B%2BxTNziWSVRo0Q539Y2iQzIoEw6AukZElpAj61nYvNi8PBbXLYdVaGJavxn0xNaqu3%2BI0qQGPCX4I7e24VZ8%2BzM2mga8BxwMMLyjr8GOpoBv3TafRiNuSsfKXIXfiGwss0ga7bKPuouOdsm9bRC%2FpRCJdWsLsAlRUvfRz6ZSA1NaAmLahW4HDEKg7uG17VSkctxcbDZX8vbgTLauhBWf2nDikv0phb2NKStTAkQfztnqZ4SeM6IIj89HbFDUakWQAfj8oxQ5Af87C%2FxODIUsPAf2cfmwC7jA5Bu8FHxBekmu4xFcrkwJ3FDjw%3D%3D&Expires=1742981021",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"7\">Shooting By Period</th></tr><tr><td>Period</td><td>FG</td><td>FG%</td><td>3FG</td><td>3FG%</td><td>FT</td><td>FT%</td></tr><tr><td>2nd Half</td><td>14-32</td><td>44%</td><td>5-10</td><td>50%</td><td>3-7</td><td>43%</td></tr><tr><td>Game</td><td>26-68</td><td>38.2%</td><td>11-31</td><td>35.5%</td><td>4-9</td><td>44.4%</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"7\">Shooting By Period</th></tr><tr><td>Period</td><td>FG</td><td>FG%</td><td>3FG</td><td>3FG%</td><td>FT</td><td>FT%</td></tr><tr><td>2nd Half</td><td>14-32</td><td>44%</td><td>5-10</td><td>50%</td><td>3-7</td><td>43%</td></tr><tr><td>Game</td><td>26-68</td><td>38.2%</td><td>11-31</td><td>35.5%</td><td>4-9</td><td>44.4%</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.10332541567695962,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"7\">Shooting By Period</th></tr><tr><td>Period</td><td>FG</td><td>FG%</td><td>3FG</td><td>3FG%</td><td>FT</td><td>FT%</td></tr><tr><td>2nd Half</td><td>14-32</td><td>44%</td><td>5-10</td><td>50%</td><td>3-7</td><td>43%</td></tr><tr><td>Game</td><td>26-68</td><td>38.2%</td><td>11-31</td><td>35.5%</td><td>4-9</td><td>44.4%</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

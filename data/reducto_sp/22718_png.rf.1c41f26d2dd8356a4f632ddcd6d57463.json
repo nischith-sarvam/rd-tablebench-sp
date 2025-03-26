@@ -1,0 +1,36 @@
+{
+  "job_id": "5e2933ab-376c-46db-ae18-d4f3934506fa",
+  "duration": 65.67005896568298,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/d256f1b9-7c36-4370-9e67-88b1551fb009.pdf?AWSAccessKeyId=ASIA2UOK6OVBBNJFXKC5&Signature=qUjIU%2Bb3F33HPa0GyhIDY1xHO1w%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCID1xHUkvSkccxhEUrRf0gNebqTVQjd7KRyRoSAunlhs4AiBjYOiUtE0PuPyYi63ulM5BDCra5McvcMX8phWipDAmpCqDBQgpEAAaDDczMTEwNjkzMjAzNCIMAISigZN%2Fj7JTCduuKuAEmJIZ7dabYQWo5UVddG%2Fdd2xXTLR3%2FBsrGSeYNuFXXed8lCEYP%2FyUd7zxuH8l6bIFOGpWqoDe25laS9Yg7fwA3hTkVFo3nj7AMOIfCoz1FI3YT8ZS2%2Br7NP6TXh4fd1p0lA5NBYJTnnUhpCyGYXZSPj2edXESQSkgwqjw5H1bEJJBxvR0LplqDtsMsVu1xjQw5%2BLaRCepGYNTuWxQSfdMJdK%2F9rO22E6UqON1LbGp7FWWymZfor7X0IoTJP6C1u6pROijD%2B11M0oX0iQwMMlhtO%2FZAe0RxftVLa6PDUAtwk5Ng%2FM4cHvUzPdAHrmDOyuNt%2Ff8LcwY1W6sSpw9ewfySnfzB7q5aFSTnKLx0OlpnWShj97F96iWXl0HrpEVmjYFzwZECa0UKd6PvhE0%2BwWpV%2FDTUnDOszqP%2FvUUo1mi09AEBntfzkGX7xOlZ3OJe2l%2FNp0ByMC%2Bln%2Bw3Zk%2BcqCgANaPtGEVmtlsob%2BOd0cxuPvwiHinYkPhl0Ad8qD%2BPhVnCEgOxd4KI0b7NXOjQ0XosfZ%2BfOzCyHNT0Bi%2BjCKf%2BNkGi4Umv79F306O15W%2FxUemQ%2B57%2BIn%2F80s29JkwjIKF2IzcyhEHL%2F9NikFM97%2BYyYRKyezukU5bOJYJyaGy34j7Fuf92mY76meNWXno9myvLKFwaDMpywGEDkrt6GYDuswej18foA1mny5AEB1TeW8MagDqjaxeVCVF0bfXmDvgKDEHp4SIGrkDb97F5sRHp3XKde1c84cFdLXfH6cdZbQtOd2%2F5o21hIwoyiWWNeQe70PZq221j8yu32XP3oegcwQwi9%2BOvwY6mwFA16x5Scu3bjftUYEWhosF7bGtz2LT91%2BYMCvsthEiW2yapVSuQl55K79NJ0VBbcGSIVW0FaxKU4by%2BH7eMnrGZzru%2F1rgXy%2FvU6CDreTGo6HJFvG%2FydljkcYz2ykOgIdgmK1tuczzzbKqQgzjAilleWMG1lAl1T4JE4ytLrsRhhuh%2B%2F3jHQSwucW5UD4rs5PbdX8cVdWpYozVCg%3D%3D&Expires=1742980884",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"5\">3</th><th rowspan=\"5\">Mod\u00e8le socio- \u00e9cono...</th><th>3.1</th><th>Diversification des fi...</th><th>- Viabilit\u00e9 \u00e9conomiqu...</th></tr><tr><td>3.2</td><td>Outils de gestion, com...</td><td>- Pilotage comptable, -...</td></tr><tr><td>3.3</td><td>Restructuration \u00e9cono...</td><td>- R\u00e9tablissement \u00e9con</td></tr><tr><td>3.4</td><td>Adaptation aux obligati...</td><td>- - Adaptation aux \u00e9volu</td></tr><tr><td>3.5</td><td>Strat\u00e9gie commerciale...</td><td>- M\u00e9thodologie, accom</td></tr><tr><td rowspan=\"4\">4</td><td rowspan=\"4\">Mutualisation, partena...</td><td>4.1</td><td>Dynamique partenarial...</td><td>- Outillage, accompag...</td></tr><tr><td>4.2</td><td>Mutualisation, rapproc...</td><td>- Elaboration et mise e...</td></tr><tr><td>4.3</td><td>Accompagnement de f...</td><td>- Animation territoriale ...</td></tr><tr><td>4.4</td><td>Relation aux pouvoirs ...</td><td>- Relations et partenari...</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"5\">3</th><th rowspan=\"5\">Mod\u00e8le socio- \u00e9cono...</th><th>3.1</th><th>Diversification des fi...</th><th>- Viabilit\u00e9 \u00e9conomiqu...</th></tr><tr><td>3.2</td><td>Outils de gestion, com...</td><td>- Pilotage comptable, -...</td></tr><tr><td>3.3</td><td>Restructuration \u00e9cono...</td><td>- R\u00e9tablissement \u00e9con</td></tr><tr><td>3.4</td><td>Adaptation aux obligati...</td><td>- - Adaptation aux \u00e9volu</td></tr><tr><td>3.5</td><td>Strat\u00e9gie commerciale...</td><td>- M\u00e9thodologie, accom</td></tr><tr><td rowspan=\"4\">4</td><td rowspan=\"4\">Mutualisation, partena...</td><td>4.1</td><td>Dynamique partenarial...</td><td>- Outillage, accompag...</td></tr><tr><td>4.2</td><td>Mutualisation, rapproc...</td><td>- Elaboration et mise e...</td></tr><tr><td>4.3</td><td>Accompagnement de f...</td><td>- Animation territoriale ...</td></tr><tr><td>4.4</td><td>Relation aux pouvoirs ...</td><td>- Relations et partenari...</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9051217464315701,
+              "height": 0.22980997624703087,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"5\">3</th><th rowspan=\"5\">Mod\u00e8le socio- \u00e9cono...</th><th>3.1</th><th>Diversification des fi...</th><th>- Viabilit\u00e9 \u00e9conomiqu...</th></tr><tr><td>3.2</td><td>Outils de gestion, com...</td><td>- Pilotage comptable, -...</td></tr><tr><td>3.3</td><td>Restructuration \u00e9cono...</td><td>- R\u00e9tablissement \u00e9con</td></tr><tr><td>3.4</td><td>Adaptation aux obligati...</td><td>- - Adaptation aux \u00e9volu</td></tr><tr><td>3.5</td><td>Strat\u00e9gie commerciale...</td><td>- M\u00e9thodologie, accom</td></tr><tr><td rowspan=\"4\">4</td><td rowspan=\"4\">Mutualisation, partena...</td><td>4.1</td><td>Dynamique partenarial...</td><td>- Outillage, accompag...</td></tr><tr><td>4.2</td><td>Mutualisation, rapproc...</td><td>- Elaboration et mise e...</td></tr><tr><td>4.3</td><td>Accompagnement de f...</td><td>- Animation territoriale ...</td></tr><tr><td>4.4</td><td>Relation aux pouvoirs ...</td><td>- Relations et partenari...</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

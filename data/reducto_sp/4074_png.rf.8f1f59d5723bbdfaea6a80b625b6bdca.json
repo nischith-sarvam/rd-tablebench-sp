@@ -1,0 +1,36 @@
+{
+  "job_id": "2fd39b85-97f8-4aa4-884e-6056b1ce3d12",
+  "duration": 70.68066930770874,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/a093eb0b-0ef3-400e-b5db-5fb6e560a437.pdf?AWSAccessKeyId=ASIA2UOK6OVBNHZOJWKC&Signature=SqkO%2FqUMYYnMeEVg33Gaat0RhmQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIDSGCmzD251u3Kvze%2BZC%2FV641m2x1tiHytZDLoJaWEG2AiEA3Lo%2FuoRJGnq%2FExyy1t0lGUSggovsOvtDlpteJWrnRQ8qgwUIKRAAGgw3MzExMDY5MzIwMzQiDDW4za4NmzipaiwpairgBAmiOrQrwcAlWayE0aZgxIXJHRGja1E26uCJuT65E3eQZpUg9rAdiw4om7gTJaWMW981Ma82jAH9gMZbdTVEZNt8ZleP%2FLCI0XkcrpeTigzb6L17Bfonx4pOlio%2BH6IF4BEtIOgrlViDH9vIfIbfmbm2A%2BdqF27djVVlHbB3qofB4b4jmqw8XBsdJNtfHLQAPE5kXxG2GprJm2XQZBc9YHQ1x6ERKYvdISKOBHowK5PFM3he9ErKoBBv3eZdjwZ1xguYkhIEIa58D2M9hWhwLZSvQkKjQnkezsiK5WOpQcXdX%2FS5DWGxR2SySKyHxYbu%2Fo1bFmlmNhB4bspGOTynqxHQfcvkWEYJwiCluCLzD%2B%2F%2FobedpInCKQ6MJAS%2FWdAxYHyPmJ%2BZJb11l1OhZ4eEYvt5UKsxE62vD9DppIDX7DyfU%2BLw7WmaomfFuT0Of5CTE%2B5V0x0rr7sZrx%2BhYu1U2ck%2FSOgbdB6SVoCs2DzlE%2BQeYuCeTcnyJ2bSQQsnAtC1zt1BbkK%2FeIXuJRqOXpq20UWq1Yv%2FhGpEMsEtVT9gedbJRZjuzE2LZaK%2Fsw9xt3A%2FMYKnXGqJXEoHWfjUE7Lo6KE0xL7%2BsktVxOWtoMjrta%2F5GYGFbs3UauQeuHvbmY%2B%2F8GCT6jdAR7W7ubLLZqZSkux9QbQUkTKfnW1ysKHY%2Bo03IULP07QFX5ZPyq6RFh86RstNy3pMHvTqVKWP016YRNcye9Zlg1BOrCep7UyjVsee%2BHQDcsiCBwfEqRBoyFgDXH38BgP2SmaFJP2R3CvlORLEN%2FdiN4MaIOQCOeETbsMdMPvejr8GOpoBDBLzwucXbItxLRfgGAMRBsJq7XiFNBu%2BynKvGD7mw9fMDIYDVsH%2F2MtwT9CeZjUTZ3jDIpRG10mSmSJ4LpgPmzAhiwY4d6PLbloJfzC74USROCP73GKVM%2BNEdM%2BYm7b%2BAO%2BzZzQE3n1Tr5WoGWJD3LSoR%2FC2iJUw3lNY5NffpXKsHW0S7itmKzGBmS37OuSAO2EdmfFuZsNCEQ%3D%3D&Expires=1742980886",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"5\">Kennzahlen (3 Jahre) / VaR (1 Jahr) - Anteilsklasse NC</th></tr><tr><td>Volatilit\u00e4t</td><td>1,49%</td><td></td><td>Maximum Drawdown</td><td>-2,56%</td></tr><tr><td>Sharpe-Ratio</td><td>0,35</td><td></td><td>Information Ratio</td><td>--</td></tr><tr><td>Alpha</td><td>--</td><td></td><td>Beta-Faktor</td><td>-</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"5\">Kennzahlen (3 Jahre) / VaR (1 Jahr) - Anteilsklasse NC</th></tr><tr><td>Volatilit\u00e4t</td><td>1,49%</td><td></td><td>Maximum Drawdown</td><td>-2,56%</td></tr><tr><td>Sharpe-Ratio</td><td>0,35</td><td></td><td>Information Ratio</td><td>--</td></tr><tr><td>Alpha</td><td>--</td><td></td><td>Beta-Faktor</td><td>-</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04617968094038623,
+              "top": 0.032660332541567694,
+              "width": 0.9042821158690176,
+              "height": 0.10332541567695962,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"5\">Kennzahlen (3 Jahre) / VaR (1 Jahr) - Anteilsklasse NC</th></tr><tr><td>Volatilit\u00e4t</td><td>1,49%</td><td></td><td>Maximum Drawdown</td><td>-2,56%</td></tr><tr><td>Sharpe-Ratio</td><td>0,35</td><td></td><td>Information Ratio</td><td>--</td></tr><tr><td>Alpha</td><td>--</td><td></td><td>Beta-Faktor</td><td>-</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

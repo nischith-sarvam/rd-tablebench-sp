@@ -1,0 +1,36 @@
+{
+  "job_id": "b81e1dc9-b688-4c6c-b556-438bfac3cb2e",
+  "duration": 58.378331661224365,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/580a94d5-0f64-4a8a-ac48-85fdeee7d61a.pdf?AWSAccessKeyId=ASIA2UOK6OVBLGGS6YPW&Signature=L8pew%2FCJkM%2Frtd7qSBGs0NycB2k%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCU5IQuinagVuMLU%2BUJQ8cHGF7GAbhgpqgzVajPokXyBgIgSsVT52pYoOlkJevTnZpNoSXtffT83ceolRvRFH0oCuwqgwUIKRAAGgw3MzExMDY5MzIwMzQiDESm4eTvE4jA1wepNyrgBEOSu08SCQvIJf3NxqA%2FKmyjLl1ae0GOVGPvQd5aRtN7myCROFeViVQ88j3WSld2iTp1r9zecWhdN08U%2FE42y1KHLFMXJ3%2F5Fti3U493l%2BKr%2B6403VYpWj7anjlCCOB6NOw8Ff%2FdaiqZkmV2Le2yYN3I2RCnZuhuY2%2FrT4KGmhLEkeixqLE8NZomOm0g4m%2FgHfm%2BgK%2FzFTDrURRxDAMuY9TwZgjn%2BXyf7EDy%2Bblh4zQFD3K8%2Bp%2FcoOqe%2BL508POgFQrGls0pzyE%2BvuF3C67ubyz20Exp%2BAAYET2vDUBapcR9yH9b3S5aNywdtPvep81PSHXRDox04SbqxxCqWYxVI%2FuR1JCldBCEVi086id2e5jtZc8MFJmxRdG%2FsAhoY6OT0NVqvPAldVzRbrIFliEn7D0skRNmbfTWH9OjfpOVzY3Qqj8Rra4JPh9I46BmCIhNuCRztDHQh0HxA3EFIdEcGrEF9GG2MsbQdv9THyhoF3H5e8K0GZH8E4Slc9X3yYMxvkAhGThUztifc2kSLz7cEEWed8asPPTguIszNX%2BCfCNsgDG2UmInv7Qb4gPeatUWqYPVByTsLTRFg4pV9orA%2BHIGog1DKN8UzPHRN8erH6BpB1Brq4sFxEC3HmMfIsYiGiu6ixI0I9OyhpF7r8tR0IsZ6RVL2GB3FcQ9cDAhrM2nvoIBoA%2B8SxGuHwD9U%2B2Ob9K199vjlrfNG1I1dyI%2B7Qyb06JsxeUpQWMPpI3GPL%2BXTp1La%2F%2F%2BRYI1TwmqQzkPDmAgjgoHTAyVrVBs%2FPnLv8kGztW%2B7Am2OXmY7EbGZ7YtMMbrjr8GOpoBlNhQpXQ0ABSUMmVspYWYydZsXFw4MKXiNQaWxsoRTeveQlnmI1nuO0cEvVI3RV5DBSe46iLqgTQsIusgdiDadYYaW6qfmv7Kad5MSTHCeG8y7YCe6GN7QgCJiDCoSRHNd3U2OznSemAGVU7qPuwB9d3vKLm%2BulVU8CCqvMMWCvurH5KmV5Fv2ziS4SMfKE3%2Bkw9NOS%2BzyYE82A%3D%3D&Expires=1742980881",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th colspan=\"5\">2018</th></tr><tr><td></td><td>Quaker</td><td>Houghton</td><td>Divestitures</td><td>Other (a)</td><td>Pro Forma*</td></tr><tr><td>Net sales</td><td>$ 868</td><td>$ 861</td><td>$ (53)</td><td>$ (22)</td><td>$ 1,655</td></tr><tr><td>Net Income (Loss)</td><td>$ 59</td><td>$ (0)</td><td>$ (9)</td><td>$ 17</td><td>$ 66</td></tr><tr><td>Depreciation and</td><td>20</td><td>54</td><td>-</td><td>5</td><td>79</td></tr><tr><td>Interest Expense, ...</td><td>4</td><td>56</td><td>-</td><td>(25)</td><td>35</td></tr><tr><td>Taxes on Income (b)</td><td>25</td><td>3</td><td>(2)</td><td>5</td><td>30</td></tr><tr><td>EBITDA*</td><td>108</td><td>113</td><td>(12)</td><td>1</td><td>210</td></tr><tr><td>Combination, Inte</td><td>16</td><td>7</td><td>-</td><td>-</td><td>23</td></tr><tr><td>Other Addbacks (c)</td><td>1</td><td>2</td><td>-</td><td>-</td><td>3</td></tr><tr><td>Adjusted EBITDA*</td><td>$ 126</td><td>$ 121</td><td>$ (12)</td><td>$ 1</td><td>$ 236</td></tr><tr><td>Adjusted EBITDA ...</td><td>14%</td><td>14%</td><td>23%</td><td>-4%</td><td>14%</td></tr></table>",
+        "embed": "<table><tr><th></th><th colspan=\"5\">2018</th></tr><tr><td></td><td>Quaker</td><td>Houghton</td><td>Divestitures</td><td>Other (a)</td><td>Pro Forma*</td></tr><tr><td>Net sales</td><td>$ 868</td><td>$ 861</td><td>$ (53)</td><td>$ (22)</td><td>$ 1,655</td></tr><tr><td>Net Income (Loss)</td><td>$ 59</td><td>$ (0)</td><td>$ (9)</td><td>$ 17</td><td>$ 66</td></tr><tr><td>Depreciation and</td><td>20</td><td>54</td><td>-</td><td>5</td><td>79</td></tr><tr><td>Interest Expense, ...</td><td>4</td><td>56</td><td>-</td><td>(25)</td><td>35</td></tr><tr><td>Taxes on Income (b)</td><td>25</td><td>3</td><td>(2)</td><td>5</td><td>30</td></tr><tr><td>EBITDA*</td><td>108</td><td>113</td><td>(12)</td><td>1</td><td>210</td></tr><tr><td>Combination, Inte</td><td>16</td><td>7</td><td>-</td><td>-</td><td>23</td></tr><tr><td>Other Addbacks (c)</td><td>1</td><td>2</td><td>-</td><td>-</td><td>3</td></tr><tr><td>Adjusted EBITDA*</td><td>$ 126</td><td>$ 121</td><td>$ (12)</td><td>$ 1</td><td>$ 236</td></tr><tr><td>Adjusted EBITDA ...</td><td>14%</td><td>14%</td><td>23%</td><td>-4%</td><td>14%</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9042821158690176,
+              "height": 0.30463182897862234,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th colspan=\"5\">2018</th></tr><tr><td></td><td>Quaker</td><td>Houghton</td><td>Divestitures</td><td>Other (a)</td><td>Pro Forma*</td></tr><tr><td>Net sales</td><td>$ 868</td><td>$ 861</td><td>$ (53)</td><td>$ (22)</td><td>$ 1,655</td></tr><tr><td>Net Income (Loss)</td><td>$ 59</td><td>$ (0)</td><td>$ (9)</td><td>$ 17</td><td>$ 66</td></tr><tr><td>Depreciation and</td><td>20</td><td>54</td><td>-</td><td>5</td><td>79</td></tr><tr><td>Interest Expense, ...</td><td>4</td><td>56</td><td>-</td><td>(25)</td><td>35</td></tr><tr><td>Taxes on Income (b)</td><td>25</td><td>3</td><td>(2)</td><td>5</td><td>30</td></tr><tr><td>EBITDA*</td><td>108</td><td>113</td><td>(12)</td><td>1</td><td>210</td></tr><tr><td>Combination, Inte</td><td>16</td><td>7</td><td>-</td><td>-</td><td>23</td></tr><tr><td>Other Addbacks (c)</td><td>1</td><td>2</td><td>-</td><td>-</td><td>3</td></tr><tr><td>Adjusted EBITDA*</td><td>$ 126</td><td>$ 121</td><td>$ (12)</td><td>$ 1</td><td>$ 236</td></tr><tr><td>Adjusted EBITDA ...</td><td>14%</td><td>14%</td><td>23%</td><td>-4%</td><td>14%</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

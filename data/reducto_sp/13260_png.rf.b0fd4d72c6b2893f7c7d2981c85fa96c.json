@@ -1,0 +1,36 @@
+{
+  "job_id": "28133478-00cd-4e4b-a24a-a52aa458f0de",
+  "duration": 134.67422580718994,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/a62f9490-2333-42da-a8d4-8cde2d504a20.pdf?AWSAccessKeyId=ASIA2UOK6OVBKKUJALJT&Signature=nYTnFBcQ%2B1m%2BwujPon5C3jUPcyI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDv%2Fpcl6odT4jBYP0WJ9vMEIYxQWS4taHF2vRaQ5ONEFAIgSgvnPEXRMbPOmYhpbI2uWLtKeOdXw5jHL07lsbDg9MQqgwUIKhAAGgw3MzExMDY5MzIwMzQiDD%2FzN2KQGcYowZgtHyrgBPmpmGEe3gbmtp4ZG1T5vbgUEyOWRQawK1gokgiWsZ1Z0A9fN51u6Jl0VlbjGcB0LqmKIO6mXSd3fWbux5qKxk%2Bz4lsvGaUjgS%2FI46%2FPlpXTSybb1KbXti6ZbShc5HKKY4P%2FoQISloEmo7EBLfqJKZdKpS%2FQFSRzY7w%2FI%2BsyZs7hPltoElSufeSEO3TVN0PFKMbbXvQpHOIkC7Wth2Rek7DmRObri1suFWuRL1G3C%2FqxCF5HhgTLXj11SOFrMoyDWZBl8JAp9M7SK7PNObHfDjqH5X1zbJLNBUvarZCLbfQWcg%2Fn0rAVtBujEyI%2BLRekC3B6Kzlj7DsVE7JnNRffbZ7BK7W6Q7osTJAPKdRTrNcKmR90Jp4mEqkvsXW1O2iI7M7j9Efl%2FkptGuzq3aFvGZ1WHD%2F4Aq9WWwdDXoGQ0VDWtqj9EAvSLhj%2BiE1EcaiE0b79sa4kXsIt7wbLhoSZx4WQJuVJYHWZWjBC6yIyr1j%2B%2BOqHg0o2cqBrIcKbtjkD%2BoRPMZy4o6ZVBrFS6botfnpXqsIOzBA%2BhXzX7yI6rxKJ8rxGCdMyBGEcKHo8xS5QD99zVgttAmj6O9Qucg8rE2B07y4cUt5J%2BtqAxJ0eWKw2s8lA6k42A06nJLM9kZ8D2%2FD6vR5HDAQGrGivMuw2klHVZJwIhAo%2FCOBHO%2FfM1UmeRhnWMb%2BWDQSMAl3%2BO9d09u5V3PehQzBUK4fJUMFklfGw60pfw8Ekw7SxQUKOg%2FK0PIg4v8TCkAt%2FuENHkSRgGG7b9CDzKYbTofL0COjWkW7jZqWSU9EYxAt0qRNv4nKiMMHyjr8GOpoBKOkyOnS15VK%2FMO9Jjv%2Fkoz8YJkJUIGDP%2Fh6FvCMcjjArZA7DFO6OSkSfQVFWUVPpKvMY%2Fw9qsMzYAfHa%2BCAd6eoIqDpSf8VhuNDilOAsKBd7%2BUBszESBU8px%2B310ZIsg7sL8zEg73K7v0tkwQJPmQSDJ5cg6rXgd9WoJqvpyA0gtx%2B3w8dQNmEzaj8UdYGtkTR2S9BzzQbGcPQ%3D%3D&Expires=1742980980",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>C\u00d3DIGO</th><th>MEDIDA</th><th>ACABADO</th><th>$</th><th>$</th><th>PRECIO</th></tr><tr><td>00498</td><td>3/4M X 3/4TL</td><td>Lat\u00f3n CE N</td><td>20</td><td>40</td><td>14,19 \u20ac</td></tr><tr><td>00513</td><td>7/8M X 7/8TL</td><td>Lat\u00f3n CE N</td><td>15</td><td>30</td><td>15,67 \u20ac</td></tr></table>",
+        "embed": "<table><tr><th>C\u00d3DIGO</th><th>MEDIDA</th><th>ACABADO</th><th>$</th><th>$</th><th>PRECIO</th></tr><tr><td>00498</td><td>3/4M X 3/4TL</td><td>Lat\u00f3n CE N</td><td>20</td><td>40</td><td>14,19 \u20ac</td></tr><tr><td>00513</td><td>7/8M X 7/8TL</td><td>Lat\u00f3n CE N</td><td>15</td><td>30</td><td>15,67 \u20ac</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.07779097387173396,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>C\u00d3DIGO</th><th>MEDIDA</th><th>ACABADO</th><th>$</th><th>$</th><th>PRECIO</th></tr><tr><td>00498</td><td>3/4M X 3/4TL</td><td>Lat\u00f3n CE N</td><td>20</td><td>40</td><td>14,19 \u20ac</td></tr><tr><td>00513</td><td>7/8M X 7/8TL</td><td>Lat\u00f3n CE N</td><td>15</td><td>30</td><td>15,67 \u20ac</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}
