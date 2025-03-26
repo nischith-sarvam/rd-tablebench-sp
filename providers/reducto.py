@@ -7,7 +7,8 @@ import time
 from typing import Tuple
 from tqdm import tqdm
 
-base_path = os.path.expanduser("~/data/human_table_benchmark")
+base_path = os.path.abspath("/home/vansh/work/sarvam/rd-tablebench-sp/data/pdfs_sp")
+base_output_dir = "/home/vansh/work/sarvam/rd-tablebench-sp/data/reducto_sp"
 pdfs = glob.glob(os.path.join(base_path, "**", "*.pdf"), recursive=True)
 
 API_KEY = os.environ.get("REDUCTO_API_KEY")
@@ -136,9 +137,11 @@ async def process_all_pdfs(pdfs: list[str]):
             progress_bar.update(1)
         progress_bar.close()
 
+    print("Saving results to disk...")
     for pdf_path, result in results:
-        output_path = pdf_path.replace("pdfs", "reducto_nov1").replace(".pdf", ".json")
-        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        filename = os.path.basename(pdf_path).replace(".pdf", ".json")
+        output_path = os.path.join(base_output_dir, filename)
+
         with open(output_path, "w") as f:
             json.dump(result, f, indent=2)
 
@@ -146,7 +149,11 @@ async def process_all_pdfs(pdfs: list[str]):
 
 
 async def main():
-    await process_all_pdfs(pdfs)
+    torerun = ['18258', '6417']
+    rerun_pdfs = [file for file in pdfs if any([file.startswith(f"/home/vansh/work/sarvam/rd-tablebench-sp/data/pdfs_sp/{i}_") for i in torerun])]
+    print(rerun_pdfs)
+    # print(pdfs)
+    await process_all_pdfs(rerun_pdfs)
 
 
 if __name__ == "__main__":

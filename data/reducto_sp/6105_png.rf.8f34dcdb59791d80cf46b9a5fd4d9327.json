@@ -1,0 +1,36 @@
+{
+  "job_id": "c2b2f31b-7bf4-4a0b-ab41-577a69f4d8a9",
+  "duration": 122.00407576560974,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/c7532b0b-93d3-481f-bfb8-4fb587d0e7dc.pdf?AWSAccessKeyId=ASIA2UOK6OVBDZCOL3Q5&Signature=VCxfogsbkA7bngGTp9fXhmQEFaQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIGoIHxpY2jMQ2gEHElqdKVlDcNs1d76CMDZ3FdEmGC99AiBk%2FAnnoW4XJaQXfVfwUXvs3ulADxVEXHgoYMOcpsVlUSqDBQgpEAAaDDczMTEwNjkzMjAzNCIMyKtnx9Z0PjAKUiXtKuAEIdRrS058wL2g%2F1KvAgJ3DtBMJbLBeWFdr224%2BTmElpaOV0E9Kq3jQI62h8iZZrDwgsjHNI9pYuZFqQLVI4RXajHasrd50eGka9T2Z2%2BHQR3ywGIXdGyPNoshqd0tieaX%2BQJqVRleNs6vuHht%2F6q%2BlsEehkYKqWBof0gODCGcN0vhS7RyG5spVeIX7AxYphqWq3CVzRwywCeNGMUQFX2Mm11Qb9lnmkH04qXo806eQxiIAONL9lvS6vh%2BIhkXIDtcofX5MlsEdiHtd6S9XjNjBuqoI2o%2FCU4xtLwSPDjz3wI%2BouSU0LUVdWc%2FRGiPpA9F%2FlkSDjrObs1QMhKXbP%2BMvtVZZ7WDZIKLrqWVP4%2FAVE%2BR2O84BOrSlzXcC%2Fs68TfPOIxGVZWZcM69HOJJMFHtv%2BD%2B9rXYEf3ojRh%2FafwUmCv3KnXoL4Wj7uTW7niS6cAdu5RUbXVEYAXx0tTNMcU87nU3UaRCH%2Bu4AM9lweCUxp1sz83vk%2FpeghFFSC7Pdu72pLWpAMGbf3j2EehvnGAtEbMNyRi2n9QfqkrOdPDj7P%2BNC7kGQh5TVo3vrQavLOwprGaHeArCTIf2OmhDqDCnDv3N0xihbR68ufl9K7O1a76%2FI3%2B2FttGb2ER3lWKFZbGc4rUH6Kq2mqpnq5Uv5TO0t49r4LO7aCjrQFVcyomVwQyRJvTTNO0hjFtb7A4J%2BFVKhzlB43mnQpjKiCgIv%2F7hGv1wksaq7AaQf09d3z7b9xkKLXU4g1nA31IgOR7wzJdwx9%2F2j84W3HLGP6uFWAcjKAkJUIDoOnxWTiIWv5pgEIw8N%2BOvwY6mwFZYpzzqMMsGhyFuOtncsYbgqXzqXii8VpzZCuAX9HiT5DBMHJT0VkDSAAPPOo9USpyg%2F%2BJdUlx8uGQdyuCRoAmyiJmsW28fwYnAM30emzh%2F9pLKek93nWKp12TFvGtDPxHBwMABVR2Li%2FDytKr5qTgsyN0OcQIjVJeG2wg8b9H2tyk8DXFCFxjpm5xHR6ZY%2B%2FBiKcNnIijAzWPxQ%3D%3D&Expires=1742980946",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"2\" colspan=\"2\">Vorw\u00e4rts gehen</th><th>Zum Beispiel SO:</th><th>BB</th><th>AA</th></tr><tr><td></td><td>WP</td><td>GO</td></tr><tr><td>2.</td><td>Schritt: Gehen Sie mit ...</td><td></td><td>AY</td><td>YY</td></tr><tr><td>3.</td><td>Schritt: Gehen Sie mit ...</td><td></td><td></td><td></td></tr><tr><td>4.</td><td>Schritt: Bleiben Sie na</td><td></td><td>UU</td><td>ZS</td></tr><tr><td>5.</td><td>Schritt: Bleiben Sie bei</td><td></td><td>SZ</td><td>PA</td></tr><tr><td>6.</td><td>Schritt: Steigen Sie bei</td><td></td><td>CG</td><td>HU</td></tr><tr><td></td><td>Hindernisse.</td><td></td><td></td><td></td></tr><tr><td>7.</td><td>Schritt: Schauen Sie W</td><td></td><td>WW</td><td>LL</td></tr><tr><td></td><td>abwechselnd \u00fcber die ...</td><td></td><td>ER</td><td>NI</td></tr><tr><td>8.</td><td>Schritt: Schauen Sie W</td><td></td><td>LU</td><td>EE</td></tr><tr><td colspan=\"2\">Seitw\u00e4rts Gehen</td><td></td><td>SA</td><td>NE</td></tr><tr><td>12</td><td>Schritt: Gehen Sie mit ...</td><td></td><td>JO</td><td>HH</td></tr><tr><td>2.</td><td>Schritt: Gehen Sie mit ...</td><td></td><td></td><td></td></tr><tr><td>3.</td><td>Schritt: Gehen Sie bet</td><td></td><td>NN</td><td>DS</td></tr><tr><td>4.</td><td>Schritt: Steigen Sie bei</td><td></td><td>BP</td><td>SC</td></tr><tr><td>5.</td><td>Schritt: Gehen Sie im ...</td><td></td><td>AR</td><td>FF</td></tr><tr><td colspan=\"2\">R\u00fcckw\u00e4rts Gehen</td><td></td><td>DY</td><td>AL</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"2\" colspan=\"2\">Vorw\u00e4rts gehen</th><th>Zum Beispiel SO:</th><th>BB</th><th>AA</th></tr><tr><td></td><td>WP</td><td>GO</td></tr><tr><td>2.</td><td>Schritt: Gehen Sie mit ...</td><td></td><td>AY</td><td>YY</td></tr><tr><td>3.</td><td>Schritt: Gehen Sie mit ...</td><td></td><td></td><td></td></tr><tr><td>4.</td><td>Schritt: Bleiben Sie na</td><td></td><td>UU</td><td>ZS</td></tr><tr><td>5.</td><td>Schritt: Bleiben Sie bei</td><td></td><td>SZ</td><td>PA</td></tr><tr><td>6.</td><td>Schritt: Steigen Sie bei</td><td></td><td>CG</td><td>HU</td></tr><tr><td></td><td>Hindernisse.</td><td></td><td></td><td></td></tr><tr><td>7.</td><td>Schritt: Schauen Sie W</td><td></td><td>WW</td><td>LL</td></tr><tr><td></td><td>abwechselnd \u00fcber die ...</td><td></td><td>ER</td><td>NI</td></tr><tr><td>8.</td><td>Schritt: Schauen Sie W</td><td></td><td>LU</td><td>EE</td></tr><tr><td colspan=\"2\">Seitw\u00e4rts Gehen</td><td></td><td>SA</td><td>NE</td></tr><tr><td>12</td><td>Schritt: Gehen Sie mit ...</td><td></td><td>JO</td><td>HH</td></tr><tr><td>2.</td><td>Schritt: Gehen Sie mit ...</td><td></td><td></td><td></td></tr><tr><td>3.</td><td>Schritt: Gehen Sie bet</td><td></td><td>NN</td><td>DS</td></tr><tr><td>4.</td><td>Schritt: Steigen Sie bei</td><td></td><td>BP</td><td>SC</td></tr><tr><td>5.</td><td>Schritt: Gehen Sie im ...</td><td></td><td>AR</td><td>FF</td></tr><tr><td colspan=\"2\">R\u00fcckw\u00e4rts Gehen</td><td></td><td>DY</td><td>AL</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032066508313539195,
+              "width": 0.9034424853064652,
+              "height": 0.45665083135391926,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"2\" colspan=\"2\">Vorw\u00e4rts gehen</th><th>Zum Beispiel SO:</th><th>BB</th><th>AA</th></tr><tr><td></td><td>WP</td><td>GO</td></tr><tr><td>2.</td><td>Schritt: Gehen Sie mit ...</td><td></td><td>AY</td><td>YY</td></tr><tr><td>3.</td><td>Schritt: Gehen Sie mit ...</td><td></td><td></td><td></td></tr><tr><td>4.</td><td>Schritt: Bleiben Sie na</td><td></td><td>UU</td><td>ZS</td></tr><tr><td>5.</td><td>Schritt: Bleiben Sie bei</td><td></td><td>SZ</td><td>PA</td></tr><tr><td>6.</td><td>Schritt: Steigen Sie bei</td><td></td><td>CG</td><td>HU</td></tr><tr><td></td><td>Hindernisse.</td><td></td><td></td><td></td></tr><tr><td>7.</td><td>Schritt: Schauen Sie W</td><td></td><td>WW</td><td>LL</td></tr><tr><td></td><td>abwechselnd \u00fcber die ...</td><td></td><td>ER</td><td>NI</td></tr><tr><td>8.</td><td>Schritt: Schauen Sie W</td><td></td><td>LU</td><td>EE</td></tr><tr><td colspan=\"2\">Seitw\u00e4rts Gehen</td><td></td><td>SA</td><td>NE</td></tr><tr><td>12</td><td>Schritt: Gehen Sie mit ...</td><td></td><td>JO</td><td>HH</td></tr><tr><td>2.</td><td>Schritt: Gehen Sie mit ...</td><td></td><td></td><td></td></tr><tr><td>3.</td><td>Schritt: Gehen Sie bet</td><td></td><td>NN</td><td>DS</td></tr><tr><td>4.</td><td>Schritt: Steigen Sie bei</td><td></td><td>BP</td><td>SC</td></tr><tr><td>5.</td><td>Schritt: Gehen Sie im ...</td><td></td><td>AR</td><td>FF</td></tr><tr><td colspan=\"2\">R\u00fcckw\u00e4rts Gehen</td><td></td><td>DY</td><td>AL</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

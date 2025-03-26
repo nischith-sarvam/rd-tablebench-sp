@@ -1,0 +1,36 @@
+{
+  "job_id": "fff459e1-7c7c-4713-9d59-266e6914f8d6",
+  "duration": 119.6476662158966,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/c19c9765-e7f3-4f79-a921-3f0e0ff13e39.pdf?AWSAccessKeyId=ASIA2UOK6OVBD7XZ3H5Y&Signature=7G2vQ3gGEst8sv0SMULhjAXz7Z4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIEwwVr10YPjGvZN89UG1dDQNBIF9RDB8PPxsIPr0DNzcAiBKmIrNJR4qIWhaqZ826kkczkndimdrdTVNhq3tmK0SkiqDBQgqEAAaDDczMTEwNjkzMjAzNCIMQyym6%2B1il%2FR8UyFPKuAEAYD3CThLOQcf86Qz6tZJkHDKK%2BBcit4Fo5RS08Y79YF%2BNBzzuR11Wx%2B%2BaPwfXl2YFjxkACp80%2Bc8Jiq%2Fg1jQjXKvltpLt2UfStUehh57ZP8njTkytRXLIo7nSC58x4%2FuFFwyKjh%2B54SpEWBKV8gAPIHExmWcqqwVbpA70UEbLg2g0VDVl3o8ZsEYLn5qFJOahuxyXV3Nih3Pc%2BUDgZjoASJEuOASbzpj15U55EIOPa%2BMVypWURsybRwkaudRtXb1HFonA4L7gS2qF9HftF5Km1NSXdo0AEHmvexJOJRG0V6XggsBNcP%2FggCBq6tk7nG7rhdpqTzLAtZEZNfs3Vi%2Ba3CzmDtWWUtXc7vo1C2LGsDgRNPeCw05IX2ytT%2B62U0vQFgxHjX46OXjMo9iMlLAWIPisRfq2DDUkcBqHCFpJiECP8dlaWoskXsGukOpKfxSxurjH0IXOag3cX%2BP14x1W734fja3AJzpvPRMEnxt%2FMfwFe0f7pinLx2sAnDpN7ALTKwjCd3s7JiLWlARQw0ewITtGzs2bmtDodINmzvh58bmqCHaBjL5WGjEuhDri158AtzLerBcWi93lQMgT16MhRyv%2BJQCoqd%2BTFoTV7GTK%2FjdY8YNPYDSeWIarf6GraHUSd5kHIcmiGYD8EM2C6YFm6OGzIDKOYvhxJdkGkm5PpzwtYicBW9Hld0l194OnO8hWFZiNPv2Q0jqT6KYxNr6X3gEKTZGgxhgW9VERICIKr8vtG06KYVwdwO0s0DSMnIr8y8gZ7CMRAuBBrW01xONaiQWyUu0%2F0agG0SZ%2F8BkJcwwv%2FKOvwY6mwFm52CnvQ%2BbrSVWSrF4xiNjw7cB5gooEl%2BSefQnygLFzTwY4YvVusEYj5p1KP3TrgguQ2Vr1VUFe3oLSF%2FrBpnvh8Q3sfjCErANwkf7qkRLKyEfuhd%2F8oFNAAPQv615Lizli7M%2Fp1VA5mrJrkhR%2FFhmtoGPMLvz%2BklAZ%2B8FDFtMs3q2g0Eq421zRaWEMkbUmJQ7Ed7uNa81ff4oYA%3D%3D&Expires=1742980951",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"5\">\u80fd\u6e90\u671f\u8d27\u4fdd\u8bc1\u91d1</th><th></th></tr><tr><td>\u54c1\u79cd\u540d\u79f0</td><td>\u54c1\u79cd\u7f16\u53f7</td><td>\u5e02\u573a\u7f16\u53f7</td><td>\u5e01\u79cd</td><td>\u6b63\u5e38\u4fdd\u8bc1\u91d1</td><td>\u8fc7\u591c\u4fdd\u8bc1\u91d1</td></tr><tr><td>|\u5929\u7136\u6c14</td><td>NG</td><td>NYMEX</td><td>USD</td><td>2,530</td><td>2,530</td></tr><tr><td>\u5c0f\u5929\u7136\u6c14</td><td>QG</td><td>NYMEX</td><td>USD</td><td>633</td><td>633</td></tr><tr><td>\u7f8e\u539f\u6cb9</td><td>CL</td><td>NYMEX</td><td>USD</td><td>4,978</td><td>4,978</td></tr><tr><td>|\u5c0f\u539f\u6cb9</td><td>QM</td><td>NYMEX</td><td>USD</td><td>2,489</td><td>2,489</td></tr><tr><td>\u5e03\u4f26\u7279\u539f\u6cb9</td><td>B</td><td>ICEU</td><td>USD</td><td>5,030</td><td>5,030</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"5\">\u80fd\u6e90\u671f\u8d27\u4fdd\u8bc1\u91d1</th><th></th></tr><tr><td>\u54c1\u79cd\u540d\u79f0</td><td>\u54c1\u79cd\u7f16\u53f7</td><td>\u5e02\u573a\u7f16\u53f7</td><td>\u5e01\u79cd</td><td>\u6b63\u5e38\u4fdd\u8bc1\u91d1</td><td>\u8fc7\u591c\u4fdd\u8bc1\u91d1</td></tr><tr><td>|\u5929\u7136\u6c14</td><td>NG</td><td>NYMEX</td><td>USD</td><td>2,530</td><td>2,530</td></tr><tr><td>\u5c0f\u5929\u7136\u6c14</td><td>QG</td><td>NYMEX</td><td>USD</td><td>633</td><td>633</td></tr><tr><td>\u7f8e\u539f\u6cb9</td><td>CL</td><td>NYMEX</td><td>USD</td><td>4,978</td><td>4,978</td></tr><tr><td>|\u5c0f\u539f\u6cb9</td><td>QM</td><td>NYMEX</td><td>USD</td><td>2,489</td><td>2,489</td></tr><tr><td>\u5e03\u4f26\u7279\u539f\u6cb9</td><td>B</td><td>ICEU</td><td>USD</td><td>5,030</td><td>5,030</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9051217464315701,
+              "height": 0.18586698337292162,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"5\">\u80fd\u6e90\u671f\u8d27\u4fdd\u8bc1\u91d1</th><th></th></tr><tr><td>\u54c1\u79cd\u540d\u79f0</td><td>\u54c1\u79cd\u7f16\u53f7</td><td>\u5e02\u573a\u7f16\u53f7</td><td>\u5e01\u79cd</td><td>\u6b63\u5e38\u4fdd\u8bc1\u91d1</td><td>\u8fc7\u591c\u4fdd\u8bc1\u91d1</td></tr><tr><td>|\u5929\u7136\u6c14</td><td>NG</td><td>NYMEX</td><td>USD</td><td>2,530</td><td>2,530</td></tr><tr><td>\u5c0f\u5929\u7136\u6c14</td><td>QG</td><td>NYMEX</td><td>USD</td><td>633</td><td>633</td></tr><tr><td>\u7f8e\u539f\u6cb9</td><td>CL</td><td>NYMEX</td><td>USD</td><td>4,978</td><td>4,978</td></tr><tr><td>|\u5c0f\u539f\u6cb9</td><td>QM</td><td>NYMEX</td><td>USD</td><td>2,489</td><td>2,489</td></tr><tr><td>\u5e03\u4f26\u7279\u539f\u6cb9</td><td>B</td><td>ICEU</td><td>USD</td><td>5,030</td><td>5,030</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

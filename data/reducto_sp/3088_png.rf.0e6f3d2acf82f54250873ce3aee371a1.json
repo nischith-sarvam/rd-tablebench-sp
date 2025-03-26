@@ -1,0 +1,36 @@
+{
+  "job_id": "4c86b984-e7ce-4837-bc11-8eb46a9314d4",
+  "duration": 129.7137806415558,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/f6bf91b3-6279-4c9b-925a-464cd693e46c.pdf?AWSAccessKeyId=ASIA2UOK6OVBNFLF53RT&Signature=k4FvnA3E9rXhrRWBqpuIqW1utDk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDoFZk2vyFe1e34G8hJNbAUQ7YMda6Fc4ugwpDMyBQVbQIgHmE%2FrJf%2F2SkwZp7a%2BMRLrB%2Fr99Y8tHdlgJ1qUan%2FkPgqgwUIKRAAGgw3MzExMDY5MzIwMzQiDNNu%2Bwd73raGL8I4QCrgBIXSg3jEQI%2FpoMzD36g087LrhcTtwYKjy7vwpNa6UK0gLxwd6yICmUz2eNgTg%2BHzUggZvSOE2FnB58LxBtIH3MKIBzF65Jv4POzeXEXybESc0nMIMBHOL5KgVb6xOrDAOobV8yszZGLCbeZ7KCyTdNKDwGCcg9GocAAi3IMlBO9FzH2kbzupScMpOYelhVh9mhiJdcn1Uo9Ow1LeZDQw9BMyIAu7tWDkUj3L4pbjLc7gtSd3lfldSxRVYCaIp7NFUottuGlrasQlsw%2FhAOiPc6ljHPgHpntvYKrn0eDU3nwX6wkytIFGrwcLJvKinHjy5yeN%2Fz30%2Fuxh2KF1NbSh2wDncX0kvCO%2Bi%2BV7yd%2BjxZAzcO1xI5KAqakb0%2FQvrLtyKr4vMbLJIyjQBR8xCGTrF512iWyjEzbMSSFHkQ2tzvR4Ol0E7fDoz6yi6Idy9l8x3RmFE4bAaVLc4ukWzA%2FvsLuuCr18E8CHXbXJol9nUg7GOOYe4hT%2FH%2FM7mTnZbvPCsVJgpo6C6E76vwAyYmqf1SXu1mLgeM%2FE0B8pnw50Gk4jAFk1GKWfMk1RggUrkE2VUn83zCgitC14SNkWvsyOX%2By1PZe13%2FcAcq%2FeqP71fOy68kPnzdTUlxro%2B9gZfolnp6CLtHRyHQOS79rMTYQ5c%2ByRp0lAEy0FYJydeg2P7DFaeLOyAPQOv%2Fc4kuwo2HHfZWz2EpTUTBaEZz96s9bcvPu4u7FxkdDmf8KvXXQyZnan%2BGOvvZXNXFGsmyer0BEogRUuk5RK1N59WTs8SWqkFOmor5Cqu058S6YJyZX9iBU9MOzxjr8GOpoBFScx1dFQ1RR5fRJ40aDUk2MVzPDx414Ss%2FiVawQ4NZUwvX5qEFt%2FUclrn3eJHLwn0T38uu3YnC%2FOlO69ZtSeHZ%2BUqquKvZZrWuOPe7TsPikmMb8HzWjadBrNkpZaKpqLlhSJ%2FwefuArxI1CS4z4PkZsz80MU9A6FsV%2FZSYmvogRlPvkfNVz1sOzNKCbX58AW7mDP4VyRteYE4A%3D%3D&Expires=1742980955",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Fattore di sharing</th><th>Valori min. del range ammesso per i f...</th><th>Valori max del range ammesso per i f...</th></tr><tr><td rowspan=\"3\">b</td><td>Massimo ammontare dei ricavi a favore ...</td><td>Minimo ammontare dei ricavi a favore de...</td></tr><tr><td>Minima detrazione dei costi da inserire n...</td><td>Massima detrazione dei costi da inserire...</td></tr><tr><td></td><td>Necessit\u00e0 di giustificare la scelta da part...</td></tr></table>",
+        "embed": "<table><tr><th>Fattore di sharing</th><th>Valori min. del range ammesso per i f...</th><th>Valori max del range ammesso per i f...</th></tr><tr><td rowspan=\"3\">b</td><td>Massimo ammontare dei ricavi a favore ...</td><td>Minimo ammontare dei ricavi a favore de...</td></tr><tr><td>Minima detrazione dei costi da inserire n...</td><td>Massima detrazione dei costi da inserire...</td></tr><tr><td></td><td>Necessit\u00e0 di giustificare la scelta da part...</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04617968094038623,
+              "top": 0.033847980997624705,
+              "width": 0.9000839630562553,
+              "height": 0.1021377672209026,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Fattore di sharing</th><th>Valori min. del range ammesso per i f...</th><th>Valori max del range ammesso per i f...</th></tr><tr><td rowspan=\"3\">b</td><td>Massimo ammontare dei ricavi a favore ...</td><td>Minimo ammontare dei ricavi a favore de...</td></tr><tr><td>Minima detrazione dei costi da inserire n...</td><td>Massima detrazione dei costi da inserire...</td></tr><tr><td></td><td>Necessit\u00e0 di giustificare la scelta da part...</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

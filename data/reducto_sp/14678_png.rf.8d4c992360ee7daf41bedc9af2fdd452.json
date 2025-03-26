@@ -1,0 +1,36 @@
+{
+  "job_id": "a5c04658-aa1b-48da-9c1b-1cdb608ba752",
+  "duration": 46.522775650024414,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/ad738dec-451a-4bf7-a04f-beda9bd27e56.pdf?AWSAccessKeyId=ASIA2UOK6OVBL26EKG3D&Signature=0%2BCvI6hjcecYNFPDfgJc7WTSfuQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBqRbTyW5nO3mjl6YmdV0lWvzwMMsRU09sxPmu64CVIYAiAuwQ%2BSEMs6tEwOxnuKr9uFxmuV43y8wmLrjxPam8RMQSqDBQgpEAAaDDczMTEwNjkzMjAzNCIM%2BkXf7AXFp%2FgwSElzKuAE8v%2FVhIJbccQUUP1Zdax%2FRJFnAHgBupU8pf6x2mdkdfzYd%2F%2F2fRgIYkUlrG5RRIUouxDaaB0AOTmpMUj94lj9LToRog5WIjHU7JAe9NR%2FMoaTF%2BXciSdWLRYSlsy5q1IJppz0K%2FeSURA8y6gvcidITgToGjLGBGMFJHr38ngLGjnyXHVNaXMpESuJxN27NynB%2BOGoKZHjDx%2BGHdTW8qAArUJQofwlhkYCnkZIk9lvg3P9T6O%2BEnrcssqOBxwArcABE8JIg27vLiQDeUEuyk5mcSUv9NCf2tDwb03laDHrcpIRfc33WIXsZNMLRc8gmXkAf%2B40F5kg9naethja2RtQyLQt1rEA51YQ5hh9Q5wsT4tjiZbNyDe6U5ps37WNvyse%2ByUb3eASxUyvLQ8x%2F1AtCu1y2c%2BcGg6n14%2BuHdfVrVmAKM80wzzmWk11CmIWgR5YDGaVcrcqP4M99HpDdEKzjJj6jnvfVB3dhIN1SvJ2TitPsKam%2FKnqRUdxr1jHWbNxFzqEsIAOk3lAz9hipwxzuoYCPWy4F%2BvOc9s24LEQEO6Cq%2B23YTE8sQppQVN%2FPW76q1F6HIw2F1VuuCl0qIMCi%2FK7wr9C1gD4bMuKQbE0LyRRmwFadd1utNpLDVJc5CgdY5YOEKEvtMKWsKlRsCD%2FFlaPDu3LPCtJq1yhcsSLv05OsOjP8qRd42mvcMKNtpF8vkXHFlVe0PXb6keKKQurth1i8Q%2F62GSnpooxut2G8s01UrNxQebrK8rgSiYVVJpmnj5l%2BgrNR0u9Tm00u1mFzObpaWFGcoj8N8WsMAZZgTww596OvwY6mwG57Id6sx5fgzSVIr0YPbeFeNjNu3HaKkECNbWjkyzEQwzXxefODklB8HUww3%2BsJSCv2IVyiVBiAgyot14qslu87GEjgjVwu2gT7Pz8ino4huKC1mRvypA140rXEWWksKoDTOPxn1Q%2BAuHnCMezYXVdmuGrXycRR7kEVRcePN%2FcVJH4mR0r5Hea2jAcJLqWQHQeeJtJ5tlD8xSp4Q%3D%3D&Expires=1742980864",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"6\">Any Other (specify)</th><th></th><th></th></tr><tr><td>Searial No.</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>Category</td><td>Bodies Corp</td><td>Bodies Corp</td><td>Bodies Corp</td><td>Bodies Corp</td><td>Bodies Corp</td><td>Bodies Corp</td><td>Bodies Corp</td></tr><tr><td>Name of the</td><td>ADSU TRA</td><td>GARWARE ...</td><td>MASU TRA</td><td>SHESU TR</td><td>UNIVERSAL</td><td>MAUVE TR</td><td>GARWARE ...</td></tr><tr><td>PAN (II)</td><td>AAACA3670M</td><td>AAACG7069A</td><td>AAACM3062F</td><td>AAACS6028F</td><td>AAACU0607L</td><td>AABCM6736F</td><td>AAACG1377P</td></tr><tr><td>No. of the S</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>No. of fully p</td><td>196586</td><td>800</td><td>16556</td><td>50652</td><td>234755</td><td>148410</td><td>50000</td></tr><tr><td>No. Of Partl</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>No. Of share</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total nos. sh</td><td>196586</td><td>800</td><td>16556</td><td>50652</td><td>234755</td><td>148410</td><td>50000</td></tr><tr><td>Shareholdin</td><td>3.41</td><td>0.01</td><td>0.29</td><td>0.88</td><td>4.07</td><td>2.57</td><td>0.87</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"6\">Any Other (specify)</th><th></th><th></th></tr><tr><td>Searial No.</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>Category</td><td>Bodies Corp</td><td>Bodies Corp</td><td>Bodies Corp</td><td>Bodies Corp</td><td>Bodies Corp</td><td>Bodies Corp</td><td>Bodies Corp</td></tr><tr><td>Name of the</td><td>ADSU TRA</td><td>GARWARE ...</td><td>MASU TRA</td><td>SHESU TR</td><td>UNIVERSAL</td><td>MAUVE TR</td><td>GARWARE ...</td></tr><tr><td>PAN (II)</td><td>AAACA3670M</td><td>AAACG7069A</td><td>AAACM3062F</td><td>AAACS6028F</td><td>AAACU0607L</td><td>AABCM6736F</td><td>AAACG1377P</td></tr><tr><td>No. of the S</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>No. of fully p</td><td>196586</td><td>800</td><td>16556</td><td>50652</td><td>234755</td><td>148410</td><td>50000</td></tr><tr><td>No. Of Partl</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>No. Of share</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total nos. sh</td><td>196586</td><td>800</td><td>16556</td><td>50652</td><td>234755</td><td>148410</td><td>50000</td></tr><tr><td>Shareholdin</td><td>3.41</td><td>0.01</td><td>0.29</td><td>0.88</td><td>4.07</td><td>2.57</td><td>0.87</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.28800475059382424,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"6\">Any Other (specify)</th><th></th><th></th></tr><tr><td>Searial No.</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>Category</td><td>Bodies Corp</td><td>Bodies Corp</td><td>Bodies Corp</td><td>Bodies Corp</td><td>Bodies Corp</td><td>Bodies Corp</td><td>Bodies Corp</td></tr><tr><td>Name of the</td><td>ADSU TRA</td><td>GARWARE ...</td><td>MASU TRA</td><td>SHESU TR</td><td>UNIVERSAL</td><td>MAUVE TR</td><td>GARWARE ...</td></tr><tr><td>PAN (II)</td><td>AAACA3670M</td><td>AAACG7069A</td><td>AAACM3062F</td><td>AAACS6028F</td><td>AAACU0607L</td><td>AABCM6736F</td><td>AAACG1377P</td></tr><tr><td>No. of the S</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>No. of fully p</td><td>196586</td><td>800</td><td>16556</td><td>50652</td><td>234755</td><td>148410</td><td>50000</td></tr><tr><td>No. Of Partl</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>No. Of share</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total nos. sh</td><td>196586</td><td>800</td><td>16556</td><td>50652</td><td>234755</td><td>148410</td><td>50000</td></tr><tr><td>Shareholdin</td><td>3.41</td><td>0.01</td><td>0.29</td><td>0.88</td><td>4.07</td><td>2.57</td><td>0.87</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

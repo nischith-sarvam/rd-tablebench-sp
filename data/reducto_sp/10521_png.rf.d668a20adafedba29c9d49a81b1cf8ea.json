@@ -1,0 +1,36 @@
+{
+  "job_id": "20561697-3bf6-4250-9eac-2a1b10d8d38e",
+  "duration": 203.96238136291504,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/3e2a96f6-8017-4f64-aec0-f1176f7c3656.pdf?AWSAccessKeyId=ASIA2UOK6OVBJONHVDM6&Signature=UAbbXStUI1PWY%2BRJTYrBIkr%2FE0o%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGRVlKL6OZIpqXdW3M8dMR%2BUMZKIVO79wiGBRFPkncRyAiEAiFBLhGmt5Axy1fgaMy7lF3lBG5PQgOt8kBpsdefAa0gqgwUIKhAAGgw3MzExMDY5MzIwMzQiDDeVY%2Fx3ynIOrOj4tyrgBEaAtFTL1opOcc3fjXAJnk3CkEufa7dTMI4Rgty5TmcVp3TQqshWKv1Si3sIVPIXo0QLWFdH%2Bqz8IVoJ%2BJkbReMZAIHNa%2B7kPgfT8erWMXL4rSN2OekvDp%2F1RP%2B1oR2F4U0CyWfUXn7iR9fsOaWMOG3ajrgdZDHDBWZx%2BmfyIJNHGo2PGg9QI%2BNpAa8M7IrTlodsEGKquK%2BZHxrTSzdtLZ%2Fx8vVIWgZTVAifHl6RQxrxJ7XMSEQFgKO8aHBv3Ronkn0gsMf2dqXTY4X%2FX4kXKWKQh3c82942qZ5m%2BFOstIz1O7O9VpNTsaD%2BaPOlY5FnzHgBBwMLQKCiC%2FOC6tOgRQqrSRBANvRxK%2BAI5RTUfbQGAoSuAwXc%2FFPI9w8WnfvhKYrgdGdysykps5A0u%2FkVUYQtQ5JitKCwucJDzIScM%2Bp2H3LkX2BX7diXBFadnQ0phhH7VQNtEDArDa5Qn5rgMdFlfS3T0jDZQs%2BJyLAPHTt%2BO5QZKsLpiSawi2WqYFFETBeAW%2BP6pRQDd%2BVO3j08aynzmHvrffFNLrt0PJUxX1R0sL%2BGCUcCKydUkCX8QYpQ88LWNoukbVpl1O0j7%2BHaDkcD9S%2FcPABhasKlmnxRZnHv975APRfOW1w6WEo5zW0eGVZ2PBKdAKhCpRTLG%2B0gjPB41%2Fn%2BQEgNC1uqVtUbkPVPG9wBTQqOHBt2GSodbyP1CPLJDi9StZznwMbBGVp5EQH%2BL5dlL%2BjvO5SWjJschTCRfBspJqtn%2FGumFrGcbZj0Y6eioxlPkDjbU5dtcq9sRFnSzwQAEjRgqcyc7hvONWsGMI3zjr8GOpoBTQrQ8vo752Z4HsKOfevkbLWKHbKXgAecpJtojWYjnVyI383NjrrBXJ4NlVCltSF9MjMG8jyminCHmNd02ZkgmgiurOuQ2lXboBNVf1MAAlDxjpiKlZ5OCMEb0MirTtDYOkkNo9uY35ECezbwO9QI2kIjb4yGvjCmwPXeN3QbOYYGIH3XV2qdh9IpiqbBO%2BaRvTGALgokWzo5BQ%3D%3D&Expires=1742981041",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"5\">GAS KOMBISYSTEM MODELS</th><th></th></tr><tr><td>KM 91 R</td><td>28.4</td><td>0.95</td><td>4.4/9.7</td><td>$459.95</td><td>$429.95</td></tr><tr><td>KM 94 R</td><td>24.1</td><td>0.90</td><td>4.0/8.8</td><td>$459.95</td><td>$429.95</td></tr><tr><td>KM 111 R</td><td>31.4</td><td>1.05</td><td>4.4/9.7</td><td>$519.95</td><td>$489.95</td></tr><tr><td>KM 131 R</td><td>36.3</td><td>1.40</td><td>4.4/9.7</td><td>$559.95</td><td>$529.95</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"5\">GAS KOMBISYSTEM MODELS</th><th></th></tr><tr><td>KM 91 R</td><td>28.4</td><td>0.95</td><td>4.4/9.7</td><td>$459.95</td><td>$429.95</td></tr><tr><td>KM 94 R</td><td>24.1</td><td>0.90</td><td>4.0/8.8</td><td>$459.95</td><td>$429.95</td></tr><tr><td>KM 111 R</td><td>31.4</td><td>1.05</td><td>4.4/9.7</td><td>$519.95</td><td>$489.95</td></tr><tr><td>KM 131 R</td><td>36.3</td><td>1.40</td><td>4.4/9.7</td><td>$559.95</td><td>$529.95</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9017632241813602,
+              "height": 0.12767220902612827,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"5\">GAS KOMBISYSTEM MODELS</th><th></th></tr><tr><td>KM 91 R</td><td>28.4</td><td>0.95</td><td>4.4/9.7</td><td>$459.95</td><td>$429.95</td></tr><tr><td>KM 94 R</td><td>24.1</td><td>0.90</td><td>4.0/8.8</td><td>$459.95</td><td>$429.95</td></tr><tr><td>KM 111 R</td><td>31.4</td><td>1.05</td><td>4.4/9.7</td><td>$519.95</td><td>$489.95</td></tr><tr><td>KM 131 R</td><td>36.3</td><td>1.40</td><td>4.4/9.7</td><td>$559.95</td><td>$529.95</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

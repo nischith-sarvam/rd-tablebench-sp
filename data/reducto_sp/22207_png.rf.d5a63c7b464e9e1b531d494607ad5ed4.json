@@ -1,0 +1,36 @@
+{
+  "job_id": "f0113bed-f7a0-4c0f-bd4a-fc12177ef65b",
+  "duration": 47.31939482688904,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/7a7001fe-2326-4cc2-a4c8-1f6cfab42392.pdf?AWSAccessKeyId=ASIA2UOK6OVBJYNOHLW6&Signature=TNgw%2FNC6PJy6qiIdhIRX7S4xyJw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDOjKNg0kSOZ%2BCFeNIcchWD6Is%2FAKo5x8GU247mlObseAiAyd16hL5oBbnNMfoGlnS3qFpWFyvnhrjNgm9omFPv4gCqDBQgpEAAaDDczMTEwNjkzMjAzNCIMzNvnJedmtF%2BUK4UaKuAEb9GBeyHvYmrOuJUyP%2FSRZz1ia9%2FirvE%2BsXbHXIDuUONsPXn%2Fbxmwdwjnf61wv%2BhSPF6XFnV%2BB0XsT88H4ALB3XA50eUbNrHMJnY9ItS2is%2Blll76hQvA%2B6%2BWO1zfZ0B1qbEsOy8wWJ04bKITQCYEVcwrivoma93c2tiMHujvnazaoJrHgpSZzCQL8bVDowtpQQkciomuwiqfYzncsBxLp7JVgNpYM0pGnvx8J9FsWtRCL%2FZFYyiZWqo4%2B%2BDrIuzKjugwMutG2HnCJPNK5FUlf1JPZuGPdoe37opw1j0icTalnOjhiNsMsOpWCo26My4IO8XEvqGoxKPwC4uTe034sCvdh%2FkiXxGBFo9jzwrSjUOqllVCLhDY7CCsnDdDuiyb6b6vdeE8lehdxYb214Wmn%2BU%2FPoEEeG9OdYQCiLUMAMHiFkktm9c%2B1TfXsiuKt5quIxuvLYlgkIELSInyrpOmGojnZeKPeQU6WPbUgDrMFAmHGUxxT1brOCODVyUR8U%2BRzle7W3gbNY7xYduU%2B6kBPDnkR1ZAoJ5wl92o%2BOf52VsDMQcJPEOoJYvis5Bg8PSf63jsqr92FSXlHjbbaTzPft0nSkPxyxzUebnxSaw4LPVuCV14dCbhJ9h0b5K84DhQlpSvKlUusUlubmw7I8XPsjKKcsRy9HYRR5YVqx0NotD4zaq9%2FHJVwH1nTGOvunAsqp4XOKH48%2FAMZQtiPj3UdhcSmbpnr%2FVsD1aDFrPf%2Bfd%2F7qxoMT3GsOQ7v7I%2BkXj685%2FUoqprur7EZ8tMERKkl10eJHZzb8%2B73Hu%2Bs%2FYvEqkwleiOvwY6mwFZavEMYpTqZsRFHijdNQIsHCRf1Yyqq0xB3J7DrvUVdRYhwUWoGnrEC%2FUByZ7x1zZPVVr1of7bJoAHsw6r2AjqIOrB2%2BHDkUwVY93Vs%2FAsWj8HhOwjKYHs6D1ev9BZdplRfzbOoc1SLO8Dytmd6WY6HE0jF2pGqU2F8UpigngBUh%2ByWlwRDZaCUgOnZaCPedp7cPF1eiSdi21pCw%3D%3D&Expires=1742980862",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th></th><th>2020</th><th>2019</th></tr><tr><td></td><td></td><td>GHC</td><td>GHC</td></tr><tr><td>Impairment Provision at Janu</td><td></td><td>3,122,087</td><td>(250,209)</td></tr><tr><td>Impairment Provision at Dece</td><td>9a</td><td>(2,855,310)</td><td>(3,122,087)</td></tr><tr><td>Bad Debt Recovered</td><td></td><td>(264,277)</td><td>-</td></tr><tr><td>Impairment Charge</td><td></td><td>2,500</td><td>(2,871,878)</td></tr></table>",
+        "embed": "<table><tr><th></th><th></th><th>2020</th><th>2019</th></tr><tr><td></td><td></td><td>GHC</td><td>GHC</td></tr><tr><td>Impairment Provision at Janu</td><td></td><td>3,122,087</td><td>(250,209)</td></tr><tr><td>Impairment Provision at Dece</td><td>9a</td><td>(2,855,310)</td><td>(3,122,087)</td></tr><tr><td>Bad Debt Recovered</td><td></td><td>(264,277)</td><td>-</td></tr><tr><td>Impairment Charge</td><td></td><td>2,500</td><td>(2,871,878)</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9034424853064652,
+              "height": 0.15380047505938244,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th></th><th>2020</th><th>2019</th></tr><tr><td></td><td></td><td>GHC</td><td>GHC</td></tr><tr><td>Impairment Provision at Janu</td><td></td><td>3,122,087</td><td>(250,209)</td></tr><tr><td>Impairment Provision at Dece</td><td>9a</td><td>(2,855,310)</td><td>(3,122,087)</td></tr><tr><td>Bad Debt Recovered</td><td></td><td>(264,277)</td><td>-</td></tr><tr><td>Impairment Charge</td><td></td><td>2,500</td><td>(2,871,878)</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

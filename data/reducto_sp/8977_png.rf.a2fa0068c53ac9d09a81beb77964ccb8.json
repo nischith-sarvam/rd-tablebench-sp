@@ -1,0 +1,36 @@
+{
+  "job_id": "cb4893fb-3a19-4d88-b833-c33dd494847c",
+  "duration": 45.97819495201111,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/217e1765-b6b5-4290-b994-86007265d47d.pdf?AWSAccessKeyId=ASIA2UOK6OVBGTMZJF25&Signature=hYiJI%2BWCtOzP%2BbIj1U4BAZMbCS4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQClg4xaOcsKWK0L7YGpoEDjCKGnVg2891PhLDqvZxU88gIgR7rSRO76kPB9navD%2BPquiWZA51lC8k5GmCSABlZz5sUqgwUIKRAAGgw3MzExMDY5MzIwMzQiDGnNJMkwqjX2WtOH9CrgBAk3CG1r0ps0dm8Lb3nJtzvvV3dbEYFfpDXTWKCyhV0%2FNYfLZzHRcR5YsOHe2wnKEWt39MrcEIvGSmx6gvclwZEbBVngXl7yJ%2FAkn9OOZ7A42ZJTGKMY1kno%2Fu8t9%2Fo44F5Mdqa43qc5MKaoIC8xSf4oYHKB7gPoGV0FlO2p%2B4BCecYcu8Pgvh5WFSPmzAYOHKov%2BVarEybKDLo06o%2BtRhD9DEJEKrQ%2FK7Cw3%2BYZ8t%2FKlZ1txOFvhH5hM4usHkKzRAYYm0njEvXuTr6e1hRxCowZ3jgPoT%2FVl2zhGHI4exO%2B21oPbpq0W5GwpGa8HWlLJF2ngnOPr2UNayPSHkyjyItvUjtZmtTWQ2dEL4B4fokiYKDYZAxOET024%2FSHWdQK6wTWLw313Tdt6sI8BWW0mj%2BJ95L%2BadDk5aVzN3EsbDj7zGtxXUhEzFft2oXeJuMzd9MI9woJH1ZnGkZD%2BDL7HX%2F1omPCTDpfuCX6iFHNVcGJJhaHs9utHrRta4s9svFq123RC3pB3xp1wABtvL7bwleAAF3OwD4HYMxvnneQxOGN%2FQv6IRMVVkK3%2FXrzJ4y4FrCBbJswjwZSkmIwvtIY%2BDBV%2BLGlWeIBLIFwjD6sWis%2B4Lg5jjAk54JEWCaXwvL%2BmJcC1cfn44ooa9F5Mitb0p2xosdhAq3M1Ag1wOghDzY2GCM38qnVWCavK%2F0T7aSs7kx799dzAUp71tgKGT2c7JVS6cG%2F2NJeF28pp8Q9FNwYI94%2FJWE53O0crLvYB4WY4VWHCqsu2v2Xo3VKCC9lvZKz%2BT6ImrBbE%2F7H6UtF%2FPccMMrojr8GOpoBhcOAVwq6BKAwiJQatQ1KTH9dML4ieFbCbQDo6YHEahOSWgCSkJIV9x9p6UGUxeCOZEyFMOCzVbcxuMF8Wgbl3zJyqilwjvXpjx11j4pYi1iE%2B0pAT0%2BBmw8c9uuBwj2AS1ebs4xWDo3ZWrMdzLE0JH5COOJaoIAgufvojhU%2BIRctYiH%2BRWZmxZ0lMI%2BecUf5i9v4CrcsSOwCmg%3D%3D&Expires=1742980866",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>\u7248\u672c</th><th>\u65e5\u671f</th><th>\u63cf\u8ff0</th></tr><tr><td>V1.0</td><td>2013\u5e741\u670815\u65e5</td><td>\u521d\u7248</td></tr><tr><td>V1.1</td><td>2013\u5e741\u670831\u65e5</td><td>\u5de5\u4f5c\u7535\u538b\u6539\u4e3a:3.5V~13.0V -</td></tr><tr><td>V1.2</td><td>2013\u5e743\u670812\u65e5</td><td>\u4fee\u6539\u5178\u578b\u5e94\u7528\u7535\u8def</td></tr></table>",
+        "embed": "<table><tr><th>\u7248\u672c</th><th>\u65e5\u671f</th><th>\u63cf\u8ff0</th></tr><tr><td>V1.0</td><td>2013\u5e741\u670815\u65e5</td><td>\u521d\u7248</td></tr><tr><td>V1.1</td><td>2013\u5e741\u670831\u65e5</td><td>\u5de5\u4f5c\u7535\u538b\u6539\u4e3a:3.5V~13.0V -</td></tr><tr><td>V1.2</td><td>2013\u5e743\u670812\u65e5</td><td>\u4fee\u6539\u5178\u578b\u5e94\u7528\u7535\u8def</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04617968094038623,
+              "top": 0.033847980997624705,
+              "width": 0.9051217464315701,
+              "height": 0.10629453681710213,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>\u7248\u672c</th><th>\u65e5\u671f</th><th>\u63cf\u8ff0</th></tr><tr><td>V1.0</td><td>2013\u5e741\u670815\u65e5</td><td>\u521d\u7248</td></tr><tr><td>V1.1</td><td>2013\u5e741\u670831\u65e5</td><td>\u5de5\u4f5c\u7535\u538b\u6539\u4e3a:3.5V~13.0V -</td></tr><tr><td>V1.2</td><td>2013\u5e743\u670812\u65e5</td><td>\u4fee\u6539\u5178\u578b\u5e94\u7528\u7535\u8def</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "job_id": "bf50cf8c-07e4-40d2-a385-2ad2c945987c",
+  "duration": 192.75461769104004,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/d7a950b6-bd14-4e22-9034-015d8ed80b3a.pdf?AWSAccessKeyId=ASIA2UOK6OVBPQ2O2IKV&Signature=wEQZHEgvZvNUNGD2la3tCc0JJA8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCFWu2psTxRA9fEyvzYMllXfaqYeV7g2OdiyCG8cbT7xgIhAMqbzhtL0WCsIhw445qcKPcBcjOhtd7Xzu%2Fz%2B6GM3ZBTKoMFCCoQABoMNzMxMTA2OTMyMDM0IgzMsnUdqXiHiEw3kXUq4AR79iMt564xt8YLO0Bfs1G1GhBkjwYu9O6ZWgZdsplYPX33w5akIVckG1dxUhNnOkGMwcjotBAW7MSO%2FbzsBI1cFQsLUnVKmRDGM7wbJmffscKhY2UYx92%2BqVHei%2BwPQ0aqJgpUL3pOqCuMVJ7%2FQUYCFfBqHu%2BOciU9oWIu%2Fbj7uM3YE1Ltj0X8%2Fz7boVHdscZmOOE2Xr3BK2bzUGOw2GoCMK%2BAf3uK1XSv%2F7W7nQDYadF4eDCDm4TlRdEoiTiS9vT3RcpKUVR8%2BzHiamG%2B6HBYgUFAAdIfjIVHJNmsj6qLv0RBZNVmG5VZcuqKsX5yW%2FpdxlbiHcCHvc0Rlaoiv%2B4GtZrHTxX89DLnSCSqmH6X7vMHwJVe8an1w4cuw2lbZg0OJb1RhBYhsG8FL5%2BHhehQSVRi9C%2BlnOu5wPENrEAZr5ickThu%2BqQZBienCycKulyVecIBrz%2BZYGeviliochlXCC2WeDYFaDDN4fDZXJufLyIILT5EsSv1Ska%2Fh%2FBQSn2roQPkAABmE23vw0AZGuZjtpluVjGPnOCIZ4ort7kjnhE6bRkKch0iz25AFbPzpAIXnOIQmsQqxUdh96kQZbWjTxRxcglQU8aDRfeIvH5q0rpSamPX5ybH3XTVPxFrZwPXRX48znL7CwJuIULAmSeMwLJN0Oo2JHbS9m7wVN%2BmMvmScUXu4QsDa1GWcXpncq74dRCVhnJmovkY8BXlU3oEL7O%2BJ%2BUN7CEi%2Be7HF%2Ft0A78euzb%2FBrlLV2j9YlumgeAPi8vsb8QhywEcNo6GmDTFCDALpm5ekIj3O587kJZ0xzD08o6%2FBjqZAcNcB2oCznfXwSGG94LgRat1FwreTzlvGyQf2r9V9sm0QpokIvt83MGOvdILSB7%2Blpmc5RK2tWzR0h1QNzPrxXahALnAGgLo1RvNzHvhoNuHH%2BXqwF%2FRXlC%2BWkTDy0ljBnVrYs723jYzeoDrv1STayzbd8Nv9S5DkU9%2BX%2BXgKIGsbe00DDQxVIyP4ThPaXMPjaZhYRqbyAYfIg%3D%3D&Expires=1742981031",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Owner</th><th>Property Description</th><th>Districts</th><th>Class</th><th>Assessed Value</th></tr><tr><td>146-9500-04400 Kohl...</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$2,100 $2,100</td></tr><tr><td>146-9500-04500 Cone..</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$3,700 $3,700</td></tr><tr><td>146-9500-04700 Maco.</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$0 $0</td></tr><tr><td>146-9500-04800 Mats...</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$1,300 $1,300</td></tr><tr><td>146-9500-04900 Cram</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$3,300 $3,300</td></tr><tr><td>146-9500-05000 Moor..</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$7,500 $7,500</td></tr><tr><td>146-9500-05100 Used.</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$4,300 $4,300</td></tr><tr><td>146-9500-05200 Boeh...</td><td>E10305 Xanadu Rd U.</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$6,100 $6,100</td></tr><tr><td>146-9500-05300 Youn.</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$2,300 $2,300</td></tr><tr><td>146-9500-05400 Kohl...</td><td>E10305 Xanadu Rd U.</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$5,900 $5,900</td></tr><tr><td>146-9500-05500 Clem.</td><td>E10305 Xanadu Rd U</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$3,200 $3,200</td></tr></table>",
+        "embed": "<table><tr><th>Owner</th><th>Property Description</th><th>Districts</th><th>Class</th><th>Assessed Value</th></tr><tr><td>146-9500-04400 Kohl...</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$2,100 $2,100</td></tr><tr><td>146-9500-04500 Cone..</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$3,700 $3,700</td></tr><tr><td>146-9500-04700 Maco.</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$0 $0</td></tr><tr><td>146-9500-04800 Mats...</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$1,300 $1,300</td></tr><tr><td>146-9500-04900 Cram</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$3,300 $3,300</td></tr><tr><td>146-9500-05000 Moor..</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$7,500 $7,500</td></tr><tr><td>146-9500-05100 Used.</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$4,300 $4,300</td></tr><tr><td>146-9500-05200 Boeh...</td><td>E10305 Xanadu Rd U.</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$6,100 $6,100</td></tr><tr><td>146-9500-05300 Youn.</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$2,300 $2,300</td></tr><tr><td>146-9500-05400 Kohl...</td><td>E10305 Xanadu Rd U.</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$5,900 $5,900</td></tr><tr><td>146-9500-05500 Clem.</td><td>E10305 Xanadu Rd U</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$3,200 $3,200</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9042821158690176,
+              "height": 0.30463182897862234,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Owner</th><th>Property Description</th><th>Districts</th><th>Class</th><th>Assessed Value</th></tr><tr><td>146-9500-04400 Kohl...</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$2,100 $2,100</td></tr><tr><td>146-9500-04500 Cone..</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$3,700 $3,700</td></tr><tr><td>146-9500-04700 Maco.</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$0 $0</td></tr><tr><td>146-9500-04800 Mats...</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$1,300 $1,300</td></tr><tr><td>146-9500-04900 Cram</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$3,300 $3,300</td></tr><tr><td>146-9500-05000 Moor..</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$7,500 $7,500</td></tr><tr><td>146-9500-05100 Used.</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$4,300 $4,300</td></tr><tr><td>146-9500-05200 Boeh...</td><td>E10305 Xanadu Rd U.</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$6,100 $6,100</td></tr><tr><td>146-9500-05300 Youn.</td><td>E10305 Xanadu Rd U...</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$2,300 $2,300</td></tr><tr><td>146-9500-05400 Kohl...</td><td>E10305 Xanadu Rd U.</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$5,900 $5,900</td></tr><tr><td>146-9500-05500 Clem.</td><td>E10305 Xanadu Rd U</td><td>Mirror Lake Mgmt Dist</td><td>4B Totals</td><td>$3,200 $3,200</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "job_id": "cf90cb95-f770-4cc9-9d06-e6ba31e56f18",
+  "duration": 49.68024754524231,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/7bae8417-f58a-49bb-94e5-4a2c74e57c22.pdf?AWSAccessKeyId=ASIA2UOK6OVBPBCC4H6Y&Signature=fXz1fEa%2FBDu44UnNkb3H7bZFYJo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIEslvXOF6%2BWd2awTsYpVquksqRbRoaIDnGaiN9kcZcAeAiEA%2BfgpknkJ4vwCDyHqVXsdzgjm8oq%2FPksvm7JMI00YrGYqgwUIKRAAGgw3MzExMDY5MzIwMzQiDBxtmy%2B%2F5KoJz0dwFyrgBNzHMca7Kir5xXTScoule9wM%2B0hNy%2FLOGG612KqGy8ULevIPTuth06IG47pkvyOpbNs6KI1uN%2FNLJZGmX6JufJWvU4JImqOrvO13JzUhsCiORdYELluwpSeSuJUYX1kpGPp1n0IWwzs5oWaBMzSrNXzORn29WnTQfPtkNRimPWyCLP%2BiGNzpb12pwVqkxc2JDg5CXbcy3nt%2Bs%2Bf2LQuFQy%2FLtbRhYRM19MErFQ14HKlrC3Fz0blHhBb0lTfPUfva%2BcciUts0zY3U9DxZ%2FCBtbl6QCfL25Y%2BmyNBtiNIm362pqKxiekj9R0U5Yqs9%2FXOzyh9Ly3NXMtakd%2BLmGI%2B3I2iU9XDEgPSf1EiZjBj4C%2BADzdfzQmSowiZI635aI%2FCAs5qDGazwT2dE7HnuLbkXomcxJL0Pn4S%2FHgnqYVqcvi1Pd7C1CT7aAIqoiDGtRMJj960JGf%2Bg1QZJu8PQo3asK3wMlgQNIOcWE7LFGSO1Yvr5mVIhRJuWzoj5Vs7y05gkjCeg%2FYbkSUgowR%2F7E4%2F01dcbd2Wpumn1oTiWnbM4q8tE%2FcbfcrAaaf%2FdlpcD5zblqvgC%2Bsh2DMiLBf%2F12k2qsQ%2BE5xiVGei6Yo3Sj0pgkvl3evoRKN7IlBuHctpPQlqhIcR%2BQNBLaNLu2O4IWQRDSYIK9kG0BBvPucJxFBDs3iK4c85vYdnTnKZyvmfNOjg0FGyP%2FaWLQBv9Pz9s1Ih%2Bd%2BxGiONA9YGhh0H9GmfwDrh7YkR2oHbPy7P5Yhp6psw6zcc6%2F0GMg%2B0dvrJEZBTZJL8UA66C9YkAAcgRTrVehXXoMOzcjr8GOpoBRXxCbiey7H20yoQdVptmRRYrs7c2xMPTc%2BgNJFQUYlH9j61HxtdJJzgHs6HDoa5lYj0TINWBFm6949e99ao%2Bkk0kVey4awP%2FLl853sT6vSiv%2FNBB6zmExVDif4OJT1BDn99wgKDYCN41Amnn4qs4kIGjYAhAM71JJSvak%2FLnxQGGwuZuGOT8K7e1HivllevD6U802jl3seOJbw%3D%3D&Expires=1742980868",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"2\">C\u00d3DIGO</th><th>DESCRIPCI\u00d3N</th></tr><tr><td>1</td><td>024434</td><td>M\u00e1quina toldo Saxun 1:11 L120 Pasante</td></tr><tr><td>2</td><td>022868</td><td>Jgo. Brazo</td></tr><tr><td>3</td><td>022867</td><td>Jgo. perfiles cofre</td></tr><tr><td>4</td><td>022866</td><td>Kit soportes cofre</td></tr><tr><td>5</td><td>022258</td><td>Casquillo punto 070 Ran Zamak 12x40</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"2\">C\u00d3DIGO</th><th>DESCRIPCI\u00d3N</th></tr><tr><td>1</td><td>024434</td><td>M\u00e1quina toldo Saxun 1:11 L120 Pasante</td></tr><tr><td>2</td><td>022868</td><td>Jgo. Brazo</td></tr><tr><td>3</td><td>022867</td><td>Jgo. perfiles cofre</td></tr><tr><td>4</td><td>022866</td><td>Kit soportes cofre</td></tr><tr><td>5</td><td>022258</td><td>Casquillo punto 070 Ran Zamak 12x40</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032660332541567694,
+              "width": 0.9042821158690176,
+              "height": 0.1543942992874109,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"2\">C\u00d3DIGO</th><th>DESCRIPCI\u00d3N</th></tr><tr><td>1</td><td>024434</td><td>M\u00e1quina toldo Saxun 1:11 L120 Pasante</td></tr><tr><td>2</td><td>022868</td><td>Jgo. Brazo</td></tr><tr><td>3</td><td>022867</td><td>Jgo. perfiles cofre</td></tr><tr><td>4</td><td>022866</td><td>Kit soportes cofre</td></tr><tr><td>5</td><td>022258</td><td>Casquillo punto 070 Ran Zamak 12x40</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

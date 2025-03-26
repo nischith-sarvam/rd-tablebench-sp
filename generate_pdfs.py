@@ -4,7 +4,7 @@ import weasyprint
 from pathlib import Path
 import glob
 
-def create_pdfs_from_tables(template_path, tables_folder, output_folder, base_font_size=12):
+def create_pdfs_from_tables(template_path, tables_folder, output_folder, base_font_size=5):
     # Create output folder if it doesn't exist
     os.makedirs(output_folder, exist_ok=True)
     
@@ -13,7 +13,9 @@ def create_pdfs_from_tables(template_path, tables_folder, output_folder, base_fo
         template_html = file.read()
     
     # Get all table HTML files
-    table_files = glob.glob(os.path.join(tables_folder, '*.html'))
+    # table_files = glob.glob(os.path.join(tables_folder, '*.html'))
+    table_files = ["/home/vansh/work/sarvam/rd-tablebench-sp/data/groundtruth_sp/18258_png.rf.ae78b6fc0601a8d9e30bb3f3be3c74df.html", 
+                   "/home/vansh/work/sarvam/rd-tablebench-sp/data/groundtruth_sp/6417_png.rf.59f6203773e4bb3b9811f05f53fcabfc.html"]
     
     for i, table_file in enumerate(table_files):
         table_filename = os.path.basename(table_file)
@@ -120,6 +122,6 @@ currPath = os.getcwd()
 template_path = os.path.join(currPath, "template.html")  # Your main HTML template
 tables_folder = os.path.join(currPath, "data/groundtruth") # Folder containing your table HTML files
 output_folder = os.path.join(currPath, "data/pdfs_sp")  # Folder where PDFs will be saved
-base_font_size = 12  # Starting font size to try
+base_font_size = 8  # Starting font size to try
 
 create_pdfs_from_tables(template_path, tables_folder, output_folder, base_font_size)

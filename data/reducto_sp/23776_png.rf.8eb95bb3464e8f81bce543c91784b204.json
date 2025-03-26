@@ -1,0 +1,36 @@
+{
+  "job_id": "f1edd63d-f8f2-44b2-a01a-b8ae0ec46fa1",
+  "duration": 118.71990370750427,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/3f5b55cb-9410-49c7-8b1c-d213d1539faa.pdf?AWSAccessKeyId=ASIA2UOK6OVBP4EI7X35&Signature=yRwH%2F68adbfWNMWkFyKurNvDWoI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIHyeevCe52PqpXW1fjVvh310hwIVcApajOl0hnn9QU%2B4AiEA9UpANKTeVxT4ouQus9lxHtQq2fQRX%2BrA63MSWLxOYmEqgwUIKRAAGgw3MzExMDY5MzIwMzQiDBvQa2prtvkU4a2qHCrgBDi%2F8n%2Bxl8uIkR%2B7rZRtyiPBkw57auox8LcAau5lWqKSh6Tf7bcMmUCqdq2BwCTbgXWFiA6nvdgSWaEMmboXj9ZGdr%2BJTEihol5D7Ak9JQMbZ7oN6ZmoE237SC8SJ%2Bf%2BRsaC9fp74nUJWBKUwCpTl5TGgkgvSEAol%2B%2BNp9WWDdF4gC9wLFM0hRQoQ5O1lk7rkzanjHWx%2BSDLnYlP7m6Y9Y0FtyTJdcRV8zZB9pxTai1lHpnAPv0787xY0TxafEMN4vUTB9biupyUr%2B0Z%2Fhy%2BZ8BpAYLlO4nDWuLQQpdjdXEE%2BFI8zhQftxFnwEwnVoG%2BujGlMTrUjIHj0SBBNgBGoRI3CIqqNGMgmmk%2FgF1JrhmevtNb2okp86IQDQzaALV8xlc4olmvRV9VeHQZZ9TEfO5he77CxQRIHnMkCSFa89xDJVWpZCqQha1%2Brn79wfL2e6YX77FBmhEkMutRWUnv%2B13bnOBjF5%2BvziBl1OjTunh6oe2gZp6ydgYupus4kdvP0yGyPaPFfIw2Wpj00VyGrj7hsjI8MRQuWJvsCaYBS65n%2BwKBNFzaPJGzEiaS6dzY2OiidLuA029YiJ8FBnQi%2Fr8JutP6WSV6qJaWYXARFpU4fG6MWNNoJdlgwUQrXor0pFbhadEq0fX9KdDzHXhyVvVruSpuRW95xkMLQ4RxyQB68Z%2FtaZGhkdX7CVakbiZuCtm7rDDG820J7rCN0aniDE0GXYFdkfa1Z29M73wHQj5GHSx9r6F7dmInlHVArRuULihlTTEnJ%2FWdvop3xMXwSl3AmHWzRyn7eIP%2F9et6WwVbML%2Fmjr8GOpoBOaOFswlG3JXmwPcf5iTWO8B%2BAUbj3klgU3NfHWmnExfhDi%2FitIKWk7NtrzqmkrYK1AWU2vtSCbqSE82KqyDnPPppnMMv2u3l8yNjVz6ntWnbhbVbk5IOfbRtkCIsBujZXOuSKza1QSaeKQjqSoFtYQPWx0frluH9r03oT5fIooDlxGFjSzNtSZG9paaj33y8cpiRsF136Up07Q%3D%3D&Expires=1742980947",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Main characteristics</th><th>Test method</th><th>Interval</th><th>Acceptance criteria</th></tr><tr><td>Electrical properties</td><td></td><td></td><td></td></tr><tr><td>Conductor resistance</td><td>IEC 60851 - 5.3</td><td>1)</td><td>0,02817 mm\u00b2/m</td></tr><tr><td>Conductivity</td><td>1/R</td><td>1)</td><td>&gt; 35,5 m/(2mm\u00b2)</td></tr><tr><td>Breakdown voltage</td><td></td><td></td><td></td></tr><tr><td>- Dafibre 180 1 AL</td><td rowspan=\"3\">IEC 60851 - 5.4</td><td rowspan=\"3\">All sizes</td><td>350 V</td></tr><tr><td>- Dafibre 180 2 AL</td><td>560 V</td></tr><tr><td>- Dafibre 180 3 AL</td><td>750 V</td></tr><tr><td>Mechanical properties</td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">Elongation</td><td rowspan=\"2\">IEC 60851-3.3</td><td>ts 3,15</td><td>\u2265 15%</td></tr><tr><td>t&gt; 3,15</td><td>\u2265 20%</td></tr><tr><td>Flexibility - Bending flatwise</td><td>IEC 60851-3.5</td><td>All sizes</td><td>10 X thickness</td></tr><tr><td>Adherence -Stretch</td><td>IEC 60851-3.5</td><td>All sizes</td><td>10 % stretch, no loss of adhe</td></tr></table>",
+        "embed": "<table><tr><th>Main characteristics</th><th>Test method</th><th>Interval</th><th>Acceptance criteria</th></tr><tr><td>Electrical properties</td><td></td><td></td><td></td></tr><tr><td>Conductor resistance</td><td>IEC 60851 - 5.3</td><td>1)</td><td>0,02817 mm\u00b2/m</td></tr><tr><td>Conductivity</td><td>1/R</td><td>1)</td><td>&gt; 35,5 m/(2mm\u00b2)</td></tr><tr><td>Breakdown voltage</td><td></td><td></td><td></td></tr><tr><td>- Dafibre 180 1 AL</td><td rowspan=\"3\">IEC 60851 - 5.4</td><td rowspan=\"3\">All sizes</td><td>350 V</td></tr><tr><td>- Dafibre 180 2 AL</td><td>560 V</td></tr><tr><td>- Dafibre 180 3 AL</td><td>750 V</td></tr><tr><td>Mechanical properties</td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">Elongation</td><td rowspan=\"2\">IEC 60851-3.3</td><td>ts 3,15</td><td>\u2265 15%</td></tr><tr><td>t&gt; 3,15</td><td>\u2265 20%</td></tr><tr><td>Flexibility - Bending flatwise</td><td>IEC 60851-3.5</td><td>All sizes</td><td>10 X thickness</td></tr><tr><td>Adherence -Stretch</td><td>IEC 60851-3.5</td><td>All sizes</td><td>10 % stretch, no loss of adhe</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9051217464315701,
+              "height": 0.32957244655581946,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Main characteristics</th><th>Test method</th><th>Interval</th><th>Acceptance criteria</th></tr><tr><td>Electrical properties</td><td></td><td></td><td></td></tr><tr><td>Conductor resistance</td><td>IEC 60851 - 5.3</td><td>1)</td><td>0,02817 mm\u00b2/m</td></tr><tr><td>Conductivity</td><td>1/R</td><td>1)</td><td>&gt; 35,5 m/(2mm\u00b2)</td></tr><tr><td>Breakdown voltage</td><td></td><td></td><td></td></tr><tr><td>- Dafibre 180 1 AL</td><td rowspan=\"3\">IEC 60851 - 5.4</td><td rowspan=\"3\">All sizes</td><td>350 V</td></tr><tr><td>- Dafibre 180 2 AL</td><td>560 V</td></tr><tr><td>- Dafibre 180 3 AL</td><td>750 V</td></tr><tr><td>Mechanical properties</td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">Elongation</td><td rowspan=\"2\">IEC 60851-3.3</td><td>ts 3,15</td><td>\u2265 15%</td></tr><tr><td>t&gt; 3,15</td><td>\u2265 20%</td></tr><tr><td>Flexibility - Bending flatwise</td><td>IEC 60851-3.5</td><td>All sizes</td><td>10 X thickness</td></tr><tr><td>Adherence -Stretch</td><td>IEC 60851-3.5</td><td>All sizes</td><td>10 % stretch, no loss of adhe</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

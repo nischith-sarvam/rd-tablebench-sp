@@ -1,0 +1,36 @@
+{
+  "job_id": "3a1c24e0-9fba-4e53-a63f-b8fb4a82adef",
+  "duration": 178.58120608329773,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/87fe481e-aa03-4b1b-b5cf-cb23b5186268.pdf?AWSAccessKeyId=ASIA2UOK6OVBCFYRWUNL&Signature=eQy6ecpDEtRB6oqf25YicvhIu1M%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDzwxk9inPUnnHSypFvyYbIukabEos8f94vyYEr%2Fsx%2BbwIhAI0Cr2vrb968NBBABkF%2BsvlfvZ3t5%2BFZn%2FQ1YroM04B0KoMFCCoQABoMNzMxMTA2OTMyMDM0IgwrI2FT2ubGhZf1%2Fksq4ASZY4G71Lgl2PM2KLx%2Fnfx4jDpMY5sIAsnZgUYYSihhvIzFroYm26idEVBTxJ3BZdu3GcoBwCO%2BK3W3QSyBWR48UGmpfO5h6eZjveyb0vWJZN%2F0XihTT%2B0A3pfyzbxqZxyXyn7MzVu485rndN6P%2FKwnb7YDwRPGSLmRgREp2r1IqsdFx5T7LOrjzvxs8RFazckY9QJNU8F5KueIK1FAkEkMcnMF%2FrEHtQPbGyJEdvAEkazEp7h7GqwRFs%2BMx8AYBJb%2BdCKI8k6PcWFJZbgVhp0YwXT1HYWLMH9MO4Nj%2FnVdpQLxNoTbV669YTtE0owO343c1rBqXY5KI01cXzbpfsuWBw8M38vapyA4Le4KDRFGUIQXktmWnys%2B3PkRLV8nSrapyc9TEOUaGnoNjQ1etwpomh73t6PcJX4WH%2B7SVSY6B6TBMb3L3kHkyOXdr27dNskNhPtfC3pIZ2q14xXY3Hib%2B%2FM6wIIsLnkroreJFeQ5oDSN%2FlnarVXBLGhV4xgUrmmJKTNSDVatUhZdc%2BS87tUdoX1Dqq5HySXdhNG94pxp81vUfTD0uNGE%2B10zY%2F7nlWD6ANRzHmbM8r%2Fy1HayMb9M738ELjXk16UcP9tFRQTZNc1xJ%2BxOXKyWYE3FuTk%2BgE%2FUSJvMiePo4oH%2F50t0yUEr5bsy2UyEbYKNYMJogk%2BWTRMWym0fh2wS9I7axhMK%2BUzSCCZ0L%2FVclAyTUQL%2Bx1cIVUn8sM6agr9ot6pm%2BDUSXTVJpoE7nTLOeUIp5h7a1AR5KJze4pyx%2BvnHrnpGuDMidx1gR6q3yf5C7LmpuTNVHjCN846%2FBjqZAdPBHkaq5hh8SDhexLuCIpNB%2FQV4KQ9icTGdu7opNMPKWPpV3ZQikTJ%2FeC%2FbkZUVs1qOtB2mBjzxpNt%2FmAEvYEfq3ynR%2F2qKCx%2B%2FvBf8KYTmdCvtKsv%2BUPoOf6RkCclnypsinfglen7ahF2dglhwgPcEcAUSBN2ZmVC1DAtdwRcSan%2BtwhKEdspfvJjmNuM3s7LYkA5osRsPXw%3D%3D&Expires=1742981023",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Naam voorstel 18005507</th><th colspan=\"3\">E-mail van adviesbureau aan bestuurders Nederlandse provincies van 31 januari 2018 ove.</th></tr><tr><td>Betreft vergadering</td><td colspan=\"3\">Provinciale Staten 2 maart 2018</td></tr><tr><td>Verzenddatum</td><td colspan=\"3\">23 februari 2018</td></tr><tr><td>Statengriffier</td><td>Peter Joosse</td><td>0118-631808</td><td>p.joosse@zeeland.nl</td></tr><tr><td>Statenadviseur</td><td>Ruth Poppe-de Viet</td><td>0118-631339</td><td>rme.poppe-de viet@zeeland.nl</td></tr><tr><td>Inhoudelijk ambtenaar</td><td>L\u00e9on Kaagman</td><td>0118-631940</td><td>Ig.kaagman@zeeland.nl</td></tr><tr><td>Verantwoordelijk bestuurder</td><td colspan=\"3\">C.M.M. Sch\u00f6nknecht-Vermeulen</td></tr></table>",
+        "embed": "<table><tr><th>Naam voorstel 18005507</th><th colspan=\"3\">E-mail van adviesbureau aan bestuurders Nederlandse provincies van 31 januari 2018 ove.</th></tr><tr><td>Betreft vergadering</td><td colspan=\"3\">Provinciale Staten 2 maart 2018</td></tr><tr><td>Verzenddatum</td><td colspan=\"3\">23 februari 2018</td></tr><tr><td>Statengriffier</td><td>Peter Joosse</td><td>0118-631808</td><td>p.joosse@zeeland.nl</td></tr><tr><td>Statenadviseur</td><td>Ruth Poppe-de Viet</td><td>0118-631339</td><td>rme.poppe-de viet@zeeland.nl</td></tr><tr><td>Inhoudelijk ambtenaar</td><td>L\u00e9on Kaagman</td><td>0118-631940</td><td>Ig.kaagman@zeeland.nl</td></tr><tr><td>Verantwoordelijk bestuurder</td><td colspan=\"3\">C.M.M. Sch\u00f6nknecht-Vermeulen</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04617968094038623,
+              "top": 0.033847980997624705,
+              "width": 0.9017632241813602,
+              "height": 0.17755344418052257,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Naam voorstel 18005507</th><th colspan=\"3\">E-mail van adviesbureau aan bestuurders Nederlandse provincies van 31 januari 2018 ove.</th></tr><tr><td>Betreft vergadering</td><td colspan=\"3\">Provinciale Staten 2 maart 2018</td></tr><tr><td>Verzenddatum</td><td colspan=\"3\">23 februari 2018</td></tr><tr><td>Statengriffier</td><td>Peter Joosse</td><td>0118-631808</td><td>p.joosse@zeeland.nl</td></tr><tr><td>Statenadviseur</td><td>Ruth Poppe-de Viet</td><td>0118-631339</td><td>rme.poppe-de viet@zeeland.nl</td></tr><tr><td>Inhoudelijk ambtenaar</td><td>L\u00e9on Kaagman</td><td>0118-631940</td><td>Ig.kaagman@zeeland.nl</td></tr><tr><td>Verantwoordelijk bestuurder</td><td colspan=\"3\">C.M.M. Sch\u00f6nknecht-Vermeulen</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

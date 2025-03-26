@@ -1,0 +1,36 @@
+{
+  "job_id": "568f4c3d-6131-464d-ad42-43cf68e70b0b",
+  "duration": 135.07847905158997,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/5b5b8c81-b5ae-43c9-86d3-694ab0e6e754.pdf?AWSAccessKeyId=ASIA2UOK6OVBENBKPPVY&Signature=qxEGldxjXZ5xLigiupx9IRA7%2Fq8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQC81TyLGPPjUMmV5KVc84wXGlgN9JkLOdb3QtHJLXGVGQIgNTKDuaVL7OgalGLe9GrmpST%2Bp%2FMDAN%2Fgjm%2FundPx4VIqgwUIKhAAGgw3MzExMDY5MzIwMzQiDKOzzW5EU62KsvVqLCrgBCi4x417YOHT1TBIjKSnkfF%2B9Tl1eSsmr29il8nU8%2BMslduVkcDYtslqWrJj75c6FMGhXCpfeDB1tJ9%2F8KsacuewW%2FuAORS65ZqVw0wDAxOrgAOr%2BYNcoMx%2B79GWhFinovB6qw0P8rd%2FTB221AG9VkgTJYio6nmSVMwd7coE6gVghUw8agO3qUkqpmMO8Hv%2BSaj00SljkuKLPXqkZyc7LHMt1BcMnBroiA8u0acWJa%2B9Bmj5TRYZ0X5rekdCDP1IzgcvbGzAivSAErZmpTv%2FT87iv1SMVcC59WlZOrPDi2iGSzFN2PPOSzJGJJnyVfB6%2Fuex8Ht%2F0wvsYLRoR9eWhaErDxGig78HNOIj6Yv1AhZLz%2Bfgl%2BgyfPZkbTH26ThFm7XkIbBVgq2ZSPOp2EVeVgPgG0teOmRw6IJ07VZw1fZqz%2Bo2vwwtAbAWsjR5TsJIv%2FDIlq36lcOCDHWlHWjuj5REP8uYFTMGDIg%2FFijr4NPUZjw7km3hQGD35DsigEkXStf1gUb2ZKsYjnBAcNrhRWINlIlUY3lrYwNtAexu9QNSYGv9zeg8bFg0jbZ3T5HmnktXKRBqkrIfETq0pcGmn55MCyj2qSuJhlQPhRE%2FCEN75RrBCwv4ewbTy4WBkUZHvkrBIYkPNNDkf6WYy2LoTiDFHGLXk4yRaQLX5uzQi0e4VIzdzqUKJHQTYq5fz%2FJMHMItMyYJv2hvKtfKBCuslCzkYaeus5mOn7GVcJnDvRbF8bK14W6UWanl2WKa1g1thNHvX4NiYmciJMSig7GeurPAuwpICIACqAs4N%2BGFVuxwML7yjr8GOpoB9PO7%2BkuF4L4CN%2FiDttY69xpQDxuLd8rjTqKHqg3BwpOIp3eSdQZtJqlEg3wsQuL%2BPkxJfG4zVJujwPilUAHVO9orfFrsXdhRD2Z2pyokvJ2fd0EtBbZRXKZH1G9b%2FVRqiHneaMxe1B0KE4LDA%2BlVfIz2cK1hS2%2F%2FIwYiL7rTMyrrqVKCWKaSIqlBN%2BsFQuuUKfLggnnBPtbobg%3D%3D&Expires=1742980989",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th></th><th>Subglacial Lake Vosto</th><th></th><th></th></tr><tr><td>Jan-Dec</td><td>S</td><td>Study the solid mineral</td><td>Russia</td><td>On-going studies</td></tr><tr><td>Jan-Dec</td><td>S</td><td>Update the inventory o...</td><td>UK</td><td>M Siegert - complete</td></tr><tr><td>Sep-Dec</td><td>S</td><td>Compile available LV d</td><td>Germany</td><td>C. Mayer</td></tr><tr><td>Jan-Dec</td><td>S</td><td>Retrieval of further SL...</td><td>Russia</td><td>Postponed until 2005- ...</td></tr><tr><td>Jan-Dec</td><td>S</td><td>Over snow radar profili</td><td>Russia</td><td>On-going Studies</td></tr></table>",
+        "embed": "<table><tr><th></th><th></th><th>Subglacial Lake Vosto</th><th></th><th></th></tr><tr><td>Jan-Dec</td><td>S</td><td>Study the solid mineral</td><td>Russia</td><td>On-going studies</td></tr><tr><td>Jan-Dec</td><td>S</td><td>Update the inventory o...</td><td>UK</td><td>M Siegert - complete</td></tr><tr><td>Sep-Dec</td><td>S</td><td>Compile available LV d</td><td>Germany</td><td>C. Mayer</td></tr><tr><td>Jan-Dec</td><td>S</td><td>Retrieval of further SL...</td><td>Russia</td><td>Postponed until 2005- ...</td></tr><tr><td>Jan-Dec</td><td>S</td><td>Over snow radar profili</td><td>Russia</td><td>On-going Studies</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.15380047505938244,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th></th><th>Subglacial Lake Vosto</th><th></th><th></th></tr><tr><td>Jan-Dec</td><td>S</td><td>Study the solid mineral</td><td>Russia</td><td>On-going studies</td></tr><tr><td>Jan-Dec</td><td>S</td><td>Update the inventory o...</td><td>UK</td><td>M Siegert - complete</td></tr><tr><td>Sep-Dec</td><td>S</td><td>Compile available LV d</td><td>Germany</td><td>C. Mayer</td></tr><tr><td>Jan-Dec</td><td>S</td><td>Retrieval of further SL...</td><td>Russia</td><td>Postponed until 2005- ...</td></tr><tr><td>Jan-Dec</td><td>S</td><td>Over snow radar profili</td><td>Russia</td><td>On-going Studies</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

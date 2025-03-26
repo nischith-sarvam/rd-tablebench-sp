@@ -1,0 +1,36 @@
+{
+  "job_id": "fa54acda-4498-468c-b545-30d62e893a1e",
+  "duration": 135.64912843704224,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/feae1ceb-279b-469c-b258-7b956e7d8996.pdf?AWSAccessKeyId=ASIA2UOK6OVBD4CQ77E2&Signature=PbXceg%2BONnmshwnct7zd8oOAY2s%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCeRiv4uCQf5dIdvh%2BJI6ERVUIyjOye0ta0cQLwlljAyAIgIgHcZANxs%2BaelDdFDIUMJoY50sXOIW%2FABVfbVT3nxoQqgwUIKhAAGgw3MzExMDY5MzIwMzQiDFRoxnYykU5DMhrprirgBOqwJCADU2Vyz5NIaYGJO%2BBsCvp%2F9bzkodnyvFgVhHm%2BFliwuLNXWxrK0bB9Zdri8I0LeBkmPd5Vj5Jk%2Fc9C4xvOhkiLe6xp7%2BkKKg6zFRpY7K6QDyKyEqs1b%2BqEfEmQlPaeg8jqxoCfyewtMjwgfG9BTAu%2FRC8o1yhNaVTo%2BVl%2FQSEl6QHnru9UhONHSEif392dqYi0LQdeelKKsBDNU09D%2FwTFzwfNOPZx4RoBXCs0VRYq3sh80qr85JPxYHHSGjIxTH6nYU5k1hbDesG9gUFlEOL8OnAjo8YewvM8vuzX2U4M7Lztxru7rPHq4DgeH2Rbq3P8QkJLxV75p%2F%2FUgI1zNYHMfLiK9%2FH7qyNIXJ1jIncUcnPXx5tmI9qhbcOl%2F5u6vmtVPIZyIAIqFY6S6827%2FIu2VMpmz40AU1PS6%2Fkz5CHxdayWxQcF3Xq1WnduNofT6XwTJ4WB4vXXSYHt0xqCU%2BEvPkyZLG05PoBMFAytrtwGRm8n0cX35h%2FC161XF57wo2LjzPYF8ZE%2FMZ6sifGjVvo8%2BPGwqmEwW392k0olI37NBMwI4F6uU9AJmfhCMyU6N8n5y81jZ0%2BS7C6IsfU6FAo8u9uaLFdwCMTGYxnkqqjY5eOPeD6uUj6bD18MFOio0ygHXX02aNCs5IuwjSSIpcarrfB8fmH4pNNLcOap504EcztsNL3NMYKowCuGivOhmrWjwb5mHIfq8ghQXHuSyLyOzSRZtKcgZYIRHTejo9ixrf9fB0C6bNKfnOcFFK%2FsvOjeueLZ1%2FSdYKEHy3bZBAQSkfKb8uhZuvE%2B02cHMMPyjr8GOpoBp0barBmndDIfPWHXAXK9DcRk%2FbFD84EMSFjkcnu83Ha5ZxyUMjjWM9j2JXfXLkqksPojNk32jj86hoAnYK8hM4%2FkBmR7qDnQ9egwDVt8gWHLKShU75WsLJgSwqJpT0WKMqhPu9R9WZGTFQoaaSrg3V1TvpLDOiCNh8vWIpC%2ByZ0EsfVbZgquzQvvz7RJ2Vlk7jDeFCdev6cRiQ%3D%3D&Expires=1742980983",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"3\">MEMBRES SUSPENDUS - SUSPENDED MEMBERS</th></tr><tr><td>N\u00b0</td><td>NOM/NAME</td><td>NBR MATCHS NO. GAMES</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+        "embed": "<table><tr><th colspan=\"3\">MEMBRES SUSPENDUS - SUSPENDED MEMBERS</th></tr><tr><td>N\u00b0</td><td>NOM/NAME</td><td>NBR MATCHS NO. GAMES</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04617968094038623,
+              "top": 0.0344418052256532,
+              "width": 0.9034424853064652,
+              "height": 0.09144893111638955,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"3\">MEMBRES SUSPENDUS - SUSPENDED MEMBERS</th></tr><tr><td>N\u00b0</td><td>NOM/NAME</td><td>NBR MATCHS NO. GAMES</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

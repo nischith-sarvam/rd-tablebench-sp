@@ -1,0 +1,36 @@
+{
+  "job_id": "b4e14dda-51b3-416d-b58d-7a7cc61baa89",
+  "duration": 67.32888531684875,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/7d46a05f-eca0-4686-8672-c944919994eb.pdf?AWSAccessKeyId=ASIA2UOK6OVBMF2RQFTH&Signature=Ax5vE9Xf5InoQhTtaf%2BmUfczmJ0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDE0G867QtRGFIzxvrnBk6qhyAtqLK5%2FW4AMbkh3zsG6gIhAIr8fZOix9YUUgqaCG4z0mj8S5aXvbwYhrRhXR1g%2BHPTKoMFCCkQABoMNzMxMTA2OTMyMDM0IgwZr8Ya0lxmMfZurj8q4AQSIy5Ml4xIPcubLrAXfv1KPg8btF%2FjzycctimGWwiDYAj3BLEMJcwyxOrszOh9%2FWX9bK40xWc0lMURzkWGtSxqIxGuBjLgmXnYCblctrUUA7U04UjuDLJajRGXk%2BYLxdgwvGPrcMvFow2xTgYLA82WzXuhUp3CSZKpfVLdrKyJnDvsapcpWQsPIqKfBe82YYVs%2BZZKFwC02zKo4Q2yU%2FA1Q2%2BiGheEoPj8ct9RvrDR39WWpiEq8RVZZQjsrTTcgetHZZLvb6znaZcGDxtWpfjiGbUSv2owbDYXlgH3LDoYvIjpSviBoVqm%2FnFjU64zs01CmLXagGe%2FW9U%2F29ugT%2BZn3%2BgFj9pyynaGpEZm7l2%2FoCtZl%2B068EH71lhUYxVZ%2BgSQHySuP3GuT37L8Y%2BE%2FGHIJbDhFcntEYWas4rVIw%2FJJmlCLP%2Bc6vlUy5jl%2FYPu9ejxtAZiYcbj3joNzz9u8Airss8WIla8S7sn82NSWvDYQzeUkYdxjYTddeaVxUhTTPy0VOnlouiL8rrxwUh3ZFymFoVJOft9veoPRl%2FNAZm1Uv808tTzB1pW%2FawWGHIRuaNLoPAzQJwemcydjmoBrvPIAzFolBXKJmgtHQe3sdWIfVUVQFEHJWBCbh5UUVZIlGYUFfxVrb%2FZmg5zyxBMdeIIJ3sbbVZIDdEsg6lS%2Flq1qLKkYLRv9ZQLyBMogKk2I3SCIrqEgvIobSzaPCOmHS3HngtbcJi5f6ozBc5f3wGB40qPJaa7XxplJtuMK%2Fh%2F4XPPUe%2Bvhvy1XuDCnJqFPByIkO6%2BuynzBN4y80hHssdkuTDW4Y6%2FBjqZAUb6v6GUDH786iuZ%2FYAJAR65RKbQXNwyEYngXH7j3OmrHCAGqFmD3TjR8nAUFG3DKWIhqjwXEo2kTZvA17yya9PYsco5kO%2BgRleqP46zE8ghwGmuu2KtrCrF6S2JeE1TTKywuu%2B59JNMNoVjnn%2FMle0mbDHGl58%2FnnZLUQacYfGCko9iSaEHh7xDz04G%2FDt0lAhvnvilFyNkAw%3D%3D&Expires=1742980878",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Marketing Benefits*</th><th>Strategic</th><th>Expanded</th><th>Integrated</th></tr><tr><td>Logo on OutSystems.com So</td><td>\u2713</td><td>\u2611</td><td></td></tr><tr><td>Forge Marketplace Access to</td><td>\u2713</td><td>\u2713</td><td>\u0f56</td></tr><tr><td>OutSystems Sales Enableme</td><td></td><td>\u2611</td><td>\u0f41</td></tr><tr><td>Marketing Collateral Use of O...</td><td>\u2611</td><td>Partner-led</td><td></td></tr><tr><td>Dedicated OutSystems Allian</td><td>\u2713</td><td></td><td></td></tr><tr><td>Yearly Business Plan &amp; Revie</td><td>\u2611</td><td></td><td></td></tr><tr><td>Joint Events Participate and ...</td><td>\u56f3</td><td>\u2611</td><td>\u2611</td></tr></table>",
+        "embed": "<table><tr><th>Marketing Benefits*</th><th>Strategic</th><th>Expanded</th><th>Integrated</th></tr><tr><td>Logo on OutSystems.com So</td><td>\u2713</td><td>\u2611</td><td></td></tr><tr><td>Forge Marketplace Access to</td><td>\u2713</td><td>\u2713</td><td>\u0f56</td></tr><tr><td>OutSystems Sales Enableme</td><td></td><td>\u2611</td><td>\u0f41</td></tr><tr><td>Marketing Collateral Use of O...</td><td>\u2611</td><td>Partner-led</td><td></td></tr><tr><td>Dedicated OutSystems Allian</td><td>\u2713</td><td></td><td></td></tr><tr><td>Yearly Business Plan &amp; Revie</td><td>\u2611</td><td></td><td></td></tr><tr><td>Joint Events Participate and ...</td><td>\u56f3</td><td>\u2611</td><td>\u2611</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9017632241813602,
+              "height": 0.20308788598574823,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Marketing Benefits*</th><th>Strategic</th><th>Expanded</th><th>Integrated</th></tr><tr><td>Logo on OutSystems.com So</td><td>\u2713</td><td>\u2611</td><td></td></tr><tr><td>Forge Marketplace Access to</td><td>\u2713</td><td>\u2713</td><td>\u0f56</td></tr><tr><td>OutSystems Sales Enableme</td><td></td><td>\u2611</td><td>\u0f41</td></tr><tr><td>Marketing Collateral Use of O...</td><td>\u2611</td><td>Partner-led</td><td></td></tr><tr><td>Dedicated OutSystems Allian</td><td>\u2713</td><td></td><td></td></tr><tr><td>Yearly Business Plan &amp; Revie</td><td>\u2611</td><td></td><td></td></tr><tr><td>Joint Events Participate and ...</td><td>\u56f3</td><td>\u2611</td><td>\u2611</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

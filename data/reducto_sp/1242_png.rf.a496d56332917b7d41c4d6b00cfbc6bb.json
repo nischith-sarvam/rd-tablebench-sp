@@ -1,0 +1,49 @@
+{
+  "job_id": "010857d0-2b65-48d9-b6f5-5f63ec421a9d",
+  "duration": 192.10295486450195,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/42fea61b-29c8-4671-88d7-3cc54f94e7ce.pdf?AWSAccessKeyId=ASIA2UOK6OVBAPECDC4L&Signature=BlEfY4aclQkkkfVbYbLImXk74pY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCXj4sordMFyI1BRM%2Fuyai4zV%2FgMzuQsQIq7qm%2FHKyVQwIhAO%2BY6%2BzHG4pV00wLdusT2Jo5z1oUTaxhAFTLeabDG0thKoMFCCkQABoMNzMxMTA2OTMyMDM0IgwnCbdiSV0BhuUxMqIq4AQihN9AKT1sNNAF3xuSH2cawomTADperNv51QkN%2Fs2%2BW3ima%2B6tILINtPM1wYlZO4EMjb5ND%2FQd%2BEUX0PpBZjJYNdTAROZqPxrwS0p6hB4rxevBcZiTmHathuH4ZCbeUG1tkfPPt8FlsXjNiTHpq1cGgKJcoIwafNzAtMgWmz6kOu3U3mld5SC%2Ft4vmH2WpOUK7DbsCXLroUAMNdzDpa0OvLVnw3zJ3jSrJPOgTXCCfOxTY7DdFOj2%2BrdWvV%2BtRofwPlaCSJlvHN%2Fllx5bpshMIxSR%2BkSttHOR6cvjdHU9wYt6uHno8xq19DoMpBzdZZo8odf0PSApECfMORjTPLu%2Btx%2BNN%2B4VgXlVUXm8hAjl4lfmwjsyz1jrFdAmc0g6UbF%2BKfFpXdKdqGTrp%2BWf26w2%2FDd3wapaDKqeQ7fuGmU7wXImuI2wo%2BYFLHjXXgh4GKUKBYxnG1MaxFxzCZo6PeELmKz9J8sK3B6L9hj%2BGr9Q7dWLxV6z2CITt2zCR5qEVZmLoz5tgX8wCx8rWHRLrX9trf3cwhFttPYJtxE%2Fs6SSkoHsnvKJHnh4v3yKS32ZbdEWUGuy%2FebslVvTTRNLty91tDPI35hM5fm5C2Fke3oyGPFxsH5Ems2I2HUOjtMATqsF5ZBEEpPw7H75AjEuUTK64lrZj8o3E30ir7rcNM%2FKBZswN1jZGxT1b%2BgFF2vheLhSzJMrhvBC9xF7FeM9bfwq9z%2FRrwF5XdIgep1wC6vQ45OKy6iFFxNgaGUSAWPvxNd8IHTG61phBGgFkvpLLDnDNJKjZI1UW%2FOikNKCJmLI6%2FjCC5o6%2FBjqZARoLl9GrUlQo7AEpnvJo56jjdoG%2BDzInBlLjh2yERDzNy8p3bp7eU3HqTy0El2aZr2%2Be%2Bpd%2BolNTs0yWv4YmbhK3esvWctx%2FGpTsbUca7SxdiN%2BCbGPAewu8uYH0442gtfDQAetyK28UB3ju6GUZ2nVghw%2FLsQUMLbJdhxBWLiYl9l7Bf92YBP6esbO2%2BfPgL05zBZPjHvkJ4g%3D%3D&Expires=1742981028",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th></th><th>N</th><th>Mean</th><th>SD</th><th>t</th><th>p</th></tr><tr><td rowspan=\"2\">Occupational ...</td><td>1-5 year</td><td>71</td><td>108.7324</td><td>16.82342</td><td rowspan=\"2\">-1.589</td><td rowspan=\"2\">.114</td></tr><tr><td>6 years and ab</td><td>76</td><td>113.0000</td><td>15.73531</td></tr></table>",
+        "embed": "<table><tr><th></th><th></th><th>N</th><th>Mean</th><th>SD</th><th>t</th><th>p</th></tr><tr><td rowspan=\"2\">Occupational ...</td><td>1-5 year</td><td>71</td><td>108.7324</td><td>16.82342</td><td rowspan=\"2\">-1.589</td><td rowspan=\"2\">.114</td></tr><tr><td>6 years and ab</td><td>76</td><td>113.0000</td><td>15.73531</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.0436607892527288,
+              "top": 0.0332541567695962,
+              "width": 0.9059613769941226,
+              "height": 0.07779097387173396,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th></th><th>N</th><th>Mean</th><th>SD</th><th>t</th><th>p</th></tr><tr><td rowspan=\"2\">Occupational ...</td><td>1-5 year</td><td>71</td><td>108.7324</td><td>16.82342</td><td rowspan=\"2\">-1.589</td><td rowspan=\"2\">.114</td></tr><tr><td>6 years and ab</td><td>76</td><td>113.0000</td><td>15.73531</td></tr></table>",
+            "image_url": null
+          },
+          {
+            "type": "Figure",
+            "bbox": {
+              "left": 0.0,
+              "top": 0.09902820904294556,
+              "width": 0.9808655041391163,
+              "height": 0.9009717909570545,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

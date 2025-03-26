@@ -1,0 +1,36 @@
+{
+  "job_id": "a9620d9e-8fc1-44ab-9dbf-6dd6aab559f5",
+  "duration": 55.575186014175415,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/e9178255-4325-43b9-bc42-03bd9c8d8ce5.pdf?AWSAccessKeyId=ASIA2UOK6OVBIFEEV3IT&Signature=YD473L7wOvYYUT6mQjeSdxsqnto%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIA13o%2B8WCTXlvp49yXa7viXZoKn%2BExHa4Qyq6HF1XZI1AiAgb0B0of41vivlDHxH3ImgHsD3A62KTc7SxtOk5H0bmiqDBQgpEAAaDDczMTEwNjkzMjAzNCIMNJ6Qchu4w0E95RwqKuAE4aqHacCbTgXXKNgJu08urgSECPw6Zvbs%2Bzw36ypz37pwls8dwLr1P1e7vTkFQ0H2OBx6HghF3HJadRk2%2FS4riw2eQf6A152HxDIBKbpaIhxV1WX%2Fz2sO7%2FDURLclilauCQ%2B9DDYU%2B5W5wnjcw0ua%2BbFVW0tbcbCPDUZcwGodvGk8UWORgBSLS8xiKd7BJ0tx4VcSeqD6Me34t8qrgkwKybFdbx7%2BGtbi20%2BjVu712zRkH0%2FQ0Q31Eml5G9NkDeKltKkRO6ylw8ByxdMOHBatTJiYzoY6cisFmvvtcNxCUT79HiTzXHo7HyAx1%2FAESSaiLan5P2yJHv59nFLx35hTmttgDKSYZARybksCV7K0wAXXZUAX05jl12GM5vMglPQFC3vm7Wc3Q0J5jofREAj12rs7hDjFWhOwgM%2Bu6creXC3PiknTuOH5y9pL6%2B5af09yhyA6SVFsQxTav%2FmkMarNdA3G%2B3e3ylhc5g81IrqdIX5WSeQeof2YvxKILmNFP6%2FwP5AWRgo7ffUL%2BOkjxER2ZZwUvVWQN%2B2hqg8qHvs2nZWTyiITxUgNzhvqyKRJfYwnI%2FyO2POxFiyj28mKYC%2FDhtMCT7e5UdyFfHwgt3m58rZhdAaVp5RSFkydcgCaH9clDgbgQZrijdGiwVOJm6PBb9814kd99OiO2GzalR%2BfhPJiPypKTrUMC0meKhm9XwSX1E7JsThD2053cZXWLGR8X%2FVuzJaxj%2B0mg1ARv4d3OXFOYlDQKKSE6pknSlBMfmuD9VGYxCyni0kyCx%2F%2BDCEZJJH7wftnR2NTuaZSy8nJaU0whuaOvwY6mwEBeYjvcw4WKVhK4vBAJ0hSkhhzkbWwzuW4IHrrEbkklHbUUWTRRwmSAnhK079slzyjIBiYb0vVMlYMIa1mdAh54A9pyUT1k%2FhtF%2BFrW%2Be5eolERAkabhTZxr4%2BbDvkIRkOEHXb%2BjSxxlsV4qRFopp59KanF9%2BnDFNa9d2VVmA6iPvn4v4nupmngbEy2x5WrndxdkDM8CvdmuCPUQ%3D%3D&Expires=1742980877",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>1.</th><th>CROTTOGINI</th><th>Mario</th><th>PRESENTE;</th></tr><tr><td>2.</td><td>CRUPI</td><td>Antonino</td><td>PRESENTE;</td></tr><tr><td>3.</td><td>CULICI</td><td>Giovanni</td><td>PRESENTE;</td></tr><tr><td>4.</td><td>DE LUCA</td><td>Francesco</td><td>PRESENTE;</td></tr><tr><td>5.</td><td>GULLETTA</td><td>Giuseppe</td><td>PRESENTE;</td></tr><tr><td>6.</td><td>MANGANARO</td><td>Alfredo</td><td>PRESENTE;</td></tr><tr><td>7.</td><td>MERLINO</td><td>Andrea</td><td>PRESENTE;</td></tr><tr><td>8.</td><td>PIETROBURGO</td><td>Maurizio</td><td>PRESENTE;</td></tr><tr><td>9.</td><td>SPURIA</td><td>Antonino</td><td>PRESENTE.</td></tr></table>",
+        "embed": "<table><tr><th>1.</th><th>CROTTOGINI</th><th>Mario</th><th>PRESENTE;</th></tr><tr><td>2.</td><td>CRUPI</td><td>Antonino</td><td>PRESENTE;</td></tr><tr><td>3.</td><td>CULICI</td><td>Giovanni</td><td>PRESENTE;</td></tr><tr><td>4.</td><td>DE LUCA</td><td>Francesco</td><td>PRESENTE;</td></tr><tr><td>5.</td><td>GULLETTA</td><td>Giuseppe</td><td>PRESENTE;</td></tr><tr><td>6.</td><td>MANGANARO</td><td>Alfredo</td><td>PRESENTE;</td></tr><tr><td>7.</td><td>MERLINO</td><td>Andrea</td><td>PRESENTE;</td></tr><tr><td>8.</td><td>PIETROBURGO</td><td>Maurizio</td><td>PRESENTE;</td></tr><tr><td>9.</td><td>SPURIA</td><td>Antonino</td><td>PRESENTE.</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9059613769941226,
+              "height": 0.22980997624703087,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>1.</th><th>CROTTOGINI</th><th>Mario</th><th>PRESENTE;</th></tr><tr><td>2.</td><td>CRUPI</td><td>Antonino</td><td>PRESENTE;</td></tr><tr><td>3.</td><td>CULICI</td><td>Giovanni</td><td>PRESENTE;</td></tr><tr><td>4.</td><td>DE LUCA</td><td>Francesco</td><td>PRESENTE;</td></tr><tr><td>5.</td><td>GULLETTA</td><td>Giuseppe</td><td>PRESENTE;</td></tr><tr><td>6.</td><td>MANGANARO</td><td>Alfredo</td><td>PRESENTE;</td></tr><tr><td>7.</td><td>MERLINO</td><td>Andrea</td><td>PRESENTE;</td></tr><tr><td>8.</td><td>PIETROBURGO</td><td>Maurizio</td><td>PRESENTE;</td></tr><tr><td>9.</td><td>SPURIA</td><td>Antonino</td><td>PRESENTE.</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

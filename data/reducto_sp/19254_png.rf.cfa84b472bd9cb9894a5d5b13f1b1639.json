@@ -1,0 +1,36 @@
+{
+  "job_id": "ab19020d-9945-4581-848f-674176ff2e7c",
+  "duration": 133.1256468296051,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/81f7f12a-854a-4e1a-a26d-8f35cd918850.pdf?AWSAccessKeyId=ASIA2UOK6OVBOA7E5AEG&Signature=hnAFINr8e%2Fyc%2FYRHm3iuAG3MXuo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIBUE0izjqjMekc%2B9Uyfud7wLxWQ5yFqCMwxNVO3zk5RjAiEAiBetAVO2CJaVFzcTAP0Ap0c6kA2S4phMFQ5w71K0LPQqgwUIKRAAGgw3MzExMDY5MzIwMzQiDKlu4z%2Bl7v4Eyut%2BGSrgBEdF%2FKcXBMjws7fcLeuVZ5LvKuvuGpUSL4FriEyI2PXWf4JrmZb%2BBi1fFTB6wfJjTxX1HXwvk4Mxd%2FtHXbmDAUgKYGUf1resCNuTWPb84y0d0vWe9zETKc8pTYC5x9fdvD0wS9zYzp%2FqQ%2FM3zZXuSdh96EZhfpneEm2G2nLDPL5CXJoMmJ4FhgnmoH2U%2FokIkzDTbs5vdobJU4RIBRphHt8Yt1hLipNo%2Fshsn3cJywwRokm33QeyuEbD9nemeKyNBgTcnLM0LYF5TzVnEOiz5KFvK3xxunImk3nPCJsf%2Fr%2BUIo9olMGmnrGycI0sX5NesEpEYiCdP8GgUHHkx2M2T8VnNkUYnY1xirVYa%2BQqqXRZ6ahuANgUliOlY2jUN8HsF9NiUTM43uu7D8%2FOqi%2BEHjzT1TqTcxhC%2BYnDopckaIk8KDEKxFyiIlUhiIH7Hi9H4wjtFSReeMoIThlua2tsp0aceHoqbmsW5pPNr3zBWRACNmc40CEZLpk9a0o6lrIN5r6AHjELs0O7fX73Bqnx0g%2BPws15AxZyusqdMn7Q3NG8ulZkRRKxq4pgoQWwCtOsXhCw80FEC2ZXXPuOKTWJM4gMhFan1pIPWnjSA5FbUGcFeZtJp48EWP0SZO%2BeKdfT%2B7W3bGTiHi1sSwyjhBHYW7mHG9gW%2F%2B5FYAucH%2FGWTojW65csrm9%2BmiCz%2FyiqkicCAbmH4jF68fznDM7WmAkx4Hgm4GARAT2dYZHuInvi9h43TzcPo4GjO7bk5KvPwj1Zt3RSpbFiTSmEW1hJtmvYHWnj3XpNN2zcoEfrDp6KekyWMM3hjr8GOpoBLT8rxNo22%2FtDLOcECmA1KMR21aDUFBIN5zlcWP43RyEZtveLROu3Asdt9dxcIn%2FIC0gVe%2BRL85LrA%2B0X7fA5i0NvKAKpHaA%2BYcvb8UGDapiDbxkmE1yAUnhWFUxe2IvmgfBPyhGG19BS8KwJgtphBUySomntk8bDHLgYMTiPvLwWj1YdWccKCsg78QMrx890iJ6uREmtdNlivA%3D%3D&Expires=1742980956",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>17</th><th>25000234100020</th><th>NULIDAD Y RES..</th><th>MEDIA</th><th>$3.235.810.000</th><th>6/11/2018: AL DE</th></tr><tr><td></td><td rowspan=\"6\">11001334305820</td><td rowspan=\"6\">ACCION CONTR</td><td rowspan=\"6\">MEDIA</td><td rowspan=\"6\">$264.199.759</td><td>28/07/2020: APO</td></tr><tr><td></td><td>23/07/2020: SE C</td></tr><tr><td>18</td><td>03/07/2020: AUT...</td></tr><tr><td></td><td>24/05/2019: SE L...</td></tr><tr><td></td><td>26/02/2020: FIJA</td></tr><tr><td></td><td>ACUERDOS PCS</td></tr><tr><td>19</td><td>11001333404520...</td><td>NULIDAD Y REST...</td><td>BAJA</td><td>$198.000.000</td><td>30/06/2020:FALL...</td></tr><tr><td>20</td><td>11001333400320...</td><td>NULIDAD Y REST.</td><td>BAJA</td><td>$123.200.000</td><td>11/12/2019: AL D</td></tr><tr><td>21</td><td>11001333400320...</td><td>NULIDAD Y REST.</td><td>REMOTA</td><td>$56.000.000</td><td>9/10/2019: AL DE</td></tr><tr><td>22</td><td>11001333400520...</td><td>NULIDAD Y REST...</td><td>MEDIA</td><td>$ 94.320.000</td><td>16/07/2018: AL D</td></tr><tr><td>23</td><td>11001310501220..</td><td>ORDINARIO LAB.</td><td>BAJA</td><td>$100.175.535</td><td>15/1/2020: RECIB...</td></tr><tr><td>24</td><td>68001333300620...</td><td>NULIDAD Y REST...</td><td>BAJA</td><td>$76.747.000</td><td>14/06/2019: AL D</td></tr><tr><td>25</td><td>68001333301020...</td><td>NULIDAD Y REST.</td><td>BAJA</td><td>$73.920.000</td><td>23/07/2020 TRIB</td></tr></table>",
+        "embed": "<table><tr><th>17</th><th>25000234100020</th><th>NULIDAD Y RES..</th><th>MEDIA</th><th>$3.235.810.000</th><th>6/11/2018: AL DE</th></tr><tr><td></td><td rowspan=\"6\">11001334305820</td><td rowspan=\"6\">ACCION CONTR</td><td rowspan=\"6\">MEDIA</td><td rowspan=\"6\">$264.199.759</td><td>28/07/2020: APO</td></tr><tr><td></td><td>23/07/2020: SE C</td></tr><tr><td>18</td><td>03/07/2020: AUT...</td></tr><tr><td></td><td>24/05/2019: SE L...</td></tr><tr><td></td><td>26/02/2020: FIJA</td></tr><tr><td></td><td>ACUERDOS PCS</td></tr><tr><td>19</td><td>11001333404520...</td><td>NULIDAD Y REST...</td><td>BAJA</td><td>$198.000.000</td><td>30/06/2020:FALL...</td></tr><tr><td>20</td><td>11001333400320...</td><td>NULIDAD Y REST.</td><td>BAJA</td><td>$123.200.000</td><td>11/12/2019: AL D</td></tr><tr><td>21</td><td>11001333400320...</td><td>NULIDAD Y REST.</td><td>REMOTA</td><td>$56.000.000</td><td>9/10/2019: AL DE</td></tr><tr><td>22</td><td>11001333400520...</td><td>NULIDAD Y REST...</td><td>MEDIA</td><td>$ 94.320.000</td><td>16/07/2018: AL D</td></tr><tr><td>23</td><td>11001310501220..</td><td>ORDINARIO LAB.</td><td>BAJA</td><td>$100.175.535</td><td>15/1/2020: RECIB...</td></tr><tr><td>24</td><td>68001333300620...</td><td>NULIDAD Y REST...</td><td>BAJA</td><td>$76.747.000</td><td>14/06/2019: AL D</td></tr><tr><td>25</td><td>68001333301020...</td><td>NULIDAD Y REST.</td><td>BAJA</td><td>$73.920.000</td><td>23/07/2020 TRIB</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9034424853064652,
+              "height": 0.35510688836104515,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>17</th><th>25000234100020</th><th>NULIDAD Y RES..</th><th>MEDIA</th><th>$3.235.810.000</th><th>6/11/2018: AL DE</th></tr><tr><td></td><td rowspan=\"6\">11001334305820</td><td rowspan=\"6\">ACCION CONTR</td><td rowspan=\"6\">MEDIA</td><td rowspan=\"6\">$264.199.759</td><td>28/07/2020: APO</td></tr><tr><td></td><td>23/07/2020: SE C</td></tr><tr><td>18</td><td>03/07/2020: AUT...</td></tr><tr><td></td><td>24/05/2019: SE L...</td></tr><tr><td></td><td>26/02/2020: FIJA</td></tr><tr><td></td><td>ACUERDOS PCS</td></tr><tr><td>19</td><td>11001333404520...</td><td>NULIDAD Y REST...</td><td>BAJA</td><td>$198.000.000</td><td>30/06/2020:FALL...</td></tr><tr><td>20</td><td>11001333400320...</td><td>NULIDAD Y REST.</td><td>BAJA</td><td>$123.200.000</td><td>11/12/2019: AL D</td></tr><tr><td>21</td><td>11001333400320...</td><td>NULIDAD Y REST.</td><td>REMOTA</td><td>$56.000.000</td><td>9/10/2019: AL DE</td></tr><tr><td>22</td><td>11001333400520...</td><td>NULIDAD Y REST...</td><td>MEDIA</td><td>$ 94.320.000</td><td>16/07/2018: AL D</td></tr><tr><td>23</td><td>11001310501220..</td><td>ORDINARIO LAB.</td><td>BAJA</td><td>$100.175.535</td><td>15/1/2020: RECIB...</td></tr><tr><td>24</td><td>68001333300620...</td><td>NULIDAD Y REST...</td><td>BAJA</td><td>$76.747.000</td><td>14/06/2019: AL D</td></tr><tr><td>25</td><td>68001333301020...</td><td>NULIDAD Y REST.</td><td>BAJA</td><td>$73.920.000</td><td>23/07/2020 TRIB</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

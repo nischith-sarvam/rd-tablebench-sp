@@ -1,0 +1,36 @@
+{
+  "job_id": "4d0a8af0-c468-4e99-99ff-c13ea5e1c564",
+  "duration": 47.94479990005493,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/306fd727-e92d-4c66-b37a-6aa0695c84d1.pdf?AWSAccessKeyId=ASIA2UOK6OVBBVNK4LSZ&Signature=j8V5nBFPw2SE6XbfegG1Q3x%2FVdQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIBRPPnZP3NI6xKwOdo4OhKczfNpMbgDoOwqB9lDWL%2B3bAiEA%2FOI4MIFqqJO8bh8d5%2BjrST2XL6IfnBorSMUsQriufHkqgwUIKRAAGgw3MzExMDY5MzIwMzQiDNjaKioYNtkUKFasnyrgBGgGYiaCof3ZPcAfJughjyni9ff%2FUIhX6Pi6Hx6clKYUxWIMPXimGjQTNpMb3Bb7rbdhqyWao7IzrlYDx7stCa%2BaNLPAjD202TtakYzB5XkCyrG2U9MijCBo1jtaxiLyjvlIamFVbHaaAk3uDg177VuNe4H5h%2FCjQ2tz6oRr49oaDTuq02ElxIBQJxrc9UBS8kPKf7dH01Ux0Zole7iAAJfr4q%2FXIC20prUa42vFJlVfgIFINGkam6Io34vJkaMXMs4AskDhxjJZpuX7DdcH1q1db%2BLS2RxDzUrlZfczLpxbMnwTyflscfUIOplQriDgRDyNQbyYbjT%2FJE0Uff3QF8RahTnwihlnAoCFNBu%2B4e4SFf7Id28nAn7qCIrU3kPRXuEepwiI3tniwZR0DCuetqB6t1wfWPASLzJST5RFtc43Ur6OmVKwlUFIlnj7lgx%2BVKIaJ7Gqk4W6hUduwahSuhzihuKWBA5%2B21YL1D1U2PPpfT1HSU61HT0NkL%2FsgoNnUOAHTTPWoTgSBy3RoezuGlUod8YpXVHpYSSolq0loUZyfbZ954g6AhU4b%2BCqqTNPMv6u%2Fd8CK%2BWKpgCj%2FnLJMz779qya19iXYw4WxENa93I4Ax88sU0BEqpyD4ESwHUNxvla81%2BCF5SiYdmKU9DO8GcbKLhpOZb0comcBr%2BHm63bZIac47smOTTKbEKlk45X5MhiTUcwSAfdakmLtPCZEfD6mTBFH4oGl09FHMxK6RJ5lwcqqeaG7o6NUFuIn8BlyDSckd4CMvjSvsz5A09E8M21woraYqCm6dja2pcMCl86MKLhjr8GOpoBKRmz1OqpbBZhprnlE9Xkni8ZTi6%2FGCR9a6Tc5vXb7zmO%2BuJTRP7wOVqFSnReggdhowS5uoGBo9EwyJGRpkiMLsOJdx2604bz0MD4CD2TC9RpPR0izt6dXn9jshPOMuVglCyXqCjx4ZxnWlzwjHHsR4jjLuPuCjYqRCbJszJViX8hd4yfpMmSetSUnv3ERgOxcMm9KvnN10SZbw%3D%3D&Expires=1742980864",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Aantal geldige stempassen</th><th>A</th><th>552</th></tr><tr><td>Aantal geldige volmachtbewijzen (schrift...</td><td>B</td><td>72</td></tr><tr><td>Aantal geldige kiezerspassen (pas om te...</td><td>C</td><td>16</td></tr><tr><td>Het aantal tot de stemming toegelaten ki</td><td>D</td><td>640</td></tr></table>",
+        "embed": "<table><tr><th>Aantal geldige stempassen</th><th>A</th><th>552</th></tr><tr><td>Aantal geldige volmachtbewijzen (schrift...</td><td>B</td><td>72</td></tr><tr><td>Aantal geldige kiezerspassen (pas om te...</td><td>C</td><td>16</td></tr><tr><td>Het aantal tot de stemming toegelaten ki</td><td>D</td><td>640</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.10273159144893111,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Aantal geldige stempassen</th><th>A</th><th>552</th></tr><tr><td>Aantal geldige volmachtbewijzen (schrift...</td><td>B</td><td>72</td></tr><tr><td>Aantal geldige kiezerspassen (pas om te...</td><td>C</td><td>16</td></tr><tr><td>Het aantal tot de stemming toegelaten ki</td><td>D</td><td>640</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

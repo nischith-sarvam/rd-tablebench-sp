@@ -1,0 +1,36 @@
+{
+  "job_id": "3eb8adde-cdf6-45e5-9149-d387f263142a",
+  "duration": 47.64057207107544,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/02a4e2cd-618b-47b7-a90b-bdf29937fb30.pdf?AWSAccessKeyId=ASIA2UOK6OVBPNYIPQ4S&Signature=gQ5RKOLYwhoBtPLWafqagMges%2Bc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDq320X7paiWZEgZwujcvscH%2B1PV%2F9VhZ2%2FKxVv38KgwgIgEPuqb8K4Vz54ZPXF8v9LFpxEcCzBw5u3KkPZ2XrSZgUqgwUIKRAAGgw3MzExMDY5MzIwMzQiDK7vAT5J0d4hyV3WtirgBOBvkrsT0QW4IEzIB3NeLas0BfmnvwBEuAQ0tnYx9vgf4rmWrvuFHM5%2BMFS4ffvfeUEZQKOl5RoClwhqoBOJJak0zqRWvj7ypmYdofOIIjyz8LpQoDEVPMKxIXixV4XEHIfW7U%2FyV4pOfhxb80BLKxd7%2F0xxNWMUo48vlPmDCY3V0rpKbY6nVwkRsz97iuTqEqiDadgNpN8yuYurEXFFCUGNnn%2FIyeKOTfrT9Q8u%2Fye%2B5I8M%2BmmDzr6SRKz9NLJaJB9xww3Ld9Ac0Qi4%2BQ8fD27yQ14c8nOvGlnWlFnAXYHOyxGEme8DE7q10TNTCUcpHAGarWgY3ge3u7pjz5K7BDBiuPVy7puq8FT8OM9WPDX1DzuUoW3yoYqFkkOwGqmb%2FeaRqrN9rVWvhYVZTzhxxliL1TKyDFB%2BUeMVxUxlcLMNTosgWs7kSXTBhnBTMFX4XGLBa78%2FXf9retJ5iQRlNlB%2F5Rzm9MMliSXZYFIX6lgtBRJ5pWaLEDsZL3VAgimElOMdzX3zWcoOtMy%2FZIS%2FEv1VKWNLprkbNTDwsFihcAqaybTXNt%2Blgh8JaCuvoDy6Rtb05ZG99F%2FKjXZp3banQjeTDctHYW%2BtIjgX3SVPvj%2BaktCZWYzGMuYQrlqI8%2Fzp22FR5GbIKv2%2BzxKWdHrzN2g6GrnxaJ4Wvujik4Gdze3c0aANaRbADexCMR2yGOtwAN7QsYb1DcB9y6mTHZ8R1RN%2FN%2FAmgFFhtnJgl32OhutWDpkGaFkbjUY%2FaZdKYfelQNxeGUyhJ%2BBcqhrIPOdmtuxh7wn28wRiasHB5Lp%2FgSB9MKjujr8GOpoBw0BM2wa0MpoZWmVjBLkWw0%2B3ewKqJhRQrYRbtc4PPI5It8OWcm%2F6pIDIXLk1K3V3IXaqDGnJyAiOAJFTmZ5YOz%2B7ta8LQpXp2Hns%2Bwd74Ksi2pFAkFOAAIrm64uoD6zjmtexbacCkaUecpgk2siQZa5ODXmMFMW098HSbrsVxDNDoujlr1h%2F1iVM3MC%2FUTfcB3A71zEDpa6%2FAw%3D%3D&Expires=1742980869",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th>As coordinator</th><th>As partner</th></tr><tr><td>Chambre d'agriculture de Nouvelle-Cal\u00e9...</td><td>-</td><td>1</td></tr><tr><td>Mairie de Houailou (https://service-public...</td><td>1</td><td>-</td></tr><tr><td>ACCMP DAYU BIIK (https://www.facebo...</td><td>1</td><td>-</td></tr><tr><td>Province Nord de la Nouvelle-Cal\u00e9donie ...</td><td>1</td><td>-</td></tr><tr><td>Association H\u00f4 \u00fct (https://www.facebook...</td><td>1</td><td>-</td></tr></table>",
+        "embed": "<table><tr><th></th><th>As coordinator</th><th>As partner</th></tr><tr><td>Chambre d'agriculture de Nouvelle-Cal\u00e9...</td><td>-</td><td>1</td></tr><tr><td>Mairie de Houailou (https://service-public...</td><td>1</td><td>-</td></tr><tr><td>ACCMP DAYU BIIK (https://www.facebo...</td><td>1</td><td>-</td></tr><tr><td>Province Nord de la Nouvelle-Cal\u00e9donie ...</td><td>1</td><td>-</td></tr><tr><td>Association H\u00f4 \u00fct (https://www.facebook...</td><td>1</td><td>-</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.0436607892527288,
+              "top": 0.0332541567695962,
+              "width": 0.9051217464315701,
+              "height": 0.15320665083135393,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th>As coordinator</th><th>As partner</th></tr><tr><td>Chambre d'agriculture de Nouvelle-Cal\u00e9...</td><td>-</td><td>1</td></tr><tr><td>Mairie de Houailou (https://service-public...</td><td>1</td><td>-</td></tr><tr><td>ACCMP DAYU BIIK (https://www.facebo...</td><td>1</td><td>-</td></tr><tr><td>Province Nord de la Nouvelle-Cal\u00e9donie ...</td><td>1</td><td>-</td></tr><tr><td>Association H\u00f4 \u00fct (https://www.facebook...</td><td>1</td><td>-</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

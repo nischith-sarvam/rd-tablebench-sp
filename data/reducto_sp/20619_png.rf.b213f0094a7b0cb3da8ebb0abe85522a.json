@@ -1,0 +1,36 @@
+{
+  "job_id": "0991692f-37aa-4a09-b89f-187ab9c05d5e",
+  "duration": 138.70739102363586,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/4449154c-54b0-4eea-bb71-9e2ab9140fe2.pdf?AWSAccessKeyId=ASIA2UOK6OVBPTPSDY36&Signature=Hgooo0nM4DzmJNyUoM%2FhO042%2FfY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCfKWsRw11HP1usOiG0KGaSk52FZbqzDHU12B51fyDgrwIgVmu9nN1EK5YMIHRDN2V2HQUW0MEARVakw%2BCkcKqT7t4qgwUIKRAAGgw3MzExMDY5MzIwMzQiDP2HQrfq4Oq6cr9b1irgBK10bLE%2FE7jtUgSvd4amPIgZOJk44b87GhSiJysaV3vkhn9xE1tKrui1P2gZbpTRT1nv6DgqYEUsM0a0y9haS8189dmnqPZSDH32bycegfWUIbtsJvS4Phd3kTnTgvq7iMH2k23L6pZ4QcutWrLx0cZLe0d%2BY%2B8nSW4ENBOMr5cwyjuFVQZ2f7VIIv9ppbkXQ53LTubFJedU38AEkd75%2Fw0zUTJKXMaFdIlz4NdQAWw1ehMOMIiMaojCXhw9FtqiKp1qbO%2B%2BlfDNa5d652PswlaF%2B5yadEkQ6wtUjFwAFQCXVsEU3lqLMqMrkGFlhEi0bUQdc4kWsTVu%2BF%2FtAfDRbpV9yQBYA69PpjVY%2BJdnU5ZN5N0C9A0oXk%2FfJLkWwbFWuykHA7CRl9X2pzTsGqLSK4aA3IkXrC%2BfB0lLu9AZGu8WnHr3KBh3SbZLpcjV2lJWBxNmRjzYmzjqwN%2FGybGbgMnzIxY6D8Gyt7HB3mg88VPxmQ2AHfjdW5ikjfvLe3FRg1KXbFgYRMJYwFyERT1%2BoytVk17nuWb82RZT%2FcTmxg6nk443yj%2F8MmykFN1bonc4pBYRZFin%2FvOBgoXFSn4HCf4QhArQ7o7SC7VdVqpWCzg5RXJTqKgP2d%2Bq%2F%2BFWjX8HQLrcGim3djpOVxewI%2B%2FrXRRLOiATXCxe0DXWQpwn0rhN1c39Q0ZX7LzcmracmDR2M9tLgitXCWt7ABzcpvH0qfPDZMrR4CPBMl6G13B8k%2B%2B1z6jGfduCTHeFwuT0RYc7z96mQkEojVEbB%2F2pttmVsOdkayOIo666CnVd%2F1i8IGD%2FMJbfjr8GOpoBuoinTYykRRMlsLduV9WZB8B450M6FOM0kSdrGY2wIWmKkqXBfqJdLq75L50yrxfK04aXowWPvirYnQG4MiebR3gwF%2FaXKx32dGIVVpGjuUhu4JICIXg5%2BKAu6ai6sDKJ9Z6ntUMfuDZP4zM4%2B4D3%2F16jn0qKfpTfm0mg1DXmQ4sTCAMPOjgRO6REuSzrQPHT18WkGyUbQX1xZQ%3D%3D&Expires=1742980979",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Dimensi\u00f3n</th><th>Ancho / alto / fondo total</th><th>59.7 cm /84.7 cm /60.0 cm</th></tr><tr><td rowspan=\"4\">Conexi\u00f3n el\u00e9ctrica</td><td>Voltaje</td><td>230 V</td></tr><tr><td>Potencia total</td><td>2200 W</td></tr><tr><td>Fusible</td><td>10 A</td></tr><tr><td>Frecuencia</td><td>50 Hz</td></tr><tr><td colspan=\"2\">Nivel de protecci\u00f3n contra la entrada de part\u00edculas s\u00f3lidas y humedad asegurada por ...</td><td>IPX4</td></tr><tr><td>Presi\u00f3n del suministro de agua</td><td>M\u00ednima M\u00e1xima</td><td>0,5 bares (0,05 MPa) 8 bares (0,8 MPa)</td></tr><tr><td>Suministro de agua 1)</td><td></td><td>Agua fr\u00eda</td></tr><tr><td>Carga m\u00e1xima</td><td>Algod\u00f3n</td><td>8 kg</td></tr><tr><td>Velocidad de centrifugado</td><td>Velocidad m\u00e1xima de centri- fugado</td><td>1351 rpm</td></tr></table>",
+        "embed": "<table><tr><th>Dimensi\u00f3n</th><th>Ancho / alto / fondo total</th><th>59.7 cm /84.7 cm /60.0 cm</th></tr><tr><td rowspan=\"4\">Conexi\u00f3n el\u00e9ctrica</td><td>Voltaje</td><td>230 V</td></tr><tr><td>Potencia total</td><td>2200 W</td></tr><tr><td>Fusible</td><td>10 A</td></tr><tr><td>Frecuencia</td><td>50 Hz</td></tr><tr><td colspan=\"2\">Nivel de protecci\u00f3n contra la entrada de part\u00edculas s\u00f3lidas y humedad asegurada por ...</td><td>IPX4</td></tr><tr><td>Presi\u00f3n del suministro de agua</td><td>M\u00ednima M\u00e1xima</td><td>0,5 bares (0,05 MPa) 8 bares (0,8 MPa)</td></tr><tr><td>Suministro de agua 1)</td><td></td><td>Agua fr\u00eda</td></tr><tr><td>Carga m\u00e1xima</td><td>Algod\u00f3n</td><td>8 kg</td></tr><tr><td>Velocidad de centrifugado</td><td>Velocidad m\u00e1xima de centri- fugado</td><td>1351 rpm</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9042821158690176,
+              "height": 0.25534441805225655,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Dimensi\u00f3n</th><th>Ancho / alto / fondo total</th><th>59.7 cm /84.7 cm /60.0 cm</th></tr><tr><td rowspan=\"4\">Conexi\u00f3n el\u00e9ctrica</td><td>Voltaje</td><td>230 V</td></tr><tr><td>Potencia total</td><td>2200 W</td></tr><tr><td>Fusible</td><td>10 A</td></tr><tr><td>Frecuencia</td><td>50 Hz</td></tr><tr><td colspan=\"2\">Nivel de protecci\u00f3n contra la entrada de part\u00edculas s\u00f3lidas y humedad asegurada por ...</td><td>IPX4</td></tr><tr><td>Presi\u00f3n del suministro de agua</td><td>M\u00ednima M\u00e1xima</td><td>0,5 bares (0,05 MPa) 8 bares (0,8 MPa)</td></tr><tr><td>Suministro de agua 1)</td><td></td><td>Agua fr\u00eda</td></tr><tr><td>Carga m\u00e1xima</td><td>Algod\u00f3n</td><td>8 kg</td></tr><tr><td>Velocidad de centrifugado</td><td>Velocidad m\u00e1xima de centri- fugado</td><td>1351 rpm</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

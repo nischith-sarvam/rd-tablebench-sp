@@ -1,0 +1,36 @@
+{
+  "job_id": "563181c0-4ad8-44e6-9065-0d6db3559ae8",
+  "duration": 62.166619300842285,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/3b878d45-af7a-468a-b526-90aec283e4c3.pdf?AWSAccessKeyId=ASIA2UOK6OVBMF2RQFTH&Signature=ZFe4UvcA21Tq1jIVLqSZx2RrfJw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDE0G867QtRGFIzxvrnBk6qhyAtqLK5%2FW4AMbkh3zsG6gIhAIr8fZOix9YUUgqaCG4z0mj8S5aXvbwYhrRhXR1g%2BHPTKoMFCCkQABoMNzMxMTA2OTMyMDM0IgwZr8Ya0lxmMfZurj8q4AQSIy5Ml4xIPcubLrAXfv1KPg8btF%2FjzycctimGWwiDYAj3BLEMJcwyxOrszOh9%2FWX9bK40xWc0lMURzkWGtSxqIxGuBjLgmXnYCblctrUUA7U04UjuDLJajRGXk%2BYLxdgwvGPrcMvFow2xTgYLA82WzXuhUp3CSZKpfVLdrKyJnDvsapcpWQsPIqKfBe82YYVs%2BZZKFwC02zKo4Q2yU%2FA1Q2%2BiGheEoPj8ct9RvrDR39WWpiEq8RVZZQjsrTTcgetHZZLvb6znaZcGDxtWpfjiGbUSv2owbDYXlgH3LDoYvIjpSviBoVqm%2FnFjU64zs01CmLXagGe%2FW9U%2F29ugT%2BZn3%2BgFj9pyynaGpEZm7l2%2FoCtZl%2B068EH71lhUYxVZ%2BgSQHySuP3GuT37L8Y%2BE%2FGHIJbDhFcntEYWas4rVIw%2FJJmlCLP%2Bc6vlUy5jl%2FYPu9ejxtAZiYcbj3joNzz9u8Airss8WIla8S7sn82NSWvDYQzeUkYdxjYTddeaVxUhTTPy0VOnlouiL8rrxwUh3ZFymFoVJOft9veoPRl%2FNAZm1Uv808tTzB1pW%2FawWGHIRuaNLoPAzQJwemcydjmoBrvPIAzFolBXKJmgtHQe3sdWIfVUVQFEHJWBCbh5UUVZIlGYUFfxVrb%2FZmg5zyxBMdeIIJ3sbbVZIDdEsg6lS%2Flq1qLKkYLRv9ZQLyBMogKk2I3SCIrqEgvIobSzaPCOmHS3HngtbcJi5f6ozBc5f3wGB40qPJaa7XxplJtuMK%2Fh%2F4XPPUe%2Bvhvy1XuDCnJqFPByIkO6%2BuynzBN4y80hHssdkuTDW4Y6%2FBjqZAUb6v6GUDH786iuZ%2FYAJAR65RKbQXNwyEYngXH7j3OmrHCAGqFmD3TjR8nAUFG3DKWIhqjwXEo2kTZvA17yya9PYsco5kO%2BgRleqP46zE8ghwGmuu2KtrCrF6S2JeE1TTKywuu%2B59JNMNoVjnn%2FMle0mbDHGl58%2FnnZLUQacYfGCko9iSaEHh7xDz04G%2FDt0lAhvnvilFyNkAw%3D%3D&Expires=1742980875",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"3\">Drug: Excipient</th><th rowspan=\"3\">Ratio</th><th colspan=\"5\">Physical observation</th></tr><tr><td colspan=\"5\">Condition: 40\u00b0C/75% RH</td></tr><tr><td>Initial</td><td>1 week</td><td>2 weeks</td><td>3 weeks</td><td>4 weeks</td></tr><tr><td>Drug+ Neusilin</td><td>1:1</td><td>White to off cry</td><td>No change</td><td>No change</td><td>No change</td><td>No change</td></tr><tr><td>Drug+ Aerosil ...</td><td>1:1</td><td>White to off cry</td><td>No change</td><td>No change</td><td>No change</td><td>No change</td></tr><tr><td>Drug+ Eudragit</td><td>1:1</td><td>White to off cry</td><td>No change</td><td>No change</td><td>No change</td><td>No change</td></tr><tr><td>Drug+ PVP K30</td><td>1:1</td><td>White to off cry</td><td>No change</td><td>No change</td><td>No change</td><td>No change</td></tr><tr><td>Drug+ PEG 400</td><td>1:1</td><td>White to off cry</td><td>No change</td><td>No change</td><td>No change</td><td>No change</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"3\">Drug: Excipient</th><th rowspan=\"3\">Ratio</th><th colspan=\"5\">Physical observation</th></tr><tr><td colspan=\"5\">Condition: 40\u00b0C/75% RH</td></tr><tr><td>Initial</td><td>1 week</td><td>2 weeks</td><td>3 weeks</td><td>4 weeks</td></tr><tr><td>Drug+ Neusilin</td><td>1:1</td><td>White to off cry</td><td>No change</td><td>No change</td><td>No change</td><td>No change</td></tr><tr><td>Drug+ Aerosil ...</td><td>1:1</td><td>White to off cry</td><td>No change</td><td>No change</td><td>No change</td><td>No change</td></tr><tr><td>Drug+ Eudragit</td><td>1:1</td><td>White to off cry</td><td>No change</td><td>No change</td><td>No change</td><td>No change</td></tr><tr><td>Drug+ PVP K30</td><td>1:1</td><td>White to off cry</td><td>No change</td><td>No change</td><td>No change</td><td>No change</td></tr><tr><td>Drug+ PEG 400</td><td>1:1</td><td>White to off cry</td><td>No change</td><td>No change</td><td>No change</td><td>No change</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.042821158690176324,
+              "top": 0.032066508313539195,
+              "width": 0.906801007556675,
+              "height": 0.20546318289786222,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"3\">Drug: Excipient</th><th rowspan=\"3\">Ratio</th><th colspan=\"5\">Physical observation</th></tr><tr><td colspan=\"5\">Condition: 40\u00b0C/75% RH</td></tr><tr><td>Initial</td><td>1 week</td><td>2 weeks</td><td>3 weeks</td><td>4 weeks</td></tr><tr><td>Drug+ Neusilin</td><td>1:1</td><td>White to off cry</td><td>No change</td><td>No change</td><td>No change</td><td>No change</td></tr><tr><td>Drug+ Aerosil ...</td><td>1:1</td><td>White to off cry</td><td>No change</td><td>No change</td><td>No change</td><td>No change</td></tr><tr><td>Drug+ Eudragit</td><td>1:1</td><td>White to off cry</td><td>No change</td><td>No change</td><td>No change</td><td>No change</td></tr><tr><td>Drug+ PVP K30</td><td>1:1</td><td>White to off cry</td><td>No change</td><td>No change</td><td>No change</td><td>No change</td></tr><tr><td>Drug+ PEG 400</td><td>1:1</td><td>White to off cry</td><td>No change</td><td>No change</td><td>No change</td><td>No change</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

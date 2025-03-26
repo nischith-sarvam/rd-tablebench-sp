@@ -1,0 +1,36 @@
+{
+  "job_id": "c5e953b5-c6ac-4268-85ad-9109591b1dc3",
+  "duration": 57.24707627296448,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/f7c6cac7-c902-4487-b6cc-bcd9e5348418.pdf?AWSAccessKeyId=ASIA2UOK6OVBOEJM2FIG&Signature=FLg18y4nbYfGqSFcaYkftVmhK9c%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGXE436w9rVPiCaP4ZiLvJBo7TPBPbyVMSpkNtHsHwk9AiEA2sbUMN1ZV6BQmjJpchvTqBxdZYQiAHC4sWNJKZGcDa4qgwUIKRAAGgw3MzExMDY5MzIwMzQiDP540eb03EQdOJ5olirgBLQ6uqKKETvtFgvDT5EbHFe6Ro7ekyA%2Bt%2FQDM5heVcRUC6JyCFtNDByBPp8wSdQ5vNszuZ15jqaANo7MhKeQJPlGfsS3B4XuAHmSAorGyEAut4Dso1r7Oo2slehNac%2Fz1tIaWRYAz3VaEOd4A33P1pjz5FS7Egj41oEtqbty6BB5vtM0HbI7CdhyDDMdS%2FBdelmcneZqn4xkl6opPOMaPHnj3K%2BZAZ2aGpqmFiJwya%2BzJNxghjHTOH8QlAmctHo9%2F43pRUH%2FxvUgow97VYRinGIT15Ad6XHpSyE9wnQWvGwSoH8YqYuGOPJ4TWmXFzj6cNKIB5JiQAR0cs9q0%2BRxXIy9eppV7Aqcw5n4%2FBketrI3Q0QaZZURF5goFWjNTrPeHPHdjpWTysO9CwtIa3LFjz7JPa0yV8aLci7Pg3BCrerbr96z2tpWpCjAd2bM83kVLmK8DXROTpk%2FOhef%2B%2FK9BkocB4eEm%2BlorljK3XvB1inSqlF3Sb7eInfrwB43%2FWmEHm%2FzFhPXWz29990Gh%2FeBDAKUYwOVAacvX%2FQQxYoAzYmoqdCQKgeFITNCMJzPtSwkVQOR8gSCp040n8deehLGXrGgVhRjGM3Tf9xK1%2FpNh6CyV0DW5GtzE4z75AWVlrQCVI3NpAPKy%2FC9%2Bupv30w4c5ht1jf%2B5m1jSkS15U8PzqAXbx%2B%2FW3xONUL7xKWwgK8nWxBKLpBrqF024VYjBAL8m68JktqpsGTn93FpLqbMh7bdTgdj3MWGJRaLn0SLHqUCXMIIYTnNJbwcGc3YwQ%2BWu97moavJ9V7hCBQ33mc1Y1YeMOnwjr8GOpoBMI4%2F0Kkzm%2BiU9OxwpU%2FKcS2M5nXhT5KvnwWJly6dYnhH0J9XcvU53DYApU6GfisRpPwHzH%2FAooShXxBvs1MtKSy2vZgf1WFClL8uZa%2Fi9hRqLxs8SdB4iHETqsn9%2FrGP0pja9kjakZ4HmCRpo%2B17Xh74j2nXNa3Cp9wttb9FDtDNvKsx3eFI1ugR1%2FoZXHG%2BJ0OyA0OmZlf95Q%3D%3D&Expires=1742980878",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"4\">Cart\u00f5es Amarelos</th><th></th></tr><tr><td>Tempo</td><td>1T/2T</td><td>N\u00b0</td><td>Nome do Jogador</td><td>Equipe</td></tr><tr><td>09:00</td><td>1T</td><td>6</td><td>Francisco Fabio Andra...</td><td>Maracana</td></tr><tr><td></td><td></td><td></td><td colspan=\"2\">Motivo: 1732 - Dar uma entrada temer\u00e1ria - Dar u...</td></tr><tr><td>11:00</td><td>2T</td><td>4</td><td>Alisson Oliveira de So...</td><td>Maracana</td></tr><tr><td></td><td></td><td></td><td colspan=\"2\">Motivo: 270 - Empurrar o advers\u00e1rio - Empurrar o...</td></tr><tr><td>28:00</td><td>2T</td><td>10</td><td>Ivanaldo Silva de Mor...</td><td>Maracana</td></tr><tr><td></td><td></td><td></td><td colspan=\"2\">Motivo: 288 - Atitude antidesportiva - Troca de em</td></tr><tr><td>+01:00</td><td>2T</td><td>1</td><td>Luiz Carlos Fraga Fir...</td><td>Maracana</td></tr><tr><td></td><td></td><td></td><td>Motivo: 1735 - Retada...</td><td></td></tr><tr><td>02:00</td><td>1T</td><td>3</td><td>Luis Alfonso Cuero Be</td><td>Cariri</td></tr><tr><td></td><td></td><td></td><td colspan=\"2\">Motivo: 272 - Dar um carrinho lateral no advers\u00e1ri...</td></tr><tr><td>28:00</td><td>2T</td><td>4</td><td>Marcondi de Araujo Lima</td><td>Cariri</td></tr><tr><td></td><td></td><td></td><td colspan=\"2\">Motivo: 288 - Atitude antidesportiva - Troca de em</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"4\">Cart\u00f5es Amarelos</th><th></th></tr><tr><td>Tempo</td><td>1T/2T</td><td>N\u00b0</td><td>Nome do Jogador</td><td>Equipe</td></tr><tr><td>09:00</td><td>1T</td><td>6</td><td>Francisco Fabio Andra...</td><td>Maracana</td></tr><tr><td></td><td></td><td></td><td colspan=\"2\">Motivo: 1732 - Dar uma entrada temer\u00e1ria - Dar u...</td></tr><tr><td>11:00</td><td>2T</td><td>4</td><td>Alisson Oliveira de So...</td><td>Maracana</td></tr><tr><td></td><td></td><td></td><td colspan=\"2\">Motivo: 270 - Empurrar o advers\u00e1rio - Empurrar o...</td></tr><tr><td>28:00</td><td>2T</td><td>10</td><td>Ivanaldo Silva de Mor...</td><td>Maracana</td></tr><tr><td></td><td></td><td></td><td colspan=\"2\">Motivo: 288 - Atitude antidesportiva - Troca de em</td></tr><tr><td>+01:00</td><td>2T</td><td>1</td><td>Luiz Carlos Fraga Fir...</td><td>Maracana</td></tr><tr><td></td><td></td><td></td><td>Motivo: 1735 - Retada...</td><td></td></tr><tr><td>02:00</td><td>1T</td><td>3</td><td>Luis Alfonso Cuero Be</td><td>Cariri</td></tr><tr><td></td><td></td><td></td><td colspan=\"2\">Motivo: 272 - Dar um carrinho lateral no advers\u00e1ri...</td></tr><tr><td>28:00</td><td>2T</td><td>4</td><td>Marcondi de Araujo Lima</td><td>Cariri</td></tr><tr><td></td><td></td><td></td><td colspan=\"2\">Motivo: 288 - Atitude antidesportiva - Troca de em</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.35451306413301664,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"4\">Cart\u00f5es Amarelos</th><th></th></tr><tr><td>Tempo</td><td>1T/2T</td><td>N\u00b0</td><td>Nome do Jogador</td><td>Equipe</td></tr><tr><td>09:00</td><td>1T</td><td>6</td><td>Francisco Fabio Andra...</td><td>Maracana</td></tr><tr><td></td><td></td><td></td><td colspan=\"2\">Motivo: 1732 - Dar uma entrada temer\u00e1ria - Dar u...</td></tr><tr><td>11:00</td><td>2T</td><td>4</td><td>Alisson Oliveira de So...</td><td>Maracana</td></tr><tr><td></td><td></td><td></td><td colspan=\"2\">Motivo: 270 - Empurrar o advers\u00e1rio - Empurrar o...</td></tr><tr><td>28:00</td><td>2T</td><td>10</td><td>Ivanaldo Silva de Mor...</td><td>Maracana</td></tr><tr><td></td><td></td><td></td><td colspan=\"2\">Motivo: 288 - Atitude antidesportiva - Troca de em</td></tr><tr><td>+01:00</td><td>2T</td><td>1</td><td>Luiz Carlos Fraga Fir...</td><td>Maracana</td></tr><tr><td></td><td></td><td></td><td>Motivo: 1735 - Retada...</td><td></td></tr><tr><td>02:00</td><td>1T</td><td>3</td><td>Luis Alfonso Cuero Be</td><td>Cariri</td></tr><tr><td></td><td></td><td></td><td colspan=\"2\">Motivo: 272 - Dar um carrinho lateral no advers\u00e1ri...</td></tr><tr><td>28:00</td><td>2T</td><td>4</td><td>Marcondi de Araujo Lima</td><td>Cariri</td></tr><tr><td></td><td></td><td></td><td colspan=\"2\">Motivo: 288 - Atitude antidesportiva - Troca de em</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "job_id": "25101cd3-6ca5-47b2-982a-2206b99f4dc7",
+  "duration": 46.85083055496216,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/6f6a5d6c-6754-4ce6-bdb4-581511d7b21a.pdf?AWSAccessKeyId=ASIA2UOK6OVBCELVGW75&Signature=AxVr%2B5lGIr75HgAR1YqbeYAbtV4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDZw%2FeHu2VupwIigWCEpOOuVQIM4VUGnnvHucbwwGYz7wIhANIfDIFWGYWAv4pfGxhGgs6VcEV%2F9YI851dN%2F%2FA08Ix6KoMFCCkQABoMNzMxMTA2OTMyMDM0IgzQd0WleyISoyOcqSYq4ATmADCiGmmv3da%2FhK91sFPTW5adwU3NIrRJxRu4kES9QIAMuN24X6gpoFFFIzQG3gheJBPiLqPdBLGp%2FyTwGeJa%2FhjFkKmC%2B1v%2FWVBsBXVz6x8%2FrkhcXLAj%2BbsLekIaNOJbM4JqgpNb5ZACRIVuXq4kYPPOkoWYx3sFynbNt%2F4vTDi8I6qZzcFqe87wj1fmPSFobH3jZjuH%2BmYnmthmXA9FPIc6e9Rilx20h8v6crJSQFXFsv%2Bg%2FYyU3m4M2%2FMm60QF36i9pUBFPsmAksQItWbjx0qTBfFVj23c5CHEeJFMtM3%2BMXMrAmd2Jyns8GK6TqVr8ik0gdJB%2BV4jXmCo6w1fH4qImx5IyqG%2BpUigDlJlobyu0wxlVdjvY5zY2%2Fmxc3d9zMPTp9%2BmWn8HJJCSlCjwMiLlwG4aMRTeULJWSf5u1Wn%2BHUBioVruHbfphYSTChYjg2Ho2JsQr4cfkC8Th%2FuSA7PwS1UFqmmCk1vVM6D7ZrpYxi2NllUCEMkzX5atfcm08%2FJHvZGDALxH9gyBj%2BGB6l4jEQWLDFzTysyUh4omxZZtwCR07WqsHgN0EFp%2FRYZOggiF4RT3PkXcbWS0ipDJe9Vbbko3Sl8I%2FGk6fvkCe8Zxpq2OZwkG3HxEsA0QIVWBj2q5gs672gNcuPy7R%2FM1aN4pcpbIRLOBZZ6d7rtJzGvPPmqbCJ7ULzZmDePMjHomG5dcIVC4YGZlb4hRrJsAb8ZVZx%2Bcf%2BJ7RHB5VlqkUX3DHQvNXTFvow3HjtfLmZnUYO%2FlbKYzzbXl8tqKF9SAPwlg2nzb37OQxWmZWb2ehjDG3o6%2FBjqZAatB69TQiPH%2BRww8Y82fmwSQH9mKekZuw11absswenN%2BDHaynuxzX39ItEq9Wt2CCGMJXZ9EAm5Xn9C1PdHdsqVTCxI0MufOjves6%2FVrpX4nzCkXcYFGgdLz05fsEiLRY7Q8uFI8v%2BAYbATgFvRzzY991iQG9oy7h5OuVbXC%2FZe3EAdyZaWyTZifyfJD0m9xmRGAnwUxCpZBaA%3D%3D&Expires=1742980862",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"2\" colspan=\"2\">Nb. of tiles</th><th colspan=\"2\">VGG-16 init</th><th></th><th>Random init</th><th></th></tr><tr><td>OA</td><td>mloU</td><td>OA</td><td></td><td>mloU</td></tr><tr><td>12</td><td></td><td>91.2</td><td>69.0</td><td>90.4</td><td></td><td>65.0</td></tr><tr><td>10</td><td></td><td>90.8</td><td>68.1</td><td>90.2</td><td></td><td>64.8</td></tr><tr><td>8</td><td></td><td>90.7</td><td>71.9</td><td>89.6</td><td></td><td>63.7</td></tr><tr><td>6</td><td></td><td>89.2</td><td>66.1</td><td>88.8</td><td></td><td>62.8</td></tr><tr><td>4</td><td></td><td>87.2</td><td>63.2</td><td>85.9</td><td></td><td>57.8</td></tr><tr><td>2</td><td></td><td>81.1</td><td>55.1</td><td>76.2</td><td></td><td>46.2</td></tr><tr><td>1</td><td></td><td>81.0</td><td>51.3</td><td>80.9</td><td></td><td>48.8</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"2\" colspan=\"2\">Nb. of tiles</th><th colspan=\"2\">VGG-16 init</th><th></th><th>Random init</th><th></th></tr><tr><td>OA</td><td>mloU</td><td>OA</td><td></td><td>mloU</td></tr><tr><td>12</td><td></td><td>91.2</td><td>69.0</td><td>90.4</td><td></td><td>65.0</td></tr><tr><td>10</td><td></td><td>90.8</td><td>68.1</td><td>90.2</td><td></td><td>64.8</td></tr><tr><td>8</td><td></td><td>90.7</td><td>71.9</td><td>89.6</td><td></td><td>63.7</td></tr><tr><td>6</td><td></td><td>89.2</td><td>66.1</td><td>88.8</td><td></td><td>62.8</td></tr><tr><td>4</td><td></td><td>87.2</td><td>63.2</td><td>85.9</td><td></td><td>57.8</td></tr><tr><td>2</td><td></td><td>81.1</td><td>55.1</td><td>76.2</td><td></td><td>46.2</td></tr><tr><td>1</td><td></td><td>81.0</td><td>51.3</td><td>80.9</td><td></td><td>48.8</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.042821158690176324,
+              "top": 0.032660332541567694,
+              "width": 0.9059613769941226,
+              "height": 0.22980997624703087,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"2\" colspan=\"2\">Nb. of tiles</th><th colspan=\"2\">VGG-16 init</th><th></th><th>Random init</th><th></th></tr><tr><td>OA</td><td>mloU</td><td>OA</td><td></td><td>mloU</td></tr><tr><td>12</td><td></td><td>91.2</td><td>69.0</td><td>90.4</td><td></td><td>65.0</td></tr><tr><td>10</td><td></td><td>90.8</td><td>68.1</td><td>90.2</td><td></td><td>64.8</td></tr><tr><td>8</td><td></td><td>90.7</td><td>71.9</td><td>89.6</td><td></td><td>63.7</td></tr><tr><td>6</td><td></td><td>89.2</td><td>66.1</td><td>88.8</td><td></td><td>62.8</td></tr><tr><td>4</td><td></td><td>87.2</td><td>63.2</td><td>85.9</td><td></td><td>57.8</td></tr><tr><td>2</td><td></td><td>81.1</td><td>55.1</td><td>76.2</td><td></td><td>46.2</td></tr><tr><td>1</td><td></td><td>81.0</td><td>51.3</td><td>80.9</td><td></td><td>48.8</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

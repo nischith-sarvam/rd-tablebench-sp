@@ -1,0 +1,36 @@
+{
+  "job_id": "f5e2a811-d67f-4fcd-a713-ecff3b1558f4",
+  "duration": 186.33744287490845,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/61dcdd38-33eb-40d6-a4b5-b68e8ede90a3.pdf?AWSAccessKeyId=ASIA2UOK6OVBH2VFT664&Signature=om6rLBNRPrJeXKeuL%2BL4BNdmBs4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIBz39qRRWs4RcwUQTbwycmC1%2B9Nj3KQRR1Bf8B715t4sAiEAr7Bx6XdBp48NObxbki%2B1Xy1GONTsw7V0oEe28VO8%2FKIqgwUIKhAAGgw3MzExMDY5MzIwMzQiDCfHYv5oWzD9XhEpGCrgBEQRDzlaFtZcMnR6QxY8noqom0KtdsWN6uZVfIo56tVgBN01zrvKoeBv0eyCN7ZZySkiXQ0YztUKlEMRM%2FO333AGGEziPh6KyOd2ioN8hYgqGUImmImUkIsM8BHFmqlwoz7HY9PxXbiYnVoWghxtDSHA2fHy1jFGPaXhQ6XDixhnouR5xj5FMtsBG6eVn0aCTD0rz5LGWpcVfSzmVf0u7bLylNc7dbSvyCEBrDidCviV3Y6h17zsz5NHzmYfK0NJeyc2kGzVEcI4UBCWm7RScgC3FFVnT6OcAzakvp4zsdsWsYvpFCcGwCiwTHFpSxnSvrv8v4sIBRvswMBEb6%2BATKnWQx1AZqESrvav8xsj%2BEOTLdbgeEyM6muuWczO4SljGgJdTulFkdNgh8j86MZM4%2Bgob8uA5kKrXWLunyW0D8b%2FZGcMLavaRL8d%2F%2BkABy93iPKLCed0dviG8%2BOFsnJJk1YPu3dwoBr%2BoxHwWHhwq0jrgdnyxlCXSCDjPfBGWJOHAD%2Fqhvoa9T12KnDeIGO1RftJLSk%2B8D13saSdYTTgaWjWHwH2vzUnqQPoAtT1qMHYsJdHneNFjDPBVBY5TXCU6Gk5WYtOAlFI1bi8C8J2wh3pTDI7EZzZ2Z32kN9dzu4fzPeUwBEUfEgF2fMxXhiZ0RlKek6UBluBZeGmGU0RywB1aINZlw1of1J6KsmhW%2Fu4DVI6RY3d%2FUi02qBYw%2FgVDII6qHM3c4u4SJ10dbBMmVEJZ41yt3rZ%2BNM7jqccFBGPVww78Mp3dIzeunPHXziLgx7feijQlDy2uovYj39tkz%2BvMIzzjr8GOpoBPINRt6KpPbSl3TA%2FLdPim5xv0pLtwX33WQGiG032GeRCvG8li3eg8num7oHXm7hntV1HBC6WTKYY%2BhY%2F54IVcKhV7mx5RousFCw6syGBPDJljV7xKDrXyWYm0pY8eN1STq7ARJoohddsJH4sRDp4%2FazsAA5N2V2gGrom181OdaxPGoA87cWBgm5h3uYGx9AUoeQrG%2FZpicQ1kw%3D%3D&Expires=1742981022",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Baten</th><th>2020</th><th></th><th>2019 (*)</th><th></th></tr><tr><td>Baten van particulieren</td><td></td><td></td><td></td><td></td></tr><tr><td>Collecten</td><td>\u20ac</td><td></td><td>\u20ac</td><td></td></tr><tr><td>Nalatenschappen</td><td>\u20ac</td><td></td><td>\u20ac</td><td></td></tr><tr><td>Overige baten particuli</td><td>\u20ac 31.049</td><td>+</td><td>\u20ac 50.296</td><td>+</td></tr><tr><td>Som van baten van pa...</td><td>\u20ac 31.049</td><td></td><td>\u20ac 50.296</td><td></td></tr><tr><td>Baten van bedrijven</td><td>\u20ac</td><td></td><td>\u20ac</td><td></td></tr><tr><td>Baten van loterijinstelli...</td><td>\u20ac</td><td></td><td>\u20ac</td><td></td></tr><tr><td>Baten van subsidie va...</td><td>\u20ac 141.324</td><td></td><td>\u20ac 119.020</td><td></td></tr><tr><td>Baten van verbonden i...</td><td>\u20ac</td><td></td><td>\u20ac</td><td></td></tr><tr><td>Baten van andere inst</td><td>\u20ac 78.000</td><td>+</td><td>\u20ac 31.000</td><td>+</td></tr><tr><td>Som van de geworven...</td><td>\u20ac 250.373</td><td></td><td>\u20ac 200.316</td><td></td></tr><tr><td>Baten als tegenprestat...</td><td>\u20ac 6.823</td><td></td><td>\u20ac 5.361</td><td></td></tr><tr><td>Overige baten</td><td>\u20ac</td><td>+</td><td>\u20ac -1.000</td><td>+</td></tr><tr><td>Som van de baten</td><td>\u20ac 257.196</td><td></td><td>\u20ac 204.677</td><td></td></tr></table>",
+        "embed": "<table><tr><th>Baten</th><th>2020</th><th></th><th>2019 (*)</th><th></th></tr><tr><td>Baten van particulieren</td><td></td><td></td><td></td><td></td></tr><tr><td>Collecten</td><td>\u20ac</td><td></td><td>\u20ac</td><td></td></tr><tr><td>Nalatenschappen</td><td>\u20ac</td><td></td><td>\u20ac</td><td></td></tr><tr><td>Overige baten particuli</td><td>\u20ac 31.049</td><td>+</td><td>\u20ac 50.296</td><td>+</td></tr><tr><td>Som van baten van pa...</td><td>\u20ac 31.049</td><td></td><td>\u20ac 50.296</td><td></td></tr><tr><td>Baten van bedrijven</td><td>\u20ac</td><td></td><td>\u20ac</td><td></td></tr><tr><td>Baten van loterijinstelli...</td><td>\u20ac</td><td></td><td>\u20ac</td><td></td></tr><tr><td>Baten van subsidie va...</td><td>\u20ac 141.324</td><td></td><td>\u20ac 119.020</td><td></td></tr><tr><td>Baten van verbonden i...</td><td>\u20ac</td><td></td><td>\u20ac</td><td></td></tr><tr><td>Baten van andere inst</td><td>\u20ac 78.000</td><td>+</td><td>\u20ac 31.000</td><td>+</td></tr><tr><td>Som van de geworven...</td><td>\u20ac 250.373</td><td></td><td>\u20ac 200.316</td><td></td></tr><tr><td>Baten als tegenprestat...</td><td>\u20ac 6.823</td><td></td><td>\u20ac 5.361</td><td></td></tr><tr><td>Overige baten</td><td>\u20ac</td><td>+</td><td>\u20ac -1.000</td><td>+</td></tr><tr><td>Som van de baten</td><td>\u20ac 257.196</td><td></td><td>\u20ac 204.677</td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032066508313539195,
+              "width": 0.9051217464315701,
+              "height": 0.3806413301662708,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Baten</th><th>2020</th><th></th><th>2019 (*)</th><th></th></tr><tr><td>Baten van particulieren</td><td></td><td></td><td></td><td></td></tr><tr><td>Collecten</td><td>\u20ac</td><td></td><td>\u20ac</td><td></td></tr><tr><td>Nalatenschappen</td><td>\u20ac</td><td></td><td>\u20ac</td><td></td></tr><tr><td>Overige baten particuli</td><td>\u20ac 31.049</td><td>+</td><td>\u20ac 50.296</td><td>+</td></tr><tr><td>Som van baten van pa...</td><td>\u20ac 31.049</td><td></td><td>\u20ac 50.296</td><td></td></tr><tr><td>Baten van bedrijven</td><td>\u20ac</td><td></td><td>\u20ac</td><td></td></tr><tr><td>Baten van loterijinstelli...</td><td>\u20ac</td><td></td><td>\u20ac</td><td></td></tr><tr><td>Baten van subsidie va...</td><td>\u20ac 141.324</td><td></td><td>\u20ac 119.020</td><td></td></tr><tr><td>Baten van verbonden i...</td><td>\u20ac</td><td></td><td>\u20ac</td><td></td></tr><tr><td>Baten van andere inst</td><td>\u20ac 78.000</td><td>+</td><td>\u20ac 31.000</td><td>+</td></tr><tr><td>Som van de geworven...</td><td>\u20ac 250.373</td><td></td><td>\u20ac 200.316</td><td></td></tr><tr><td>Baten als tegenprestat...</td><td>\u20ac 6.823</td><td></td><td>\u20ac 5.361</td><td></td></tr><tr><td>Overige baten</td><td>\u20ac</td><td>+</td><td>\u20ac -1.000</td><td>+</td></tr><tr><td>Som van de baten</td><td>\u20ac 257.196</td><td></td><td>\u20ac 204.677</td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

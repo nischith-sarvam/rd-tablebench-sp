@@ -1,0 +1,36 @@
+{
+  "job_id": "8def9ac4-b890-4670-a988-cda9e2d21192",
+  "duration": 186.09684681892395,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/20639253-4b05-4d4b-b9a6-b94d253fd73c.pdf?AWSAccessKeyId=ASIA2UOK6OVBJFWX7EAB&Signature=zXb69QTQPI%2BJmzKmVLgoKG6BVg8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIEWHKdF3%2FOn2VBhAGWT5mDK%2Bv2FzXpmIBU4tH1eZAfvzAiEAo5MtR5sVuxYovgNOq%2Fiv%2FHwJ7rBLGCNvbx%2F%2FRI0DJSMqgwUIKRAAGgw3MzExMDY5MzIwMzQiDJ4KpuC3inn8J2snvirgBGIqIEZyUAK0nZTMDmyop%2Bvw25L2uIDR%2BK6lhbqhM%2B0gsG441ly2E%2FlVvEpXp3qd%2BbQdMpVDyXrkr9V02JDJffaz52YGbPnBDlt50BtYJDVbkLIpGMKUiaamAKzvtXhts7pibPMeRaB6UseMkXeRSJC3OiJBDm0ll7aQZeda8xU2NPLzLyaVyiiaNq6ECfKFQbHH9TbD6yiju3n1IsTaJPWGGcw9ptK%2BLbx5n8F5mZ%2FA93c24V7j5r2rRA947NafNzf2Z99lt%2FgdurKN6fL71ovyk0MiV1x4od7oRFKxeOEJIx5z6OKQPOBwKDTpHU9A%2F%2F1h2YATojRzCOAOH4qyBB9R2r%2BMeBHBg2XNIiBlcxcdQ9FRwKKGP61w27K0%2BV7oZHi%2BFEqPTrZ6jQD4guxcpevrP4s7jB%2BYZhPzkXq7YaAUBQQra1eUxVX9Q7lIhigy2xHv6KswVsNtlauRkKjoeTIy2QylZn8YZMLQW1AoV89jkSpX6SLSzOYBHtFC3Zz29lxKjfz6JCnTPyJMlWM78j9oOnSrtYTfkP8eO2pprY5kE%2FJLR92QGKaoorGIxsvV%2BnkMZihmqimxz01vLB2O%2F4uMHC%2FKtmU0DARr1L28ureYMyD%2BfNpOLkXbF6G3Ht2R88J8DnzFX9K6Ko3b5cXcR2oBUKIySvAXQ7E762uKmli1wOggowb3YWnWoyaxKnhUiV%2FYvfs3uuYnoippKZ20hKXJo53BpsYJ%2FwoVoRyBCSKYklsEE3BlGDhX1up3QRvWBHD1yhCZxwefUxdE4URmdZ5xkCV9OAXLP2dRMlKdgRdjMPjxjr8GOpoBUug%2BvXPITEH3WRnw%2FkcXbr6p2ZmB3mpp228RI%2FaVVSPFOux2m9GgO09ZN2zVs%2FipgAhpDEAr%2BPafEdF0CRYabdC6ZCOXwbZ7Y4V6EC68gpvQLTHkTJH0cTwAeCWTQou97GKnMZ%2FDat9P99shl73Ngwu4Yg0C3K8FrdW1tHOr3n2NPRvRNR1ZJ3nXFHQVoP%2FKl0CQ%2BvWXO7fQ5w%3D%3D&Expires=1742981029",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"8\">Net Revenues</th></tr><tr><td rowspan=\"2\">(Dollars in milli</td><td colspan=\"2\">Three Months Ended December 31,</td><td rowspan=\"2\">Percent Favor</td><td colspan=\"2\">Years Ended December 31,</td><td rowspan=\"2\" colspan=\"2\">Percent Favor</td></tr><tr><td>2016</td><td>2015</td><td>2016</td><td>2015</td></tr><tr><td>CERP</td><td>$ 536</td><td>$ 517</td><td>3.7%</td><td>$ 2,195</td><td>$ 2,154</td><td>1.9%</td><td></td></tr><tr><td>CGP (4)</td><td>414</td><td>402</td><td>3.0%</td><td>1,697</td><td>1,620</td><td>4.8%</td><td></td></tr><tr><td>Other (5)</td><td>(1)</td><td>2</td><td>*</td><td>(15)</td><td>(3)</td><td>*</td><td></td></tr><tr><td colspan=\"8\">Total Continuing</td></tr><tr><td>CEC</td><td>949</td><td>921</td><td>3.0%</td><td>3,877</td><td>3,771</td><td>2.8%</td><td></td></tr><tr><td>CEOC (3)</td><td>-</td><td>-</td><td>*</td><td>-</td><td>164</td><td>*</td><td></td></tr><tr><td>Other (5)</td><td>-</td><td>-</td><td>*</td><td>-</td><td>(6)</td><td>*</td><td></td></tr><tr><td>Total CEOC</td><td>-</td><td>-</td><td>*</td><td>-</td><td>158</td><td>*</td><td></td></tr><tr><td>Total Reported</td><td>$ 949</td><td>$ 921</td><td>*</td><td>$ 3,877</td><td>$ 3,929</td><td>*</td><td></td></tr></table>",
+        "embed": "<table><tr><th colspan=\"8\">Net Revenues</th></tr><tr><td rowspan=\"2\">(Dollars in milli</td><td colspan=\"2\">Three Months Ended December 31,</td><td rowspan=\"2\">Percent Favor</td><td colspan=\"2\">Years Ended December 31,</td><td rowspan=\"2\" colspan=\"2\">Percent Favor</td></tr><tr><td>2016</td><td>2015</td><td>2016</td><td>2015</td></tr><tr><td>CERP</td><td>$ 536</td><td>$ 517</td><td>3.7%</td><td>$ 2,195</td><td>$ 2,154</td><td>1.9%</td><td></td></tr><tr><td>CGP (4)</td><td>414</td><td>402</td><td>3.0%</td><td>1,697</td><td>1,620</td><td>4.8%</td><td></td></tr><tr><td>Other (5)</td><td>(1)</td><td>2</td><td>*</td><td>(15)</td><td>(3)</td><td>*</td><td></td></tr><tr><td colspan=\"8\">Total Continuing</td></tr><tr><td>CEC</td><td>949</td><td>921</td><td>3.0%</td><td>3,877</td><td>3,771</td><td>2.8%</td><td></td></tr><tr><td>CEOC (3)</td><td>-</td><td>-</td><td>*</td><td>-</td><td>164</td><td>*</td><td></td></tr><tr><td>Other (5)</td><td>-</td><td>-</td><td>*</td><td>-</td><td>(6)</td><td>*</td><td></td></tr><tr><td>Total CEOC</td><td>-</td><td>-</td><td>*</td><td>-</td><td>158</td><td>*</td><td></td></tr><tr><td>Total Reported</td><td>$ 949</td><td>$ 921</td><td>*</td><td>$ 3,877</td><td>$ 3,929</td><td>*</td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032660332541567694,
+              "width": 0.9034424853064652,
+              "height": 0.30463182897862234,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"8\">Net Revenues</th></tr><tr><td rowspan=\"2\">(Dollars in milli</td><td colspan=\"2\">Three Months Ended December 31,</td><td rowspan=\"2\">Percent Favor</td><td colspan=\"2\">Years Ended December 31,</td><td rowspan=\"2\" colspan=\"2\">Percent Favor</td></tr><tr><td>2016</td><td>2015</td><td>2016</td><td>2015</td></tr><tr><td>CERP</td><td>$ 536</td><td>$ 517</td><td>3.7%</td><td>$ 2,195</td><td>$ 2,154</td><td>1.9%</td><td></td></tr><tr><td>CGP (4)</td><td>414</td><td>402</td><td>3.0%</td><td>1,697</td><td>1,620</td><td>4.8%</td><td></td></tr><tr><td>Other (5)</td><td>(1)</td><td>2</td><td>*</td><td>(15)</td><td>(3)</td><td>*</td><td></td></tr><tr><td colspan=\"8\">Total Continuing</td></tr><tr><td>CEC</td><td>949</td><td>921</td><td>3.0%</td><td>3,877</td><td>3,771</td><td>2.8%</td><td></td></tr><tr><td>CEOC (3)</td><td>-</td><td>-</td><td>*</td><td>-</td><td>164</td><td>*</td><td></td></tr><tr><td>Other (5)</td><td>-</td><td>-</td><td>*</td><td>-</td><td>(6)</td><td>*</td><td></td></tr><tr><td>Total CEOC</td><td>-</td><td>-</td><td>*</td><td>-</td><td>158</td><td>*</td><td></td></tr><tr><td>Total Reported</td><td>$ 949</td><td>$ 921</td><td>*</td><td>$ 3,877</td><td>$ 3,929</td><td>*</td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

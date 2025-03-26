@@ -1,0 +1,36 @@
+{
+  "job_id": "2213f672-12da-4a23-b71b-47479832cd6e",
+  "duration": 23.450472116470337,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/ebfaaf8c-4953-439d-93af-c94f9e76d02f.pdf?AWSAccessKeyId=ASIA2UOK6OVBHB74XKNL&Signature=%2B1oscFFiF5ojWC2SMo9Tz36BNsk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDHCKXJUDOICu6M0%2B7%2B4rwkDGaaSFYUVkFX5VH65%2BKW2QIgBgXIF6p313HVQCqeB38SWabGM%2B9b3zZutFzE1LMI8rgqgwUIKhAAGgw3MzExMDY5MzIwMzQiDEpV6f7h2jXL8OVNnCrgBFMp%2F%2B2DJowNaXE%2B1AH7ORmQDE%2FmD30bii50HIiHI97%2BjcqSncNIj30bmyoHK9T18bSO4076x0haiwuWPbegC2klndb7E9T5iBnIt7YVYaYvH5rktWVjWBuyyMPG5kRoWist%2BEjoM0fVPtLJgCYOpdM7c9JiKFEfCvjJbZxcVWnJVl%2BcTtDfxlZq2nFePh3io3%2FTsI%2FsIjfP0gDZ9ZD2KKKBnqILsDhyEktA1tSpB9LlDdvd9T9JpQHwmAvX5cm344DkkiDl%2BCa1n9raTvr2r5C3Ik%2B%2Bb8KgBi1FFSEzT0P9XjaIZ1EZz4OlQeDDYZjippuVg%2Fd0qzXdIlIpjKmsoMOD7N0JAmpw%2BeuGQTdQRJ8SuTHfHM1LjNpjPIZ42Kdd60Qyj5%2BwDHbklqj0c%2FlTCfrKs3mxOu%2BOHZQzNqmVr7zogTXYehKVse05Pi%2BIzzyGWj%2FrQ0IaJ6WtWwiNwwL9fkluq4tZuQXj6U4LMwRYtnhia%2BfmW1wTg2tOC%2BjPdfYsXCfDSp3Nuy2YzUb3BJE05jwICkrfiNCld3ixeA78gW5hIe%2F63iXSyhv7gVWdy%2FxK5gAoUQWluQ%2BihKnleMbCulJZtKO0vhK1FnqcX%2FQEPtiwSE1B%2Fh1IVIMnOlvOBVl52CfTGAVbNNlPSBT4uGOrFXbk7mh0bjuWkcGlx0PXvMhj%2FueksKKysAGDWhRxHeB%2BD4AKkylVA8SuReMv4qq0U7cc8JBPze9NLPTJYjmndN0MloK%2FLGyzlo8DdFQ8HtPFXWYxx0GpvS%2FkY85ycPTVp7nVwEJycZXrPaogu6hMMeIeMP6Aj78GOpoBnZHLoXq2w%2FVnFl%2BmKowtplYD7chCLpkDJdkP%2B33ui4ZUrXuHJ7NX84bkLzPUznKGBZzm1k0y7n%2BDIydHPw3vaiPohY0c7GkU01vJMqsxDn5kfG4QfgJiBvfNiwtvgMyUeyWqIfoo7u8F%2FBBZyF49yzk1F%2BsJA7IwvSH9YfXBgnM7VbOML5PaLiLLd10%2Bguvti6hoBg0q0xMZ2Q%3D%3D&Expires=1742984408",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Table 2:</th><th>Anxiety and</th><th></th><th colspan=\"9\">depression scores predicted by duration and intensity of yoga practice for 763 participants</th></tr><tr><td rowspan=\"2\">Measu</td><td rowspan=\"2\">Mean ...</td><td colspan=\"5\">Duration of practice in months as predictor</td><td colspan=\"5\">Intensity of practice in minutes/day for at least 4 day</td></tr><tr><td>F</td><td>df</td><td>Adjust</td><td>\u1e9e</td><td>Tolera</td><td>F</td><td>df</td><td>Adjust</td><td>\u1e9e</td><td>Tolera</td></tr><tr><td>STAI-S...</td><td>35.5 (1</td><td>11.4***</td><td>2760</td><td>0.03</td><td>-0.2</td><td>1.0</td><td>11.4*</td><td>2760</td><td>0.03</td><td>-0.1</td><td>1.0</td></tr><tr><td>HAD-A</td><td>5.3 (4.0)</td><td>8.8**</td><td>2760</td><td>0.02</td><td>-0.1</td><td>1.0</td><td>8.8**</td><td>2760</td><td>0.02</td><td>-0.1</td><td>1.0</td></tr><tr><td>HAD-D</td><td>5.3 (3.7)</td><td>4.6**</td><td>2760</td><td>0.01</td><td>-0.1</td><td>1.0</td><td>4.6</td><td>2760</td><td>0.01</td><td>0.0</td><td>1.0</td></tr></table>",
+        "embed": "<table><tr><th>Table 2:</th><th>Anxiety and</th><th></th><th colspan=\"9\">depression scores predicted by duration and intensity of yoga practice for 763 participants</th></tr><tr><td rowspan=\"2\">Measu</td><td rowspan=\"2\">Mean ...</td><td colspan=\"5\">Duration of practice in months as predictor</td><td colspan=\"5\">Intensity of practice in minutes/day for at least 4 day</td></tr><tr><td>F</td><td>df</td><td>Adjust</td><td>\u1e9e</td><td>Tolera</td><td>F</td><td>df</td><td>Adjust</td><td>\u1e9e</td><td>Tolera</td></tr><tr><td>STAI-S...</td><td>35.5 (1</td><td>11.4***</td><td>2760</td><td>0.03</td><td>-0.2</td><td>1.0</td><td>11.4*</td><td>2760</td><td>0.03</td><td>-0.1</td><td>1.0</td></tr><tr><td>HAD-A</td><td>5.3 (4.0)</td><td>8.8**</td><td>2760</td><td>0.02</td><td>-0.1</td><td>1.0</td><td>8.8**</td><td>2760</td><td>0.02</td><td>-0.1</td><td>1.0</td></tr><tr><td>HAD-D</td><td>5.3 (3.7)</td><td>4.6**</td><td>2760</td><td>0.01</td><td>-0.1</td><td>1.0</td><td>4.6</td><td>2760</td><td>0.01</td><td>0.0</td><td>1.0</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.033847980997624705,
+              "width": 0.9034424853064652,
+              "height": 0.15320665083135393,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Table 2:</th><th>Anxiety and</th><th></th><th colspan=\"9\">depression scores predicted by duration and intensity of yoga practice for 763 participants</th></tr><tr><td rowspan=\"2\">Measu</td><td rowspan=\"2\">Mean ...</td><td colspan=\"5\">Duration of practice in months as predictor</td><td colspan=\"5\">Intensity of practice in minutes/day for at least 4 day</td></tr><tr><td>F</td><td>df</td><td>Adjust</td><td>\u1e9e</td><td>Tolera</td><td>F</td><td>df</td><td>Adjust</td><td>\u1e9e</td><td>Tolera</td></tr><tr><td>STAI-S...</td><td>35.5 (1</td><td>11.4***</td><td>2760</td><td>0.03</td><td>-0.2</td><td>1.0</td><td>11.4*</td><td>2760</td><td>0.03</td><td>-0.1</td><td>1.0</td></tr><tr><td>HAD-A</td><td>5.3 (4.0)</td><td>8.8**</td><td>2760</td><td>0.02</td><td>-0.1</td><td>1.0</td><td>8.8**</td><td>2760</td><td>0.02</td><td>-0.1</td><td>1.0</td></tr><tr><td>HAD-D</td><td>5.3 (3.7)</td><td>4.6**</td><td>2760</td><td>0.01</td><td>-0.1</td><td>1.0</td><td>4.6</td><td>2760</td><td>0.01</td><td>0.0</td><td>1.0</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

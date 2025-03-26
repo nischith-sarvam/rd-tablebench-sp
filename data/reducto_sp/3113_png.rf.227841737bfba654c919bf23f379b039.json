@@ -1,0 +1,36 @@
+{
+  "job_id": "f7648376-9e8a-4119-9eb3-296355006d5e",
+  "duration": 135.71804976463318,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/2a6392b2-833a-4c69-a96a-0d55ac3f1f5b.pdf?AWSAccessKeyId=ASIA2UOK6OVBHD4535BU&Signature=lD%2Bk7UKbYXQBM6aUbZp%2F7YyKNmY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCICRGXpbrly3D6WOJ82QDyH%2FqAKjXvIOJTIM1nq8KbDzDAiEAkGWmdA9aGQjPTE7zs3aY5k2M%2BeR44uKW5SVmwbEq%2Bo4qgwUIKRAAGgw3MzExMDY5MzIwMzQiDBKfWEbPVVp7RbR0nCrgBBosDn92cJvDMAYX8t46Svy216zNrAqVvC1RfnP4HLRvsLAnKurthFHUyI50mHVtM5hzPIuA8KBCcH4Ql7v0UTSzM6ZjkPb3l9OubaG6QIE9iJFupGntT5NRhaCgy6WV0zFI4SO4OsLXevOBbrhJPny%2Bhmr454hpKQtCHYIAhBZPQx0ZnliwaufK9OJ45LkwQR6yuNswVES7ltYHftbogKbb5%2BG5woFrkPY9jtFOjsE%2BP9TtcrB5ybY%2BswO7NgbcqYtV7zd6sIgUVaJo%2F31ic2Qkix5RHk2RGGMwybtZYEfhTF0YeNf%2FmoypWv7c0tXhB4B4%2BlEy4Q7HNcEAnvFd7%2BMbcy1S0tTiwcI2P%2BNCNXbLs1QdZOcapq1xwSYxjwTbS9zuN2J0h%2BWUFtw5EyOhEUVV7n5MzU52GPX8Nod12nWfYPey5dxD5KRsv2JYDgXE9TOJ8xFNMxhNM%2BUAHnZFYEucEDPjbGJX1vkNToeQoveHckjpIA7%2FttzvrflPuw93ldysGj%2FJWfBNtzzRJBzlb4e79RFhDTrcojlYRg4kARqWAji7FGblha9aeG3eJmh80R9bPVpbrnrAUkBD5WTfViCawSVHJG1qNlBf7E7L%2BniZkyX804XWHlmZHkADDi%2BGTU7Ib9LIqUr9voN4ViCKz7kg81dOa1X5SvGxfCCVrT96aUYuPc7uRhTeEYpV8l1jrfInUXWgROBCrLXkXGBLFuDCChK0p9mlaGk%2F7CqUDS1hS6uYwf2aTAwP3D37bRkjobsfb2xiZvoLiolLv6p5OEcciH2Ge%2FI1q84Cb%2BhZLl5eMKjfjr8GOpoBolMmhRfbl9WILs1LI3rrQqzS4UGGelSjUzli4qgV7%2B%2F3oGuJp3Kn44uv2VTtcyxxqEsO%2BNI8HCQrpiw7gN8tcHFRwdHhMFTjaDTkbc%2FNHxuQxmNHEwGCUKem4fw8qX%2FWq0M0zf7bYxLN9uYCAqlvOPZ%2BBWFVWh859VRJg4kVFU7oeSIzU4VkbbUvt6wfoHEsV1yrZTMoODuxsA%3D%3D&Expires=1742980961",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Octava</th><th></th><th>Cancha</th><th>Dia</th><th>Horario</th><th colspan=\"3\">Arbitros</th></tr><tr><td>Lawn Tennis B</td><td>Cardenales</td><td>Lawn Tennis</td><td>Sab. 19/05</td><td>9:00</td><td>CORREA G.</td><td>GUTIERRE</td><td></td></tr><tr><td>Sitravi Tucu</td><td>La Querencia</td><td>Nataci\u00f3n Ar</td><td>Sab. 19/05</td><td>9:00</td><td>NU\u00d1EZ A.</td><td>FARIAS VE</td><td></td></tr><tr><td>Lince</td><td>Natacion y ...</td><td>Lince</td><td>Sab. 19/05</td><td>9:00</td><td>MALDONAD...</td><td>PERALTA A.</td><td></td></tr><tr><td>Villa Mitre</td><td>Atletico Tuc</td><td>A Definir</td><td>Sab. 19/05</td><td>9:00</td><td>TAPIA V.</td><td>RUIZ ELVIRA</td><td></td></tr><tr><td>Tucuman Ru</td><td>Universitario...</td><td>Tucuman Ru...</td><td>Dom. 20/05</td><td>9:00</td><td>MANINO S.</td><td>AREDES LU</td><td></td></tr><tr><td>Jockey Cele</td><td>Monteros Vo</td><td>Jockey</td><td>Sab. 19/05</td><td>9:00</td><td>LUNA R.</td><td>LOPEZ ME</td><td></td></tr></table>",
+        "embed": "<table><tr><th>Octava</th><th></th><th>Cancha</th><th>Dia</th><th>Horario</th><th colspan=\"3\">Arbitros</th></tr><tr><td>Lawn Tennis B</td><td>Cardenales</td><td>Lawn Tennis</td><td>Sab. 19/05</td><td>9:00</td><td>CORREA G.</td><td>GUTIERRE</td><td></td></tr><tr><td>Sitravi Tucu</td><td>La Querencia</td><td>Nataci\u00f3n Ar</td><td>Sab. 19/05</td><td>9:00</td><td>NU\u00d1EZ A.</td><td>FARIAS VE</td><td></td></tr><tr><td>Lince</td><td>Natacion y ...</td><td>Lince</td><td>Sab. 19/05</td><td>9:00</td><td>MALDONAD...</td><td>PERALTA A.</td><td></td></tr><tr><td>Villa Mitre</td><td>Atletico Tuc</td><td>A Definir</td><td>Sab. 19/05</td><td>9:00</td><td>TAPIA V.</td><td>RUIZ ELVIRA</td><td></td></tr><tr><td>Tucuman Ru</td><td>Universitario...</td><td>Tucuman Ru...</td><td>Dom. 20/05</td><td>9:00</td><td>MANINO S.</td><td>AREDES LU</td><td></td></tr><tr><td>Jockey Cele</td><td>Monteros Vo</td><td>Jockey</td><td>Sab. 19/05</td><td>9:00</td><td>LUNA R.</td><td>LOPEZ ME</td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9051217464315701,
+              "height": 0.17933491686460806,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Octava</th><th></th><th>Cancha</th><th>Dia</th><th>Horario</th><th colspan=\"3\">Arbitros</th></tr><tr><td>Lawn Tennis B</td><td>Cardenales</td><td>Lawn Tennis</td><td>Sab. 19/05</td><td>9:00</td><td>CORREA G.</td><td>GUTIERRE</td><td></td></tr><tr><td>Sitravi Tucu</td><td>La Querencia</td><td>Nataci\u00f3n Ar</td><td>Sab. 19/05</td><td>9:00</td><td>NU\u00d1EZ A.</td><td>FARIAS VE</td><td></td></tr><tr><td>Lince</td><td>Natacion y ...</td><td>Lince</td><td>Sab. 19/05</td><td>9:00</td><td>MALDONAD...</td><td>PERALTA A.</td><td></td></tr><tr><td>Villa Mitre</td><td>Atletico Tuc</td><td>A Definir</td><td>Sab. 19/05</td><td>9:00</td><td>TAPIA V.</td><td>RUIZ ELVIRA</td><td></td></tr><tr><td>Tucuman Ru</td><td>Universitario...</td><td>Tucuman Ru...</td><td>Dom. 20/05</td><td>9:00</td><td>MANINO S.</td><td>AREDES LU</td><td></td></tr><tr><td>Jockey Cele</td><td>Monteros Vo</td><td>Jockey</td><td>Sab. 19/05</td><td>9:00</td><td>LUNA R.</td><td>LOPEZ ME</td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

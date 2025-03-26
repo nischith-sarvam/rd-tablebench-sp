@@ -1,0 +1,36 @@
+{
+  "job_id": "cd7dfa4d-fb3c-41b8-8e6c-6376d2cd7265",
+  "duration": 143.62803077697754,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/4811357c-5d62-458c-a5e0-a9da0c7d3feb.pdf?AWSAccessKeyId=ASIA2UOK6OVBP4U46VYE&Signature=lg21rtaMlE0ZtbsMrEoEDuRfguo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDuWXy0PQQl%2F%2BcvMO6vH8bJhMbzdQ3Mzzt6GraV2NWmfAIhAIjoT8e1qg8h4NieInj8h7nbeKK0qRUAT%2BNLaMrIx2XeKoMFCCkQABoMNzMxMTA2OTMyMDM0IgyVgorcxLWkuco8qwIq4AR8j10Bp1vurssAjjCSwaUoR%2FgqP4MKFt2AFRYYz8bwSWXNzm32tHXE%2FNpQnMNg8txKHqkmvJg80TxvsNgJL5L8KMaXGNA%2FBGA4Shd4QEQRiStr4ve0G3FATDDfdUVjilZGbfbCgmbwko%2B2K1OkrgQ9VGezNzW%2BuGy5%2F69VIrAOSsz5ft2vIGTfg0pvfahPA87mgn9CddlandWRzvfE8sPOuuDlL5Wh%2BiksHRkY2jLU8pRx0gU0a8jxxy%2FuklF0dgMmP3KxQqisgrhoEyZXhD78ROXe8c3fmW4r3CjH68ktMAfJZi70HGDRw0J6JTnU3EN%2Fduy6%2B2dh1CmkDT4OxcHRp1kCF%2FAHrOrVxKlhxs8L%2FBZclQUglxTwSiMTIlwDGUw%2BG6oiRWys%2Bx2rskIXV8ihN68Kz6uxh%2F3XFDUFkTSc3S5MxaxTWeTx190xcqQoCuy12i281vZUNlb72VT4qb2xMVZ6rfd0duOVxBF57n8nvieWn7OLD%2B3GTuzq6meazUYTBnt%2FDX0QnVuHI8O8GpMmAtJ1H2mQ3NDjnG0I6D977YnutLduJcCVxO8zEmoZYKsEHD26SgYbdWOgI8MZa5oQZwln1MPDbkozM40r5ezQBehcZP7r1rXEBlFCsOPfPVcIe3d5VDC3OiHxsdY7Q8HYTEYzc7Eojm0J33Z1XwB7jKkbFSYjTvyGeNOW0hgMippSw2YAbDlmRKooYVM6WBTvYSL0vfjhW%2BeoPOAIpAVO2%2Bhoi2UL5zwPM010EY8VR1auU3WttPgGdc1G8w8uiJdsGS5HaweLzRsh3yzbvid31TDh5I6%2FBjqZAY57uIJxejuKUkPtvGGuhHl6l%2FhL9IOmzfcbsPCTD6Ny9vHVwIf%2BDJv15veJbqLIBS4DamWmyaOYXoukuoRSle7j6K68pfmAE%2Fb1Fukm9QSpczBwdUI5d78ft1WOK84nZbN1a1m7XF2uIiwHiaWqJc81hekZ0MiZ4XoodlL7MkggzV%2F6r9dmfGLbp8KcurNTB%2B%2BTp7HdjxRQgg%3D%3D&Expires=1742980984",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>GRUPOS</th><th>DENOMI NACION</th><th>TOTAL</th></tr><tr><td>1</td><td>ACTUACIONS DE CARACTER XERAL</td><td>1. 725. 291</td></tr><tr><td></td><td>TOTAL</td><td>1. 725. 291</td></tr></table>",
+        "embed": "<table><tr><th>GRUPOS</th><th>DENOMI NACION</th><th>TOTAL</th></tr><tr><td>1</td><td>ACTUACIONS DE CARACTER XERAL</td><td>1. 725. 291</td></tr><tr><td></td><td>TOTAL</td><td>1. 725. 291</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.033847980997624705,
+              "width": 0.9042821158690176,
+              "height": 0.07719714964370546,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>GRUPOS</th><th>DENOMI NACION</th><th>TOTAL</th></tr><tr><td>1</td><td>ACTUACIONS DE CARACTER XERAL</td><td>1. 725. 291</td></tr><tr><td></td><td>TOTAL</td><td>1. 725. 291</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

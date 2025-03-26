@@ -1,0 +1,36 @@
+{
+  "job_id": "9255d09a-da45-48fa-a257-4b1575dd493f",
+  "duration": 51.75134873390198,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/d5f61885-3285-4ef2-927c-0bb40e2e0e58.pdf?AWSAccessKeyId=ASIA2UOK6OVBPUHP6EQX&Signature=09iwBgMDrXH79Z3%2Bc92M3%2FElHJg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIHAJDkokv7swEGBHtZm3caRAmlR1IDlBdIbx%2F%2BaTf5xqAiANI%2FshRlQAiMNXAQCLzFKrafsmXRY%2BN0uPQWcV5%2F1EYCqDBQgpEAAaDDczMTEwNjkzMjAzNCIMwmXw9PIu85wvjJjeKuAEQ4QE6Mar6n9MfQ%2F9slJB%2BZSRU123xhDl4b%2FmjkVNY%2Fh1x1BJvCtotvy2Scnh9f4vkNGQ0RNAA%2FVO%2FWQ9G4mc0MiDbEx1%2FUj7jMlXvqJfKT0KK6FPXHQv9kEERjXlgb6q7h9uYMomWIgZHBdAWYdK1GhqCx3BDMaItoOXvIKHOI0JXWhBEYMCohWm4ZlLMRM4dYmL%2FhC0NMY9lrk5s7yRtaxMpInaQnz5k6kUuZ2Adsl3FsJZNmmx8ljUEoUniXIwEOc4su%2F%2B5KRwJrV8GNdtQypSyWNuymDn9jMR80RA%2BzTCryBMuDWIfxAjmQoZpdSKzQS%2BCZQ2rwgfwpjIW2281hmSy4njiKw2EuA82NyFdQHjYy3FX5R51lGOq%2Fq8UCAbHPEg8JrOhLjB7rQwstixPe%2FD7rZgrHRZ6AbC7Mg1RU5usc4%2FwxzD4%2F6SI6pMV0n%2BY5bBLeM%2B4Osfa183chPFhBXTt3l8EnyGed9m%2BcgO58ashMejPHfgp%2FrZe4NLy5Sn0eK0qqd4BlIMt5zov3uURSHmtTTZiAq6WcgKbtI6SNpnfDUbi8TcyxdrEdYJHy6F8RE0n04FxmIbVmjUO3PPQQziFCgDQZfMV33P1QgnhVjtSWEIc%2FWVtTlWvkMuksRzsK0gBKaWkLJJXqjz34FyToyGDHb5NuiTz3oZcTKRVewCEx%2FP5BnuusjGhbvZYU%2BSHlb%2BnS%2F8bKJWVJ3mwt7emEh6b8CjDDV2uuMFKCIFNHRHBvQ9LU%2Br7cqoyMIpdobOid61N%2BQT%2FHOqvxENRi%2BYis2W%2F6r0lZtZwP5QptE2PVsw%2FNyOvwY6mwEBBOoQ4Uh9lBOSeDt4zUN2Ko2%2FWeDO2kK5oPJECn1UGw4ix74RDAPsfNl35Z1Ee66hbJTBUv5ZSnYM3dgbP4in9hXkFUyAxoDex2zVRSN1xyqSneNQpSUzq1E16XyoWhJMyjQwJiq%2BB8iWsHziXMJ2ozDiDHAh%2B8h8DaOoWaw7Xvvgof5evFjmap8W6TGXiHk3vGR3grgpFXGoXg%3D%3D&Expires=1742980869",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Clasif</th><th></th><th></th><th></th><th></th><th>AN</th><th></th><th></th><th></th><th></th><th></th><th>Tiempo</th><th></th></tr><tr><td>1.</td><td colspan=\"3\">PUERTAS RAMIREZ, Lucia</td><td></td><td>11</td><td colspan=\"3\">Navial</td><td></td><td></td><td>2:51.37</td><td></td></tr><tr><td></td><td>50m:</td><td>38.98</td><td>38.98</td><td>100m:</td><td>1:23.31</td><td>44.33</td><td>150m:</td><td>2:08.94</td><td>45.63</td><td>200m:</td><td>2:51.37</td><td>42.43</td></tr><tr><td>2.</td><td colspan=\"3\">BARRERA NOZAL, Angela</td><td></td><td>11</td><td colspan=\"3\">C.D.N. Cordoba</td><td></td><td></td><td>4:09.15</td><td></td></tr><tr><td></td><td>50m:</td><td>55.63</td><td>55.63</td><td>100m:</td><td>2:00.49</td><td>1:04.86</td><td>150m:</td><td>3:05.04</td><td>1:04.55</td><td>200m:</td><td>4:09.15</td><td>1:04.11</td></tr><tr><td>3.</td><td colspan=\"3\">BEJARANO MUNOZ, Bel\u00e9n</td><td></td><td>11</td><td colspan=\"3\">C.D.N. Cordoba</td><td></td><td></td><td>4:16.42</td><td></td></tr><tr><td></td><td>50m:</td><td>56.36</td><td>56.36</td><td>100m:</td><td>2:03.25</td><td>1:06.89</td><td>150m:</td><td>3:09.84</td><td>1:06.59</td><td>200m:</td><td>4:16.42</td><td>1:06.58</td></tr><tr><td>4.</td><td colspan=\"3\">PAJUELO MEDINA, Ana</td><td></td><td>12</td><td colspan=\"3\">C.D.N. Cordoba</td><td></td><td></td><td>4:19.34</td><td></td></tr><tr><td></td><td>50m:</td><td>57.09</td><td>57.09</td><td>100m:</td><td>2:05.26</td><td>1:08.17</td><td>150m:</td><td>3:13.75</td><td>1:08.49</td><td>200m:</td><td>4:19.34</td><td>1:05.59</td></tr></table>",
+        "embed": "<table><tr><th>Clasif</th><th></th><th></th><th></th><th></th><th>AN</th><th></th><th></th><th></th><th></th><th></th><th>Tiempo</th><th></th></tr><tr><td>1.</td><td colspan=\"3\">PUERTAS RAMIREZ, Lucia</td><td></td><td>11</td><td colspan=\"3\">Navial</td><td></td><td></td><td>2:51.37</td><td></td></tr><tr><td></td><td>50m:</td><td>38.98</td><td>38.98</td><td>100m:</td><td>1:23.31</td><td>44.33</td><td>150m:</td><td>2:08.94</td><td>45.63</td><td>200m:</td><td>2:51.37</td><td>42.43</td></tr><tr><td>2.</td><td colspan=\"3\">BARRERA NOZAL, Angela</td><td></td><td>11</td><td colspan=\"3\">C.D.N. Cordoba</td><td></td><td></td><td>4:09.15</td><td></td></tr><tr><td></td><td>50m:</td><td>55.63</td><td>55.63</td><td>100m:</td><td>2:00.49</td><td>1:04.86</td><td>150m:</td><td>3:05.04</td><td>1:04.55</td><td>200m:</td><td>4:09.15</td><td>1:04.11</td></tr><tr><td>3.</td><td colspan=\"3\">BEJARANO MUNOZ, Bel\u00e9n</td><td></td><td>11</td><td colspan=\"3\">C.D.N. Cordoba</td><td></td><td></td><td>4:16.42</td><td></td></tr><tr><td></td><td>50m:</td><td>56.36</td><td>56.36</td><td>100m:</td><td>2:03.25</td><td>1:06.89</td><td>150m:</td><td>3:09.84</td><td>1:06.59</td><td>200m:</td><td>4:16.42</td><td>1:06.58</td></tr><tr><td>4.</td><td colspan=\"3\">PAJUELO MEDINA, Ana</td><td></td><td>12</td><td colspan=\"3\">C.D.N. Cordoba</td><td></td><td></td><td>4:19.34</td><td></td></tr><tr><td></td><td>50m:</td><td>57.09</td><td>57.09</td><td>100m:</td><td>2:05.26</td><td>1:08.17</td><td>150m:</td><td>3:13.75</td><td>1:08.49</td><td>200m:</td><td>4:19.34</td><td>1:05.59</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9051217464315701,
+              "height": 0.22980997624703087,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Clasif</th><th></th><th></th><th></th><th></th><th>AN</th><th></th><th></th><th></th><th></th><th></th><th>Tiempo</th><th></th></tr><tr><td>1.</td><td colspan=\"3\">PUERTAS RAMIREZ, Lucia</td><td></td><td>11</td><td colspan=\"3\">Navial</td><td></td><td></td><td>2:51.37</td><td></td></tr><tr><td></td><td>50m:</td><td>38.98</td><td>38.98</td><td>100m:</td><td>1:23.31</td><td>44.33</td><td>150m:</td><td>2:08.94</td><td>45.63</td><td>200m:</td><td>2:51.37</td><td>42.43</td></tr><tr><td>2.</td><td colspan=\"3\">BARRERA NOZAL, Angela</td><td></td><td>11</td><td colspan=\"3\">C.D.N. Cordoba</td><td></td><td></td><td>4:09.15</td><td></td></tr><tr><td></td><td>50m:</td><td>55.63</td><td>55.63</td><td>100m:</td><td>2:00.49</td><td>1:04.86</td><td>150m:</td><td>3:05.04</td><td>1:04.55</td><td>200m:</td><td>4:09.15</td><td>1:04.11</td></tr><tr><td>3.</td><td colspan=\"3\">BEJARANO MUNOZ, Bel\u00e9n</td><td></td><td>11</td><td colspan=\"3\">C.D.N. Cordoba</td><td></td><td></td><td>4:16.42</td><td></td></tr><tr><td></td><td>50m:</td><td>56.36</td><td>56.36</td><td>100m:</td><td>2:03.25</td><td>1:06.89</td><td>150m:</td><td>3:09.84</td><td>1:06.59</td><td>200m:</td><td>4:16.42</td><td>1:06.58</td></tr><tr><td>4.</td><td colspan=\"3\">PAJUELO MEDINA, Ana</td><td></td><td>12</td><td colspan=\"3\">C.D.N. Cordoba</td><td></td><td></td><td>4:19.34</td><td></td></tr><tr><td></td><td>50m:</td><td>57.09</td><td>57.09</td><td>100m:</td><td>2:05.26</td><td>1:08.17</td><td>150m:</td><td>3:13.75</td><td>1:08.49</td><td>200m:</td><td>4:19.34</td><td>1:05.59</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

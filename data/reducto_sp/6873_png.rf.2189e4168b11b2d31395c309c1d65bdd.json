@@ -1,0 +1,36 @@
+{
+  "job_id": "eafdc78f-c450-49d8-a585-f2f971a152f8",
+  "duration": 147.67736387252808,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/2c403a5d-826b-4eb9-b383-603ebc8493a2.pdf?AWSAccessKeyId=ASIA2UOK6OVBCDAIV4U3&Signature=zbULWQq%2FCC%2BoDGaKmMNiVw8Umro%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIHMPcnNsUuoMEyg08atDN%2Bo8QKaNkZJ4UdEZyOdGFEQYAiBlPMci3dljitFN1TxjxE%2FMJyvq82Jic5R3mG6KMkaIgiqDBQgqEAAaDDczMTEwNjkzMjAzNCIMd4G%2BP0XNt%2FKs9pBhKuAE5ZEPcYdt205SLhxiIUEdvd60PC1J5YOrN1pbEFMEsXtDUXVOJxl9IwWROwL1rQLne%2Fq9nJXqcBu32ntdydX7iFnPkephqrIGbaHTIVvG7XjdLc2pQH9NiwVDIjuTJe%2BNQPzWDqRuTI3FlNqKpp5K%2F9MuofBvJirClzkO4YD2e3rkfkM2UAkFPe9nhrI8qJ%2BjeQTS0Ev9Ol5eBqlphnEyOP3%2BOhyh%2F1ACFSfqxLw8aD81977hLjHzQnaVtk%2F1o8oiHnRBkTaacTCu7xFamaOgBFZj9z9KB4WSbChx1ESNo%2FOgZyh8lLF%2B5LVhzA81cr46ty19zh53qLVv4oIoERTqPZpeKYZGbdlY9IvoTVtvqL7p6SKX71JT4WstLKPkG2dtfAKzf1vMWPsZtfFyrgAWLgudIc7uZcNUo5L89gZGbWRC7yItnNClNqRYN013ZLmaY3U4%2BNyKjQf2GsqhwhSA41d5NTwf3eFfuaTrnjYLwZJlnhNRlqMn5Ftq6O0Kxlwni8zkNGQdiPkxHVT9qjUUmuq%2FJL%2F%2BjM%2FzKnFek0pP7kD6jU4plxxQabcmZHTx4f%2FCLOTETOo6paTcGWt07Cxo9yDAfU%2BL1J8T0nGF77NfMKDTgxGgYYjL0HFb66ABSu8Q1%2Fk0A9gnHDgRxUsMJARrau1zaUpzSaTxPBZkIYeD%2FVMZ8sGvMw0RhM3AN9awcg3tVb3VT4EI0XXIRPAccHGOS4W%2Fwhv3noI0ZZ%2FUcYyYyKcLCLeewTWPVf1a1xD50sOAAge%2FbyiRXNbL8ulAacRh1A9EZL3AvgsO42ANkcKpzREww%2FKOvwY6mwGhmL9NW7q5WC7Jq9%2FTAHmvkqgzH7TyZK6T8qRVHeE2HUJ%2FeAQBaSJMdAHWYaE%2Bn2%2B19ckPnObuEEFbGPiCN9A7e%2B793d33cN7JRaE0Ch4bqGg4u9cHwBOVqL9F91T4N3QnslYi5eAcqAeZbdh%2BdUzzj15NwvziV2PtOsFeeKXOmiIccptVy%2BJ5v%2FVCPL6Vkg35KhfpJBAuVpjEZQ%3D%3D&Expires=1742980981",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th>2011/12</th><th>2010/11</th></tr><tr><td colspan=\"3\">Erh\u00e5llna bidrag fr\u00e5n Vinnova avser bidrag f\u00f6r \"detektor f\u00f6r kvalitetskontroll vid cancerbehandling\". Startdatum for projektet 2010-01</td></tr><tr><td>Erh\u00e5llna Vinnova bidrag</td><td>1 767</td><td>1 667</td></tr><tr><td>\u00d6vriga erh\u00e5llna bidrag</td><td>0</td><td>-10</td></tr><tr><td>F\u00f6rs\u00e4kringsers\u00e4ttningar</td><td>0</td><td>1</td></tr><tr><td>Totalt</td><td>1767</td><td>1 658</td></tr></table>",
+        "embed": "<table><tr><th></th><th>2011/12</th><th>2010/11</th></tr><tr><td colspan=\"3\">Erh\u00e5llna bidrag fr\u00e5n Vinnova avser bidrag f\u00f6r \"detektor f\u00f6r kvalitetskontroll vid cancerbehandling\". Startdatum for projektet 2010-01</td></tr><tr><td>Erh\u00e5llna Vinnova bidrag</td><td>1 767</td><td>1 667</td></tr><tr><td>\u00d6vriga erh\u00e5llna bidrag</td><td>0</td><td>-10</td></tr><tr><td>F\u00f6rs\u00e4kringsers\u00e4ttningar</td><td>0</td><td>1</td></tr><tr><td>Totalt</td><td>1767</td><td>1 658</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032660332541567694,
+              "width": 0.9017632241813602,
+              "height": 0.15380047505938244,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th>2011/12</th><th>2010/11</th></tr><tr><td colspan=\"3\">Erh\u00e5llna bidrag fr\u00e5n Vinnova avser bidrag f\u00f6r \"detektor f\u00f6r kvalitetskontroll vid cancerbehandling\". Startdatum for projektet 2010-01</td></tr><tr><td>Erh\u00e5llna Vinnova bidrag</td><td>1 767</td><td>1 667</td></tr><tr><td>\u00d6vriga erh\u00e5llna bidrag</td><td>0</td><td>-10</td></tr><tr><td>F\u00f6rs\u00e4kringsers\u00e4ttningar</td><td>0</td><td>1</td></tr><tr><td>Totalt</td><td>1767</td><td>1 658</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

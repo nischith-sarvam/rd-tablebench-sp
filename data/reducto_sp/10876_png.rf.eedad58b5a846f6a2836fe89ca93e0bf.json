@@ -1,0 +1,36 @@
+{
+  "job_id": "24a9e34e-0f8d-4508-9373-e2e21937cc21",
+  "duration": 178.12164783477783,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/60d8ca69-fbb7-45bd-9bbb-b0067d0e3f64.pdf?AWSAccessKeyId=ASIA2UOK6OVBA27JGDOP&Signature=kaR5OWwqmJ8n7euYrDwWPhTJkx8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIBD%2B5YqnFGXv4ZKJTisk24Y5u7u4ZygzAKYzHKVOHj4nAiEAz4jbDSHPDUC0k%2FJgzZm2nwe%2B0mW0gz9Gh4vK26%2B23FkqgwUIKhAAGgw3MzExMDY5MzIwMzQiDD3g8wRR5BYzxkZEKCrgBKE4iV1PQr8fpGkvGqujDUGHdvTNYWsF5DSnYq53nwsxu4BGr4JBkGNdXOiQt3kCKfbunKD3t3yiyB%2FD1tH%2Bb75H3zLzzR%2BvNRyNjVAaar43i4CWW3S1S716sVWZxkWNRFHowXoZFbp5rLKIq8MPty7YHvRwGCacEQaxWyFm1KNemiNTRLxXQhPWQ03hCJ2LaUmki2XuCm2Ym%2F%2B4%2By83TMvNIy%2BczfIwVZ9%2BxZgYKapHkRysbc08gUqNXed6XRZFHo2JRnAiFDNRg9VqmiDppAHdmunp62c8D43ljBpMFd3A33NFj0KltG6wstN01OWJPZ75N20X1fB63HAKDT%2BWBmpJLUaJ9V59A75IZ8pK1Jw2TbYRTE5Frzu%2BzJmL%2BKQUll8JRDBunNJaWtZvZb6Qq1X7f3kHcuJqKmJRuf2DxEndEOY3WCSMQ6aLeceyhmhUY0sUXBbLWLO1chqShrsnjBZ3LvlXB1ShoJ%2BGLbP9IHhVx4Zm7a2o9YMoorszv%2FGNxysOtsAmokKedKsyUrZB7JzFkUxXZ0v%2BPoxvLp8%2F0JafW0tKXwLoElpl7iQOEtAIkDPOThbZGdoxwc%2BewiU14pFEfcHZEJP3tkLDLPKanrtiJFuCMBQaH8OAkH%2FyNQRPP7CX1p1C1hTYs%2FstskWtnIZnIlfMNgOh%2Fl0vNQGRKcTI1RBOU75NSehd1xPS9qYCWmAZxy8MyVFXCuC7N6UnL8cC8J%2Ba%2FFL1%2F%2FpCfBZ3urDzC4heZfIWJec82oKyNgHORg5R%2BKHNmNWkLIOkoIzsolxzw6YVK4OJRpDWlOHIfEfMMI3zjr8GOpoB%2FJ0UeytTm2f6YNYkKKj9kLEhvdXyQla93ocKGpV06GPVq97%2FqQYM4m0gcavMLCt%2FdK7Xrgqhb01CufpTud6cV4L4mMzftCRXXDLSvCdgqbEA5CIwXSlzH5OsmvMCGgYDe%2FJOchXDvVaynJ5DdpbRV%2Ft7h5tiDTjvNkCC4DXhOLudpsuf0L%2FMb6Ja3E0X2Tn4k1RdFhO99871UA%3D%3D&Expires=1742981029",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"2\" colspan=\"2\">\u5e74\u7d1a \u4eba\u6578</th><th colspan=\"7\">\u570b\u5c0f</th><th colspan=\"4\">\u570b\u4e2d</th><th colspan=\"4\">\u9ad8\u4e2d</th></tr><tr><td></td><td>=</td><td>=</td><td>\u56db</td><td>\u4e94</td><td>\u516d</td><td>\u5c0f\u8a08</td><td>\u4e03</td><td>n</td><td>\u4e5d</td><td>\u5c0f\u8a08</td><td>-</td><td>=</td><td>\u4e09</td><td>\u5c0f\u8a08</td></tr><tr><td colspan=\"2\">\u666e\u901a\u73ed\u5b78\u751f\u6578</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">...</td><td>\u7537</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>5</td><td>9</td><td>8</td><td rowspan=\"2\">89</td></tr><tr><td>\u5973</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>25</td><td>21</td><td>21</td></tr><tr><td rowspan=\"4\">#...</td><td>\u042f...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>#th...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>\u539f....</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>\u50d1\u751f</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"2\" colspan=\"2\">\u5e74\u7d1a \u4eba\u6578</th><th colspan=\"7\">\u570b\u5c0f</th><th colspan=\"4\">\u570b\u4e2d</th><th colspan=\"4\">\u9ad8\u4e2d</th></tr><tr><td></td><td>=</td><td>=</td><td>\u56db</td><td>\u4e94</td><td>\u516d</td><td>\u5c0f\u8a08</td><td>\u4e03</td><td>n</td><td>\u4e5d</td><td>\u5c0f\u8a08</td><td>-</td><td>=</td><td>\u4e09</td><td>\u5c0f\u8a08</td></tr><tr><td colspan=\"2\">\u666e\u901a\u73ed\u5b78\u751f\u6578</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">...</td><td>\u7537</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>5</td><td>9</td><td>8</td><td rowspan=\"2\">89</td></tr><tr><td>\u5973</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>25</td><td>21</td><td>21</td></tr><tr><td rowspan=\"4\">#...</td><td>\u042f...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>#th...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>\u539f....</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>\u50d1\u751f</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9034424853064652,
+              "height": 0.2375296912114014,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"2\" colspan=\"2\">\u5e74\u7d1a \u4eba\u6578</th><th colspan=\"7\">\u570b\u5c0f</th><th colspan=\"4\">\u570b\u4e2d</th><th colspan=\"4\">\u9ad8\u4e2d</th></tr><tr><td></td><td>=</td><td>=</td><td>\u56db</td><td>\u4e94</td><td>\u516d</td><td>\u5c0f\u8a08</td><td>\u4e03</td><td>n</td><td>\u4e5d</td><td>\u5c0f\u8a08</td><td>-</td><td>=</td><td>\u4e09</td><td>\u5c0f\u8a08</td></tr><tr><td colspan=\"2\">\u666e\u901a\u73ed\u5b78\u751f\u6578</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">...</td><td>\u7537</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>5</td><td>9</td><td>8</td><td rowspan=\"2\">89</td></tr><tr><td>\u5973</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>25</td><td>21</td><td>21</td></tr><tr><td rowspan=\"4\">#...</td><td>\u042f...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>#th...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>\u539f....</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>\u50d1\u751f</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

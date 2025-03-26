@@ -1,0 +1,36 @@
+{
+  "job_id": "a60ef6d3-16bb-432f-9bb4-943eecfbeceb",
+  "duration": 190.54047775268555,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/730aa52c-6f3a-423a-b6d1-2ffdfed03707.pdf?AWSAccessKeyId=ASIA2UOK6OVBBQ3V4TQX&Signature=42TlvKFLBS2Q4bzmkgZFBdx3xOQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDwIwp2a93Aslh11%2B6SvwfdIay%2BF558loSv8qxdtbHjQAIgIaa6ZaHG9fj5MlFoCqZRxcIxHwrpK56KEWblBAqJo1kqgwUIKRAAGgw3MzExMDY5MzIwMzQiDJxHZjI9egFBc4wA8irgBIGDCbVe0TE69iPiPABXHuEl6cccliLFTIltTvaIzLlgDoFA%2FzNqnMKR4CU3e6e1rqOgqUXJSfUDWUFyaa%2F253ENoL6HTNVk07hjal%2BROlKg6AfWdN8%2FNruG4GMy7gulxbhXIcKddubjLG66S%2FXJKIdISBkfddCZxo2y2WHQV0i16LUZ2Llov1A13CxccG1gfOx6DOkS8m3iQZk7PNCF6eHaNe4tMEupFB9rZwSJUs2MA2zrjq4WkHnfTdeeWbTUWZJUAkg1wp6sacSvggGBdvtlrFgv%2BgbYa0eEKCmDKb2iVbq4uYHcnH9RbF6NAmgsgLMbwVoGk7y6AO0QIhZJBVhvfBstP2SnkHH86aJDGuZC36bfDYO%2FvuPxgh7C%2B6KJMrdAWiTLDn%2BbZav6AO%2F8HH8%2FJXYf2XAbPpoMKyX7IqjuyHpVBQEVFbPxHIahq77qj5e8FFPqLVthtWg3Bl55KDvjn9QWI21aga1p8onMO%2FpHtzrTASrKWHWzijDyFmGg8tVZXaWmjzZroXxqrFd0VvQOTXlShuV2WPB7eDnQ%2F6nWj2DghXp7REqhUgeFv%2FSPh4tr4bBck6zpMWQuYfCkJAfiziuXzY%2F6LTkK%2BKIQ4L42ZFomTbm%2BYAnLvkWstco%2BcwZSPxqzwa77KFij0tuzXQQF48RS8u%2Bk1siVgJedJ4lcv3nK7%2FAlFG6L%2Fc69stVEysT1jZ%2F%2BH03baFjmG2mVCZWBER%2BD%2BtRGFqZ3jLZyKn1RHOlF1HmQp2MAXTk%2BxCOWwLOKbOxw2nSz%2Bn0ZA5P0oCgen%2B68u4cmHWdyR%2ByuNpJ1ML%2Fvjr8GOpoBACuykxsMLtVbZow5qZy%2F%2F1kykaPijm9fM42ETMfj4DMByX8boKBQRXKkzmvDTcoIdUklsVOulTzRSvJ6MCgRsEhy7sUFSAZGKAs0pux7jTNcezkPAo5ezv2UrM0XSWwSHgZsaF3oYMF2wsPvgl%2ByTeazd8DSwQDZ3rERonL2frjZbU3qabMSHXshd4Ym6NSsz8ma0CZtOOEoCg%3D%3D&Expires=1742981027",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Teatro d'Annunzio</th><th></th><th></th><th>Settore numerato</th><th>Settore NON numerato</th></tr><tr><td rowspan=\"2\" colspan=\"2\">19, 20, 21 giugno - ore 21,15 ...</td><td></td><td>\u20ac 23</td><td>\u20ac10</td></tr><tr><td>Bambini fino a 12 anni</td><td>\u20ac 10</td><td>\u20ac 5</td></tr><tr><td rowspan=\"2\" colspan=\"2\">22 giugno - ore 21,15 THE B...</td><td></td><td>\u20ac 15</td><td>\u20ac 10</td></tr><tr><td>Bambini fino a 12 anni</td><td>\u20ac 5</td><td>\u20ac 5</td></tr><tr><td rowspan=\"2\" colspan=\"2\">CARNET 2 spettacoli</td><td></td><td>\u20ac 28</td><td>\u20ac 15</td></tr><tr><td>Bambini fino a 12 anni</td><td>\u20ac 15</td><td>\u20ac 10</td></tr></table>",
+        "embed": "<table><tr><th>Teatro d'Annunzio</th><th></th><th></th><th>Settore numerato</th><th>Settore NON numerato</th></tr><tr><td rowspan=\"2\" colspan=\"2\">19, 20, 21 giugno - ore 21,15 ...</td><td></td><td>\u20ac 23</td><td>\u20ac10</td></tr><tr><td>Bambini fino a 12 anni</td><td>\u20ac 10</td><td>\u20ac 5</td></tr><tr><td rowspan=\"2\" colspan=\"2\">22 giugno - ore 21,15 THE B...</td><td></td><td>\u20ac 15</td><td>\u20ac 10</td></tr><tr><td>Bambini fino a 12 anni</td><td>\u20ac 5</td><td>\u20ac 5</td></tr><tr><td rowspan=\"2\" colspan=\"2\">CARNET 2 spettacoli</td><td></td><td>\u20ac 28</td><td>\u20ac 15</td></tr><tr><td>Bambini fino a 12 anni</td><td>\u20ac 15</td><td>\u20ac 10</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9034424853064652,
+              "height": 0.19477434679334918,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Teatro d'Annunzio</th><th></th><th></th><th>Settore numerato</th><th>Settore NON numerato</th></tr><tr><td rowspan=\"2\" colspan=\"2\">19, 20, 21 giugno - ore 21,15 ...</td><td></td><td>\u20ac 23</td><td>\u20ac10</td></tr><tr><td>Bambini fino a 12 anni</td><td>\u20ac 10</td><td>\u20ac 5</td></tr><tr><td rowspan=\"2\" colspan=\"2\">22 giugno - ore 21,15 THE B...</td><td></td><td>\u20ac 15</td><td>\u20ac 10</td></tr><tr><td>Bambini fino a 12 anni</td><td>\u20ac 5</td><td>\u20ac 5</td></tr><tr><td rowspan=\"2\" colspan=\"2\">CARNET 2 spettacoli</td><td></td><td>\u20ac 28</td><td>\u20ac 15</td></tr><tr><td>Bambini fino a 12 anni</td><td>\u20ac 15</td><td>\u20ac 10</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

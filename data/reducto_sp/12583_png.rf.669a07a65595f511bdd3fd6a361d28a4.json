@@ -1,0 +1,36 @@
+{
+  "job_id": "e5ae87ca-6f41-41f9-97a8-955910c15aad",
+  "duration": 23.291635990142822,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/56bbfa8c-5f22-4941-9b05-0b1e0c99a1ea.pdf?AWSAccessKeyId=ASIA2UOK6OVBPGAKLQPG&Signature=24ru6mmtw%2BBmF2K9p0QCbufeS2E%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIC%2BA5MTQLA%2F8JunPzLNSk8eGxsS8Ow6%2FT%2BWTWgOtZ9HoAiAiCixENBkXrV4ooV6%2BRaanzjRxUJrGJ0g0kExtM7wpeSqDBQgqEAAaDDczMTEwNjkzMjAzNCIMVrqTZexVDxIa%2BLuwKuAE4pbCjk3a45u1uWHwX6pLtBaTI98E%2B3aEcGrm1olGEkA%2F3vdS36wFMH%2BJlPIHCIpDn%2BrCpTt8SWSUoJfx%2FtzTCK5GTMX8Nm7l14MTaCOZ32dzvzocCGCFMwOufE9YRvzHsYuB4P2C5QeVaWWPhYsZ2%2FFqecUjvPxhnGK%2FHbzf9dQ90iu8t5I2X%2B8OMQAZKg2ADfke%2F5aGkumfqbfcgMD7l%2BZVtbMpypUHX5g7SJBnZFies6Tshw7tJwmXLdCH90FXejRNxiFFeDozC1q0noku0RPhHGKlbpbLJ5ob5RUUjxBD130C7KgMMNnlJ2NtkqyYFJhJ7T6ICqWB%2FUmsszrcXLlAxnYkg74g5KzXdHNl57s8WeeKj4iZtv94wtL%2BiFwP1gK99kxACyxjuuNr2zec8J3lLEqllo6mv42Pstw2bxBAEblciXC%2BU4Y%2BOCZ9f%2FnTwvPfhiUV8xKFH7stRHfkJ2aG%2Bw5IeBnG8eQiyvXTmpRvBmu75lRFDC6u59bO%2BXRwfp%2BQ4NgzusMldBN2h4pwCRy7mV%2BamEGzsSgXQ43DKzfqCLWLE%2FhZBh7ejYrFl3nWANoYoX%2FxhddhFHvVlW0n5hxpoU%2B8ybPsIYdhSMpeIgTz54FVOmo6pWXAo%2FUPCXi4sh2h5l24RtuLAi3OKrGY%2FTUoQqh82aEcdLaP44FAmqUQ6F7EpFSjGgRIEp5Efg%2FqsZT9RwFE142o7o57e8NVhCNqUONabp0w5%2F1S3Va%2BaQKRWEL%2Fl75LnhD%2BGGc%2B2QqdCUBb8fXC8iUJNavwTPDFeGqeFOlLsjiayJ2SpzFpP%2FYwvP2OvwY6mwE4VPhRTOQ%2BmBgwxF7iAZuW%2BaPI30bH7O1ShKf%2BTCp7jNRy3d%2FKfSOj0eH9ODdN2WvUr8XUdf1rMm76WnGXnujsJP16lSz65uwk%2Bz13XBi%2F5OwvVsiZH19ybk%2BTVzBXZnTy9oqRvomrval3dYon8J4T9lcp3isbNUoyQxmoao5I8p9dEKQBK8xlS8PfY6XJOtEnjVFuyev9cvWTEg%3D%3D&Expires=1742984405",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Existing businesses</th><th>6.0%</th><th>5.0%</th></tr><tr><td>Acquisitions</td><td>3.0%</td><td>2.5%</td></tr><tr><td>Currency exchange rates</td><td>(1.5) %</td><td>(2.0) %</td></tr><tr><td>Total</td><td>7.5 %</td><td>5.5%</td></tr></table>",
+        "embed": "<table><tr><th>Existing businesses</th><th>6.0%</th><th>5.0%</th></tr><tr><td>Acquisitions</td><td>3.0%</td><td>2.5%</td></tr><tr><td>Currency exchange rates</td><td>(1.5) %</td><td>(2.0) %</td></tr><tr><td>Total</td><td>7.5 %</td><td>5.5%</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9051217464315701,
+              "height": 0.10273159144893111,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Existing businesses</th><th>6.0%</th><th>5.0%</th></tr><tr><td>Acquisitions</td><td>3.0%</td><td>2.5%</td></tr><tr><td>Currency exchange rates</td><td>(1.5) %</td><td>(2.0) %</td></tr><tr><td>Total</td><td>7.5 %</td><td>5.5%</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

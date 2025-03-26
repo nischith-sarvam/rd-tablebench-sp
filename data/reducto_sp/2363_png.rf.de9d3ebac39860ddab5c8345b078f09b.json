@@ -1,0 +1,36 @@
+{
+  "job_id": "b92d935f-25a6-465c-bd1a-114e2aa3bcb6",
+  "duration": 127.72980237007141,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/8d413a18-ef75-4480-a618-e80265e98560.pdf?AWSAccessKeyId=ASIA2UOK6OVBOIOISOKS&Signature=Y7gcZ9N4y3qiwwQ4%2FXB3wyN4ZL4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCTrfk9EfuEi5klLuQsJSifC8xRA7acXYKklClqjahZJwIhAN8ka%2F%2F%2FmH3Diqkq6HtxQJTEgAG7l9yyps0fwjmj7PpDKoMFCCkQABoMNzMxMTA2OTMyMDM0IgwSFzTGmiGL3gfqkBoq4ASIcP4%2FQJrZ6IKoq6QRMzVGOhao7lOP5QZrAuDmZ5dtiQGXBaGVQvCcndLlNr2mEZ%2Br%2F3Yyj0SOOGAJ67htu54a86rC2JFIVknhFXliUxzLDvL5zjyFxnDn646PRJM46%2Bji9J9DrkrrRImGIsfoxSo3yXFf8tZ4CBhNmu%2FwHeDeZhrkx94xb1roCAqSLpJ6zM48NPEpB471LZyqPxAirqGyfigz%2B7WqSNpgV%2B2nHxmGuRb9sFXZybnnQBaFgpjXA4nwD8jnFEE1RByN5s2JKrIfeiqbfZCOgxQBxI%2FkP%2FNv%2BtRZa%2F4JEaqJYmrH8MGY2q%2BvFb4Eco1wCYM7240MwcFCEWqtvjTI2FqPGS%2F21rouQzoqnVXHGdNhSAiN%2BT%2Fl0mWi1a3MNqRUmIfVBVN1rqFn7VPVmZX9sDdiEjslPODBv2LMsoJONW6X0i5H532QURw9Fcp9s4uS6LkKf9AmkDp5skDKeKko9hBLCV%2Bq1E32ppw4bw7NGPQYdGa6OvqJZQXYSPAShrh3c4rCv0aSxGiForttTpJcNCwVF%2Bel1iMoOH47Yc0vrTpw%2BnjEQA2KWpU8c8pBD7PwSagRoe181wO8ZkkdMxy4s7zN8yL2o95p3rhjNWFt7SpRYWDBw1QK6yrH4JYOEGlKF8wLahG9blphBV2t2351z4RIdZ9DNMks5aJSXxhcckxyTNe9M8tb%2Bdx44FeNcaF3yXnS4AnL6gxnF8EkTw7teLwmhU6LSvttrkWlpt76Myi6x9BX0H%2FyJQLNsDAPUOto6Vjz08fTXx%2B%2FPOaTZ1lenNQthBUx6d720jDR5Y6%2FBjqZAS8yPBMyZ8AQR1euQ%2BC2YYCZJHZnWGmIf3zg2SEnGRchCxS0Tiki0wBQhkATPnBGor9n%2FThEKzJDzglZczFPNvDrHQEJ3Cq%2FuPr26zv8YZwCg8E4TluDvzzkzATET%2FgXwEWY8JFREA7kKt%2FV6Ch0NKpUl8S0wclyp6fJzGdrxWZ%2F31gphkxpN5GNFVoX9VHnah2WXHbXUN2H8w%3D%3D&Expires=1742980955",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>No \u03c0\u03af\u03c0</th><th>\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0438</th><th>\u0421\u0443\u043c\u043c\u0430, \u0442\u044b\u0441. \u0440\u0443\u0431.</th></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td></td><td>| \u042d\u0444\u0444\u0435\u043a\u0442 \u0434\u043b\u044f \u0440\u0430\u0441\u0447\u0435\u0442\u0430 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u044d\u0444...</td><td></td></tr><tr><td></td><td>\u0421\u0443\u043c\u043c\u0430 \u043f\u043e\u0442\u0435\u0440\u044c \u0431\u044e\u0434\u0436\u0435\u0442\u0430, \u043e\u0431\u0443\u0441\u043b\u043e\u0432\u043b\u0435\u043d\u043d...</td><td></td></tr><tr><td></td><td>\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c (3)</td><td></td></tr></table>",
+        "embed": "<table><tr><th>No \u03c0\u03af\u03c0</th><th>\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0438</th><th>\u0421\u0443\u043c\u043c\u0430, \u0442\u044b\u0441. \u0440\u0443\u0431.</th></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td></td><td>| \u042d\u0444\u0444\u0435\u043a\u0442 \u0434\u043b\u044f \u0440\u0430\u0441\u0447\u0435\u0442\u0430 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u044d\u0444...</td><td></td></tr><tr><td></td><td>\u0421\u0443\u043c\u043c\u0430 \u043f\u043e\u0442\u0435\u0440\u044c \u0431\u044e\u0434\u0436\u0435\u0442\u0430, \u043e\u0431\u0443\u0441\u043b\u043e\u0432\u043b\u0435\u043d\u043d...</td><td></td></tr><tr><td></td><td>\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c (3)</td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032660332541567694,
+              "width": 0.9034424853064652,
+              "height": 0.12885985748218529,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>No \u03c0\u03af\u03c0</th><th>\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0438</th><th>\u0421\u0443\u043c\u043c\u0430, \u0442\u044b\u0441. \u0440\u0443\u0431.</th></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td></td><td>| \u042d\u0444\u0444\u0435\u043a\u0442 \u0434\u043b\u044f \u0440\u0430\u0441\u0447\u0435\u0442\u0430 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u044d\u0444...</td><td></td></tr><tr><td></td><td>\u0421\u0443\u043c\u043c\u0430 \u043f\u043e\u0442\u0435\u0440\u044c \u0431\u044e\u0434\u0436\u0435\u0442\u0430, \u043e\u0431\u0443\u0441\u043b\u043e\u0432\u043b\u0435\u043d\u043d...</td><td></td></tr><tr><td></td><td>\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c (3)</td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

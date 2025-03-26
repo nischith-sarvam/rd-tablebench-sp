@@ -1,0 +1,36 @@
+{
+  "job_id": "b19d4da8-e13e-4c17-a171-0ec79dd93ba8",
+  "duration": 198.11074709892273,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/138d8f05-4bd6-42e8-917a-86aeca336ca6.pdf?AWSAccessKeyId=ASIA2UOK6OVBFPDDRFUI&Signature=1yxKoMBg2zybuIM8YrRdL8mjqfc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIB%2FWquf2TSFY74eei%2B0xqzEklugzFC0BWKWodpoyFh79AiAyqCtErW2FLOkuEtzXNgyc6oKnQqLMWQp1vNcdg%2B1IUiqDBQgqEAAaDDczMTEwNjkzMjAzNCIM5XxK7OCE7vMw4TcSKuAE6E4dEqUkWJKdT%2BdXNJzFwp3PMsvwQV1D5kxiA0M5A%2FiA5towg0e2lyx5nuyE%2FC0viwAJ3YRhmZqYJo4MdajD9WPu%2BEMm0xAPZkeo6Gs%2FLx6NA5QSKIxZTfJPe0tbSdVEWty2o1nfHrl488vNf0JUs0R5LCWUcm6CLc9d2eYbNz2a77quQbow%2F00Y02%2B0ISv5XUp2kQ6azKChUnTnmjSK7NcfjhVww%2BDDVqXPF2VlQNmRkGQVmhDU62sw5X6BqaJppTVDmtCGVGqNZa%2FgDKU9UkjbDrbq7A0JtF1%2BkUv8a3GcLsBbMgxp%2BRU9sfiLaFIFfpuyGWhDIjlx6jb0uP6eM5sEIOM%2F71zNDKCRFTx099boxmBgqYLLtCM%2FZVIQP9%2Fd5rj2qEB%2BhDAtyZ%2BKOUbbl9XQ0zk9Jqg4sMA1%2BIRFhJ%2BbKHw8o9MafFimdUEzdgMpR78%2BO17%2BP0Q9Ej08w%2F7Fg0R5vNCQkxKAjVATSE%2FGtvUUCtCd%2BxYmAKbDtTnvEF25E4uPEpmJ9heNaz%2BzpqkMlqSd6X1SyNcta1fy0%2BDuQxY8ravuc6Uru6yU9Qo%2B%2FDsZDxedwhFw%2B%2FI006hAMGjKUTUQyQkFvW8cjrLZUaJEowKrS8pDDy9mIX9QL%2B5cuWkBzQdIK4nc%2FfCmZh2Pl%2FI0QvABrS6y8zKXYR9OUI3dqe4WDXNtktJhFxYjM0Af%2FoJIgZA7m%2FH5Wccn1EHxiFr6%2FPrO2OdhqDl7nIqXsU5BTnMIOCvNpdO8LsZthPUnXqNK2Drn76uypg3jezeCgLJBDHhytNjGImfBzyvC2nGQf5YwjPOOvwY6mwHpZMAFnXSREjUoOdcGENjyijr9qjb638EEOZWtrhk6DNRSQiH6BOxvWm%2FcOe1VDJtnazsOQLj3sig88216%2BGwtjojJUaeZLxuGotg%2FsdA2uCprh1Rp20bwx11dsSz709JEoHq1jKj09%2Fe%2FX%2BPtVhuxEFrHXqZwewMbAGFh7zOExl5IqWSGrDL7FJ8%2Bhvspxx2j54kvz3ecnqO69w%3D%3D&Expires=1742981029",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"4\">KLASSE D</th></tr><tr><td>Haak en Hoek 5 -</td><td>Kroon Groenlo 5</td><td>396</td><td>445</td></tr><tr><td>Haak en Hoek 7 -</td><td>Groene Jager Barchem 3</td><td>383</td><td>386</td></tr><tr><td>Haak en Hoek 6 -</td><td>Overkamp 2</td><td>378</td><td>420</td></tr><tr><td>-</td><td>-</td><td></td><td></td></tr><tr><td>-</td><td>-</td><td></td><td></td></tr><tr><td></td><td>-</td><td></td><td></td></tr><tr><td></td><td>-</td><td></td><td></td></tr></table>",
+        "embed": "<table><tr><th colspan=\"4\">KLASSE D</th></tr><tr><td>Haak en Hoek 5 -</td><td>Kroon Groenlo 5</td><td>396</td><td>445</td></tr><tr><td>Haak en Hoek 7 -</td><td>Groene Jager Barchem 3</td><td>383</td><td>386</td></tr><tr><td>Haak en Hoek 6 -</td><td>Overkamp 2</td><td>378</td><td>420</td></tr><tr><td>-</td><td>-</td><td></td><td></td></tr><tr><td>-</td><td>-</td><td></td><td></td></tr><tr><td></td><td>-</td><td></td><td></td></tr><tr><td></td><td>-</td><td></td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0344418052256532,
+              "width": 0.9026028547439127,
+              "height": 0.20190023752969122,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"4\">KLASSE D</th></tr><tr><td>Haak en Hoek 5 -</td><td>Kroon Groenlo 5</td><td>396</td><td>445</td></tr><tr><td>Haak en Hoek 7 -</td><td>Groene Jager Barchem 3</td><td>383</td><td>386</td></tr><tr><td>Haak en Hoek 6 -</td><td>Overkamp 2</td><td>378</td><td>420</td></tr><tr><td>-</td><td>-</td><td></td><td></td></tr><tr><td>-</td><td>-</td><td></td><td></td></tr><tr><td></td><td>-</td><td></td><td></td></tr><tr><td></td><td>-</td><td></td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

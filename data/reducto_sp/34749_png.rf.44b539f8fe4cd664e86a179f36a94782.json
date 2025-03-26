@@ -1,0 +1,36 @@
+{
+  "job_id": "054a25e4-772c-4f8d-afb0-809de1ef32cf",
+  "duration": 193.15057063102722,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/b6ce0003-fe84-482b-893d-87b0ab9a6e2d.pdf?AWSAccessKeyId=ASIA2UOK6OVBLFHLZGEI&Signature=jm%2FSflM9zer8hqmYTjBlqglQX9A%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIEafkjRgHRxw06bSb9PS2febIS%2Be6D94KGCS0H6sn7mDAiEAnZKgZY7ynrz2jJXeGTTLPJ2j25AgRxf4N0gQG3ta6hIqgwUIKhAAGgw3MzExMDY5MzIwMzQiDM7jO2xMWoMky%2BurqyrgBKiUSwHaMkl06paD%2BCe678vXnu9g8q%2F5w5jA%2ByG8kknaqp5Ha42ijoXMZa7AY8gNScRfXiJI0eRu58a3491kv2WWS%2BsFdaNCImS5Y1KK0C%2BEZUHPPAUcECfMrGGmxfcTJo6muZZpLvZfggtk9JNWjbGcCYL1S0xgCKGioEIBTBzsTK67rdRnTX%2B7Gmnqyi%2FTTo1NS7CHAdxdR5F%2BAum5WtoIIluTaAy5Xy0S47pE8%2F3hxKqLaPUmLpbjJTbtjARDuE%2B28Zs9XTodOdDDYsygwOWSBUf61xN2Tl3U%2FhIV6C5WnAJcgxvGXZldNUQ8jZmM3OoeUnihiUuvBzXxNKowQ9tJPQNy2QGjMFh01mY0vrZ3LtIbUC%2B6tJ1IXaA1iV3NbUcHG1287lBD0b70AVaFMx0zm5KgJ5iKzjLI11qSQ3fJ57fO8K0vc4zzzpAFkXjG%2BC%2BAYiTBwnjM6cEeje%2FBCyRwxw%2B%2FLtqhPxBMOUsXo%2F6%2BaqbNZFoY1yfUFobMyw2bJYB9RGaym2%2FhBg7NmdgMOF8bRt55nbnkFw2neCujySflrj8eRGU0EtV5xpv%2FvD9Q1SQIbPCkmeqB6uUPVJ%2BcRNvgrMKT%2BUlDThp4hOYMklnrow6pjVUz0%2BnFzXTkqQfreI5DNsqiol%2F1dJ1bRB4u1Knv0c2Gq%2BilKSK6vNthxy98CiX9ilsD0kVU67iZJLs3JMrID4fMzIbdVvYRPzGxbPBOQpRSVktDdwswJ5uDGKueEWyHAYr%2BbZLkwoeujVaT1YUb0XiHW4eNadGSNKjPtWZHAgo4Rd7eQ1vN0zZmVR%2B8MI3zjr8GOpoBsiIljdIs%2Fj5zlLrKXwwtiWHCf0nNcnUKTM2%2BQJuJs4OrHTHzkDO17%2BLJcIHFPjlBm05pBi6f6gM1tGf9ET0F5AnRm7r63TKsZPZ4JUGsm%2Fr8NX1Ee%2B2eGp%2BJDNxLjQmrl4mopwmY9IWBFAGi7LgtCii4lAuJ8vS9IcGrSinMT%2BrlPzpo%2Bo%2BIAiaaAp5H9rI33P3KDJAXFQrJCA%3D%3D&Expires=1742981028",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th colspan=\"3\">c/kWh Fuel</th><th>$/kW Capacity</th><th>c/kWh Environm</th></tr><tr><td>Rate Schedules</td><td>Standard</td><td>Peak</td><td>Off-Peak</td><td></td><td></td></tr><tr><td>GSD, GSDT, SBF,...</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Secondary</td><td>4.255</td><td>4.620</td><td>4.099</td><td>0.52</td><td>0.265</td></tr><tr><td>Primary</td><td>4.212</td><td>4.574</td><td>4.058</td><td>0.51</td><td>0.262</td></tr><tr><td>Subtransmission</td><td>4.170</td><td>4.528</td><td>4.017</td><td>0.51</td><td>0.260</td></tr><tr><td>IS, IST, SBI</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Primary</td><td>4.212</td><td>4.574</td><td>4.058</td><td>0.45</td><td>0.254</td></tr><tr><td>Subtransmission</td><td>4.170</td><td>4.528</td><td>4.017</td><td>0.44</td><td>0.252</td></tr></table>",
+        "embed": "<table><tr><th></th><th colspan=\"3\">c/kWh Fuel</th><th>$/kW Capacity</th><th>c/kWh Environm</th></tr><tr><td>Rate Schedules</td><td>Standard</td><td>Peak</td><td>Off-Peak</td><td></td><td></td></tr><tr><td>GSD, GSDT, SBF,...</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Secondary</td><td>4.255</td><td>4.620</td><td>4.099</td><td>0.52</td><td>0.265</td></tr><tr><td>Primary</td><td>4.212</td><td>4.574</td><td>4.058</td><td>0.51</td><td>0.262</td></tr><tr><td>Subtransmission</td><td>4.170</td><td>4.528</td><td>4.017</td><td>0.51</td><td>0.260</td></tr><tr><td>IS, IST, SBI</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Primary</td><td>4.212</td><td>4.574</td><td>4.058</td><td>0.45</td><td>0.254</td></tr><tr><td>Subtransmission</td><td>4.170</td><td>4.528</td><td>4.017</td><td>0.44</td><td>0.252</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.0436607892527288,
+              "top": 0.032660332541567694,
+              "width": 0.9051217464315701,
+              "height": 0.22980997624703087,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th colspan=\"3\">c/kWh Fuel</th><th>$/kW Capacity</th><th>c/kWh Environm</th></tr><tr><td>Rate Schedules</td><td>Standard</td><td>Peak</td><td>Off-Peak</td><td></td><td></td></tr><tr><td>GSD, GSDT, SBF,...</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Secondary</td><td>4.255</td><td>4.620</td><td>4.099</td><td>0.52</td><td>0.265</td></tr><tr><td>Primary</td><td>4.212</td><td>4.574</td><td>4.058</td><td>0.51</td><td>0.262</td></tr><tr><td>Subtransmission</td><td>4.170</td><td>4.528</td><td>4.017</td><td>0.51</td><td>0.260</td></tr><tr><td>IS, IST, SBI</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Primary</td><td>4.212</td><td>4.574</td><td>4.058</td><td>0.45</td><td>0.254</td></tr><tr><td>Subtransmission</td><td>4.170</td><td>4.528</td><td>4.017</td><td>0.44</td><td>0.252</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

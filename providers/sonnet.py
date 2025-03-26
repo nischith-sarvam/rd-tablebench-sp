@@ -97,7 +97,7 @@ def process_all_pdfs(pdfs: list[str]):
 
 
 if __name__ == "__main__":
-    torerun = ['999' ]
+    torerun = ['18258', '6417']
     rerun_pdfs = [file for file in pdfs if any([file.startswith(f"../data/pdfs_sp/{pdf}") for pdf in torerun])]
 
     # rerun_pdfs = [file for file in pdfs if file.startswith("../data/pdfs_sp/27253") or file.startswith("../data/pdfs_sp/3794")]

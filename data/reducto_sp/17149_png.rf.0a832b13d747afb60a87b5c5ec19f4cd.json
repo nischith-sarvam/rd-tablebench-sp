@@ -1,0 +1,36 @@
+{
+  "job_id": "84d89942-1905-4482-9a4c-9ccf95ede90e",
+  "duration": 174.95576357841492,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/1fcbcf40-108f-471b-849e-4e9f538e3e5d.pdf?AWSAccessKeyId=ASIA2UOK6OVBPXEJ37MJ&Signature=1OfWQfmB0k5X3uCSD9ueXkFLrl0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIAmGKmDtEA5OJiLrgFf0AZHSug90oSemdSvtA48VM43pAiEAvkcTLTI21mQDG2v89RZ7L1mR0OmoHPJxakvQ0grcVuwqgwUIKRAAGgw3MzExMDY5MzIwMzQiDBvlKDrJBUv%2BEFt%2FmyrgBOO37gyKDbTGccXTiRAYoa1%2F2hVMTCrw4WuEHBKnZhRqKvskZm9p9XQzoiTtNZjfyHtO5FQ9yZE92DxuQfouhlD%2FBwDX5TPxwUL%2B37yU8xr4AHdx2UA746dcFN%2F%2B7NklQD8CA8YyR2z%2BApSReXsLjel1yJIgjLPN8zAWymWA1dbzjOPghaghiIzTU4EBgpHxhZd%2B7%2BSLmHruycNMI20HSIDDLXBu%2B9Q3p%2FDm1JdDlJNLlH%2FzNoHBiBM3Ax8UWs%2FPLpW63AEVbrVexvt5coAeQi3%2BTjQ3te%2Fbk5ZoFJBV17hObqFNGo0BVyJkZm6PcAqBv47YDHKOM3D9yD9HSBb%2BsL0kxzsYAZnUqYTB60RLWF9UOi0J4x9JanA0PoLztml1Fgo%2B9Z5pOf9o1yOu8lCgxG1K4rJt%2FzIVglM5ft3XHTvIuLJHJjGqRXDelriBhou97GCCQjLgFcDSpLK%2BnqOZKtWozJnS0EHSGXQTeKmJ2LSJfUlDSOp6w8owu%2Fz4oAfGF%2Bd95wP7F9%2FuPbSKPel3ov4vScHYl3LI76nQSVdcAJnxnJJlpWoF9ErCQOjQkghpC1l3f8GtF7sckoMGvGqIIbFkzgRUB8RnmnQn5YxkX9%2FGz%2BbTLuF5KCCP7%2FlTttodmYphBC%2FxsVG0AYyQFaclcAx6R9j5TF%2BsZTiz2KZQ2qdPXvGM0LEJ2SDwRDbCK%2BNor7xDcw0VhkkE3pyhXH42mR4E%2FokPNuIq73yAo%2BgozVXrkK7Pdos8xBC1IbnQ7K6sC079%2B2pRqkZY9i1b3zOT4cLAqjLEmE3uIeSPO26YdflFMJ7njr8GOpoBM%2FWHgVmRHZgm6YnhW1A78uvwFjWlkxbwwH%2Bf9N1RKx6qqVmECe3k%2FUvVME80vn9vUkw2xTHG5bLVZ5tYA9PmTR9Lqb0c%2BqsOiCvTWB815Om1WHfg3G%2BxPd3TPYyxt92I4ZmRt%2FTEqVu8dU0IQ0uTlrfCEwijQK4Iy2HGZ9TT8zR45T8fy%2Fe6wMP3PY7u4LdUHhDjgsgJMEgo2A%3D%3D&Expires=1742981029",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th>Year 3</th><th>Year 4</th><th>Year 5</th><th>Year 6</th></tr><tr><td rowspan=\"3\">Invasion Games- Netball</td><td>Make a series of pass...</td><td>Use a chest pass and ...</td><td>Use all three passes (...</td><td>Know which pass is be</td></tr><tr><td>Show some signs of u...</td><td>Make decisions regard</td><td>Use a range of speeds</td><td>Use a range of square</td></tr><tr><td>Show a target to indic</td><td>Begin to use a bounce</td><td>Begin to use square (a.</td><td>Use landing foot to ch</td></tr></table>",
+        "embed": "<table><tr><th></th><th>Year 3</th><th>Year 4</th><th>Year 5</th><th>Year 6</th></tr><tr><td rowspan=\"3\">Invasion Games- Netball</td><td>Make a series of pass...</td><td>Use a chest pass and ...</td><td>Use all three passes (...</td><td>Know which pass is be</td></tr><tr><td>Show some signs of u...</td><td>Make decisions regard</td><td>Use a range of speeds</td><td>Use a range of square</td></tr><tr><td>Show a target to indic</td><td>Begin to use a bounce</td><td>Begin to use square (a.</td><td>Use landing foot to ch</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.10273159144893111,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th>Year 3</th><th>Year 4</th><th>Year 5</th><th>Year 6</th></tr><tr><td rowspan=\"3\">Invasion Games- Netball</td><td>Make a series of pass...</td><td>Use a chest pass and ...</td><td>Use all three passes (...</td><td>Know which pass is be</td></tr><tr><td>Show some signs of u...</td><td>Make decisions regard</td><td>Use a range of speeds</td><td>Use a range of square</td></tr><tr><td>Show a target to indic</td><td>Begin to use a bounce</td><td>Begin to use square (a.</td><td>Use landing foot to ch</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

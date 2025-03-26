@@ -1,0 +1,36 @@
+{
+  "job_id": "8472bee4-6502-42fd-9c59-c73317851600",
+  "duration": 133.06728148460388,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/0ecb59f0-d131-4d7a-a6bd-bdd43b1b9a38.pdf?AWSAccessKeyId=ASIA2UOK6OVBOIOISOKS&Signature=Ud8lTyWMW3z7cLeLu2r%2Bqk5KfAg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCTrfk9EfuEi5klLuQsJSifC8xRA7acXYKklClqjahZJwIhAN8ka%2F%2F%2FmH3Diqkq6HtxQJTEgAG7l9yyps0fwjmj7PpDKoMFCCkQABoMNzMxMTA2OTMyMDM0IgwSFzTGmiGL3gfqkBoq4ASIcP4%2FQJrZ6IKoq6QRMzVGOhao7lOP5QZrAuDmZ5dtiQGXBaGVQvCcndLlNr2mEZ%2Br%2F3Yyj0SOOGAJ67htu54a86rC2JFIVknhFXliUxzLDvL5zjyFxnDn646PRJM46%2Bji9J9DrkrrRImGIsfoxSo3yXFf8tZ4CBhNmu%2FwHeDeZhrkx94xb1roCAqSLpJ6zM48NPEpB471LZyqPxAirqGyfigz%2B7WqSNpgV%2B2nHxmGuRb9sFXZybnnQBaFgpjXA4nwD8jnFEE1RByN5s2JKrIfeiqbfZCOgxQBxI%2FkP%2FNv%2BtRZa%2F4JEaqJYmrH8MGY2q%2BvFb4Eco1wCYM7240MwcFCEWqtvjTI2FqPGS%2F21rouQzoqnVXHGdNhSAiN%2BT%2Fl0mWi1a3MNqRUmIfVBVN1rqFn7VPVmZX9sDdiEjslPODBv2LMsoJONW6X0i5H532QURw9Fcp9s4uS6LkKf9AmkDp5skDKeKko9hBLCV%2Bq1E32ppw4bw7NGPQYdGa6OvqJZQXYSPAShrh3c4rCv0aSxGiForttTpJcNCwVF%2Bel1iMoOH47Yc0vrTpw%2BnjEQA2KWpU8c8pBD7PwSagRoe181wO8ZkkdMxy4s7zN8yL2o95p3rhjNWFt7SpRYWDBw1QK6yrH4JYOEGlKF8wLahG9blphBV2t2351z4RIdZ9DNMks5aJSXxhcckxyTNe9M8tb%2Bdx44FeNcaF3yXnS4AnL6gxnF8EkTw7teLwmhU6LSvttrkWlpt76Myi6x9BX0H%2FyJQLNsDAPUOto6Vjz08fTXx%2B%2FPOaTZ1lenNQthBUx6d720jDR5Y6%2FBjqZAS8yPBMyZ8AQR1euQ%2BC2YYCZJHZnWGmIf3zg2SEnGRchCxS0Tiki0wBQhkATPnBGor9n%2FThEKzJDzglZczFPNvDrHQEJ3Cq%2FuPr26zv8YZwCg8E4TluDvzzkzATET%2FgXwEWY8JFREA7kKt%2FV6Ch0NKpUl8S0wclyp6fJzGdrxWZ%2F31gphkxpN5GNFVoX9VHnah2WXHbXUN2H8w%3D%3D&Expires=1742980956",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th>2012</th><th>2011</th></tr><tr><td>Analysis of amount credited / (charged) t...</td><td>\u00a3m</td><td>\u00a3m</td></tr><tr><td>Expected return on scheme assets</td><td>27.8</td><td>265</td></tr><tr><td>Interest on scheme liabilities</td><td>(27.7)</td><td>(27.3)</td></tr><tr><td>Net credit / (cost)</td><td>0.1</td><td>(0.8)</td></tr></table>",
+        "embed": "<table><tr><th></th><th>2012</th><th>2011</th></tr><tr><td>Analysis of amount credited / (charged) t...</td><td>\u00a3m</td><td>\u00a3m</td></tr><tr><td>Expected return on scheme assets</td><td>27.8</td><td>265</td></tr><tr><td>Interest on scheme liabilities</td><td>(27.7)</td><td>(27.3)</td></tr><tr><td>Net credit / (cost)</td><td>0.1</td><td>(0.8)</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.0436607892527288,
+              "top": 0.03147268408551069,
+              "width": 0.9059613769941226,
+              "height": 0.13004750593824227,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th>2012</th><th>2011</th></tr><tr><td>Analysis of amount credited / (charged) t...</td><td>\u00a3m</td><td>\u00a3m</td></tr><tr><td>Expected return on scheme assets</td><td>27.8</td><td>265</td></tr><tr><td>Interest on scheme liabilities</td><td>(27.7)</td><td>(27.3)</td></tr><tr><td>Net credit / (cost)</td><td>0.1</td><td>(0.8)</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

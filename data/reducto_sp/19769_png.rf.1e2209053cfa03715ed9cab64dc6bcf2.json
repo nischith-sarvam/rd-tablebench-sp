@@ -1,0 +1,36 @@
+{
+  "job_id": "fa495b9a-8814-407b-842b-7b255b60e5cb",
+  "duration": 161.87471628189087,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/8bc22bec-4ff8-4595-85e3-ab9d0c09de93.pdf?AWSAccessKeyId=ASIA2UOK6OVBJPKWPITG&Signature=nzD%2Fs86XxxZautCqB3W4Mr3H58U%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIBCxS4Qd5OkmgLYx0l0aI7yczwjHuQ2e4ql1jAVeSdH%2BAiEA%2FglWomZ5G4V78FJjp55LDW8B1n3WobDT%2BRNqGXB8oxwqgwUIKhAAGgw3MzExMDY5MzIwMzQiDOzT5RgFZQmsy%2B2VuirgBEgodmyNsIszuQnJz6kXbBOm1CS%2BNTAaCSf27dMw6nPFxRv3te%2F7mIV5PCnpYCKx4kKQhf5fK5h1BaRQILDI2UBMvlwE9f7YELVwvOMpRvxjRMeHbO7qXXnWYSjFqaBeSs96d2LD1%2BHLgSyrdoMRfilQFBK6VRilCUYSS6hKcKVyGhID0hIzhsRnfJPMKzpV4j8KNP3j50UiQEuwaCpfU3mCPxLA9xgQ3dMi7K5NRLHG6hToeA9DiCU3tnAXk%2Fw%2FnfJ2d%2F1%2BcbbCEwvTMb2dV26rIjqvIaxYa5mh2Hx4NB5Tc%2FoEVboJXBYJl8nNUqpgg4BVeqGz5OvPXu%2BKMpAuLjL5B7yeG%2FNGjLr70B%2FYevwltFMTqD12BD%2F%2FCT%2BsNlGTAH8uffYnCdhpUqLIjJJdI9%2BPOvNkKDs83VOgZaaLpcMILc7taGbIaJAzRn4gEfEAgcqhrRkHBlYcvvQsH50tWKaxdh3U8%2F1uEI2lS8Y%2FIPdhbRCek7B2M0T6wftoS39ZqpRMq4kZG7GCZyJP3k34rviGbZCtuWCeKDgAN2w%2Bey9DRXB3Sr%2FDu2QUAfFoQjWChd%2BqptaW%2FCPT4eb9xnQgVJd1mlWuqlE%2Fpz%2FQqV5EFZg%2BHpmkKakKU2VSfQ6Pg6BgDWg5cyIVwKOPFDv2JePuhs4TMVTDhGMocEWX31%2FMieqEMunxyOAbjSJ4slw9kZAUnK55epJArgfo8XfieS%2BnN7DtybeJYZ4aZC%2FUAClWYloCXRen%2FTYJNnpHXc9vFLrtw%2BWzCyJFyRia0wcyiavkl%2F5S4gTtisAumh14Qe1GjfgYMMnyjr8GOpoBDvA%2BaSwB5gVQHNGW6MWGapZim7wlpqBmBt5lMu8RQRRrpN4cloV5QyuyMfj6Mn8ruSAm%2B9D9AxzUYUFnGir1whERHmRjRZkrhK3KEhexz6mEXBLkIgX6j55Ox5eQIuTIWVsXTgVI0tW82H%2BwOAwAQ5IFvapafW3X2yLoX%2B8VKmJ%2BwMkHmTbm2j5r2vaRR7EqvBiBwrT6Dcpelw%3D%3D&Expires=1742980992",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th>D1</th><th>D2</th><th>Mechanism</th></tr><tr><td>Treatment 1:</td><td>{$4, (1/2, $10)}</td><td>{$3, (1/2, $12)}</td><td>Pay only D1</td></tr><tr><td>Treatment 2:</td><td>{$4, (1/2, $10)}</td><td>{$3,(1/2, $12)}</td><td>RPS</td></tr></table>",
+        "embed": "<table><tr><th></th><th>D1</th><th>D2</th><th>Mechanism</th></tr><tr><td>Treatment 1:</td><td>{$4, (1/2, $10)}</td><td>{$3, (1/2, $12)}</td><td>Pay only D1</td></tr><tr><td>Treatment 2:</td><td>{$4, (1/2, $10)}</td><td>{$3,(1/2, $12)}</td><td>RPS</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.0436607892527288,
+              "top": 0.0332541567695962,
+              "width": 0.9051217464315701,
+              "height": 0.07779097387173396,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th>D1</th><th>D2</th><th>Mechanism</th></tr><tr><td>Treatment 1:</td><td>{$4, (1/2, $10)}</td><td>{$3, (1/2, $12)}</td><td>Pay only D1</td></tr><tr><td>Treatment 2:</td><td>{$4, (1/2, $10)}</td><td>{$3,(1/2, $12)}</td><td>RPS</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

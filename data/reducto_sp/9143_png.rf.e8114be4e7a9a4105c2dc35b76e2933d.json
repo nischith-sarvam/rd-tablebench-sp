@@ -1,0 +1,36 @@
+{
+  "job_id": "f1e07af5-c7cd-4607-883c-71cbcc0bb0af",
+  "duration": 49.573874950408936,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/0c6cdb30-a044-448d-9d19-dcf30e36c16f.pdf?AWSAccessKeyId=ASIA2UOK6OVBFHKYE6NE&Signature=SMKsIK%2F30X4HuDsBlrR0MXqHWds%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCKNe0BjEfoEpQxghcl3bu1C%2Fdlg%2FT%2Bpd%2BjFjBlKzCrhgIhANnB7875UEbIe68SlU4QgoQgx3sMqSx2t%2BxWXTBgk1WVKoMFCCkQABoMNzMxMTA2OTMyMDM0IgyM7KL%2BIMiTKzVl4K4q4ASxP7WuuSKRuPODCHmsnq%2Bl5UmO24sYkt3vngpMg%2Fkb61JWpv3lprOD96q87UgTfwWuDxBIuPSks%2FnPPwkOf4DI9Df1IvNCsKdwtYrTcEdnHoMR1RqXYNZv3QtbumhuCTqY9BMVPDJdp44jEWLiwWhAjkYBKg0GWj6ejoIOFR61MOLph1jU%2BaDwvoAwWtBAKX1TrtYYmuC0EY2mJOD4qx6yU34fVg2THvBlKScivOJR%2Bvkg2Hwfc1cQAi6NXwjyxMCRG2d9yztt7Z3hvfDW3f7%2Fj%2FmW30H8tcg9hMgzJKW8eLk7p86THky3danCSnqwoKVk44lUe%2BmuSmDv%2BMlnuo2cM7okkGmuy6BAgmQOk61pMoMP9OBCueVO3F7qK0fTHVpBQrSCFra1WPDMrQVq%2BSU%2BQ2Yt%2F1ul2h7Er4iPYm%2FwgFwRV7R1H9lS1trFTjCDSlUVhVSwIUWty0WkLchxXcMCaBWVZSjBAWwd4sB7FtEv7EMC1QWgaCFi%2FrydrfABzjl9sPEK6gtSV%2FYUusc2Ugk7Exloo%2BBAfJaLk753Qkbco30G7zl6%2BPPDBO5BL95ZI830gItOx10qBgQ5OtI5bhC9B2837du5W0Zdu8xZVvCXOds9zUmaVa%2BQ1PXgPhAe1OhbXDXjz1XswqHopG9xTCS%2FEMcle%2Biqn0VYqsUv3aqkZ%2Bed5tVFk%2FKGc3FXi7ybrvAeAcyQOKfUj1xlo33Z%2FucP%2BIsgjF0c1mOaS3%2BnMnYhkqkK%2BXpC9q8layWe%2Fi9Hx%2Fq90U00xoWaGCDK3KJ2c3obtG5m2jbKhF%2BOVyh1ljAa1DCc5o6%2FBjqZASYtUSlYaNj04RlPymEHX2bHGyHFtt26svzAuAgaal7xjM6mLiMNfihA6A275Q1%2BnF1xueScyOtSuIJSD6snHatARcw1OYpMmlvvTSpMf6aLsxA1BLHn2GllyPAZwBbV83qcRXcXnNvOgI89xUg5y%2BvKBzDfgKG6xnaeBxmg%2BFVYdt0CJkLJrvN91KphPiZ8L2VFIV4GyfzGTg%3D%3D&Expires=1742980866",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>- OPEN GARDENS - ...</th><th>1ST WEEKEND SAT ...</th><th>1ST WEEK 16 22 AUG</th><th>2ND WEEK 23 - 29 AUG</th><th>3RD WEEK 30 AUG - ...</th></tr><tr><td>GREEN'S PLACE - 13...</td><td>10am I to 4pm Sun 15 ...</td><td>10am to 4pm Mon 16 ...</td><td>10am to 4pm Mon 23 ...</td><td>I 0am to 4pm Mon 30 ...</td></tr><tr><td>WOMBLEDOONE - 21...</td><td>0am to 4pm Sat 14 &amp; ...</td><td>10am to 4pm Fri 20, S</td><td>10am to 4pm Fri 27, S...</td><td>I 0am to 4pm Fri 3, Sa...</td></tr><tr><td>MEADOW VIEW - 143...</td><td>10am to 4pm Sat 14 &amp;</td><td>10am to 4pm Sat 21 &amp;</td><td>10am to 4pm Sat 28 &amp;</td><td>10am to 4pm Sat 4 &amp; ...</td></tr><tr><td>JAN'S ON JEPHSON -...</td><td>0am to 4pm Sat 14 &amp; ...</td><td>0am to 4pm Sat 21 &amp; ...</td><td>10am to 4pm Sat 28 &amp;</td><td>closed</td></tr><tr><td>HOLBERRY HOUSE</td><td>Every Day 9am to 4pm</td><td>Every Day 9am to 4pm</td><td>Every Day 9am to 4pm</td><td>Every Day 9am to 4pm</td></tr><tr><td>NANNUP COMMUNIT...</td><td>Every Day 10am to 4pm</td><td>Every Day 10am to 4pm</td><td>Every Day 10am to 4pm</td><td>Every Day 10am to 4pm</td></tr><tr><td>DI'S SECRET GARDE</td><td>1-3pm Sat 14 &amp; 10am</td><td>I 0am to 3pm Fri 20 &amp; ...</td><td>10am to 3pm Fri 27, 1-...</td><td>I 0am to 3pm Fri 3 &amp; 1...</td></tr><tr><td>MY GRANNY'S GARD...</td><td>0am to 4pm Sat 14 &amp; ...</td><td>I 0am to 4pm Sat 21 &amp;</td><td>0am to 4pm Sat 28 &amp; ...</td><td>10am I to 4pm Sat 4 &amp;...</td></tr><tr><td>NANNUP LAVENDER</td><td>I 0am to 4pm Fri 13, S</td><td>0am to 4pm Fri 20, Sa...</td><td>10am to 4pm Fri 27, S</td><td>10am to 4pm Fri 3, Sa...</td></tr></table>",
+        "embed": "<table><tr><th>- OPEN GARDENS - ...</th><th>1ST WEEKEND SAT ...</th><th>1ST WEEK 16 22 AUG</th><th>2ND WEEK 23 - 29 AUG</th><th>3RD WEEK 30 AUG - ...</th></tr><tr><td>GREEN'S PLACE - 13...</td><td>10am I to 4pm Sun 15 ...</td><td>10am to 4pm Mon 16 ...</td><td>10am to 4pm Mon 23 ...</td><td>I 0am to 4pm Mon 30 ...</td></tr><tr><td>WOMBLEDOONE - 21...</td><td>0am to 4pm Sat 14 &amp; ...</td><td>10am to 4pm Fri 20, S</td><td>10am to 4pm Fri 27, S...</td><td>I 0am to 4pm Fri 3, Sa...</td></tr><tr><td>MEADOW VIEW - 143...</td><td>10am to 4pm Sat 14 &amp;</td><td>10am to 4pm Sat 21 &amp;</td><td>10am to 4pm Sat 28 &amp;</td><td>10am to 4pm Sat 4 &amp; ...</td></tr><tr><td>JAN'S ON JEPHSON -...</td><td>0am to 4pm Sat 14 &amp; ...</td><td>0am to 4pm Sat 21 &amp; ...</td><td>10am to 4pm Sat 28 &amp;</td><td>closed</td></tr><tr><td>HOLBERRY HOUSE</td><td>Every Day 9am to 4pm</td><td>Every Day 9am to 4pm</td><td>Every Day 9am to 4pm</td><td>Every Day 9am to 4pm</td></tr><tr><td>NANNUP COMMUNIT...</td><td>Every Day 10am to 4pm</td><td>Every Day 10am to 4pm</td><td>Every Day 10am to 4pm</td><td>Every Day 10am to 4pm</td></tr><tr><td>DI'S SECRET GARDE</td><td>1-3pm Sat 14 &amp; 10am</td><td>I 0am to 3pm Fri 20 &amp; ...</td><td>10am to 3pm Fri 27, 1-...</td><td>I 0am to 3pm Fri 3 &amp; 1...</td></tr><tr><td>MY GRANNY'S GARD...</td><td>0am to 4pm Sat 14 &amp; ...</td><td>I 0am to 4pm Sat 21 &amp;</td><td>0am to 4pm Sat 28 &amp; ...</td><td>10am I to 4pm Sat 4 &amp;...</td></tr><tr><td>NANNUP LAVENDER</td><td>I 0am to 4pm Fri 13, S</td><td>0am to 4pm Fri 20, Sa...</td><td>10am to 4pm Fri 27, S</td><td>10am to 4pm Fri 3, Sa...</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9034424853064652,
+              "height": 0.25356294536817103,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>- OPEN GARDENS - ...</th><th>1ST WEEKEND SAT ...</th><th>1ST WEEK 16 22 AUG</th><th>2ND WEEK 23 - 29 AUG</th><th>3RD WEEK 30 AUG - ...</th></tr><tr><td>GREEN'S PLACE - 13...</td><td>10am I to 4pm Sun 15 ...</td><td>10am to 4pm Mon 16 ...</td><td>10am to 4pm Mon 23 ...</td><td>I 0am to 4pm Mon 30 ...</td></tr><tr><td>WOMBLEDOONE - 21...</td><td>0am to 4pm Sat 14 &amp; ...</td><td>10am to 4pm Fri 20, S</td><td>10am to 4pm Fri 27, S...</td><td>I 0am to 4pm Fri 3, Sa...</td></tr><tr><td>MEADOW VIEW - 143...</td><td>10am to 4pm Sat 14 &amp;</td><td>10am to 4pm Sat 21 &amp;</td><td>10am to 4pm Sat 28 &amp;</td><td>10am to 4pm Sat 4 &amp; ...</td></tr><tr><td>JAN'S ON JEPHSON -...</td><td>0am to 4pm Sat 14 &amp; ...</td><td>0am to 4pm Sat 21 &amp; ...</td><td>10am to 4pm Sat 28 &amp;</td><td>closed</td></tr><tr><td>HOLBERRY HOUSE</td><td>Every Day 9am to 4pm</td><td>Every Day 9am to 4pm</td><td>Every Day 9am to 4pm</td><td>Every Day 9am to 4pm</td></tr><tr><td>NANNUP COMMUNIT...</td><td>Every Day 10am to 4pm</td><td>Every Day 10am to 4pm</td><td>Every Day 10am to 4pm</td><td>Every Day 10am to 4pm</td></tr><tr><td>DI'S SECRET GARDE</td><td>1-3pm Sat 14 &amp; 10am</td><td>I 0am to 3pm Fri 20 &amp; ...</td><td>10am to 3pm Fri 27, 1-...</td><td>I 0am to 3pm Fri 3 &amp; 1...</td></tr><tr><td>MY GRANNY'S GARD...</td><td>0am to 4pm Sat 14 &amp; ...</td><td>I 0am to 4pm Sat 21 &amp;</td><td>0am to 4pm Sat 28 &amp; ...</td><td>10am I to 4pm Sat 4 &amp;...</td></tr><tr><td>NANNUP LAVENDER</td><td>I 0am to 4pm Fri 13, S</td><td>0am to 4pm Fri 20, Sa...</td><td>10am to 4pm Fri 27, S</td><td>10am to 4pm Fri 3, Sa...</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

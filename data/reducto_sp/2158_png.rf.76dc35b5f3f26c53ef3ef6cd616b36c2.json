@@ -1,0 +1,36 @@
+{
+  "job_id": "d23fa009-9280-4940-aca6-4a82fe642a35",
+  "duration": 170.45076394081116,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/639af19f-5411-4bb2-bb8d-5fa1f760b08e.pdf?AWSAccessKeyId=ASIA2UOK6OVBBT2I75RP&Signature=WsrLezqxE1UqCS2rZgpCYvBb8mA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCICWJvHp9gMHq%2FM6AjRdEWGew%2BzISeMkuGg4pqGBQ4eI4AiAELTeHDEKV9r2xK133BrQBX2P13ThmQUXCl3kA8iY59yqDBQgqEAAaDDczMTEwNjkzMjAzNCIM7bOzhxs3RzQlIsDRKuAEiHSm8q7tRqzRG6ZWu0Mk2vpZ%2Biw6gaTbqjTXlMTLa%2FhQQksBJhMQBRnSN%2FfNKp89f665Nhfp183oSquBLdonHT1R7p3Z1i5sDftaVbt1E0uWbcpeylSV8qRZYPxhg7f64%2BJooLInw%2B47dpFjJA99jIZJCbbMpaXUzHE35B%2Br7rZlYIxdeJaes1hUuZxofjgeQx3ONb3aQOXicozAaDV7Ge4j9Y9Q24SA1WPtUzD5uj0GlLPef2bwlimb6K0RdIO7Iz47KVj4Ppr8eDkMPjSJj0qyxpY8fr09NaxBzS9wNIeaIB6VbitjBinNkLsqW4R0SKyyQ93DRt4sk9TBe4wlhsq9rbRZESr%2Ft924bkek%2F1Jl6cCcmIbzmtBbhCqUWMUNIpXZ8sOr8z%2F7wx%2F7zlmp7UT3Udac6MxQmXO4Q1iprhxeVoPKocAwBx6OWgyNxKRtY6roZNBtd4RjbZ5u7RgYsDsUAAnS%2FWNfBfQDOzEWA8%2B0FA5Bf0CNR1oVGCeKU%2BuwF1IiQU9DjJdNCg0Zn7ylhQMnParH7qgYe8OFpaeZdmalH3tfl%2FIypEB7NLWRQIHXXSbQFE%2FnbbIpQa7mTeRs5odD3PfqXipHgKW63trK6yKdSi8HqXX1TA77PREWWKo%2BGD9P80%2F1ZI4qcLEasgJTwVVQ%2FFJVOhDJ%2FzONdcg7kLuzf2%2Fxo9I4%2B3VndJPJtzCGvqViu%2BmM3wj9LJDFxez%2Fk5jbBhZ9fRlyZS%2F58bA%2FQU2kaaT%2BaUeNcG0oUtOtQoAm1XLepuur2uwW1Ws%2B6%2FHOvGpX2JXBULfv61OsrSpK9FswzPKOvwY6mwHr4kt53wGFwfr8C7GQ%2F2XW5Nrxz1LPQGMF5VBFN9dyEaewNenw8KtJRjpsKGUfz%2F8%2F%2F96dXih2mHjCOQ2MhmRcApEvEuKFmsZ9B3y1lgwd9wk8WYv5n%2FtNvTJK5RwphF6Sxm6dKGWaQSgzNfrQ8pRFheX0trCADPioPtDsh8lS%2FIxvTU34Bh9hKzZGERR6MvQ2ATPPwA7arGKlXg%3D%3D&Expires=1742981027",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"3\">TABLA DE EVALUACI\u00d3N T\u00c9CNICA</th></tr><tr><td>N\u00b0</td><td>CRITERIOS</td><td>Puntaje Max</td></tr><tr><td>1</td><td>Alineaci\u00f3n a las prioridades nacionales ...</td><td>10</td></tr><tr><td>2</td><td>Formulaci\u00f3n del Perfil de proyecto Ob..</td><td>25</td></tr><tr><td>3</td><td>Formulaci\u00f3n y dise\u00f1o del Plan de trabaj</td><td>25</td></tr><tr><td>4</td><td>Asistencia t\u00e9cnica Proyecto de asiste...</td><td>30</td></tr><tr><td>5</td><td>Aportes y co-financiamiento por medio d...</td><td>10</td></tr><tr><td colspan=\"2\">TOTAL</td><td>100</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"3\">TABLA DE EVALUACI\u00d3N T\u00c9CNICA</th></tr><tr><td>N\u00b0</td><td>CRITERIOS</td><td>Puntaje Max</td></tr><tr><td>1</td><td>Alineaci\u00f3n a las prioridades nacionales ...</td><td>10</td></tr><tr><td>2</td><td>Formulaci\u00f3n del Perfil de proyecto Ob..</td><td>25</td></tr><tr><td>3</td><td>Formulaci\u00f3n y dise\u00f1o del Plan de trabaj</td><td>25</td></tr><tr><td>4</td><td>Asistencia t\u00e9cnica Proyecto de asiste...</td><td>30</td></tr><tr><td>5</td><td>Aportes y co-financiamiento por medio d...</td><td>10</td></tr><tr><td colspan=\"2\">TOTAL</td><td>100</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9059613769941226,
+              "height": 0.20368171021377673,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"3\">TABLA DE EVALUACI\u00d3N T\u00c9CNICA</th></tr><tr><td>N\u00b0</td><td>CRITERIOS</td><td>Puntaje Max</td></tr><tr><td>1</td><td>Alineaci\u00f3n a las prioridades nacionales ...</td><td>10</td></tr><tr><td>2</td><td>Formulaci\u00f3n del Perfil de proyecto Ob..</td><td>25</td></tr><tr><td>3</td><td>Formulaci\u00f3n y dise\u00f1o del Plan de trabaj</td><td>25</td></tr><tr><td>4</td><td>Asistencia t\u00e9cnica Proyecto de asiste...</td><td>30</td></tr><tr><td>5</td><td>Aportes y co-financiamiento por medio d...</td><td>10</td></tr><tr><td colspan=\"2\">TOTAL</td><td>100</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

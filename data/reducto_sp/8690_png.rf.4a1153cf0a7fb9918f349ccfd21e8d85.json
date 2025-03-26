@@ -1,0 +1,36 @@
+{
+  "job_id": "28464d32-a71b-4b0f-a390-9ed09d87f3fb",
+  "duration": 2.100463628768921,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/fc028c3d-088f-431d-b3d8-5f95b8cad40f.pdf?AWSAccessKeyId=ASIA2UOK6OVBDOO57EGN&Signature=Yz8my5SYco7gIGf0Ukye%2BRwIxkc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCeEEatmx0NANxRhe86IUX%2BqClqWpjTn%2BANxIJ7EoAJrwIgSLWO%2Bv%2FN6XQGW9vm0LxyfkH3COGFDQTpdR5ilFjVa%2FsqgwUIKRAAGgw3MzExMDY5MzIwMzQiDMGOrcJq3i8kCAzyXyrgBIUDZb5QB0aw0WaoyXPK1yGfHdtNCkaUXvInBo1e%2BNykXcSuwq6SdFGMrI%2Fcc6%2FIuKgAK3OFyDuRkAV9ILgkh5MCxRxmiv6Ws5zFvFBPmxLri9CJztrZ81SyzfJ%2F8Zg%2FIzNG6HubBj5PERGfHVfzDBMeNTFHLnN21Y9MpcY%2FNRKpJnVmQMXEphDh%2F5spMy4S8%2BUjK%2Fu4ei3C%2Bb1puAUgvcICJMi5NY%2BIv56CtpxP5Ou2zLzer1Yc%2BEMjk%2BRoLxISgX0eNKmjgDjtXwPl70JfGH1pmXrqmjB4DwOoiSZKI5vYnKYV43Zy8Yy4ZV28iGeHXY8WFuVtRtsjw5rdI4pTYAobU1287OeyVKELtx7m77x9F70SxgpT8h7Kvvzl%2FQMlMa7AiNTueg%2BPz%2B9RmXz648b5lBFcmQoveCUmIOFM23dP5fAjfI9mFyfJk1j0c1PSjS%2FsXedxnYArCvm9NZmMRmSjt1yetcr16mfeNf%2F2lCF1MZ5jepSo88B%2B0ha1LPHDs9J4JMJhxJa03Sh5Nl0hDJaXmyVX8QZILozOeUS61ojZsG3G1XCwdvVDclD2EHl8nHAhtBVy89juRH%2BVnt3st9GC8HUVtJXT0U3RmykrJLmQBMDcu3HAsitO0v9SJxiyxD2hE2KVFVIcAMXoLzxBOL3jW5Q5uGTzlZxMAQQS2Jp5bZeuv7TQDrjsM%2B0UypD17zgObDT7jBS%2FRyLAeTootkLjlCPAx4oW4yBqALj5YLvScw%2BvgZ3yRKSawdF3XCT%2FF8KU3u6NLUL95UiLagv9fjAMo1E9OrJ7Os42nX4KtwmtMOnojr8GOpoB8%2FoemQDn608riyqD2n1oeOxz3Vt9udENVecPDtDsmbKKWpzcwlN5LQcf58P2mI98Ikav30rxZEcUC4XkFxdW%2F1C0LwNSbj7Zmk9Rg0%2BThjGvxcLrQg4z48MRVYjCVnsLpAfY%2Fxe%2FUCE0j%2FkxpPNqWnG7qlMTAb%2FBLE07tqpEl61i2wkGSlpJQ3sI5%2FglC3BQVom4zjgXn%2FGIRg%3D%3D&Expires=1742980812",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>\u9806\u4f4d</th><th>\u5c04\u5ea7</th><th>\u6c0f\u540d</th><th>\u6240\u5c5e</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>\u5408\u8a08</th><th>\u6c7a\u52dd</th><th>\u5099\u8003</th></tr><tr><td>1</td><td>3-14</td><td>\u6210\u7530 ...</td><td>\u8c50\u7530...</td><td>91.0</td><td>89.0</td><td>88.0</td><td>89.0</td><td>78.0</td><td>89.0</td><td>524.0</td><td>-</td><td></td></tr><tr><td>2</td><td>2-12</td><td>=...</td><td></td><td>88.0</td><td>82.0</td><td>86.0</td><td>84.0</td><td>84.0</td><td>93.0</td><td>517.0</td><td>-</td><td></td></tr><tr><td>3</td><td>2-14</td><td>\u6728\u6751 \u84ee</td><td>\u8c50\u7530...</td><td>80.0</td><td>91.0</td><td>86.0</td><td>80.0</td><td>85.0</td><td>84.0</td><td>506.0</td><td>-</td><td></td></tr><tr><td>4</td><td>1-14</td><td>*I**</td><td>\u8c50\u7530...</td><td>90.0</td><td>81.0</td><td>78.0</td><td>88.0</td><td>85.0</td><td>72.0</td><td>494.0</td><td>-</td><td></td></tr><tr><td>5</td><td>4-12</td><td>\u6953\u8449...</td><td>\u30a2\u30ab\u30c7...</td><td>67.0</td><td>81.0</td><td>73.0</td><td>62.0</td><td>80.0</td><td>72.0</td><td>435.0</td><td>-</td><td></td></tr><tr><td>6</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "embed": "<table><tr><th>\u9806\u4f4d</th><th>\u5c04\u5ea7</th><th>\u6c0f\u540d</th><th>\u6240\u5c5e</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>\u5408\u8a08</th><th>\u6c7a\u52dd</th><th>\u5099\u8003</th></tr><tr><td>1</td><td>3-14</td><td>\u6210\u7530 ...</td><td>\u8c50\u7530...</td><td>91.0</td><td>89.0</td><td>88.0</td><td>89.0</td><td>78.0</td><td>89.0</td><td>524.0</td><td>-</td><td></td></tr><tr><td>2</td><td>2-12</td><td>=...</td><td></td><td>88.0</td><td>82.0</td><td>86.0</td><td>84.0</td><td>84.0</td><td>93.0</td><td>517.0</td><td>-</td><td></td></tr><tr><td>3</td><td>2-14</td><td>\u6728\u6751 \u84ee</td><td>\u8c50\u7530...</td><td>80.0</td><td>91.0</td><td>86.0</td><td>80.0</td><td>85.0</td><td>84.0</td><td>506.0</td><td>-</td><td></td></tr><tr><td>4</td><td>1-14</td><td>*I**</td><td>\u8c50\u7530...</td><td>90.0</td><td>81.0</td><td>78.0</td><td>88.0</td><td>85.0</td><td>72.0</td><td>494.0</td><td>-</td><td></td></tr><tr><td>5</td><td>4-12</td><td>\u6953\u8449...</td><td>\u30a2\u30ab\u30c7...</td><td>67.0</td><td>81.0</td><td>73.0</td><td>62.0</td><td>80.0</td><td>72.0</td><td>435.0</td><td>-</td><td></td></tr><tr><td>6</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9051217464315701,
+              "height": 0.1846793349168646,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>\u9806\u4f4d</th><th>\u5c04\u5ea7</th><th>\u6c0f\u540d</th><th>\u6240\u5c5e</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>\u5408\u8a08</th><th>\u6c7a\u52dd</th><th>\u5099\u8003</th></tr><tr><td>1</td><td>3-14</td><td>\u6210\u7530 ...</td><td>\u8c50\u7530...</td><td>91.0</td><td>89.0</td><td>88.0</td><td>89.0</td><td>78.0</td><td>89.0</td><td>524.0</td><td>-</td><td></td></tr><tr><td>2</td><td>2-12</td><td>=...</td><td></td><td>88.0</td><td>82.0</td><td>86.0</td><td>84.0</td><td>84.0</td><td>93.0</td><td>517.0</td><td>-</td><td></td></tr><tr><td>3</td><td>2-14</td><td>\u6728\u6751 \u84ee</td><td>\u8c50\u7530...</td><td>80.0</td><td>91.0</td><td>86.0</td><td>80.0</td><td>85.0</td><td>84.0</td><td>506.0</td><td>-</td><td></td></tr><tr><td>4</td><td>1-14</td><td>*I**</td><td>\u8c50\u7530...</td><td>90.0</td><td>81.0</td><td>78.0</td><td>88.0</td><td>85.0</td><td>72.0</td><td>494.0</td><td>-</td><td></td></tr><tr><td>5</td><td>4-12</td><td>\u6953\u8449...</td><td>\u30a2\u30ab\u30c7...</td><td>67.0</td><td>81.0</td><td>73.0</td><td>62.0</td><td>80.0</td><td>72.0</td><td>435.0</td><td>-</td><td></td></tr><tr><td>6</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

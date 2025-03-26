@@ -1,0 +1,36 @@
+{
+  "job_id": "e85407b4-2c2e-4491-a288-14822ac71a18",
+  "duration": 47.34436893463135,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/a7a6642d-1738-4706-add7-1b627d42c547.pdf?AWSAccessKeyId=ASIA2UOK6OVBLAZYEY4B&Signature=aKfryMVLhIpQl%2FvSxWi8CDZXqlE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCYvPpkh9KvFpRpVHUvCx9LETUHucwz7%2BVcco%2FQpjhT9wIgerg614qUKlaElxOsoheOrH0z1kporLOrZ53KsbjCBM4qgwUIKRAAGgw3MzExMDY5MzIwMzQiDBhim6aqHr7u4xceqSrgBEj8JE6pjy53DDM8VoMz7hLhEKIy7DJidpymw8oEPxZgnmDaTzJis8JqhmQ1Dyc7jN%2FUiWMJeJqji4Ale39g2STxAHWHuei9xGOxY0g7pA4yloBRY9M7jsCeIg4GEqj16NJLtZWR%2BdbBlb4qs4fvAol0beWWqGOEQ9LeItQGW%2BLLA8dANVaQE0b3z7QrJHaCc4%2BgNtuKr3zpE0SD%2Fst0XeBrKb1VrhHVkHawKBW5IrdaPZ%2BstRMrYjv05b0s3tszmqaUOO%2BH2QDLJd0icUNaIxnNzg7WZ25B9QrFp0JExVXjX9cgpC3slPWBwKT9T9dU7gI5J2l4qGtBxSn%2BsVk1J7It3SUo9v95On4JNbPITxGWqHQlXlYpFZsUBjt34k9pqhimbJk2LkEt0t4PFh8XebTCouf7BRoRLo8oYId0fGAAAbW7p7AG8RFQwHNW1zv2Bkdu1gdTYaK9v3pbzgNscxTeM8HlPsOWzWXjtkbNlB1fKkdS%2FKM5pD%2BTghKz3shSQjdgAaN8SExqKrldPpFPEsse3lbRgXIPMncB91YO0yFSI5%2BOaeMduur%2FMEnyZKcyQj5dw0KbIic4ckDEOInCXt8%2BMnQInXVPoUldEWb6vDEySQ6lXBGT9qDHRbl9veM2M7n1TFV6XcnKPHLt1F3HEL6CHS8SSAuEdrpr3Y6wUo%2BEE5Dh6OlrTdtfDkYMnEoQfjtAx3cukiCEku6CzPMnlDD3UiTSbRhrFQE5RsmSubxEJy12S9FNhhPvkEpHr7FFYMceg7DndFz9ij8t6Jm0DtmvwfLHeLus6V6ghzBoU2a3MLnijr8GOpoB3cgMAamvEhhqadvpn5EU%2Bp%2FUQuzOJ7lFgfET2shfclDZnVSfYWbzsXPFIC7abT1WER7pKFn%2BFqZPSXups0m%2FHv0turNCdS%2FoWf48EBbYnp2FwSeZvl22Gma3nNIh3E1hwNSHKSaMpNtFKk2zBfW1ENpB9vyYF2h1QBGbODEUY%2BP%2B4JkQAAyza2oLWHFSFvy6m8D7DmqAEP4zDg%3D%3D&Expires=1742980862",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Article no.</th><th>Description</th><th>Quantity</th></tr><tr><td>125.006</td><td>Flange locknut M4</td><td>2</td></tr><tr><td>127.725</td><td>Powder hoppfer cover slim BW4(c)</td><td>1</td></tr><tr><td>127.727</td><td>Discharge chute</td><td>1</td></tr><tr><td>127.923</td><td>Safety plate BW4(c) powder slim</td><td>1</td></tr><tr><td>127.986</td><td>Conveying unit powder BW4(c)</td><td>1</td></tr><tr><td>129.286</td><td>Stirring unit BW4(c) assy.</td><td>1</td></tr></table>",
+        "embed": "<table><tr><th>Article no.</th><th>Description</th><th>Quantity</th></tr><tr><td>125.006</td><td>Flange locknut M4</td><td>2</td></tr><tr><td>127.725</td><td>Powder hoppfer cover slim BW4(c)</td><td>1</td></tr><tr><td>127.727</td><td>Discharge chute</td><td>1</td></tr><tr><td>127.923</td><td>Safety plate BW4(c) powder slim</td><td>1</td></tr><tr><td>127.986</td><td>Conveying unit powder BW4(c)</td><td>1</td></tr><tr><td>129.286</td><td>Stirring unit BW4(c) assy.</td><td>1</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9017632241813602,
+              "height": 0.17933491686460806,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Article no.</th><th>Description</th><th>Quantity</th></tr><tr><td>125.006</td><td>Flange locknut M4</td><td>2</td></tr><tr><td>127.725</td><td>Powder hoppfer cover slim BW4(c)</td><td>1</td></tr><tr><td>127.727</td><td>Discharge chute</td><td>1</td></tr><tr><td>127.923</td><td>Safety plate BW4(c) powder slim</td><td>1</td></tr><tr><td>127.986</td><td>Conveying unit powder BW4(c)</td><td>1</td></tr><tr><td>129.286</td><td>Stirring unit BW4(c) assy.</td><td>1</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

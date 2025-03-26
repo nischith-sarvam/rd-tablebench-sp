@@ -1,0 +1,36 @@
+{
+  "job_id": "148449f5-9b22-4170-875e-6af64ec473d3",
+  "duration": 138.2623007297516,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/42e1e889-7c0b-49c5-abe8-7987f244e6d9.pdf?AWSAccessKeyId=ASIA2UOK6OVBOXX6XOGL&Signature=3YnntzOmrOukOuOUk7T2UM78AfU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDr4dEH%2BGiSESn6FfNbE39jmwckIjE6VYqdwIe%2BZ5XTCwIhAJIiaGc2x0OykJeTd40BxpEd8zBffAA4BchD7%2FTteM2iKoMFCCoQABoMNzMxMTA2OTMyMDM0IgyCFEInUFynCJ1XYEEq4ARPx8uyloX24xQUQriG7U%2BgiG1%2BWtKcfWiqVNNgQb3gDeOp%2ByCGxt6Pj3hFDEIhoj3q3WgEcVURs%2BtyfuZ03FNps7vIwtXN6WuRlwwVnSkBYuj8NgKlXyLPCEHndPfn0mOyZl7FXKQvugqO4L6Sm0mEu6W8vb0%2FLR5lV3MyDfDuAZhSInmWp6V2ygEcU0DG7ADb6QRwrWPV6SIYBbhn7Kzbl6wfWpGlLxPqkTT6ZC2y7Uxv%2FtAFLobp9eu5q25OV7z5hkB0ZepkcIO3mP1oNxD98kLWLInVnS9mdGMzfkTr5nTDXudkkctxLQ0hBVXcCpuCFL7BzY9AHkbwhzE2CGhdprgs5MXJGQ72rfj7NflPCa2X2udRZ3iicUUk2X%2BfV49OeYTqPfVHByc9a4jzjHoGkV%2BR70Rcz4R%2FYcyljHJxdF1SbcGOPTUEd7y1FwceW1iukwG1bfqvhZMMo8xLLNY7d%2BkHCFjVx%2BDLBcvosdKbCzaS2Z5UKBjuHhvusdWAmrcBQ7g4hiNYJlwsGfNO%2BkEDA6o2M6IUr33AbcNYdHvWa8XfygSks9NTvoUK3uSm4puWMaPiqjOXHtowif3JpZHTwSVwIEKl4s2Fj%2Fh%2BZZxO8PfvZWv924%2Fh%2BxKdOEgFhYOmpHK8h1Go2t12MeD4F0dZX8EG764uzlaHwh%2BnjgE2zQDRZ%2Fm0WUppYbusOcV07Or%2F0dlsnCR5W3xDw119AuBLFf429x9imjGYF0S2LPWYVYZT9RGI0sgR5ZnJ0gV0tV%2BeNWnXxg0S2fg1Rlwd7CYoXUNDBhzCXZP6dgMLS01YQzDD8o6%2FBjqZAQf%2FqORJRGOtd9PItgLidaO7ZiE4MGzfSv294SLx2y9HX2Mo2BZvkfQeQ9sd9m6jlGGrHcbMXRHJ3YR65Ar%2B8R3%2FUU9CYOA67bDiImMVvzeiqFoMX2aA6%2F6mNvAClBSmpemxYvDctX%2B5TTC177J8nFT5bEnlv%2BKEQnIYxg65vWCC8PFPjaWCk1yAbg9cWqriRJ%2Bc3FzHq8pdWA%3D%3D&Expires=1742980980",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"3\">EDUCATIONAL USES SITE DESIGN STANDARDS</th></tr><tr><td colspan=\"3\">Site Design Standards</td></tr><tr><td>Front Yard</td><td>Side Yard</td><td>Rear Yard</td></tr><tr><td>As required per district</td><td>150 ft.</td><td>150 ft.</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"3\">EDUCATIONAL USES SITE DESIGN STANDARDS</th></tr><tr><td colspan=\"3\">Site Design Standards</td></tr><tr><td>Front Yard</td><td>Side Yard</td><td>Rear Yard</td></tr><tr><td>As required per district</td><td>150 ft.</td><td>150 ft.</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032066508313539195,
+              "width": 0.9051217464315701,
+              "height": 0.10451306413301663,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"3\">EDUCATIONAL USES SITE DESIGN STANDARDS</th></tr><tr><td colspan=\"3\">Site Design Standards</td></tr><tr><td>Front Yard</td><td>Side Yard</td><td>Rear Yard</td></tr><tr><td>As required per district</td><td>150 ft.</td><td>150 ft.</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

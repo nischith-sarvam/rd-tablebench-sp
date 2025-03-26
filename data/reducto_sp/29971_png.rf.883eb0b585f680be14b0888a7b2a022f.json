@@ -1,0 +1,36 @@
+{
+  "job_id": "3babbb4b-a469-44a4-a527-30537f41cdba",
+  "duration": 139.7807080745697,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/1740fcc2-aa1b-491b-93b6-0284f533b681.pdf?AWSAccessKeyId=ASIA2UOK6OVBKERW6WE6&Signature=pHtYnI0ohV%2F2Ecf%2Bd1%2F37aVex%2BE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAOQuMo%2BRWrNQ2QzlWkQ1xSkXSRIzxLlfFdrmertx5T%2FAiAmnGypX%2BfLyIFOER%2BqHENgGXpNzlYnt%2Bu5gHsJbvPVjCqDBQgpEAAaDDczMTEwNjkzMjAzNCIMdpd4RK6doYIem4%2BOKuAE6JXe2N6Xe%2BHC6%2FP%2BNyjWu6ZhoIJdDyiYpyFo2bgDJDMuP3zyjSwHkcpLkqPD5OXD%2BpYBogDrBEN%2Bao40a2kP%2B6gxgNKpj%2BOeZIbq%2BbIfwSP7aX0Rq%2BNXdhdBj0ifrstP%2FRS68cUREwfxgrlpsg8mOD0JugyHYypFVNGss2HsUhx4L2FGvArjpg9Ac6faFyP3A2Dd8n1bEoDiJrxzSF2r9bGAOuKTSZFAEZXDmAhDpUk7eY9swoa%2Bpy7cPNwpxOTTf5zZ21nqCMq%2ByfoNszmhxfZpF6n7Hjygk5%2BlR96RoeqqDOArmvtx9RmtiNFHZeJpDm5CwD3QOrlUbe83dFrmwrPmXq%2Bxy%2FrElDKZAPHnMM3BUb6lGOlTUJOLEtjcDx5f%2BGDueSojREb792KrlmMHh8x8Bth4eLhbI4oBwxB8Aog8%2Bl8hN5eKqUEVhBkKcad96ylaJaKTCavPnUIfEPxMkvitGGtcd%2Fbjd0WZUcorKlfwkT9cieXeoeQ%2BiA74V3DjxwF9NBBFH3AzyOYlf0yaC0UtiJYJRnMH85ineDbUPJVGHWkctdvGb4P9WcXf8i7%2B762XkAvHjoNOd7geEooNT80YWRFZNMvK2PYt7VMBi51ST1lyNNcRPO6tUhUPB%2FyBOVrYMrujC%2FHhRHEcJMTTkSq%2FdDeT4PAmUfCp5BmxfalueSTAQDm05Vf87PpR9VR%2BJnN2XUTG%2F%2B%2FEYGNoVZdn77wBbNGwR6G0%2BMFUh%2B4EmRqy5uzd1c6RYKvvCEQPLuHVKy7FPqiQrs4j5OfkSjkmmJb11hoKL5eTvb0oWH%2Bafp4w4%2B2OvwY6mwETdFs8i3qodyU9HnQ8c6bINglsbXbbrqO1yuPiTllUiIvTLsSQdmgg2rLKhw4aHfGPginIrIP7nkEXgZBHEYubDCExZ8p0qLrX7zFLlckdqzmTiRbtG3MYSqRDPxCu06j2AW5CxPx3%2B3n7iDqr6u2UFzFXRnb6L%2BcIVRqqMlI2JErWlgiX%2FD3PYbJCqhF55kfucTZYyB5UyPP%2Fdg%3D%3D&Expires=1742980962",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"6\">Cronologia</th><th></th><th></th></tr><tr><td colspan=\"4\">1\u00b0 Tempo</td><td colspan=\"4\">2\u00b0 Tempo</td></tr><tr><td>Entrada do ...</td><td>19:10</td><td>Atraso:</td><td>N\u00e3o Houve</td><td>Entrada do ...</td><td>20:13</td><td>Atraso:</td><td>N\u00e3o Houve</td></tr><tr><td>Entrada do V...</td><td>19:11</td><td>Atraso:</td><td>N\u00e3o Houve</td><td>Entrada do V...</td><td>20:14</td><td>Atraso:</td><td>N\u00e3o Houve</td></tr><tr><td>In\u00edcio 1\u00b0 Te...</td><td>19:15</td><td>Atraso:</td><td>N\u00e3o Houve</td><td>In\u00edcio do 2\u00b0 ...</td><td>20:16</td><td>Atraso:</td><td>N\u00e3o Houve</td></tr><tr><td>T\u00e9rmino do</td><td>20:01</td><td>Acr\u00e9scimo:</td><td>1 min</td><td>T\u00e9rmino do ...</td><td>21:05</td><td>Acr\u00e9scimo:</td><td>4 min</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"6\">Cronologia</th><th></th><th></th></tr><tr><td colspan=\"4\">1\u00b0 Tempo</td><td colspan=\"4\">2\u00b0 Tempo</td></tr><tr><td>Entrada do ...</td><td>19:10</td><td>Atraso:</td><td>N\u00e3o Houve</td><td>Entrada do ...</td><td>20:13</td><td>Atraso:</td><td>N\u00e3o Houve</td></tr><tr><td>Entrada do V...</td><td>19:11</td><td>Atraso:</td><td>N\u00e3o Houve</td><td>Entrada do V...</td><td>20:14</td><td>Atraso:</td><td>N\u00e3o Houve</td></tr><tr><td>In\u00edcio 1\u00b0 Te...</td><td>19:15</td><td>Atraso:</td><td>N\u00e3o Houve</td><td>In\u00edcio do 2\u00b0 ...</td><td>20:16</td><td>Atraso:</td><td>N\u00e3o Houve</td></tr><tr><td>T\u00e9rmino do</td><td>20:01</td><td>Acr\u00e9scimo:</td><td>1 min</td><td>T\u00e9rmino do ...</td><td>21:05</td><td>Acr\u00e9scimo:</td><td>4 min</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9051217464315701,
+              "height": 0.1543942992874109,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"6\">Cronologia</th><th></th><th></th></tr><tr><td colspan=\"4\">1\u00b0 Tempo</td><td colspan=\"4\">2\u00b0 Tempo</td></tr><tr><td>Entrada do ...</td><td>19:10</td><td>Atraso:</td><td>N\u00e3o Houve</td><td>Entrada do ...</td><td>20:13</td><td>Atraso:</td><td>N\u00e3o Houve</td></tr><tr><td>Entrada do V...</td><td>19:11</td><td>Atraso:</td><td>N\u00e3o Houve</td><td>Entrada do V...</td><td>20:14</td><td>Atraso:</td><td>N\u00e3o Houve</td></tr><tr><td>In\u00edcio 1\u00b0 Te...</td><td>19:15</td><td>Atraso:</td><td>N\u00e3o Houve</td><td>In\u00edcio do 2\u00b0 ...</td><td>20:16</td><td>Atraso:</td><td>N\u00e3o Houve</td></tr><tr><td>T\u00e9rmino do</td><td>20:01</td><td>Acr\u00e9scimo:</td><td>1 min</td><td>T\u00e9rmino do ...</td><td>21:05</td><td>Acr\u00e9scimo:</td><td>4 min</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}
