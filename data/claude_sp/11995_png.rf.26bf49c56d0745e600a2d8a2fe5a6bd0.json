@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>Teatro d'Annunzio</td>\n<td colspan=\"2\">Settore numerato</td>\n<td>Settore NON numerato</td>\n</tr>\n<tr>\n<td rowspan=\"2\">19, 20, 21 giugno - ore 21,15 ...</td>\n<td rowspan=\"2\">Bambini fino a 12 anni</td>\n<td>€ 23</td>\n<td>€10</td>\n</tr>\n<tr>\n<td>€ 10</td>\n<td>€ 5</td>\n</tr>\n<tr>\n<td rowspan=\"2\">22 giugno - ore 21,15 THE B...</td>\n<td rowspan=\"2\">Bambini fino a 12 anni</td>\n<td>€ 15</td>\n<td>€ 10</td>\n</tr>\n<tr>\n<td>€ 5</td>\n<td>€ 5</td>\n</tr>\n<tr>\n<td rowspan=\"2\">CARNET 2 spettacoli</td>\n<td rowspan=\"2\">Bambini fino a 12 anni</td>\n<td>€ 28</td>\n<td>€ 15</td>\n</tr>\n<tr>\n<td>€ 15</td>\n<td>€ 10</td>\n</tr>\n</table>"
+}

@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>化学制品</td>\n<td>浓度</td>\n<td>接触⁠⁠时间</td>\n<td>优点</td>\n<td>缺点</td>\n</tr>\n<tr>\n<td></td>\n<td>50ppm, 75-100 °F。</td>\n<td>7秒</td>\n<td>对多种细菌均有效;效果持久</td>\n<td>有腐蚀性、刺激皮肤;需要良好通风</td>\n</tr>\n<tr>\n<td>磷酒</td>\n<td>12.5-25ppm, 水温至少75°F</td>\n<td>30秒</td>\n<td>浓度高时呈橙色;在硬水中效果好</td>\n<td>pH值的升高会大大降低效力;会污染食品</td>\n</tr>\n<tr>\n<td>季铵</td>\n<td>最高到 200ppm, 至少75°F</td>\n<td>30秒</td>\n<td>无毒、无嗅、无色;无腐蚀性</td>\n<td>对某些微生物杀灭速度慢;易被有机物灭活</td>\n</tr>\n</table>"
+}

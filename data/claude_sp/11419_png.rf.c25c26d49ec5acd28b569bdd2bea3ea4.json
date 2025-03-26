@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td></td>\n<td colspan=\"4\">Projection error (px)</td>\n</tr>\n<tr>\n<td>Frame</td>\n<td>#60</td>\n<td>#120</td>\n<td>#180</td>\n<td>#240</td>\n</tr>\n<tr>\n<td>Clusters-based Filter</td>\n<td>54.72</td>\n<td>110.57</td>\n<td>145.33</td>\n<td>75.55</td>\n</tr>\n<tr>\n<td>Tracking of [13]</td>\n<td>809.95</td>\n<td>659.04</td>\n<td>304.78</td>\n<td>766.01</td>\n</tr>\n</table>"
+}

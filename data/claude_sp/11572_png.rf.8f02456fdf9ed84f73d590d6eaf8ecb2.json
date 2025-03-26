@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>Investments</td>\n<td>2020</td>\n<td>2019</td>\n</tr>\n<tr>\n<td>Term deposits that earn interest between...</td>\n<td>$ 6,743,525</td>\n<td>$ 7,421,027</td>\n</tr>\n<tr>\n<td>Mutual funds</td>\n<td>233,933</td>\n<td>208,383</td>\n</tr>\n<tr>\n<td></td>\n<td>6,977,458</td>\n<td>7,629,410</td>\n</tr>\n<tr>\n<td>Less: short-term investments</td>\n<td>6,977,458</td>\n<td>4,595,087</td>\n</tr>\n<tr>\n<td>Long-term investments</td>\n<td>$ -</td>\n<td>$ 3,034,323</td>\n</tr>\n</table>"
+}

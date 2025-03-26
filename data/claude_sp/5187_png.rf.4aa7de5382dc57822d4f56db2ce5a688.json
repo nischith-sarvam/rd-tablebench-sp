@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>CoSMoS</td>\n<td colspan=\"2\">Montant</td>\n<td>Pour qui ? (Indemnisé...)</td>\n<td>Conditions</td>\n</tr>\n<tr>\n<td rowspan=\"3\">Activité partielle http://...</td>\n<td>Employeur</td>\n<td>Salarié</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>- Janvier / Février 202...</td>\n<td>- Janvier / Février 202...</td>\n<td>Pour tous les salariés ...</td>\n<td>Conditions de recours ...</td>\n</tr>\n<tr>\n<td>- Mars / Juin 2021 : 70...</td>\n<td>- Mars / Juin 2021 : 70...</td>\n<td>Pour tous les salariés ...</td>\n<td>Conditions de recours ...</td>\n</tr>\n<tr>\n<td></td>\n<td>- Janvier / Juin 2021 : ...</td>\n<td>- Janvier / Juin 2021 : ...</td>\n<td>Pour tous les salariés ...</td>\n<td>Conditions de recours ...</td>\n</tr>\n</table>"
+}
