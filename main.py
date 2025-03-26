@@ -23,11 +23,14 @@ for predicted_file in os.listdir(predicted_folder_path):
     ground_truth = parse_html(ground_truth_path)
     prediction = parse_html(predicted_path)
 
+    if prediction.size == 0:
+        print(predicted_path)
+        continue
+
     table_similarity_score = table_similarity(ground_truth, prediction)
     if table_similarity_score < 0.6:
         print(predicted_file)
-    if table_similarity_score <= 0.0:
-        continue
+        
     table_similarity_scores.append(table_similarity_score)
 average_table_similarity_score = sum(table_similarity_scores) / len(
     table_similarity_scores
