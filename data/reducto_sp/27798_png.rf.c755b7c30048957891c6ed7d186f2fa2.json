@@ -1,0 +1,36 @@
+{
+  "job_id": "dff0123d-2fdc-4bc1-aa06-3d77ae06fa53",
+  "duration": 63.39988112449646,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/bcd28281-6baa-4f53-8427-febdc3a923bc.pdf?AWSAccessKeyId=ASIA2UOK6OVBMDA4W2PF&Signature=iF4KrsmiWud%2BRL6oUqcGEk4EyHI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBlaO%2BKX0oOttJvvOSBu6An%2BTI9VFsonmLP9GsrxbGagAiAmkVv7X8UMBIcx9pfWX7Ow2Eho8sznp%2F7xo2EtJ47IJCqDBQgpEAAaDDczMTEwNjkzMjAzNCIM%2FB1k1hCiDO2TePe9KuAEk26Dcrk6le3R0IB72PpBnbMs93wkxNARJb4OYP4Sg0jRajEWr%2B%2BGcd3spPvy4RC0TxKNBWYab2WB7UFvKa1ecCbDlrcO%2BjN2aIgk0aAgVvVAyM%2BD%2BE2IGAoIZNNrE6N4rPhISaTQnk36PX%2FLIrYQVubU3yTm1ZWDsPnLf8BY1DeteaXCrLWFuql%2BxzOjWuH3ZhCRijhr1m2IEUmyaBl6%2Bh268ZE%2FCB82rgYdqgeLmMpwQX6pukaJ8nsK1OIonymNODxcRIbFTs6J9ulTkUkko%2FvzkSpNkEqPdkpzvd2lmptTrIC4S0IdCaUu%2B6%2BzQteKTBY0fDLIlHlyvvdffxViKVgJQtuVGfUQYKbbRiOiinnWHZcNKwmFnSdIGukv1z4qjGpltKeCVWJWP7hfOPuEfbEz1M%2FERHP0by%2Fhhlxeua9o9ePZfPjLpTe020rS8yJs7ZXmWKFaUnDbq2i6jo5Euir6OlftO7EQoHAr%2FD%2BsZeQDWp5XCcwU4Wrd3SUJwTY170xhPfuA6cDLMcBqWennpmTtD0ZuI0mL0lBg2PVaPeiTdVFfhKyRao%2Bo7A91hH%2BAFNa%2BYH3aWTbAoVzNe2wJdrXBxq85WnPJGDLrYggjTKW5eggSgywyY9XYlUzEqsyuA9XTvKWAO0ro3OJwXXfwByr%2B9IWUO0ufwvE%2BOJTwS4tHJ2Hcwzokwxvuo3b2E%2FeJOmvSoHWkaSZCwjCqh%2B8bslped%2FrZZOFTQNB99AqZvJ3O8lJhmCEdoCT7C6sH61%2BV4csx5ziHlv0aj42WuDEPk3Ga1N3VzoaW%2B9GY%2BfZdyQ8wv%2ByOvwY6mwGbb3I4lFVShOAMetckR6rfdUQCDigegcV9nylWin%2B7Fzj2ZThPShZLonV15H8Cu6ao8RXeLk2x6rNLtdF1DpoGbgkwLBSuUvbCTQLNRXGS5PjvR5wvJtCPr5Svazl%2BtdCLEIkkwk7QRuc9dpmbUFho4F7XgMmTZHGCdTkn9jqLFhma%2BY7O6ZAE56Fhhtw6IFQv2x040yQ7WIZ8%2FA%3D%3D&Expires=1742980880",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th colspan=\"4\">Residential Districts</th><th colspan=\"4\">Business Districts</th><th colspan=\"4\">Industrial Districts</th></tr><tr><td></td><td>SRA</td><td>SRB</td><td>SRC</td><td>APT</td><td>LS</td><td>OP</td><td>GB</td><td>MU</td><td>IG</td><td>IA</td><td>ID</td><td>ID 2</td></tr><tr><td>27. M...</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td></tr></table>",
+        "embed": "<table><tr><th></th><th colspan=\"4\">Residential Districts</th><th colspan=\"4\">Business Districts</th><th colspan=\"4\">Industrial Districts</th></tr><tr><td></td><td>SRA</td><td>SRB</td><td>SRC</td><td>APT</td><td>LS</td><td>OP</td><td>GB</td><td>MU</td><td>IG</td><td>IA</td><td>ID</td><td>ID 2</td></tr><tr><td>27. M...</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.0436607892527288,
+              "top": 0.0332541567695962,
+              "width": 0.9051217464315701,
+              "height": 0.07779097387173396,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th colspan=\"4\">Residential Districts</th><th colspan=\"4\">Business Districts</th><th colspan=\"4\">Industrial Districts</th></tr><tr><td></td><td>SRA</td><td>SRB</td><td>SRC</td><td>APT</td><td>LS</td><td>OP</td><td>GB</td><td>MU</td><td>IG</td><td>IA</td><td>ID</td><td>ID 2</td></tr><tr><td>27. M...</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

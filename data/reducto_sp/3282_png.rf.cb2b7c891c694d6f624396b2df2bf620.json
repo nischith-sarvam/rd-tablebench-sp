@@ -1,0 +1,36 @@
+{
+  "job_id": "37e14069-4cc4-4d6d-bc39-0b53b274ef04",
+  "duration": 118.38127374649048,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/4837bb52-3e13-41c1-950b-14b57bb22b95.pdf?AWSAccessKeyId=ASIA2UOK6OVBOGG27O2K&Signature=FEn%2BcTeS0OhNqa1oSIye97CVkjw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIH1EHoWqFO5VjQoLlD0cemjcoC9qV8D%2FYuGi9glUtqPIAiAGGOKNP681F5lgWN%2BedLiemvYTJDldKHklpcI%2B%2Fmzm6yqDBQgqEAAaDDczMTEwNjkzMjAzNCIMi0f8nF9YvpThBjE9KuAE%2FhT2y9RoF%2Bzp2SrM3OASWrfWY8hAFf2GJKuPsTgLVc8PIB7EgZfziJNdAkG9%2FsXgDKh5Q%2F0EVRiYpAT%2Fy6%2FP6%2BlxABur05J6OSBatOkpgJ0zPVnh%2BSxCywgrP7qvtlCB2b%2BiVH0XfG7lTz%2Bx7DHPzyrEMpxDhnrNq2e2ngEutbLX%2FIV63eH%2Bmt3C2x653jLbY4tYGU6V9h%2BzzvBxIGlAadymJe7WAU8In7vAkkjmkh7tYN9lnkqzSmu8K4Dp%2FyXPptbAmVPjD2TTNGCv%2BUXQJwu7fPR9o%2FhyDTIKMsw3r%2F31rWXxlG9NotMpEZhMBenV9RKfhsWVNgyHsXVSbig%2FRU%2BzIittq4Zy9c2KT5zXMkNREo4BlshH%2BEO5aSobVfBYEgtkU48TRaIwb4IAGSxTkyzC70AIO%2F5oJHSg8yqqIGh5XWc2j%2FjxZNCX%2FrJnBUcAr8ffZe2xtqxx6fSDksnc8qLM%2BRLoNCJFan1eJl1W0b9TeRVa78ZaAB4aPYLzch9F2lM5uMPp9NEj87Cxwi4ToJ9mpJcX6XYOzmQQBtA%2BhyRwhkeclX2CH5hNw8B76pTjk9UEyfz14h8QNbg%2Fu%2BOtVgIBPEJaOZBgkpl5FSzq3wtMbpqOsbLculxSWiXFczCJdBizTGer132HUespe9ApquIL7TwR4cRUKLU6kZhNu6E4MzLeYQ5nSY0s2G%2BtgqNARbfdyqSKmm%2F45ObTY%2FqqGncpDZVFxd5NUBSwul3Wpe%2FjePIkzf3wj4u5Grpad5nrDL9rWsuWzDq5tOgVUjBnq7JDEZe91mXP%2BjY9Y9Tko94ww%2FKOvwY6mwHBFeSYPzYcxqOj8z64kc5qjtAalDA64rLtJKcywNQCBQJNeaEbAXeguoNCnslBo%2FbiXA7hGCljB61DWXetKREQh6MBIFGiiuuk3ceO9sgvwHxyNOopMQZsyPGDw94zkMi8YD3BPdiW695IGeE1eRMX1qGbNTsiXaEfFW2OoE73Eq%2B4gTRfTDBN9bPgCkuFauu5IF2rOcVvEtH8Qw%3D%3D&Expires=1742980950",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Input SNR seg [dB]</th><th>0</th><th>6</th><th>12</th></tr><tr><td colspan=\"4\">Ideal</td></tr><tr><td>MMSE STSA</td><td>8.03</td><td>5.66</td><td>3.54</td></tr><tr><td>OM-LSA</td><td>7.94</td><td>5.96</td><td>3.44</td></tr><tr><td>Joint MAP</td><td>8.09</td><td>5.87</td><td>3.96</td></tr><tr><td colspan=\"4\">Conventional Methods</td></tr><tr><td>MMSE STSA</td><td>6.37</td><td>4.54</td><td>2.41</td></tr><tr><td>OM-LSA</td><td>6.24</td><td>4.49</td><td>2.41</td></tr><tr><td>Joint MAP</td><td>6.24</td><td>4.75</td><td>3.05</td></tr><tr><td colspan=\"4\">Proposed Methods</td></tr><tr><td>OM-LSA</td><td>7.64</td><td>5.22</td><td>3.31</td></tr><tr><td>Joint MAP</td><td>7.46</td><td>5.12</td><td>3.29</td></tr></table>",
+        "embed": "<table><tr><th>Input SNR seg [dB]</th><th>0</th><th>6</th><th>12</th></tr><tr><td colspan=\"4\">Ideal</td></tr><tr><td>MMSE STSA</td><td>8.03</td><td>5.66</td><td>3.54</td></tr><tr><td>OM-LSA</td><td>7.94</td><td>5.96</td><td>3.44</td></tr><tr><td>Joint MAP</td><td>8.09</td><td>5.87</td><td>3.96</td></tr><tr><td colspan=\"4\">Conventional Methods</td></tr><tr><td>MMSE STSA</td><td>6.37</td><td>4.54</td><td>2.41</td></tr><tr><td>OM-LSA</td><td>6.24</td><td>4.49</td><td>2.41</td></tr><tr><td>Joint MAP</td><td>6.24</td><td>4.75</td><td>3.05</td></tr><tr><td colspan=\"4\">Proposed Methods</td></tr><tr><td>OM-LSA</td><td>7.64</td><td>5.22</td><td>3.31</td></tr><tr><td>Joint MAP</td><td>7.46</td><td>5.12</td><td>3.29</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9059613769941226,
+              "height": 0.30641330166270786,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Input SNR seg [dB]</th><th>0</th><th>6</th><th>12</th></tr><tr><td colspan=\"4\">Ideal</td></tr><tr><td>MMSE STSA</td><td>8.03</td><td>5.66</td><td>3.54</td></tr><tr><td>OM-LSA</td><td>7.94</td><td>5.96</td><td>3.44</td></tr><tr><td>Joint MAP</td><td>8.09</td><td>5.87</td><td>3.96</td></tr><tr><td colspan=\"4\">Conventional Methods</td></tr><tr><td>MMSE STSA</td><td>6.37</td><td>4.54</td><td>2.41</td></tr><tr><td>OM-LSA</td><td>6.24</td><td>4.49</td><td>2.41</td></tr><tr><td>Joint MAP</td><td>6.24</td><td>4.75</td><td>3.05</td></tr><tr><td colspan=\"4\">Proposed Methods</td></tr><tr><td>OM-LSA</td><td>7.64</td><td>5.22</td><td>3.31</td></tr><tr><td>Joint MAP</td><td>7.46</td><td>5.12</td><td>3.29</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

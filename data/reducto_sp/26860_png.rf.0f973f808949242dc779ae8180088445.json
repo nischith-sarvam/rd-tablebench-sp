@@ -1,0 +1,36 @@
+{
+  "job_id": "d6c796b1-77e4-4002-91dd-67d6240d8c3e",
+  "duration": 133.59577679634094,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/7b32384f-6990-4559-b159-5c4da298faf6.pdf?AWSAccessKeyId=ASIA2UOK6OVBLAZYEY4B&Signature=Uoqik4QuZJHcUw7OTHgoN39050k%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCYvPpkh9KvFpRpVHUvCx9LETUHucwz7%2BVcco%2FQpjhT9wIgerg614qUKlaElxOsoheOrH0z1kporLOrZ53KsbjCBM4qgwUIKRAAGgw3MzExMDY5MzIwMzQiDBhim6aqHr7u4xceqSrgBEj8JE6pjy53DDM8VoMz7hLhEKIy7DJidpymw8oEPxZgnmDaTzJis8JqhmQ1Dyc7jN%2FUiWMJeJqji4Ale39g2STxAHWHuei9xGOxY0g7pA4yloBRY9M7jsCeIg4GEqj16NJLtZWR%2BdbBlb4qs4fvAol0beWWqGOEQ9LeItQGW%2BLLA8dANVaQE0b3z7QrJHaCc4%2BgNtuKr3zpE0SD%2Fst0XeBrKb1VrhHVkHawKBW5IrdaPZ%2BstRMrYjv05b0s3tszmqaUOO%2BH2QDLJd0icUNaIxnNzg7WZ25B9QrFp0JExVXjX9cgpC3slPWBwKT9T9dU7gI5J2l4qGtBxSn%2BsVk1J7It3SUo9v95On4JNbPITxGWqHQlXlYpFZsUBjt34k9pqhimbJk2LkEt0t4PFh8XebTCouf7BRoRLo8oYId0fGAAAbW7p7AG8RFQwHNW1zv2Bkdu1gdTYaK9v3pbzgNscxTeM8HlPsOWzWXjtkbNlB1fKkdS%2FKM5pD%2BTghKz3shSQjdgAaN8SExqKrldPpFPEsse3lbRgXIPMncB91YO0yFSI5%2BOaeMduur%2FMEnyZKcyQj5dw0KbIic4ckDEOInCXt8%2BMnQInXVPoUldEWb6vDEySQ6lXBGT9qDHRbl9veM2M7n1TFV6XcnKPHLt1F3HEL6CHS8SSAuEdrpr3Y6wUo%2BEE5Dh6OlrTdtfDkYMnEoQfjtAx3cukiCEku6CzPMnlDD3UiTSbRhrFQE5RsmSubxEJy12S9FNhhPvkEpHr7FFYMceg7DndFz9ij8t6Jm0DtmvwfLHeLus6V6ghzBoU2a3MLnijr8GOpoB3cgMAamvEhhqadvpn5EU%2Bp%2FUQuzOJ7lFgfET2shfclDZnVSfYWbzsXPFIC7abT1WER7pKFn%2BFqZPSXups0m%2FHv0turNCdS%2FoWf48EBbYnp2FwSeZvl22Gma3nNIh3E1hwNSHKSaMpNtFKk2zBfW1ENpB9vyYF2h1QBGbODEUY%2BP%2B4JkQAAyza2oLWHFSFvy6m8D7DmqAEP4zDg%3D%3D&Expires=1742980992",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>\u767e\u842c\u6e2f\u5143</th><th>\u65bc\u4e8c\u96f6\u4e8c\u96f6\u5e74\u5341\u4e8c\u6708\u4e09\u5341\u4e00\u65e5</th><th>\u65bc\u4e8c\u96f6\u4e8c\u96f6\u5e74 \u516d\u6708\u4e09\u5341\u65e5</th></tr><tr><td colspan=\"3\">\u975e\u6d41\u52d5\u8cc7\u7522</td></tr><tr><td>\u65bc\u9644\u5c6c\u516c\u53f8\u7684\u6295\u8cc7,\u975e\u4e0a\u5e02\u53ca\u6309\u6210\u672c\u503c</td><td>1,329</td><td>1,330</td></tr><tr><td colspan=\"3\">\u6d41\u52d5\u8cc7\u7522</td></tr><tr><td>\u61c9\u6536\u9644\u5c6c\u516c\u53f8\u7684\u6b3e\u9805</td><td>4,704</td><td>4,695</td></tr><tr><td>\u300c\u73fe\u91d1\u3001\u9280\u884c\u7d50\u9918\u53ca\u5b58\u6b3e</td><td>266</td><td>234</td></tr><tr><td></td><td>4,970</td><td>4,929</td></tr><tr><td colspan=\"3\">\u6d41\u52d5\u8ca0\u50b5</td></tr><tr><td>\u61c9\u4ed8\u9644\u5c6c\u516c\u53f8\u7684\u6b3e\u9805</td><td>47</td><td>20</td></tr><tr><td>|\u61c9\u8a08\u8cbb\u7528</td><td>32</td><td>18</td></tr><tr><td></td><td>79</td><td>38</td></tr><tr><td>\u6d41\u52d5\u8cc7\u7522\u6de8\u503c</td><td>4,891</td><td>4,891</td></tr><tr><td>\u7e3d\u8cc7\u7522\u6e1b\u6d41\u52d5\u8ca0\u50b5</td><td>6,220</td><td>6,221</td></tr><tr><td colspan=\"3\">\u6b0a\u76ca</td></tr><tr><td>\u80a1\u672c</td><td>189</td><td>189</td></tr><tr><td>\u5132\u5099</td><td>6,031</td><td>6,032</td></tr><tr><td></td><td>6,220</td><td>6,221</td></tr></table>",
+        "embed": "<table><tr><th>\u767e\u842c\u6e2f\u5143</th><th>\u65bc\u4e8c\u96f6\u4e8c\u96f6\u5e74\u5341\u4e8c\u6708\u4e09\u5341\u4e00\u65e5</th><th>\u65bc\u4e8c\u96f6\u4e8c\u96f6\u5e74 \u516d\u6708\u4e09\u5341\u65e5</th></tr><tr><td colspan=\"3\">\u975e\u6d41\u52d5\u8cc7\u7522</td></tr><tr><td>\u65bc\u9644\u5c6c\u516c\u53f8\u7684\u6295\u8cc7,\u975e\u4e0a\u5e02\u53ca\u6309\u6210\u672c\u503c</td><td>1,329</td><td>1,330</td></tr><tr><td colspan=\"3\">\u6d41\u52d5\u8cc7\u7522</td></tr><tr><td>\u61c9\u6536\u9644\u5c6c\u516c\u53f8\u7684\u6b3e\u9805</td><td>4,704</td><td>4,695</td></tr><tr><td>\u300c\u73fe\u91d1\u3001\u9280\u884c\u7d50\u9918\u53ca\u5b58\u6b3e</td><td>266</td><td>234</td></tr><tr><td></td><td>4,970</td><td>4,929</td></tr><tr><td colspan=\"3\">\u6d41\u52d5\u8ca0\u50b5</td></tr><tr><td>\u61c9\u4ed8\u9644\u5c6c\u516c\u53f8\u7684\u6b3e\u9805</td><td>47</td><td>20</td></tr><tr><td>|\u61c9\u8a08\u8cbb\u7528</td><td>32</td><td>18</td></tr><tr><td></td><td>79</td><td>38</td></tr><tr><td>\u6d41\u52d5\u8cc7\u7522\u6de8\u503c</td><td>4,891</td><td>4,891</td></tr><tr><td>\u7e3d\u8cc7\u7522\u6e1b\u6d41\u52d5\u8ca0\u50b5</td><td>6,220</td><td>6,221</td></tr><tr><td colspan=\"3\">\u6b0a\u76ca</td></tr><tr><td>\u80a1\u672c</td><td>189</td><td>189</td></tr><tr><td>\u5132\u5099</td><td>6,031</td><td>6,032</td></tr><tr><td></td><td>6,220</td><td>6,221</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032066508313539195,
+              "width": 0.9042821158690176,
+              "height": 0.47030878859857483,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>\u767e\u842c\u6e2f\u5143</th><th>\u65bc\u4e8c\u96f6\u4e8c\u96f6\u5e74\u5341\u4e8c\u6708\u4e09\u5341\u4e00\u65e5</th><th>\u65bc\u4e8c\u96f6\u4e8c\u96f6\u5e74 \u516d\u6708\u4e09\u5341\u65e5</th></tr><tr><td colspan=\"3\">\u975e\u6d41\u52d5\u8cc7\u7522</td></tr><tr><td>\u65bc\u9644\u5c6c\u516c\u53f8\u7684\u6295\u8cc7,\u975e\u4e0a\u5e02\u53ca\u6309\u6210\u672c\u503c</td><td>1,329</td><td>1,330</td></tr><tr><td colspan=\"3\">\u6d41\u52d5\u8cc7\u7522</td></tr><tr><td>\u61c9\u6536\u9644\u5c6c\u516c\u53f8\u7684\u6b3e\u9805</td><td>4,704</td><td>4,695</td></tr><tr><td>\u300c\u73fe\u91d1\u3001\u9280\u884c\u7d50\u9918\u53ca\u5b58\u6b3e</td><td>266</td><td>234</td></tr><tr><td></td><td>4,970</td><td>4,929</td></tr><tr><td colspan=\"3\">\u6d41\u52d5\u8ca0\u50b5</td></tr><tr><td>\u61c9\u4ed8\u9644\u5c6c\u516c\u53f8\u7684\u6b3e\u9805</td><td>47</td><td>20</td></tr><tr><td>|\u61c9\u8a08\u8cbb\u7528</td><td>32</td><td>18</td></tr><tr><td></td><td>79</td><td>38</td></tr><tr><td>\u6d41\u52d5\u8cc7\u7522\u6de8\u503c</td><td>4,891</td><td>4,891</td></tr><tr><td>\u7e3d\u8cc7\u7522\u6e1b\u6d41\u52d5\u8ca0\u50b5</td><td>6,220</td><td>6,221</td></tr><tr><td colspan=\"3\">\u6b0a\u76ca</td></tr><tr><td>\u80a1\u672c</td><td>189</td><td>189</td></tr><tr><td>\u5132\u5099</td><td>6,031</td><td>6,032</td></tr><tr><td></td><td>6,220</td><td>6,221</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

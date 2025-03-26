@@ -1,0 +1,36 @@
+{
+  "job_id": "ded66d6e-0674-4d29-84ed-37ed968ddb04",
+  "duration": 117.38040256500244,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/5d03989b-e155-427d-9af8-640df79b2152.pdf?AWSAccessKeyId=ASIA2UOK6OVBAM2I4ZFL&Signature=M31tnEiQ5YhJhGYyDu%2FcUj06aPI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDvZ%2BO92q4FfTP4zmuWYmHcpw3rtI6c1rjo1nijdagJDwIhAPhcSN7r5XjSJezIX5AbOxD%2BLHPf%2FwaVvmxRtiKBKmjNKoMFCCkQABoMNzMxMTA2OTMyMDM0IgzYsMjIsDfPhlECHWoq4ARJbwySXNHgr83jcVgdMm0VUAGV1TF0mtDUbKrKREh4Y1GyvooycdrXeExr7RMTZNkHOhz7uYIvs8MisbAi8LdiOJze8xIzEDdFMsysuHt6rGQP%2FZrgl254diZ2EmoCi3vYY6rk77GJdyG4r5zbrJCFUf93MHlRgSBx53z1l%2BYR7PY78SQuEOy4%2BfFHSYIMSAVxrzTafaK6eH9crB92nPnNAkW%2B5FPA98Ea1hupgw%2Fsk8o%2FWsgZw4iVgQoVmoPdjmpNJcbG4gOp57hJ%2Bh900wUFVn%2FjsMAeLCPn7qPT9GN0yUECyxkBZjm1y2IQ6KHTzqVux9y9%2FwWhOwIF9g0OwtPGq9BaK95gytNzlAt3XUCQkKDYEqdmZCuwMp1qbrSNnSF6M%2B3P%2F86Jatyzy3vPYoEuOCCUud5YJoB%2F441Xuop7TmCMeIJXRB%2BAorLK%2F9PuSJ8pV48XQKSnvsfjeqze827nlY7os6s0LBSpmJlMyZWBtLQ7Jn6qkH6p%2Bz5apifLbZ4HMI8Yb33gqqDep5NWm%2BMJYj545%2FeT2jnJRtv5m%2BxuMphGC3XuCfGoOUfvqnQpuMV6ivbmnftjHmai%2FcpwL9%2FH04oqfcY%2BkJmJvnTyalbJyiXbWjwuaoqGPEjjB0oFhVKjsu8hw28tuVk%2BDkGORivmYcTOl5AroDOG2ET57lCG530m69SR9K4rp59M2Hmwcqw1nE40np2Xo28u4M1TZ%2Fsde8%2FHBM99pEQv7gOZ1wyYd0YYldQLhl3h3bs7FrfpFMlp3JLJFM2deBTdzW6favfWWaPOJWkngwrDkguZc5nDezDP4Y6%2FBjqZAZXo26O85Z0yMfnX30LUCf8qII6ClQUzSjXWzcsOZJWqHtB2e8FD9KtIS%2Fo8ZZPByYUcYvjzqNpO2kP7rgMVa3h1Z2yecRSHupaxBbW3sng1827WobW1E6mvFI2mNf53A%2BeLw4jA1hZXa4R0VYDSYcIEUjlnlL92TM83GnR%2BmIPZrzOPRanM1mIgyskvcyL4crg8EsO6F1o74w%3D%3D&Expires=1742980947",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"7\">Subject: AP Seminar Grade Level: 10-12</th></tr><tr><td>Units and Pacing</td><td>Unit 1: Introdu</td><td>Unit 2: Survivin...</td><td>Unit 3: How to ...</td><td>Unit 4: A Strug</td><td>Unit 5: Team P</td><td>Unit 6: Individu</td></tr><tr><td>Transfer Goals</td><td>-Understand M...</td><td>Be able to wri</td><td>Applying alter</td><td>Incorporate vi</td><td>Create a tea</td><td>\u2022 Analyze stim</td></tr><tr><td>Enduring Unde</td><td>Fostering con.</td><td>\u2022 Students gain</td><td>Alternate or c...</td><td>\u2022 Visuals, medi</td><td>According to ...</td><td>\u2022 According to ...</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"7\">Subject: AP Seminar Grade Level: 10-12</th></tr><tr><td>Units and Pacing</td><td>Unit 1: Introdu</td><td>Unit 2: Survivin...</td><td>Unit 3: How to ...</td><td>Unit 4: A Strug</td><td>Unit 5: Team P</td><td>Unit 6: Individu</td></tr><tr><td>Transfer Goals</td><td>-Understand M...</td><td>Be able to wri</td><td>Applying alter</td><td>Incorporate vi</td><td>Create a tea</td><td>\u2022 Analyze stim</td></tr><tr><td>Enduring Unde</td><td>Fostering con.</td><td>\u2022 Students gain</td><td>Alternate or c...</td><td>\u2022 Visuals, medi</td><td>According to ...</td><td>\u2022 According to ...</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.033847980997624705,
+              "width": 0.9059613769941226,
+              "height": 0.10273159144893111,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"7\">Subject: AP Seminar Grade Level: 10-12</th></tr><tr><td>Units and Pacing</td><td>Unit 1: Introdu</td><td>Unit 2: Survivin...</td><td>Unit 3: How to ...</td><td>Unit 4: A Strug</td><td>Unit 5: Team P</td><td>Unit 6: Individu</td></tr><tr><td>Transfer Goals</td><td>-Understand M...</td><td>Be able to wri</td><td>Applying alter</td><td>Incorporate vi</td><td>Create a tea</td><td>\u2022 Analyze stim</td></tr><tr><td>Enduring Unde</td><td>Fostering con.</td><td>\u2022 Students gain</td><td>Alternate or c...</td><td>\u2022 Visuals, medi</td><td>According to ...</td><td>\u2022 According to ...</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

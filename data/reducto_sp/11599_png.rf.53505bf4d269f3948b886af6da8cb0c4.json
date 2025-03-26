@@ -1,0 +1,36 @@
+{
+  "job_id": "346a6fdd-c614-40b4-a495-e91b6eaa2f9e",
+  "duration": 177.3042802810669,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/c29fe617-85e0-4710-8b97-b3bc06b9fd7d.pdf?AWSAccessKeyId=ASIA2UOK6OVBCH2VM7J6&Signature=NWKe8gT98YZi8MSPbDyWvs%2FfZGQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCID9gIcErED1tB60a78YIIzGzMDOteVdQCV%2Bcsy9SWer%2BAiAKO%2Fd%2FZJ7giABwC%2FvMwr2sw5CtYDVsGIHDBg7425EmjiqDBQgqEAAaDDczMTEwNjkzMjAzNCIM2l96iHVu82BFC%2FCWKuAEro8CfRoZXuqVw1GOpdODlgZO5ajK41KMK5htA6rVVqxyRIYTQSZTkvvZcxLKumbAzszV5FiAgvrKV03Q1QgKBPTZs9MeWR9W86lZ8g77%2B1Guz9KpFbS%2BjOMMiVOt8JQpAOTfu64qRvX93Xl%2B4OfgG6wA8rA9MFz2%2FiVFgkGD%2Bs7KGLjM%2FjfyCUFopVqDpLc4l4nasMqydTchQ%2B9MtenTKyM0NwXsa67IY%2BnrnJiQW0RSnaNhn2FxfnzjqZ6E35sot62vhSy4ny12iatyF4we8DqMwNMFNj6NnvlHAA5odOv8W5TvLQS%2BtQB8ZOjMJqMk7KyFpSr9%2FZqqYmS83YCmq5FvyPluRDOEoravJ%2BmetStDOrFMW1l8DU54tNAWQkSFQfgSUOdOlP8DAGNfFwYXu3Bv4jfWXyTxZNiKEncau%2BA3SBfPQCIEgeFNaV2wVxiroZnlSwlAkThlWfPfYiRXbYwn%2F8gJeqixkWxBYwXgkZFYbkJJp2Ws2ysG3v7%2FeZYWNyJbEpwUgu7jyDRpwmO0ybLwD2stqyb29AdD2p6fJyTCDNKvXmYLFQZMsoT7xWyA24gg%2BnrdW7%2BpcrydmnyQL4zV5QUKFJAdHyH%2FUfxg7J0QbfGiJIp16D28ZoKlgEKtiWVpSXdtPXxFk2XqaOScgXG1AOx2igD5MYCxCVkfIM3Twsq53X6O5cJZy%2BLqW8gVhkchD%2FkS1SB8ldNpz%2F72OzBvmdnb081IJzssx7JmajXvBLmRuqdyPQILCBSkB8iTGY8dkd6uoG4FU%2BAi7QGjlvLNTBikgvCxUNIYFVLzrecwjPOOvwY6mwFLUMEqNjMi8g5jbHDtxqVyDnl2804QAkZ6VM1pL7%2F19ND6Dajg%2F7CKI15EJSyjO1vBs16bNkzmelnwx9L%2F6r5N1lPg2VaYUJOmyk6N8shJd9qm%2FJ5zOHLiKn8xf1a4%2BDcQ2yscJ3QxwFVR%2FB%2FVwL0yFkpjftQYc4QnUzmJQie9hXEN7tGmWnU8R5MF3%2FrQ85zo%2FFFRqapgRueObw%3D%3D&Expires=1742981037",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"2\">Objectivos</th><th>Objectivo E...</th><th>Avalia\u00e7\u00e3o A.</th><th>Pondera\u00e7\u00e3o</th><th>Resultado</th><th>% Dimens\u00e3o</th><th>Resultado ...</th></tr><tr><td>1</td><td>Entrega do r...</td><td>At\u00e9 ao dia 5 ...</td><td>4</td><td>20%</td><td>0,80</td><td rowspan=\"5\">40%</td><td rowspan=\"5\">4,20</td></tr><tr><td>2</td><td>Satisfa\u00e7\u00e3o d...</td><td>Inexist\u00e8ncia...</td><td>4</td><td>30%</td><td>1.20</td></tr><tr><td>3</td><td>Realizar o pr...</td><td>Atingir o niv...</td><td>5</td><td>20%</td><td>1.00</td></tr><tr><td>4</td><td>Tempo de re...</td><td>Inferior a 24.</td><td>4</td><td>30%</td><td>1,20</td></tr><tr><td>5</td><td></td><td></td><td></td><td></td><td>0,00</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"2\">Objectivos</th><th>Objectivo E...</th><th>Avalia\u00e7\u00e3o A.</th><th>Pondera\u00e7\u00e3o</th><th>Resultado</th><th>% Dimens\u00e3o</th><th>Resultado ...</th></tr><tr><td>1</td><td>Entrega do r...</td><td>At\u00e9 ao dia 5 ...</td><td>4</td><td>20%</td><td>0,80</td><td rowspan=\"5\">40%</td><td rowspan=\"5\">4,20</td></tr><tr><td>2</td><td>Satisfa\u00e7\u00e3o d...</td><td>Inexist\u00e8ncia...</td><td>4</td><td>30%</td><td>1.20</td></tr><tr><td>3</td><td>Realizar o pr...</td><td>Atingir o niv...</td><td>5</td><td>20%</td><td>1.00</td></tr><tr><td>4</td><td>Tempo de re...</td><td>Inferior a 24.</td><td>4</td><td>30%</td><td>1,20</td></tr><tr><td>5</td><td></td><td></td><td></td><td></td><td>0,00</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.15320665083135393,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"2\">Objectivos</th><th>Objectivo E...</th><th>Avalia\u00e7\u00e3o A.</th><th>Pondera\u00e7\u00e3o</th><th>Resultado</th><th>% Dimens\u00e3o</th><th>Resultado ...</th></tr><tr><td>1</td><td>Entrega do r...</td><td>At\u00e9 ao dia 5 ...</td><td>4</td><td>20%</td><td>0,80</td><td rowspan=\"5\">40%</td><td rowspan=\"5\">4,20</td></tr><tr><td>2</td><td>Satisfa\u00e7\u00e3o d...</td><td>Inexist\u00e8ncia...</td><td>4</td><td>30%</td><td>1.20</td></tr><tr><td>3</td><td>Realizar o pr...</td><td>Atingir o niv...</td><td>5</td><td>20%</td><td>1.00</td></tr><tr><td>4</td><td>Tempo de re...</td><td>Inferior a 24.</td><td>4</td><td>30%</td><td>1,20</td></tr><tr><td>5</td><td></td><td></td><td></td><td></td><td>0,00</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

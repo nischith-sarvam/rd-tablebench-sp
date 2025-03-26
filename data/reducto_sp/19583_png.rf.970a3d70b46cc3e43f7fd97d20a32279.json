@@ -1,0 +1,36 @@
+{
+  "job_id": "3509d714-107c-4706-8937-97252b274d6f",
+  "duration": 119.08816599845886,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/f05cc2bd-8a58-479e-a13f-48a96322747b.pdf?AWSAccessKeyId=ASIA2UOK6OVBLRLLFD5M&Signature=Wzq1up5lNGIjE5YB0scRI5uskqc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDEcohWkogTMxjWI9DWPIsrQ8W%2FZEq2nFHXd3ChI9J%2BIAiAh%2FYOZj0YfD7ntO5sedutlNK3082wLXT%2Fqp5KXuExmFiqDBQgpEAAaDDczMTEwNjkzMjAzNCIMLVLjp5Bb%2B2VEQmpSKuAE4j1FE9%2F1CgCI3oTBrIlGx3Rt1ZEUfgyLSvuYEqQeaFC1AzSE1FWqOvfJy11XQgJFrXuDnCbgtey2r2kikAmlYYvuW8xS0KKe4xnd%2FRqIyNDneGhIAMYghjPQPkCHIJ72AEfKCm92nIKPBJRX4vaMJPiM2FoTJirkx7%2FbrJJiWfm8m%2BGN3FQR9s5vfWTO4V0LpPBJHTkt7l9L5zm%2Fd2EatasD2YUZxIGU2qlD7O39uKt6M8OatXLAKEIHj1VnX8uhYPNCv4M7nfzBmdv%2BgRVIXTjiv0rAA15RrVikrkNzmwgCckbjKGnoItfhYtVSO4DV0tjgNtIK21amIsMjzkrifOtWK06yF12CbSyf%2FKHMD2UYPqJSBG2atZBXIUrfVd29Ky32SIBgreeKKpa8LmKwCwY7M1uIDBjlMGqBbvuEMfDih0ZqhltlqTitVu2bn5JL%2BbcCsrV0soSzeQpJpSKAUN3P8J9lFQ01Q2n7NBPs3zXupvxKWyEL718Z1nBz3fEmNfHaNSXYoVn6wWNw97hB%2FebqVzn4Sdmn223Gkc%2BQNaAK4mnXfvpJPsX%2Fp%2FHYmU%2ByubuyrZJykpDOeYnVG5Ur2QvRrPG4e1ErIAXqaS3pd9cbri1ikWz8PxdUbiWIq52N887kiZEDrynweBrnfWx%2F5Jlua5VEllfqBg%2FnxMjugq5gGOUGjG8zSL%2Ff2ULHAz60ZrYf3USM1frewPn5CqG8FxoqKuIA38Fn8MjW8Rkap2PGpGrSCExGPcF7aBSgjyGUKsLguT2rlyq5nME9psaHui2VqgAko83Q0wOWmMs2Jhowx%2B2OvwY6mwESsS1VnJE8EZ1LQ06JlqGu8BVhhao3hxjEWCwLnCI3UiGbR4I08SmpgS1ONnqdFoL0qrS1Zql2guAQ7ixIeKOocQ3qCI1my5CAq17eDXTBSABZzGkKtUUBf%2BTM6adXPA%2F0ciLVaEumFuDq6DNpuos9ArL9ksck83cmJUit4GSFuyJ3rHPZa8sCTDtkX%2F%2Fkx3i0PY%2FeGBxCMuK4jA%3D%3D&Expires=1742980947",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"2\">rok naboru</th><th rowspan=\"2\">p\u00f3lrocze</th><th colspan=\"4\">fundusz/zakres tematyczny/planowana alokacja\u00b9</th></tr><tr><td>EFRROW\u00b2</td><td>EFS2</td><td>EFRR\u00b2</td><td>EFMR\u00b2</td></tr><tr><td rowspan=\"2\">2016</td><td>I</td><td></td><td></td><td></td><td></td></tr><tr><td>II</td><td>1.1.1. NOWE INN</td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">2017</td><td>I</td><td>1.1.1. NOWE INN</td><td>4.2.1 USLUGI ED</td><td>3.1.1 INFRASTR</td><td></td></tr><tr><td>II</td><td>1.1.1 NOWE INN</td><td>4.1.1 WSPARCIE ...</td><td></td><td></td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"2\">rok naboru</th><th rowspan=\"2\">p\u00f3lrocze</th><th colspan=\"4\">fundusz/zakres tematyczny/planowana alokacja\u00b9</th></tr><tr><td>EFRROW\u00b2</td><td>EFS2</td><td>EFRR\u00b2</td><td>EFMR\u00b2</td></tr><tr><td rowspan=\"2\">2016</td><td>I</td><td></td><td></td><td></td><td></td></tr><tr><td>II</td><td>1.1.1. NOWE INN</td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">2017</td><td>I</td><td>1.1.1. NOWE INN</td><td>4.2.1 USLUGI ED</td><td>3.1.1 INFRASTR</td><td></td></tr><tr><td>II</td><td>1.1.1 NOWE INN</td><td>4.1.1 WSPARCIE ...</td><td></td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.03147268408551069,
+              "width": 0.9042821158690176,
+              "height": 0.15498812351543942,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"2\">rok naboru</th><th rowspan=\"2\">p\u00f3lrocze</th><th colspan=\"4\">fundusz/zakres tematyczny/planowana alokacja\u00b9</th></tr><tr><td>EFRROW\u00b2</td><td>EFS2</td><td>EFRR\u00b2</td><td>EFMR\u00b2</td></tr><tr><td rowspan=\"2\">2016</td><td>I</td><td></td><td></td><td></td><td></td></tr><tr><td>II</td><td>1.1.1. NOWE INN</td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">2017</td><td>I</td><td>1.1.1. NOWE INN</td><td>4.2.1 USLUGI ED</td><td>3.1.1 INFRASTR</td><td></td></tr><tr><td>II</td><td>1.1.1 NOWE INN</td><td>4.1.1 WSPARCIE ...</td><td></td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

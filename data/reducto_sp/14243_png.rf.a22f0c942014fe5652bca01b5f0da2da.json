@@ -1,0 +1,36 @@
+{
+  "job_id": "def21af6-9f13-4a9c-b758-e18acfc8b173",
+  "duration": 49.683430910110474,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/439776ba-6b55-4add-a2f4-930fc9520e98.pdf?AWSAccessKeyId=ASIA2UOK6OVBBRLAVCWF&Signature=zUvHI24U%2FlJAYrCkfYG1b6PYADo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCICYMj75x94plJlsr0%2BvxEHo1k3Cqg5KZyA%2FK9NwEsQ83AiEAwJQ0P64OANY%2Fd0sEqlwMjMwwYvzD7%2F%2BHVX%2BCeR%2BmCwgqgwUIKRAAGgw3MzExMDY5MzIwMzQiDJkuRJQchqoTcbqYgSrgBLeZpv9MdLcucu4uCF8tjQ6zvc2iODKxz%2BO%2FypO3VY%2FsM03yylgH8uDht6LLX4%2FfjgdZ3zPzg0GVsVPU36m%2FwJJSvsHYw95ajOeIBpb%2Ft%2B0I%2B2BRsXoEeKAkKicUmcTe0yPk0ZHwHus1ITcdwOf0ntJzBTidcWd2J5nJF6gqyobCiK9k3OyOE7ZX7WdUJY8Pe8Ge%2FbKpEEVAqRO7kzVKVvw8FiL%2FIhLBnk9AuZgVmv4c83GLlrbVL%2FuBHMgXL1lKeKN%2BHms3wpHmXT6qhh%2BS6u6oDm7ojr7yCJ8doMWWZzgs03zBJddKFdSob3EjfrKbrW6ZwxG2FdR%2Fmi30cH4vruUicjqtvCLc9%2BoAnz8RdqJgHO5bofImzv%2BLpNfr4EjovjZqTYYzQki3V1Q6VwnTXcNt%2FzH9HM0TEn8ByG30PbGEVZs8C3qMwvYzf9A3%2B0a31geKxqOBM3SpcpnTdW%2FEFYFhIK2XVQV5XqVGHvT8Y8qDYPzfcUrzg4Tb0Uufqz4PHz7FB7mv5puOCAI7466nz7hAksQwJjtSWPwyxQFjg5I8dmYVxzg5ozS3%2Fj6N1QVNgT98QXUZ29u6KyCTTcXS1gPlTKvE59Ov1T3RrAIEBSdq4TPmgNyerHIRjt7wbHhRu06kqJIVREx74bEjujpyWxJy%2BJZ9tYSvt%2FcMm7G5hq2LqOh82BvwKov0kdEajO5jej0ENBsnuyOO5Z5PcIa4XR0%2BRL1C6Xm0sxBBx%2BU3Z8%2FyxDzif3jN9mdMuc5B9%2B593RxyDalQi3W%2F1tjzr%2F94BGBdZJCHVdZ%2BZlKOmPZw12oaMKHxjr8GOpoBatkocG5HqBt2DA2lcTKIg5e53bAKV93od4mbUQmIlWxtKwr1mWYD%2FhlI6SX5U8AOKprppP7HocZrBnZz1QmWXT24aOS69wdDHURMkcBvUTcP%2BkeYL7tf%2FD%2B%2BO0wu0fEiFwhpYpxmPQR1dyy6pupJZEZthmu1A4VXAhSM9z3PZn5ZX9CuyrgXeudnwUTDhK8aRsrJRHxeIAAD%2FA%3D%3D&Expires=1742980862",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>\u0410\u0440\u0442\u0438\u043a\u0443\u043b</th><th>\u0422\u0438\u043f \u0432\u043e\u0440\u043e\u0442</th><th>\u0422\u0438\u043f \u043c\u043e\u043d\u0442\u0430\u0436\u0430</th><th>\u0420\u043e\u0437\u043d\u0438\u0447\u043d\u0430\u044f \u0446\u0435\u043d\u0430, \u0435\u0432\u0440\u043e c H \u041d...</th></tr><tr><td>GSH-1T</td><td>\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439</td><td>\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439</td><td>HKG-4T+HKG-5T+HKG-7T+</td></tr><tr><td>GSH-2T</td><td>\u041d\u0438\u0437\u043a\u0438\u0439</td><td>\u041d\u0438\u0437\u043a\u0438\u0439</td><td>HKG-9T+HKG-10T+HKG-12...</td></tr><tr><td>GSH-9T</td><td>\u041f\u0440\u0443\u0436\u0438\u043d\u044b \u0440\u0430\u0441\u0442\u044f\u0436\u0435\u043d\u0438\u044f</td><td>-</td><td>HKG-18T+HKG-19T+HKG-1...</td></tr><tr><td>GSH-3T</td><td>\u0412\u044b\u0441\u043e\u043a\u0438\u0439</td><td>\u0412\u044b\u0441\u043e\u043a\u0438\u0439</td><td>\u041d\u041aG-22\u0422+\u041dKG-23T+HKG-2...</td></tr></table>",
+        "embed": "<table><tr><th>\u0410\u0440\u0442\u0438\u043a\u0443\u043b</th><th>\u0422\u0438\u043f \u0432\u043e\u0440\u043e\u0442</th><th>\u0422\u0438\u043f \u043c\u043e\u043d\u0442\u0430\u0436\u0430</th><th>\u0420\u043e\u0437\u043d\u0438\u0447\u043d\u0430\u044f \u0446\u0435\u043d\u0430, \u0435\u0432\u0440\u043e c H \u041d...</th></tr><tr><td>GSH-1T</td><td>\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439</td><td>\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439</td><td>HKG-4T+HKG-5T+HKG-7T+</td></tr><tr><td>GSH-2T</td><td>\u041d\u0438\u0437\u043a\u0438\u0439</td><td>\u041d\u0438\u0437\u043a\u0438\u0439</td><td>HKG-9T+HKG-10T+HKG-12...</td></tr><tr><td>GSH-9T</td><td>\u041f\u0440\u0443\u0436\u0438\u043d\u044b \u0440\u0430\u0441\u0442\u044f\u0436\u0435\u043d\u0438\u044f</td><td>-</td><td>HKG-18T+HKG-19T+HKG-1...</td></tr><tr><td>GSH-3T</td><td>\u0412\u044b\u0441\u043e\u043a\u0438\u0439</td><td>\u0412\u044b\u0441\u043e\u043a\u0438\u0439</td><td>\u041d\u041aG-22\u0422+\u041dKG-23T+HKG-2...</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.12767220902612827,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>\u0410\u0440\u0442\u0438\u043a\u0443\u043b</th><th>\u0422\u0438\u043f \u0432\u043e\u0440\u043e\u0442</th><th>\u0422\u0438\u043f \u043c\u043e\u043d\u0442\u0430\u0436\u0430</th><th>\u0420\u043e\u0437\u043d\u0438\u0447\u043d\u0430\u044f \u0446\u0435\u043d\u0430, \u0435\u0432\u0440\u043e c H \u041d...</th></tr><tr><td>GSH-1T</td><td>\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439</td><td>\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439</td><td>HKG-4T+HKG-5T+HKG-7T+</td></tr><tr><td>GSH-2T</td><td>\u041d\u0438\u0437\u043a\u0438\u0439</td><td>\u041d\u0438\u0437\u043a\u0438\u0439</td><td>HKG-9T+HKG-10T+HKG-12...</td></tr><tr><td>GSH-9T</td><td>\u041f\u0440\u0443\u0436\u0438\u043d\u044b \u0440\u0430\u0441\u0442\u044f\u0436\u0435\u043d\u0438\u044f</td><td>-</td><td>HKG-18T+HKG-19T+HKG-1...</td></tr><tr><td>GSH-3T</td><td>\u0412\u044b\u0441\u043e\u043a\u0438\u0439</td><td>\u0412\u044b\u0441\u043e\u043a\u0438\u0439</td><td>\u041d\u041aG-22\u0422+\u041dKG-23T+HKG-2...</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

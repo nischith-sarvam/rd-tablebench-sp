@@ -1,0 +1,36 @@
+{
+  "job_id": "1553941b-ddd5-408a-acc9-6ecb5a8280e9",
+  "duration": 204.07555222511292,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/a5b620e8-44f6-47c4-b24e-399fc52bdba9.pdf?AWSAccessKeyId=ASIA2UOK6OVBPT4GCXWC&Signature=ScVZFcqpwW0VHm7whD5AGVe63jk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIG%2F%2Bped0HVFvHQrAJNjPrZL7bxMJ58A8NdzlVdnezDTNAiEA4OWfArNQQhzTTO0%2F0CouWnwnAw9yNKnpq3TkGDHn3toqgwUIKhAAGgw3MzExMDY5MzIwMzQiDP37rp6o9%2BKtQasSjyrgBJ9YwCPz8TOVZT%2FrOKH1xJShAop4LraYCm36zOxQgYETle6Jar0MIuBMHz%2FqBCjwrbO1mo5ZD%2BuTaB2FVdHFg8xrbfmD%2ByXZXLOKzGdp5CKEAWTxPIV6J%2B9uY%2FevAy1H4ntZvBMlN81wf5Lonmhoe8x%2Bld1Bakn8NoeI28F2C8awH6O7gYKZzKXDJW9MQkRXXDrVq15yUa1HnSD3h3WTpwE2BD8hq%2FMHMHAZFGqQ7BHC8U2GIhfy%2FzCYlGSRMSbIR6MIpR5OhdeOucDmIdzs1faaAlMLw311ewRL5tv%2BC2NmqWCnWfLekE6h0w%2Foo76VNOCTterm8t90xb5%2Fwqao2Ur0ZU4HXuIg%2F8SwbW9XoaKq4qNSwn7XlkzPhWP%2F0xUolsCIQL5aRDGeL7eEGiN%2BeSckZiPHatUVYsLJV3aebmhrYck0HaaP6JecMS0kCbZPPRa53PVpb4wfFEdV7WBDf0Sl6T%2F%2B%2FGTAr6VzIlFeSitBd27YeA3BEBHNBr4q0J98LzKJwNRE%2BXgBFlPopcMtuffVEdK6xBuP9ynXb0G%2F5%2FA3C18ludWHoh6R2P%2FUt1G2imUdQr4nw%2B9TlDzzo45jIWshTwxqnyLNX8AnuRVxAkH4Vap5kj1Wx0DSOk9CwsnXHklrV6V7t2reGNAGXIBPs%2FE%2Bnc61pWKDDaALyULG6MEKZMHsFoHHe8m%2BQBcchaboCuICRi8oEr3x2DSWdxuRDG6BTaP8Rhq20VGF7TQ%2FtfPjUBigwv9XsjB8GV%2BlvGfJHOLElh%2Bc2MJS4T%2BhQFn9mvb%2Bt9nQlKSnvy0%2BpF2UFcEPMP3yjr8GOpoBLQuyl5sD%2FUZp%2FQ%2FBPJAGkGHE8Mpn8J073gSUyLRmQkozPNH6pLRf7e74JWCa6%2Fo%2Fp2q4%2Be%2BW2KiHPHcSL9SBgtrz7JWU445HOAbN0nPi4sbOSA7ATP86FowZJdIH9OsxktZkZeK6VedxJ03%2BT6D0H2pmVSKJjOmiWkm2OYz6C5Mc2y3FWm5i68mwNlRxeAd60u%2F%2BVVZUdWHAVA%3D%3D&Expires=1742981048",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>\u8bae\u6848\u5e8f\u53f7</th><th>\u8bae\u6848\u540d\u79f0</th><th>\u5f97\u7968\u6570</th><th>\u5f97\u7968\u6570\u5360\u51fa\u5e2d \u4f1a\u8bae\u6709\u6548...</th><th>\u662f\u5426\u5f53\u9009</th></tr><tr><td>9.01</td><td>1\u3001\u9009\u4e3e\u66f2\u9882 \u540c\u5fd7\u4e3a.....</td><td>413,460,532</td><td>94.2953</td><td>\u662f</td></tr><tr><td>9.02</td><td>2\u3001\u9009\u4e3e\u9646\u519b \u8363\u540c\u5fd7\u4e3a...</td><td>413,460,445</td><td>94.2953</td><td>\u662f</td></tr></table>",
+        "embed": "<table><tr><th>\u8bae\u6848\u5e8f\u53f7</th><th>\u8bae\u6848\u540d\u79f0</th><th>\u5f97\u7968\u6570</th><th>\u5f97\u7968\u6570\u5360\u51fa\u5e2d \u4f1a\u8bae\u6709\u6548...</th><th>\u662f\u5426\u5f53\u9009</th></tr><tr><td>9.01</td><td>1\u3001\u9009\u4e3e\u66f2\u9882 \u540c\u5fd7\u4e3a.....</td><td>413,460,532</td><td>94.2953</td><td>\u662f</td></tr><tr><td>9.02</td><td>2\u3001\u9009\u4e3e\u9646\u519b \u8363\u540c\u5fd7\u4e3a...</td><td>413,460,445</td><td>94.2953</td><td>\u662f</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.033847980997624705,
+              "width": 0.9051217464315701,
+              "height": 0.0831353919239905,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>\u8bae\u6848\u5e8f\u53f7</th><th>\u8bae\u6848\u540d\u79f0</th><th>\u5f97\u7968\u6570</th><th>\u5f97\u7968\u6570\u5360\u51fa\u5e2d \u4f1a\u8bae\u6709\u6548...</th><th>\u662f\u5426\u5f53\u9009</th></tr><tr><td>9.01</td><td>1\u3001\u9009\u4e3e\u66f2\u9882 \u540c\u5fd7\u4e3a.....</td><td>413,460,532</td><td>94.2953</td><td>\u662f</td></tr><tr><td>9.02</td><td>2\u3001\u9009\u4e3e\u9646\u519b \u8363\u540c\u5fd7\u4e3a...</td><td>413,460,445</td><td>94.2953</td><td>\u662f</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

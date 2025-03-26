@@ -1,0 +1,36 @@
+{
+  "job_id": "232f867c-8b62-47b7-a048-128177e4f15f",
+  "duration": 66.71000170707703,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/42e3d957-bee9-46ff-95a9-bd8137511443.pdf?AWSAccessKeyId=ASIA2UOK6OVBOWBU5DGA&Signature=L8LyRcnAUrJbXefIP2ZmrFIHk14%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCpgC4pLblDIH3SKbba1d6bZ1xmM1x2%2FgnIWgkZRygg2gIhAN4Kj11Xz3er3Lbmg2OJBIXv5rFX6d%2Ft4gqk2l3JlcDMKoMFCCkQABoMNzMxMTA2OTMyMDM0IgybabkgZb30CrHo2noq4ASAxMH7SJkWiTlAy9cUlEQEgNjkwmeXiejOwzmEZwBVdH1b6gnufdetlxBzzUU1B5SKtaIIFBbVlbJNZAQKtInPEKB2rkDCl%2BLgoejRKyqaCnQ6653h91mONDsFeKLdBOdszEb0CFkyh9QI1iGzgqHUS4Ngthx7SFCLKOAaZcflLI7Fvl8adihuI3YV%2BWj%2BFGqPF1HTqswwLlaRkGmrGCj4whq7w%2FeDo0ePflFIebaZ750%2FeGo6BCooyo3pKNGuAVBJXjsXV4hRPmpAGkRMhZ5Y%2FHYHrA4V0yTDVaZqH99Kbgv34y3VVWVIYNhCKQ%2BvDK%2FraYL01zVNt%2FAZQOJb5dwN%2Fvxpdc5ZUAu%2BgWChPZW7AE8ZTaKBrx%2FUcvOISMBT7%2FKuUq4zcbB8hoMCzSaL%2FtyOf%2FO1kJW19vsddR5jh533CsjglHvOVUl%2BZCKT5yLX9IZUbn4Sm8HXVQfP08J25aPqoecH7aR8p9gBQyxpfnDKTPvDfeLfS7oGkKmf4T5vQQFopJzF2Osg86R%2FPWEcpCYmDVDRFhaG9sLGZTe9UwTuIp70fFyaj44bp5QWY4%2B0g2vEXRSRPK2Rv9P8ItPItbN7qp9u0XN8wO%2FsIRqI2GwSxnQZxYYRe3cUaf7DJHgyu4fJ4c9Yl7nnLojJ%2Feh%2FtNIXZmb3nFtjNUYs2YFyiTz9h8TZ%2FKrsCy3e8nH6o0UEItObu0C3MWW97brqxmLJl9ZMSryID%2FChr3QX5RzIwaV16mAaWGzzk79qhjrpuRHZnQlyGnDgosX0fbN9d05LGWrqJPqgZXQFm3%2BvlJOu5Zmg%2FjCQ6I6%2FBjqZAVL6NunWrN26WqLPM12OrZ6ygi2d9lGcE%2Fw2uMQ1krMLbZc0SkiukvlKbbdHf9daK6mb%2Bi97aLbSX9flxBvDQRoLnhcjOHp9b2lYeZUP0VlUQlh9Fpl%2BJZR3DVBJkcmc1I%2F%2BVRSKc5pkIexyB8ff5iQep3u15Whq8%2BWSoNm%2BOQnV%2Ffb1Ab3aakvmCj%2BqiOXf5Rq5ATKtOFcRjw%3D%3D&Expires=1742980885",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"2\">CoSMoS</th><th colspan=\"2\">Montant</th><th rowspan=\"2\">Pour qui ? (Indemnis...</th><th rowspan=\"2\">Conditions</th></tr><tr><td>Employeur</td><td>Salari\u00e9</td></tr><tr><td rowspan=\"3\">Activit\u00e9 partielle http://</td><td>- Janvier / F\u00e9vrier 202..</td><td>- Janvier / F\u00e9vrier 202</td><td>Pour tous les salari\u00e9s</td><td>Conditions de recours ...</td></tr><tr><td>- Mars / Juin 2021 : 70...</td><td>- Mars / Juin 2021 : 70.</td><td>Pour tous les salari\u00e9s</td><td>Conditions de recours ...</td></tr><tr><td>- Janvier / Juin 2021 : ...</td><td>- - Janvier / Juin 2021 : ...</td><td>Pour tous les salari\u00e9s</td><td>Conditions de recours ...</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"2\">CoSMoS</th><th colspan=\"2\">Montant</th><th rowspan=\"2\">Pour qui ? (Indemnis...</th><th rowspan=\"2\">Conditions</th></tr><tr><td>Employeur</td><td>Salari\u00e9</td></tr><tr><td rowspan=\"3\">Activit\u00e9 partielle http://</td><td>- Janvier / F\u00e9vrier 202..</td><td>- Janvier / F\u00e9vrier 202</td><td>Pour tous les salari\u00e9s</td><td>Conditions de recours ...</td></tr><tr><td>- Mars / Juin 2021 : 70...</td><td>- Mars / Juin 2021 : 70.</td><td>Pour tous les salari\u00e9s</td><td>Conditions de recours ...</td></tr><tr><td>- Janvier / Juin 2021 : ...</td><td>- - Janvier / Juin 2021 : ...</td><td>Pour tous les salari\u00e9s</td><td>Conditions de recours ...</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.12767220902612827,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"2\">CoSMoS</th><th colspan=\"2\">Montant</th><th rowspan=\"2\">Pour qui ? (Indemnis...</th><th rowspan=\"2\">Conditions</th></tr><tr><td>Employeur</td><td>Salari\u00e9</td></tr><tr><td rowspan=\"3\">Activit\u00e9 partielle http://</td><td>- Janvier / F\u00e9vrier 202..</td><td>- Janvier / F\u00e9vrier 202</td><td>Pour tous les salari\u00e9s</td><td>Conditions de recours ...</td></tr><tr><td>- Mars / Juin 2021 : 70...</td><td>- Mars / Juin 2021 : 70.</td><td>Pour tous les salari\u00e9s</td><td>Conditions de recours ...</td></tr><tr><td>- Janvier / Juin 2021 : ...</td><td>- - Janvier / Juin 2021 : ...</td><td>Pour tous les salari\u00e9s</td><td>Conditions de recours ...</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

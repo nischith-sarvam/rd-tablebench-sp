@@ -1,0 +1,36 @@
+{
+  "job_id": "ae73061f-2a72-419a-93af-289882519319",
+  "duration": 117.79442238807678,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/32352f7b-76ee-40c6-b6f1-12f504ed9e66.pdf?AWSAccessKeyId=ASIA2UOK6OVBFALYC3Z4&Signature=MSf0x2VhVGBLSs2Yh%2Bw%2ByvQEhe8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFH%2BcU98%2BhNGIeOVBzmxRQiv6J%2Bnhwrxm%2Bep1rOjkh2tAiA%2FHTEkT1Gv64jEHOH6%2FzD1W0YoTdDEi9Wi7D5X1dRa2yqDBQgpEAAaDDczMTEwNjkzMjAzNCIMSnDMdwqKS07iJq9yKuAEoepXcyjJvfxiYmM4DQwZnMm0laYuYET5RNTnrE9pQDaFC2B0NUwn4LhOdQ2mqrOqn%2BLI%2FlgPzwEJjt%2BEm6LOGYIIRZfR%2F2v%2Bsv6Zf2VbtZtUSPpRYmxSm6JE42av6NzYx6xKPI4mqvKUNaW8JCImqAMYuv5D2KZ6o4Qourtz3Uqsj0gFscORllf%2B3C0S6j%2Fq4%2BKcB%2FUM7z%2FhB%2B941WTDQaiKEUc0S7Zyd0tDGY%2Fo6l3a%2FxlegR4w4g%2FSsz5U4VF6FIp2r4lcR8qd3j3aZsrlP6jNh3NXRiusThTSqIXg1Ao9e0DRFkqUoYHsz9TmfNEIbJZHmMqxoqRtI0apThoNEMBUQLW37Tl478j1anncKjPck%2BDwJ4rgGHoiLJkEhf2pQIG4B5I%2BfxF8YhDLOARc8s7tGbuVYKHCUSL0mxyNCEJ3UlAiB%2FfLJsJLbOI2BXDpmk9bjriD7hY76Oupr8KTpBF9u2xMculy9M2yqSjgRBAe18eySyw2C9EvoVxmBTdPXFAHyBt%2FIXIODn%2BvRaRrOxPO3YhJaRGwcXtdsYzrqzo0QHz2AawAoitJo58ZjM%2F69tQPlfxobYajhl69CmrTkRSk1E61JNzUJLjaidzP8baE51EGL42aoyheC7kwDx96jxtu%2FsKFJ6HImtpOflmfyZ80QYZy3xkBq2fgcHA5HI5mDJoZOChcbaqsjBtFOrrNxmdGQitVGTUV1t7HdpKjtygH8XTbxG%2FTYxfvE0irLdnPdYrVYxCLFLdUFnbGibtt8sEH%2BG1pN6eiv4gZi%2Bho%2F3FuUA7hL0m6eYxLZ%2BjDJMUwwvGOvwY6mwEyoaHonRZLcc%2Fjhow%2BM6vBiwUfDHcSR83FAafbARVQxduwr1itGxvxsFZ7lvGigIOGvnCEBI2aNio6%2FD%2FIKlIqgRPuyJYed%2FYPVWBSNs4qW%2F0fS8ECMZgNUVTO50HW3SbEKBJrzALzLZbhudpzMjQo0a56z2se8cNj4xQQ72HwCzMIndR9dgiXi5sXLOyXz8qexSEFmGlMov8S9g%3D%3D&Expires=1742980948",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th>ADOPTED BUDGET</th><th>PRORATED THRU 1/...</th><th>ACTUAL THRU 1/31/18</th><th>VARIANCE</th></tr><tr><td colspan=\"5\">REVENUES:</td></tr><tr><td>Special Assessments -... -</td><td>$2,568,595</td><td>$1,871,295</td><td>$1,871,295</td><td>$0</td></tr><tr><td>Interest</td><td>$100</td><td>$33</td><td>$1,361</td><td>$1,327</td></tr><tr><td>TOTAL REVENUES</td><td>$2.568.695</td><td>$1.871,328</td><td>$1.872.655</td><td>$1,327</td></tr><tr><td colspan=\"5\">EXPENDITURES:</td></tr><tr><td>Interest Expense 11/01</td><td>$691,000</td><td>$691,000</td><td>$691,000</td><td>$0</td></tr><tr><td>Principal Expense 05/01</td><td>$1,215,000</td><td>$0</td><td>$0</td><td>$0</td></tr><tr><td>Interest Expense 05/01</td><td>$691,000</td><td>$0</td><td>$0</td><td>$0</td></tr><tr><td>TOTAL EXPENDITURES</td><td>$2,597,000</td><td>$691,000</td><td>$691,000</td><td>$0</td></tr><tr><td colspan=\"5\">OTHER FINANCING SOURCES (USES)</td></tr><tr><td>Transfer In (Out)</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td></tr><tr><td>Other Debt Service Co...</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td></tr><tr><td>TOTAL OTHER</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td></tr><tr><td>EXCESS REVENUES</td><td>($28,305)</td><td></td><td>$1,181,655</td><td></td></tr><tr><td>FUND BALANCE - Be...</td><td>$807.010</td><td></td><td>$997.385</td><td></td></tr><tr><td>FUND BALANCE - En</td><td>$778,705</td><td></td><td>$2.179.041</td><td></td></tr></table>",
+        "embed": "<table><tr><th></th><th>ADOPTED BUDGET</th><th>PRORATED THRU 1/...</th><th>ACTUAL THRU 1/31/18</th><th>VARIANCE</th></tr><tr><td colspan=\"5\">REVENUES:</td></tr><tr><td>Special Assessments -... -</td><td>$2,568,595</td><td>$1,871,295</td><td>$1,871,295</td><td>$0</td></tr><tr><td>Interest</td><td>$100</td><td>$33</td><td>$1,361</td><td>$1,327</td></tr><tr><td>TOTAL REVENUES</td><td>$2.568.695</td><td>$1.871,328</td><td>$1.872.655</td><td>$1,327</td></tr><tr><td colspan=\"5\">EXPENDITURES:</td></tr><tr><td>Interest Expense 11/01</td><td>$691,000</td><td>$691,000</td><td>$691,000</td><td>$0</td></tr><tr><td>Principal Expense 05/01</td><td>$1,215,000</td><td>$0</td><td>$0</td><td>$0</td></tr><tr><td>Interest Expense 05/01</td><td>$691,000</td><td>$0</td><td>$0</td><td>$0</td></tr><tr><td>TOTAL EXPENDITURES</td><td>$2,597,000</td><td>$691,000</td><td>$691,000</td><td>$0</td></tr><tr><td colspan=\"5\">OTHER FINANCING SOURCES (USES)</td></tr><tr><td>Transfer In (Out)</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td></tr><tr><td>Other Debt Service Co...</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td></tr><tr><td>TOTAL OTHER</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td></tr><tr><td>EXCESS REVENUES</td><td>($28,305)</td><td></td><td>$1,181,655</td><td></td></tr><tr><td>FUND BALANCE - Be...</td><td>$807.010</td><td></td><td>$997.385</td><td></td></tr><tr><td>FUND BALANCE - En</td><td>$778,705</td><td></td><td>$2.179.041</td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032066508313539195,
+              "width": 0.9034424853064652,
+              "height": 0.4305225653206651,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th>ADOPTED BUDGET</th><th>PRORATED THRU 1/...</th><th>ACTUAL THRU 1/31/18</th><th>VARIANCE</th></tr><tr><td colspan=\"5\">REVENUES:</td></tr><tr><td>Special Assessments -... -</td><td>$2,568,595</td><td>$1,871,295</td><td>$1,871,295</td><td>$0</td></tr><tr><td>Interest</td><td>$100</td><td>$33</td><td>$1,361</td><td>$1,327</td></tr><tr><td>TOTAL REVENUES</td><td>$2.568.695</td><td>$1.871,328</td><td>$1.872.655</td><td>$1,327</td></tr><tr><td colspan=\"5\">EXPENDITURES:</td></tr><tr><td>Interest Expense 11/01</td><td>$691,000</td><td>$691,000</td><td>$691,000</td><td>$0</td></tr><tr><td>Principal Expense 05/01</td><td>$1,215,000</td><td>$0</td><td>$0</td><td>$0</td></tr><tr><td>Interest Expense 05/01</td><td>$691,000</td><td>$0</td><td>$0</td><td>$0</td></tr><tr><td>TOTAL EXPENDITURES</td><td>$2,597,000</td><td>$691,000</td><td>$691,000</td><td>$0</td></tr><tr><td colspan=\"5\">OTHER FINANCING SOURCES (USES)</td></tr><tr><td>Transfer In (Out)</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td></tr><tr><td>Other Debt Service Co...</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td></tr><tr><td>TOTAL OTHER</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td></tr><tr><td>EXCESS REVENUES</td><td>($28,305)</td><td></td><td>$1,181,655</td><td></td></tr><tr><td>FUND BALANCE - Be...</td><td>$807.010</td><td></td><td>$997.385</td><td></td></tr><tr><td>FUND BALANCE - En</td><td>$778,705</td><td></td><td>$2.179.041</td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

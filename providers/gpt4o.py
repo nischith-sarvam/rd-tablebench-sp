@@ -9,7 +9,7 @@ from io import BytesIO
 import openai
 import backoff
 
-base_path = os.path.expanduser("~/data/human_table_benchmark")
+base_path = os.path.expanduser("~/work/sarvam/rd-tablebench-sp/data/pdfs_sp")
 pdfs = glob.glob(os.path.join(base_path, "**", "*.pdf"), recursive=True)
 
 

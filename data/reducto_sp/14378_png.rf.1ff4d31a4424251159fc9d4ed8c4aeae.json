@@ -1,0 +1,36 @@
+{
+  "job_id": "bfabd9f9-e49d-42d2-b1ff-3c9eb52f7849",
+  "duration": 48.49654841423035,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/bee83409-475c-49f8-ad85-32f7958750e0.pdf?AWSAccessKeyId=ASIA2UOK6OVBHJUX5XAQ&Signature=dRyT2fj8ge%2F27wGSlHlRGAjaBJ4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCICFJs2cHbIslpZ95wC1sWoMissYFxFLFQDwnVYsRJvyPAiB3hT7kSr9gxh9d6ba%2BzFcNTdIZ9p1C8TgqBrA%2B%2BrzvhyqDBQgpEAAaDDczMTEwNjkzMjAzNCIMIGKIb9ATii1G0gOoKuAEnzEhFS1hTXuYc2LPsmgZ72%2FPZHENMdlwlA9G7ZFj%2F8OgEvtP8QLKzUxmAw0lBtWfcKqewY%2FSq0%2FyyG8KZf%2FcxPgwvXYkATtjMVRagNt9%2FZjKX230xTkY0n6CHEtICSc9IqLw7I2KGTwaQJWqhC188sdscfdz6IO0cBFr4ytoJiLd1qF9QThPC8P2y24PbU0vxGWT%2BvCih7E0kLE7J8cKrilwiOK0RBoC1ElwwCYxmls2FeHPy2o09sB31hrpdx9XQGg%2F0prKLGjrXje%2BjITgS%2FhNXRKEiJXrJ0UsszBuirHOBOnP%2FvaqqRkfVy6pv%2BBprHV93CN%2BfklJLyE3EFt5GsY7ciRBHpGzGuVyKT5SgBp2ZssTrsVSkqosN8YH2QZOWJ9zmkVOQjKG0B%2FtVNhHse9orjKgChXk5AFQ0caTTtCSZdHGQesSG8dLI7%2FIg%2BiiZGUgCYQqaN65Q7fsmctrxZvhlUJaBJIbGEzuZXYGjJlVPl3yFZdZAnH7VDh3UZS3Rc%2BZ%2B8KmsW%2BKvD548bJ35UUmfweqTL5AnmEmQ%2Fbfzup3PDPfnBodEumA5Inay8zSduZbgzg1cKeNYnN7JbFQFzH0wx48vcHbtxu%2FfJfJxw4d2oQQ5Wx%2BLEvyEjU6oO70N7ftgmdGNnZDieIh4%2FwrnOh0Tj5jes24F7%2BlhcLZKK6kuzUypVD9QxTa6PRLJA5ch4EizYsjT74GJXTDYOU7S5QFFh2G3mF0Ml9Ec3OvSUOBL65gCm10IvdEbkGXFTLiBWWNX7NSdfv8WEC7ELn3lqLX1oMCVww1zpCaEGTPg3kwouCOvwY6mwGra2voSjJUjroG44LGgJktjbLCQmSdqmMS8Er5bt7whPksL1jJOHQP9oU6eAzeC%2F5pA7PPY0pwMtVSQIgo8E%2Ff2L5q2MWRksvPjwkHbvILmuv8S%2BmzFMypQjwAx8QXlGv06ThAEMUjOJdteZLddkpNSsinew6mbYcEadVNvHw7%2F1pzCFQdlTGLPZDBJIAVXVJRdCDuaXgXtgml4A%3D%3D&Expires=1742980862",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"6\">Issuer/Financial Instrument (ISIN): ABO Wind (DE0005760029)</th></tr><tr><td>16.03.2021</td><td>Buy</td><td>Buy</td><td>45.60 EUR</td><td>75.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>23.02.2021</td><td>Buy</td><td>Buy</td><td>45.00 EUR</td><td>54.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>10.12.2020</td><td>Buy</td><td>Buy</td><td>39.80 EUR</td><td>54.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>21.09.2020</td><td>Buy</td><td>Buy</td><td>24.60 EUR</td><td>40.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>07.09.2020</td><td>Buy</td><td>Buy</td><td>26.80 EUR</td><td>29.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>19.08.2020</td><td>Buy</td><td>Buy</td><td>21.20 EUR</td><td>29.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>10.06.2020</td><td>Buy</td><td>Buy</td><td>21.40 EUR</td><td>29.00 EUR</td><td>Hoymann, Guido</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"6\">Issuer/Financial Instrument (ISIN): ABO Wind (DE0005760029)</th></tr><tr><td>16.03.2021</td><td>Buy</td><td>Buy</td><td>45.60 EUR</td><td>75.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>23.02.2021</td><td>Buy</td><td>Buy</td><td>45.00 EUR</td><td>54.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>10.12.2020</td><td>Buy</td><td>Buy</td><td>39.80 EUR</td><td>54.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>21.09.2020</td><td>Buy</td><td>Buy</td><td>24.60 EUR</td><td>40.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>07.09.2020</td><td>Buy</td><td>Buy</td><td>26.80 EUR</td><td>29.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>19.08.2020</td><td>Buy</td><td>Buy</td><td>21.20 EUR</td><td>29.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>10.06.2020</td><td>Buy</td><td>Buy</td><td>21.40 EUR</td><td>29.00 EUR</td><td>Hoymann, Guido</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.2042755344418052,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"6\">Issuer/Financial Instrument (ISIN): ABO Wind (DE0005760029)</th></tr><tr><td>16.03.2021</td><td>Buy</td><td>Buy</td><td>45.60 EUR</td><td>75.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>23.02.2021</td><td>Buy</td><td>Buy</td><td>45.00 EUR</td><td>54.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>10.12.2020</td><td>Buy</td><td>Buy</td><td>39.80 EUR</td><td>54.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>21.09.2020</td><td>Buy</td><td>Buy</td><td>24.60 EUR</td><td>40.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>07.09.2020</td><td>Buy</td><td>Buy</td><td>26.80 EUR</td><td>29.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>19.08.2020</td><td>Buy</td><td>Buy</td><td>21.20 EUR</td><td>29.00 EUR</td><td>Hoymann, Guido</td></tr><tr><td>10.06.2020</td><td>Buy</td><td>Buy</td><td>21.40 EUR</td><td>29.00 EUR</td><td>Hoymann, Guido</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

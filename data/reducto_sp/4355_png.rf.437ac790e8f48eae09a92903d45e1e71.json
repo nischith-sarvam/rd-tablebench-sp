@@ -1,0 +1,36 @@
+{
+  "job_id": "2b2c1d66-c190-42d4-bc30-53d66e763f93",
+  "duration": 118.37380576133728,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/ca166533-7590-4869-8a6e-02dfa308f749.pdf?AWSAccessKeyId=ASIA2UOK6OVBBVNK4LSZ&Signature=L0IBNeRMtfZkeylp%2BAhtDDJZgnc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIBRPPnZP3NI6xKwOdo4OhKczfNpMbgDoOwqB9lDWL%2B3bAiEA%2FOI4MIFqqJO8bh8d5%2BjrST2XL6IfnBorSMUsQriufHkqgwUIKRAAGgw3MzExMDY5MzIwMzQiDNjaKioYNtkUKFasnyrgBGgGYiaCof3ZPcAfJughjyni9ff%2FUIhX6Pi6Hx6clKYUxWIMPXimGjQTNpMb3Bb7rbdhqyWao7IzrlYDx7stCa%2BaNLPAjD202TtakYzB5XkCyrG2U9MijCBo1jtaxiLyjvlIamFVbHaaAk3uDg177VuNe4H5h%2FCjQ2tz6oRr49oaDTuq02ElxIBQJxrc9UBS8kPKf7dH01Ux0Zole7iAAJfr4q%2FXIC20prUa42vFJlVfgIFINGkam6Io34vJkaMXMs4AskDhxjJZpuX7DdcH1q1db%2BLS2RxDzUrlZfczLpxbMnwTyflscfUIOplQriDgRDyNQbyYbjT%2FJE0Uff3QF8RahTnwihlnAoCFNBu%2B4e4SFf7Id28nAn7qCIrU3kPRXuEepwiI3tniwZR0DCuetqB6t1wfWPASLzJST5RFtc43Ur6OmVKwlUFIlnj7lgx%2BVKIaJ7Gqk4W6hUduwahSuhzihuKWBA5%2B21YL1D1U2PPpfT1HSU61HT0NkL%2FsgoNnUOAHTTPWoTgSBy3RoezuGlUod8YpXVHpYSSolq0loUZyfbZ954g6AhU4b%2BCqqTNPMv6u%2Fd8CK%2BWKpgCj%2FnLJMz779qya19iXYw4WxENa93I4Ax88sU0BEqpyD4ESwHUNxvla81%2BCF5SiYdmKU9DO8GcbKLhpOZb0comcBr%2BHm63bZIac47smOTTKbEKlk45X5MhiTUcwSAfdakmLtPCZEfD6mTBFH4oGl09FHMxK6RJ5lwcqqeaG7o6NUFuIn8BlyDSckd4CMvjSvsz5A09E8M21woraYqCm6dja2pcMCl86MKLhjr8GOpoBKRmz1OqpbBZhprnlE9Xkni8ZTi6%2FGCR9a6Tc5vXb7zmO%2BuJTRP7wOVqFSnReggdhowS5uoGBo9EwyJGRpkiMLsOJdx2604bz0MD4CD2TC9RpPR0izt6dXn9jshPOMuVglCyXqCjx4ZxnWlzwjHHsR4jjLuPuCjYqRCbJszJViX8hd4yfpMmSetSUnv3ERgOxcMm9KvnN10SZbw%3D%3D&Expires=1742980944",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th colspan=\"3\">\u041a\u043e\u0434\u0438</th></tr><tr><td>\u0414\u0430\u0442\u0430 (\u0440\u0456\u043a, \u043c\u0456\u0441\u044f\u0446\u044c, \u0447\u0438\u0441\u043b\u043e) |</td><td>2020</td><td>12</td><td>31</td></tr><tr><td>3a \u0404\u0414\u0420\u041f\u041e\u0423</td><td>30088756</td><td></td><td></td></tr><tr><td>3a \u041a\u041e\u0410\u0422\u0423\u0423</td><td>0710200000</td><td></td><td></td></tr><tr><td>3a \u0421\u041f\u041e\u0414\u0423</td><td>99999</td><td></td><td></td></tr><tr><td>3a \u041a\u041e\u041f\u0424\u0413</td><td>240</td><td></td><td></td></tr><tr><td>3a \u041a\u0412\u0415\u0414</td><td>31.09</td><td></td><td></td></tr></table>",
+        "embed": "<table><tr><th></th><th colspan=\"3\">\u041a\u043e\u0434\u0438</th></tr><tr><td>\u0414\u0430\u0442\u0430 (\u0440\u0456\u043a, \u043c\u0456\u0441\u044f\u0446\u044c, \u0447\u0438\u0441\u043b\u043e) |</td><td>2020</td><td>12</td><td>31</td></tr><tr><td>3a \u0404\u0414\u0420\u041f\u041e\u0423</td><td>30088756</td><td></td><td></td></tr><tr><td>3a \u041a\u041e\u0410\u0422\u0423\u0423</td><td>0710200000</td><td></td><td></td></tr><tr><td>3a \u0421\u041f\u041e\u0414\u0423</td><td>99999</td><td></td><td></td></tr><tr><td>3a \u041a\u041e\u041f\u0424\u0413</td><td>240</td><td></td><td></td></tr><tr><td>3a \u041a\u0412\u0415\u0414</td><td>31.09</td><td></td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9051217464315701,
+              "height": 0.17814726840855108,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th colspan=\"3\">\u041a\u043e\u0434\u0438</th></tr><tr><td>\u0414\u0430\u0442\u0430 (\u0440\u0456\u043a, \u043c\u0456\u0441\u044f\u0446\u044c, \u0447\u0438\u0441\u043b\u043e) |</td><td>2020</td><td>12</td><td>31</td></tr><tr><td>3a \u0404\u0414\u0420\u041f\u041e\u0423</td><td>30088756</td><td></td><td></td></tr><tr><td>3a \u041a\u041e\u0410\u0422\u0423\u0423</td><td>0710200000</td><td></td><td></td></tr><tr><td>3a \u0421\u041f\u041e\u0414\u0423</td><td>99999</td><td></td><td></td></tr><tr><td>3a \u041a\u041e\u041f\u0424\u0413</td><td>240</td><td></td><td></td></tr><tr><td>3a \u041a\u0412\u0415\u0414</td><td>31.09</td><td></td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

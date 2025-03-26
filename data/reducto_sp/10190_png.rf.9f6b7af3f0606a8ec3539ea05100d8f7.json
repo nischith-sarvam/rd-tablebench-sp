@@ -1,0 +1,36 @@
+{
+  "job_id": "36ce14bc-ba5f-4d39-8c4b-8622fc501fa5",
+  "duration": 191.20632100105286,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/25fd4863-8e8b-4e4c-abd9-dddb69f08871.pdf?AWSAccessKeyId=ASIA2UOK6OVBJX3LLAJ3&Signature=dFDhPTtSZaYvBoXLHEdYGv6zGa8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDVj2MvjN3LcEBP2k1cOqtSgqnli%2BIwQ5F9Dy6CicEcawIhALtK4TvGXP6uncH5b8xgVbjuUJZJGKWKuHmnn%2Bb0sVjUKoMFCCoQABoMNzMxMTA2OTMyMDM0IgyL2ZsviuKRRgqJsdgq4AQy66jNsY5A5PPnNsyNI9n8DghKkjHJmVcc4T5I0rxcVVOaORxMlthwBcThHQe%2FpOgve3rmirAqsJ6OKkGTPBpIkUd0wV79eqgDvynLYCXy4GLVp8HREgwhxObxjTVvkN6HgE5Tkt6ZvTw6wOylGfvaeP5vx0hSYX06NeFYFZuwxAex6bF33qFqysWXAAD%2FMY21eMhtjZebZuP0m29wV3D9xHbHSWhTdHPF4wt4KEEo7xq0x2EpPAgYHWo0U1PBNV%2FJaJ7SDVVjThLFCmEA1St5EAa75zlEce0nJkRYCIldDOqhlElVu4fz67xv4t6VNNCuqo1tmxOAx0AApSla%2FLU21f%2BhVyzfM0zvWOq2PE%2Fk70hDq8nJ2cKgA9VQ1D%2Fc6Cm9gb4m%2BuLB7KqYe6cSgasU8AWB2YmBi6fnxGEEGFAYT8dsZMm2LGf354rgGBK0SlKjri57SP9%2FAH15rSxRHcfWbeo0Mndcxs7sE1ozu%2B%2FuukdkbawdezUOWZ8rQ1%2BciuyuV6E1MQp09J6nVxP4DRl61fupDw7j1tUya0sxJwd0rNOH2y0EKok%2By52fAejilCt7l1F0xRU0Qwj2R%2BaF9aUsbbmrbtyNTsbSN12ax630cC0KteYcxQyUzRz%2FXpBWBS55%2BMQm2owh5zogadwBaAtfc9JxfJPRTNWE8hti0E3fOmd8m4VefEKqCjl5OZbDv0cSWzmHGSfL4513EknN7SFEFx1PoWd1excTdoDjsHwy0rzPzpwwL3mqoBjJj%2Bp7SxF1t7Q4LY9qtLl0qg4%2Fhg6vAj%2Bhgf%2BVJ380xuqrDHzibDCN846%2FBjqZAZCHi4GE1HWXgcgRW3j7YxP3JOQsnnR0EpJy1UwgYRSoe%2BDwrywBCtMcNROHGrWcEHXmBSWKaK%2FBUXSuOtN%2Ff%2Fbu%2FC1cFoOP4fHLHgMvDlNhfaqna5JxlyqOR8ktWY1RnsPtZ9ne7njMTnNz4RgFHD53o5MDCKhlCeMafmkIIFSbOwRZgqypARNJ8mc%2BrFNKgSWQbgCSmCs3Sg%3D%3D&Expires=1742981024",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>V/C</th><th>ITEM NUMBER</th><th>POST QTY</th><th>COST</th><th>EXTENSION</th></tr><tr><td>MUR</td><td>9614ASTB</td><td>1</td><td>54.500</td><td>54.500</td></tr><tr><td>MUR</td><td>10112WBK</td><td>2</td><td>89.500</td><td>179.000</td></tr><tr><td>MUR</td><td>101390RB</td><td>1</td><td>84.500</td><td>84.500</td></tr><tr><td>MUR</td><td>10153DRFW/CO</td><td>1</td><td>59.500</td><td>59.500</td></tr><tr><td>SUB</td><td>TOTALS</td><td>5</td><td></td><td>377.500</td></tr></table>",
+        "embed": "<table><tr><th>V/C</th><th>ITEM NUMBER</th><th>POST QTY</th><th>COST</th><th>EXTENSION</th></tr><tr><td>MUR</td><td>9614ASTB</td><td>1</td><td>54.500</td><td>54.500</td></tr><tr><td>MUR</td><td>10112WBK</td><td>2</td><td>89.500</td><td>179.000</td></tr><tr><td>MUR</td><td>101390RB</td><td>1</td><td>84.500</td><td>84.500</td></tr><tr><td>MUR</td><td>10153DRFW/CO</td><td>1</td><td>59.500</td><td>59.500</td></tr><tr><td>SUB</td><td>TOTALS</td><td>5</td><td></td><td>377.500</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9042821158690176,
+              "height": 0.1543942992874109,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>V/C</th><th>ITEM NUMBER</th><th>POST QTY</th><th>COST</th><th>EXTENSION</th></tr><tr><td>MUR</td><td>9614ASTB</td><td>1</td><td>54.500</td><td>54.500</td></tr><tr><td>MUR</td><td>10112WBK</td><td>2</td><td>89.500</td><td>179.000</td></tr><tr><td>MUR</td><td>101390RB</td><td>1</td><td>84.500</td><td>84.500</td></tr><tr><td>MUR</td><td>10153DRFW/CO</td><td>1</td><td>59.500</td><td>59.500</td></tr><tr><td>SUB</td><td>TOTALS</td><td>5</td><td></td><td>377.500</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

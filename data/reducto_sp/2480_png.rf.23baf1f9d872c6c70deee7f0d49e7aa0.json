@@ -1,0 +1,36 @@
+{
+  "job_id": "81afb02f-a0b5-4c7b-ab6b-4d209ca7d573",
+  "duration": 180.88664269447327,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/03ef36a6-4518-4230-b4ff-e93e61d97e68.pdf?AWSAccessKeyId=ASIA2UOK6OVBIYB5S7JF&Signature=AQH5XregUrH7N3AxAAFQqEpTgdE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQClKQSTWs1rUVwue83ytMvnYDGnPdxtc%2B3ZfnDWbLBXUwIhANyAAL6RjqVCo8XZPppnRqmKBSM7ohcsAq5nngbAMdHmKoMFCCoQABoMNzMxMTA2OTMyMDM0IgxxVsS71%2FyfpTJfEQ4q4AQuJcjxx%2FAmJU%2BJh3JjmoPgqNgKVZVV9bC1uAEQYRI%2Fcyw085lYtSknLvfkf07vhdGM1cUezRXvYuLDfRLgoStS5eNOkVprraTjM2Fr4sRkc3cyHLW8eOu4yYO86yPTrRxV88G7hd9jmnrfT8bJnouqM0R9e9FNMzzrcbEHyBMkj2x7a2HmT18ISQ9AbPr4V83Z%2Fo6glJPP4cYGad89YkLdlpg3JfHeV3GVENMfnnUXI2cZhCyYJqqxNPEyjvs5%2B7PSE3i23Brbn0wrgy5fL5nA53W0JQoyy9m%2FwpXHPWxH1KDasNbQQsmwhfx44xz2TbLEuQMxqJjvbvdu9vzlaDnJp9jlhut%2F2P4cngWNU0JieIXo%2BKmKv8oGnOCBgMnRKIk7C663d3rvt5JS75eO5WMDbDU9ZTiDkju7SrCENWTa8SwZ6IDrKwomR%2Bh7gCa0bnFC%2B8NOy9t%2F5EEaqiTGLgIPPjREDLBCbTz470W6iR0cJYNepXV5Usm4BABwzI4khRZCnWsf31WWgJ%2FM4nI%2FM6iMUgTY03fgGGlFWnhsq2yx0sJ0pTU7QbjB5YfQqB0I%2B7cIDEw4AU9vZAcHPOytFsAVY9O%2B2DpZ2DPcDPRJQVESssyblR5jSlitWj0Cf2XY%2BFqEoPMU4GYLPL%2BRLtW65qXC6ncSRytEQEDePeMLZFw6EM3yqaI2aUxjvH9Z7GM8BqnUvMIEEsivwaVdGk5LC%2FPhl19k2dY0x%2FvUjc1lMOFuE4Kj9r%2B6aM3WcqC8HM%2B7ikrrcv5xMMnZ%2FmI3QQUOyCRkg6lNu4h0ncHJ%2Fx7jHVQIRjD18o6%2FBjqZAV%2F1eqw9Nq6a5WDh49CUv9BRcWbP4fR6bj0gp7c7%2BXMq5BNif5mtWaaHVweR%2B15lV4tgYEGpW4PDFBU2miG9F5u9a0J7T72lRSPYgjhJo8k%2B81Hvemdqk1Z64F9LRYk4NrdOhT4KmhgJqidRoRy4Aa4DFwbkRhxmfPjOK6pQzz9I8ZEy8aOuuAzH8d0Gk0FbBOvxD8y26TckHA%3D%3D&Expires=1742981024",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Parte insertada</th><th>aScope 4 Cysto</th><th>Sistema \u00f3ptico</th><th>aScope 4 Cysto</th></tr><tr><td>\u00c1ngulo de flexi\u00f3n\u00b9</td><td>210\u00b0 + 15\u00b0 m\u00edn. 120 o</td><td>Direcci\u00f3n de la vista</td><td>0\u00b0</td></tr><tr><td>Di\u00e1metro del cord\u00f3n de inser...</td><td>16,2 Fr +0,3 Fr/ 5,4 mm +0,1 ...</td><td>Campo de visi\u00f3n</td><td>120\u00b0 + 10\u00b0</td></tr><tr><td>Di\u00e1metro del extremo distal</td><td>16,2 Fr +0,3 Fr / 5,4 mm \u00b10,1...</td><td>Profundidad de campo</td><td>3-100 mm</td></tr><tr><td>Di\u00e1metro m\u00e1ximo de la parte</td><td>M\u00e1x. 18 Fr / 6,0 mm (0,24\")</td><td>M\u00e9todo de iluminaci\u00f3n</td><td>LED</td></tr><tr><td>Longitud de trabajo</td><td>390 mm +10 mm (15,4\" \u00b10,4\")</td><td></td><td></td></tr><tr><td>Canal de trabajo</td><td></td><td>Esterilizaci\u00f3n</td><td></td></tr><tr><td>Anchura m\u00ednima del canal de...</td><td>M\u00edn. 6,6 Fr / 2,2 mm (0,086\")</td><td>M\u00e9todo de esterilizaci\u00f3n</td><td>EtO</td></tr></table>",
+        "embed": "<table><tr><th>Parte insertada</th><th>aScope 4 Cysto</th><th>Sistema \u00f3ptico</th><th>aScope 4 Cysto</th></tr><tr><td>\u00c1ngulo de flexi\u00f3n\u00b9</td><td>210\u00b0 + 15\u00b0 m\u00edn. 120 o</td><td>Direcci\u00f3n de la vista</td><td>0\u00b0</td></tr><tr><td>Di\u00e1metro del cord\u00f3n de inser...</td><td>16,2 Fr +0,3 Fr/ 5,4 mm +0,1 ...</td><td>Campo de visi\u00f3n</td><td>120\u00b0 + 10\u00b0</td></tr><tr><td>Di\u00e1metro del extremo distal</td><td>16,2 Fr +0,3 Fr / 5,4 mm \u00b10,1...</td><td>Profundidad de campo</td><td>3-100 mm</td></tr><tr><td>Di\u00e1metro m\u00e1ximo de la parte</td><td>M\u00e1x. 18 Fr / 6,0 mm (0,24\")</td><td>M\u00e9todo de iluminaci\u00f3n</td><td>LED</td></tr><tr><td>Longitud de trabajo</td><td>390 mm +10 mm (15,4\" \u00b10,4\")</td><td></td><td></td></tr><tr><td>Canal de trabajo</td><td></td><td>Esterilizaci\u00f3n</td><td></td></tr><tr><td>Anchura m\u00ednima del canal de...</td><td>M\u00edn. 6,6 Fr / 2,2 mm (0,086\")</td><td>M\u00e9todo de esterilizaci\u00f3n</td><td>EtO</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.20368171021377673,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Parte insertada</th><th>aScope 4 Cysto</th><th>Sistema \u00f3ptico</th><th>aScope 4 Cysto</th></tr><tr><td>\u00c1ngulo de flexi\u00f3n\u00b9</td><td>210\u00b0 + 15\u00b0 m\u00edn. 120 o</td><td>Direcci\u00f3n de la vista</td><td>0\u00b0</td></tr><tr><td>Di\u00e1metro del cord\u00f3n de inser...</td><td>16,2 Fr +0,3 Fr/ 5,4 mm +0,1 ...</td><td>Campo de visi\u00f3n</td><td>120\u00b0 + 10\u00b0</td></tr><tr><td>Di\u00e1metro del extremo distal</td><td>16,2 Fr +0,3 Fr / 5,4 mm \u00b10,1...</td><td>Profundidad de campo</td><td>3-100 mm</td></tr><tr><td>Di\u00e1metro m\u00e1ximo de la parte</td><td>M\u00e1x. 18 Fr / 6,0 mm (0,24\")</td><td>M\u00e9todo de iluminaci\u00f3n</td><td>LED</td></tr><tr><td>Longitud de trabajo</td><td>390 mm +10 mm (15,4\" \u00b10,4\")</td><td></td><td></td></tr><tr><td>Canal de trabajo</td><td></td><td>Esterilizaci\u00f3n</td><td></td></tr><tr><td>Anchura m\u00ednima del canal de...</td><td>M\u00edn. 6,6 Fr / 2,2 mm (0,086\")</td><td>M\u00e9todo de esterilizaci\u00f3n</td><td>EtO</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

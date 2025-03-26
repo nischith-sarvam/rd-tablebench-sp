@@ -1,0 +1,36 @@
+{
+  "job_id": "27c1f85b-94d8-4ed6-a1e5-b7101a42aa4b",
+  "duration": 57.82334303855896,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/9f02997e-1404-47e8-92fc-a0dc23ad9e98.pdf?AWSAccessKeyId=ASIA2UOK6OVBEJSIODLX&Signature=X6obpFri%2FtqUVMHV070V8GyY7Xs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQC9hSBfs%2FKKS1kvfqPNJZZ1O2T4ZMzTQWCZvoiQGK7y7QIhAMFYoz0R%2FzGiHSa9wiTzBEsxw5qPZtPBVlugEHdPAcXLKoMFCCkQABoMNzMxMTA2OTMyMDM0Igw8U8%2BTgfW2NXW7Ppkq4ASd%2FAIjMGcwdxugfNJS7XtITqyQyw%2BPKIJfOJPGPMs7L2TUt5BzPLjYjvcNqXVBE%2Fgge38zWa1NTHk9ZfMr56P%2B3%2Bl%2BdrzTL%2B%2F1UneJdBpnqgTvCJU6Fbtqbg%2FIN93SmFMy5yUjmJ5v2ip4sWq7uhs0dNYm71XXOvIziy0BZ7ImdRKaRY6wAAsuPAPNgQTZCRHaK8TeY2snqeVV73ZXf6VUo9lr8uTnuGJ1c40UT1pUnMg9yyKZCefry6dez6nRZ7iQAX7gzr9AEWG6XF9Na1KATTeLrsZHB3GVI9%2FQxN%2BDB%2B1Pv21N5bdkcyhBpo96rgnKttdJXNpwdESmB5M4iyt%2BKEIpbFS%2FzvJoyBvyAK%2BHes%2FatbjhFOtLQ1Gn8WVilh%2F8Te2NXtZLpG5fwsaFI%2By3Ii%2F5iq2KzCQREGZjmYvjFCjZmuysuo5900GJ6v4kmXnzsC6CR2TwRt7TTdlr7ojYoRFf9OK8TRK7HAt7xaA8t4uYKvVMqVNdFRaIqRigmoFgAxQrt6ad9ATZZGvLKkRLVQWJD44vUQxYlnMl7%2BNshQ%2BsTdo3gcU8tx36MdIfs4DlcLqhpJ9HvIzpg66Lw6NdmTsj4AkPmRfDsxW0oAZKBcAxAtM2cokqGLqtqtbWv4uWMlH6rpDJik24SYuNGctDb5mROx%2BmB6gOYh2ToYkJxYgUokqDf8Guqn1s9KW6wh2aCOcXxtwcgXuw8UK5gpavQO%2BVBSf9kT1fUSg54RX9a3m7pLtaT%2FE6U%2FMlvC7HERZOu%2BIdqWHpGKvd3Jn0EV6yYg84Dvw9MDiVy%2FO18s18hzDT3Y6%2FBjqZAZme6xm0r4VBwGfvB62Sjulfv4xFRKl0R9qLDMeqy0UVsRxC%2FW9H%2FXaM%2BW%2BXFUhTUfFZfJE5Ejaimu8COzjKVyktLMd2oGNE6ORPIrxbWUx5etm0rQxD6%2BL%2Baqc2zB0j64QeEjdnYdu8hRUqxKcYZoJRbIyUA%2Fio%2FaxvEaOBFxc7zFH62yBjo8ySUEr8fIolFzKtdmKoG3gmwA%3D%3D&Expires=1742980874",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"2\">Principal Debt Move.</th><th>Balance as at 2 April ...</th><th>Scheduled repaymen...</th><th>Repurchases</th><th>Balance as at 2 July ...</th></tr><tr><td>\u00a3m</td><td>\u00a3m</td><td>\u00a3m</td><td>\u00a3m</td></tr><tr><td>Aggregate principal a...</td><td>853.1</td><td>(6.7)</td><td>-</td><td>846.4</td></tr><tr><td>Class A1 Notes</td><td>88.7</td><td>(4.5)</td><td>-</td><td>84.2</td></tr><tr><td>Class A2 Notes</td><td>214.0</td><td>-</td><td>-</td><td>214.0</td></tr><tr><td>Class A3 Notes</td><td>200.0</td><td>-</td><td>-</td><td>200.0</td></tr><tr><td>Class A4 Notes</td><td>195.4</td><td>(2.2)</td><td>-</td><td>193.2</td></tr><tr><td>Class B Notes</td><td>155.0</td><td>-</td><td>-</td><td>155.0</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"2\">Principal Debt Move.</th><th>Balance as at 2 April ...</th><th>Scheduled repaymen...</th><th>Repurchases</th><th>Balance as at 2 July ...</th></tr><tr><td>\u00a3m</td><td>\u00a3m</td><td>\u00a3m</td><td>\u00a3m</td></tr><tr><td>Aggregate principal a...</td><td>853.1</td><td>(6.7)</td><td>-</td><td>846.4</td></tr><tr><td>Class A1 Notes</td><td>88.7</td><td>(4.5)</td><td>-</td><td>84.2</td></tr><tr><td>Class A2 Notes</td><td>214.0</td><td>-</td><td>-</td><td>214.0</td></tr><tr><td>Class A3 Notes</td><td>200.0</td><td>-</td><td>-</td><td>200.0</td></tr><tr><td>Class A4 Notes</td><td>195.4</td><td>(2.2)</td><td>-</td><td>193.2</td></tr><tr><td>Class B Notes</td><td>155.0</td><td>-</td><td>-</td><td>155.0</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.042821158690176324,
+              "top": 0.0332541567695962,
+              "width": 0.9059613769941226,
+              "height": 0.2042755344418052,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"2\">Principal Debt Move.</th><th>Balance as at 2 April ...</th><th>Scheduled repaymen...</th><th>Repurchases</th><th>Balance as at 2 July ...</th></tr><tr><td>\u00a3m</td><td>\u00a3m</td><td>\u00a3m</td><td>\u00a3m</td></tr><tr><td>Aggregate principal a...</td><td>853.1</td><td>(6.7)</td><td>-</td><td>846.4</td></tr><tr><td>Class A1 Notes</td><td>88.7</td><td>(4.5)</td><td>-</td><td>84.2</td></tr><tr><td>Class A2 Notes</td><td>214.0</td><td>-</td><td>-</td><td>214.0</td></tr><tr><td>Class A3 Notes</td><td>200.0</td><td>-</td><td>-</td><td>200.0</td></tr><tr><td>Class A4 Notes</td><td>195.4</td><td>(2.2)</td><td>-</td><td>193.2</td></tr><tr><td>Class B Notes</td><td>155.0</td><td>-</td><td>-</td><td>155.0</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

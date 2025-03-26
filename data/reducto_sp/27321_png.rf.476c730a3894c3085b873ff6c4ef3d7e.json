@@ -1,0 +1,36 @@
+{
+  "job_id": "bc29a3a9-aa23-4303-99e3-7340bc35b054",
+  "duration": 138.0576934814453,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/af4b6887-63b8-4af7-b01f-441edfaca61e.pdf?AWSAccessKeyId=ASIA2UOK6OVBHYG4HWNP&Signature=0BVdu%2BuYL1rQx4B6KrISG%2FuWaNM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDtEOvhOBXVWaEnxgw4tQpAtHlRSw%2B36tUaI%2FLjHFaOIwIgR7jGw9srIE%2BENeK0sWoOVVTI7QriTN1HUEhabyDDrncqgwUIKhAAGgw3MzExMDY5MzIwMzQiDLa%2B3owOUys%2Bh78a%2FyrgBKfzlEzSGHTItkFKtCzU0mP0wagVO8WEiljcz4rCAwIumeXcFR3b4Cb0zskEoOYIMeCSiZwR5r%2Fk4pTzQkMu4lgrcod24S66BkexerdJMGQsqzL0G1ENiEA5r3eF5r7hKjK48q8m7LGdBDTuUCtnlEyniOT4PwTUTp30APOEftyoDUh9cFVtF%2FQcw30ezdHDKUEprt00V8C515%2FWXMjLZzE2uyY0I0nYtV57frMU2XwQm5LSOpOAKWSARlgYKbQgc0y%2FAUQjofs1aOUsSr%2FxXamkpxseUCKAB6EVG%2FfxhnBnyksuHW%2FDs54r8gEMLR0iW6kcFUJpuySSA%2BGOC4kMdK6V7EHEO4Q3SpBIIJjk656JIIHdsRHtxH3vpd3uDSbKJySuOwxXa3g46ZOJtJHF4iB8qCznqV8rW672PjTq7osjRTppq5QpL12oF%2BnCCMcWMx9KYFNei5Z4%2FG48RyyV8qjC7pG4A5i64zvAR97V9%2BYHvlOxli1kPj%2FtF%2BJdYFfoO7%2FYAY%2BkSDg4h5w0kOVCIu9BZoqZoK87Ey6zWpJkIpKDsAYlPn2zwNUuApWO38BzJJE9huzbZveZJ9svSdFRK4Re6ZVxLhYyRoN6KGe2bsl7aRcmud3zBkgFcfrWzW5R1n7pj1iH%2FSSufMFFQUjFhckxbjH4xrbGh0YIhRIMDeVjucqETe6MzUIZAK3HuzrKChYyum8qkryUxqdwUPxfwBuNVGJIjld3fxRpXJGgHbTGkH2vynZhaCSrMmRStKhBy3MqFvjqRbqcWmr12RJ0OOTgmfsWNmwrsYi7Q4lVSlp6MMjyjr8GOpoB2XMs8arcI5ppnAfSr1jB%2FVMuaBcwHxQgiOd1HuSLNqb9twYPTqSs8jmNec7ZGFC1Dpj8sZuxsIfgMnlxGziC7vprflFubNd5kKwuBsco7LyLSEbNBSAKdx14Utv35HDtoMp76uKYcu48Ee4FFa1uNnG5PB3LT4Nol2tpWgrIYAGgUyURaUmuESVKwq1iWxzKs30jiYFDePQ%2ByQ%3D%3D&Expires=1742980993",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Resistencia</th><th>Rango</th><th>Resoluci\u00f3n</th><th>Precisi\u00f3n (% del valor)</th></tr><tr><td></td><td>400 \u03a9</td><td>0,1 \u03a9</td><td>+ 1,5% + 5 d</td></tr><tr><td></td><td>4 \u039a\u03a9</td><td>1\u03a9</td><td>+ 1,5% + 5 d</td></tr><tr><td></td><td>40 \u039a\u03a9</td><td>10 \u03a9</td><td>+ 1,5% + 5 d</td></tr><tr><td></td><td>400 \u039a\u03a9</td><td>100 \u03a9</td><td>+ 1,5% + 5 d</td></tr><tr><td></td><td>4 \u039c\u03a9</td><td>1 \u039a\u03a9</td><td>+ 2% + 10 d</td></tr><tr><td></td><td>40 \u039c\u03a9</td><td>10 \u039a\u03a9</td><td>+ 2% + 10 d</td></tr></table>",
+        "embed": "<table><tr><th>Resistencia</th><th>Rango</th><th>Resoluci\u00f3n</th><th>Precisi\u00f3n (% del valor)</th></tr><tr><td></td><td>400 \u03a9</td><td>0,1 \u03a9</td><td>+ 1,5% + 5 d</td></tr><tr><td></td><td>4 \u039a\u03a9</td><td>1\u03a9</td><td>+ 1,5% + 5 d</td></tr><tr><td></td><td>40 \u039a\u03a9</td><td>10 \u03a9</td><td>+ 1,5% + 5 d</td></tr><tr><td></td><td>400 \u039a\u03a9</td><td>100 \u03a9</td><td>+ 1,5% + 5 d</td></tr><tr><td></td><td>4 \u039c\u03a9</td><td>1 \u039a\u03a9</td><td>+ 2% + 10 d</td></tr><tr><td></td><td>40 \u039c\u03a9</td><td>10 \u039a\u03a9</td><td>+ 2% + 10 d</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9034424853064652,
+              "height": 0.17874109263657958,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Resistencia</th><th>Rango</th><th>Resoluci\u00f3n</th><th>Precisi\u00f3n (% del valor)</th></tr><tr><td></td><td>400 \u03a9</td><td>0,1 \u03a9</td><td>+ 1,5% + 5 d</td></tr><tr><td></td><td>4 \u039a\u03a9</td><td>1\u03a9</td><td>+ 1,5% + 5 d</td></tr><tr><td></td><td>40 \u039a\u03a9</td><td>10 \u03a9</td><td>+ 1,5% + 5 d</td></tr><tr><td></td><td>400 \u039a\u03a9</td><td>100 \u03a9</td><td>+ 1,5% + 5 d</td></tr><tr><td></td><td>4 \u039c\u03a9</td><td>1 \u039a\u03a9</td><td>+ 2% + 10 d</td></tr><tr><td></td><td>40 \u039c\u03a9</td><td>10 \u039a\u03a9</td><td>+ 2% + 10 d</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

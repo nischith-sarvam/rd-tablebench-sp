@@ -1,0 +1,36 @@
+{
+  "job_id": "3c9093a0-7d12-409c-b6e3-a72f7504ba0b",
+  "duration": 54.07092356681824,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/7c367300-32e4-499d-8bdf-9fd76be1fe6d.pdf?AWSAccessKeyId=ASIA2UOK6OVBNFLF53RT&Signature=rA6NxaZTvhw9Un8xVd244OXvMLo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDoFZk2vyFe1e34G8hJNbAUQ7YMda6Fc4ugwpDMyBQVbQIgHmE%2FrJf%2F2SkwZp7a%2BMRLrB%2Fr99Y8tHdlgJ1qUan%2FkPgqgwUIKRAAGgw3MzExMDY5MzIwMzQiDNNu%2Bwd73raGL8I4QCrgBIXSg3jEQI%2FpoMzD36g087LrhcTtwYKjy7vwpNa6UK0gLxwd6yICmUz2eNgTg%2BHzUggZvSOE2FnB58LxBtIH3MKIBzF65Jv4POzeXEXybESc0nMIMBHOL5KgVb6xOrDAOobV8yszZGLCbeZ7KCyTdNKDwGCcg9GocAAi3IMlBO9FzH2kbzupScMpOYelhVh9mhiJdcn1Uo9Ow1LeZDQw9BMyIAu7tWDkUj3L4pbjLc7gtSd3lfldSxRVYCaIp7NFUottuGlrasQlsw%2FhAOiPc6ljHPgHpntvYKrn0eDU3nwX6wkytIFGrwcLJvKinHjy5yeN%2Fz30%2Fuxh2KF1NbSh2wDncX0kvCO%2Bi%2BV7yd%2BjxZAzcO1xI5KAqakb0%2FQvrLtyKr4vMbLJIyjQBR8xCGTrF512iWyjEzbMSSFHkQ2tzvR4Ol0E7fDoz6yi6Idy9l8x3RmFE4bAaVLc4ukWzA%2FvsLuuCr18E8CHXbXJol9nUg7GOOYe4hT%2FH%2FM7mTnZbvPCsVJgpo6C6E76vwAyYmqf1SXu1mLgeM%2FE0B8pnw50Gk4jAFk1GKWfMk1RggUrkE2VUn83zCgitC14SNkWvsyOX%2By1PZe13%2FcAcq%2FeqP71fOy68kPnzdTUlxro%2B9gZfolnp6CLtHRyHQOS79rMTYQ5c%2ByRp0lAEy0FYJydeg2P7DFaeLOyAPQOv%2Fc4kuwo2HHfZWz2EpTUTBaEZz96s9bcvPu4u7FxkdDmf8KvXXQyZnan%2BGOvvZXNXFGsmyer0BEogRUuk5RK1N59WTs8SWqkFOmor5Cqu058S6YJyZX9iBU9MOzxjr8GOpoBFScx1dFQ1RR5fRJ40aDUk2MVzPDx414Ss%2FiVawQ4NZUwvX5qEFt%2FUclrn3eJHLwn0T38uu3YnC%2FOlO69ZtSeHZ%2BUqquKvZZrWuOPe7TsPikmMb8HzWjadBrNkpZaKpqLlhSJ%2FwefuArxI1CS4z4PkZsz80MU9A6FsV%2FZSYmvogRlPvkfNVz1sOzNKCbX58AW7mDP4VyRteYE4A%3D%3D&Expires=1742980883",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"2\">FASI DELL'O</th><th></th><th colspan=\"3\">Previsione</th><th colspan=\"3\">Avanzamento</th><th colspan=\"2\">Revisione</th><th></th><th rowspan=\"2\">Stato</th><th></th><th></th></tr><tr><td>Fase</td><td>Des</td><td>Centro</td><td>Inizio</td><td>Fine</td><td>gg</td><td>Inizio</td><td>Fine</td><td>gg</td><td>Inizio</td><td>Fine</td><td>gg</td><td>Pes...</td><td>Real</td></tr><tr><td>01</td><td>COS</td><td></td><td>01-s...</td><td>11-gi</td><td>283</td><td>01-s...</td><td>08-</td><td>249</td><td></td><td></td><td>0</td><td>CON</td><td>30</td><td>30</td></tr><tr><td>02</td><td>APP</td><td></td><td>01-g.</td><td>12-</td><td>131</td><td>01-g...</td><td>12-</td><td>131</td><td></td><td></td><td>0</td><td>CON</td><td>50</td><td>50</td></tr><tr><td>03</td><td>CO...</td><td></td><td>12-</td><td>11-gi..</td><td>30</td><td>12-</td><td></td><td></td><td>12-</td><td>31-0...</td><td>172</td><td>RITA</td><td>20</td><td>15</td></tr><tr><td colspan=\"12\">Totali:</td><td></td><td>100</td><td>95</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"2\">FASI DELL'O</th><th></th><th colspan=\"3\">Previsione</th><th colspan=\"3\">Avanzamento</th><th colspan=\"2\">Revisione</th><th></th><th rowspan=\"2\">Stato</th><th></th><th></th></tr><tr><td>Fase</td><td>Des</td><td>Centro</td><td>Inizio</td><td>Fine</td><td>gg</td><td>Inizio</td><td>Fine</td><td>gg</td><td>Inizio</td><td>Fine</td><td>gg</td><td>Pes...</td><td>Real</td></tr><tr><td>01</td><td>COS</td><td></td><td>01-s...</td><td>11-gi</td><td>283</td><td>01-s...</td><td>08-</td><td>249</td><td></td><td></td><td>0</td><td>CON</td><td>30</td><td>30</td></tr><tr><td>02</td><td>APP</td><td></td><td>01-g.</td><td>12-</td><td>131</td><td>01-g...</td><td>12-</td><td>131</td><td></td><td></td><td>0</td><td>CON</td><td>50</td><td>50</td></tr><tr><td>03</td><td>CO...</td><td></td><td>12-</td><td>11-gi..</td><td>30</td><td>12-</td><td></td><td></td><td>12-</td><td>31-0...</td><td>172</td><td>RITA</td><td>20</td><td>15</td></tr><tr><td colspan=\"12\">Totali:</td><td></td><td>100</td><td>95</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9026028547439127,
+              "height": 0.15380047505938244,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"2\">FASI DELL'O</th><th></th><th colspan=\"3\">Previsione</th><th colspan=\"3\">Avanzamento</th><th colspan=\"2\">Revisione</th><th></th><th rowspan=\"2\">Stato</th><th></th><th></th></tr><tr><td>Fase</td><td>Des</td><td>Centro</td><td>Inizio</td><td>Fine</td><td>gg</td><td>Inizio</td><td>Fine</td><td>gg</td><td>Inizio</td><td>Fine</td><td>gg</td><td>Pes...</td><td>Real</td></tr><tr><td>01</td><td>COS</td><td></td><td>01-s...</td><td>11-gi</td><td>283</td><td>01-s...</td><td>08-</td><td>249</td><td></td><td></td><td>0</td><td>CON</td><td>30</td><td>30</td></tr><tr><td>02</td><td>APP</td><td></td><td>01-g.</td><td>12-</td><td>131</td><td>01-g...</td><td>12-</td><td>131</td><td></td><td></td><td>0</td><td>CON</td><td>50</td><td>50</td></tr><tr><td>03</td><td>CO...</td><td></td><td>12-</td><td>11-gi..</td><td>30</td><td>12-</td><td></td><td></td><td>12-</td><td>31-0...</td><td>172</td><td>RITA</td><td>20</td><td>15</td></tr><tr><td colspan=\"12\">Totali:</td><td></td><td>100</td><td>95</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

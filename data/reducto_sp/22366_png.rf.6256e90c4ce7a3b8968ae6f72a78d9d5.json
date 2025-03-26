@@ -1,0 +1,36 @@
+{
+  "job_id": "21fd5259-ec9b-48d8-af90-11dfea560231",
+  "duration": 45.43259835243225,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/fa98b9d5-2e28-4869-bb58-25de8b61fb53.pdf?AWSAccessKeyId=ASIA2UOK6OVBOF23HVR7&Signature=Rl5ZjiHpo%2FIh%2B5YralGU5On%2FRBw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAfRvp%2FqJ%2FZFyWkCrJNAT%2B%2FqbozPe8ecc0RkbDhH1xyxAiBvi3RjipQm8eM2mr2fLtfZ7ZT25op8wHh%2FPAgrJTXPtCqDBQgpEAAaDDczMTEwNjkzMjAzNCIMzvQ6ALybXuq4mVT5KuAEZ0MZ0TWGWEHn2Ej85e91ljLEKaOBaWKelBp7eQEdFF3GV%2BB9HQfEbJb14j8BpfxEWRPsLlUdJ41Uy2sbGV4WkJcvQWbyQnnkMYO3S1NGB%2FR3HT6q4qIRQ2eD6yoAsYpudRr4WMa4N2E42%2FDHCIw6KtVtnCVPdK10nwpLCGtAqoiyreTpwrIs7x8YXAZ0id%2FugkytkpZ2eOF3MT4XZUkwLaRi1wCtvHVJGivkuSV8a%2F0bhmuQA%2Fo7oNqe2jKbxbSx8Q96ibQc98vnisJ7zap0eNI6jLyW41iPYYcpS7ykDsJxryeCdhoDAKich7xrVALzLgGIZz7FjwTZ1uGO4aUJe%2FX8vxkGL5wBeb%2BRgdRIoj4NSoR7OfiPSX%2FQXrY0p6GzHRA2nahTLOu9adGmb6sci1O8E82HPv1SOW95xkiBM%2Fy27oXZlR39yNITY4VKSwFoCbXStUcERfgPMPHbOx6dfXonVfjVH3M4kWN%2BmGAp%2B5ECht8elkQ5Ow8J7xG2XKh8nVdyMZJh86Py%2BnpgapN%2FueTNr%2FNzIIOBqmj32RJTmpMDI3xuqbHqRQ7Kx7o43Rn%2BrKs%2FqldzlvKuVN6CmdSJowYbdZsBDMR9QM1QBq%2BfpFGPXgMqg%2FH4RwYzJZCWI7U7xgznoAF7E8BBOROBZOUgCfFnCgXa1eO0tpIraDUrOjgmMieMahjiDM3bYtRThV2M9AXrcBNcnj174XFxm06%2FZnDeUFbyUpa%2FIpS5JrsIuXL6ywL2vuvnJDg%2Fg43hfEYh5iSa4jA5yHcwUT8eqMBa2f4GYtqsHIgJO0aRT%2BokI8Uwge6OvwY6mwHUjS7lQHv33nEwMpZa97g88JXpnRueLJqjUTeTvUe4nE%2BXIzp39jt4t4qFABJIdcAMoumMuMQUg2ILunAE8gD9vzs%2Bl5YOVHS09%2B67LAH5UhKHN6W3h%2BYlys5V%2FptSN4FnrE2RwM1QyAXjCi32iQSjWjXVirO351r%2FwqDMEaTFUtKgBlrSmHYthlvUkrl7OGXiXivAdHAoPH9fuQ%3D%3D&Expires=1742980868",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th></th><th colspan=\"2\">SEPTEMBER '01 YTD</th><th colspan=\"2\">SEPTEMBER '01</th></tr><tr><td>Segment:</td><td></td><td>TOTAL</td><td>Market Share</td><td>TOTAL</td><td>Market Share</td></tr><tr><td>TAXI</td><td></td><td>1</td><td>0.0%</td><td>1</td><td>0.0%</td></tr><tr><td>Make:</td><td>Range:</td><td>Volume:</td><td>%</td><td>Volume:</td><td>%</td></tr><tr><td>PEUGEOT</td><td>406</td><td>1</td><td>100.00%</td><td></td><td>1 100.0%</td></tr></table>",
+        "embed": "<table><tr><th></th><th></th><th colspan=\"2\">SEPTEMBER '01 YTD</th><th colspan=\"2\">SEPTEMBER '01</th></tr><tr><td>Segment:</td><td></td><td>TOTAL</td><td>Market Share</td><td>TOTAL</td><td>Market Share</td></tr><tr><td>TAXI</td><td></td><td>1</td><td>0.0%</td><td>1</td><td>0.0%</td></tr><tr><td>Make:</td><td>Range:</td><td>Volume:</td><td>%</td><td>Volume:</td><td>%</td></tr><tr><td>PEUGEOT</td><td>406</td><td>1</td><td>100.00%</td><td></td><td>1 100.0%</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9051217464315701,
+              "height": 0.12826603325415678,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th></th><th colspan=\"2\">SEPTEMBER '01 YTD</th><th colspan=\"2\">SEPTEMBER '01</th></tr><tr><td>Segment:</td><td></td><td>TOTAL</td><td>Market Share</td><td>TOTAL</td><td>Market Share</td></tr><tr><td>TAXI</td><td></td><td>1</td><td>0.0%</td><td>1</td><td>0.0%</td></tr><tr><td>Make:</td><td>Range:</td><td>Volume:</td><td>%</td><td>Volume:</td><td>%</td></tr><tr><td>PEUGEOT</td><td>406</td><td>1</td><td>100.00%</td><td></td><td>1 100.0%</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

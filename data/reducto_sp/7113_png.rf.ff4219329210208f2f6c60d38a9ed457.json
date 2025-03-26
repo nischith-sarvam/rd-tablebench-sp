@@ -1,0 +1,36 @@
+{
+  "job_id": "f7f2f60c-1855-45ff-86b8-d82e3177ee4c",
+  "duration": 211.05305457115173,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/0a5abcc7-accc-4609-b9ec-932e268a5ff7.pdf?AWSAccessKeyId=ASIA2UOK6OVBBKHYFKEQ&Signature=SroGJswhmjIHfcPjIHpVbjY%2BXBs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCQtxly7pG84rirf%2B5H3Y45eH4G4ILHi5lvt2VH7YwiOgIhAM2Dw%2BwUYxQL66%2B0iKjW2w1tTEYhpvEYy2u55zunFxdAKoMFCCoQABoMNzMxMTA2OTMyMDM0IgyE4dk9INs7GH8Ooqgq4AQv%2FtWFwXADfY3vDFReQQc8OM1WyhpubdJGpmzt1UXjuKUyhVcsKeUDul1MEhSosyVXO4hcUg2WGK27WqMATdgnaR%2BGHa%2BbLrcZJWDBT0FleZkPYYAMiRI%2FCAjiLRS2dm6avIg8JiuFSy8Gzp6752IEtqvrrAZJpV7CuaIFG%2BFoioVRC2ffycYy8EM4cL%2FFyPAoqQqA0PozrkmqWW5QdB5PV1n0uhEYPHJy6c8GjxM%2BR1rs91NPw3dLcEwcVXARMyBt4ABYLae199BHOLio9sBQe3l5YOKn5Qa%2F8I7juU3t1YYkpEUDgBr1XvNnLT3D6%2FRUPmUMPpB8GtBlcxIdHWhR6ZNt8UwTkHRE9I3B%2FrYMlLPuf%2FYmak8ZVHuFfhWm6w3QKxytQ6B1v%2F0m7I%2FG4SkCygay8LvjcAcgSPWjWnqyOujObsYMzBAAcTwP3zuZozmvVxr%2FCuzRHtUkSUs3%2BF8H2FtDPTJVKFEOjdZ%2FHRzApxW%2FSLlBPJjhvYAhOliEyy5MbYelJhaKsxOel%2BrOpT90r5vrE5FgcggchkPR8Fz2rvh4TJ%2BKuUEXXOK27qhQrTW2lO6OliWU2Di6LmK%2B9vbYh9SJuY7oU26epkkaORrrvO%2F9dUloig4iMVHtCw6a2RSEIgfGZ4cEmr6%2BEYUj3ldIGmrbaUE579TbeyNBfMsawQyGgJ5DWBHW%2B%2FE5EqNhpxADvm0%2BVqzqXt5E%2BIjEhxC05jHa1Gx1CU9zYOXtuBHSVwI6V73BNFVQowv88cFi5v8%2BO2dtR7aEN%2BETNV1OQFMR9gLGF%2Bm67eW2YDy47XPE5TCM846%2FBjqZAahyjgz8UiQd%2BCvZEo5rew0JgEA1IkWs%2BKjzhKjTAxcZAhoe%2FCv%2BrEE8PtTVoI7qx4newlZlJxH7jKZjA5OMPRohCNNj8tebnxD2peRW3W%2FBfC8%2BUnFX%2B2WHPY6ms6nGmThFOHznESVmrVCXI16gr1VD16G2M5zVY9QZqITTaO7m1GLwBrNGZwXfAo1t9NwrUvIlUCYXqglh1g%3D%3D&Expires=1742981043",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"5\">Faculty of Sciences</th></tr><tr><td>Programs</td><td>IELTS (Academic) Mi...</td><td>TOEFL Minimum Sco...</td><td>Pearson Test of Engli</td><td>C1 Advanced</td></tr><tr><td>School of Animal and ...</td><td>Overall band score of</td><td>Paper-based: total sco...</td><td>Overall score 65 AND ...</td><td>Overall score 185 AN</td></tr><tr><td>School of Biological S...</td><td>Overall band score of ...</td><td>Internet-based: total S...</td><td>Overall score of 58 AN</td><td>Overall score 176 AN</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"5\">Faculty of Sciences</th></tr><tr><td>Programs</td><td>IELTS (Academic) Mi...</td><td>TOEFL Minimum Sco...</td><td>Pearson Test of Engli</td><td>C1 Advanced</td></tr><tr><td>School of Animal and ...</td><td>Overall band score of</td><td>Paper-based: total sco...</td><td>Overall score 65 AND ...</td><td>Overall score 185 AN</td></tr><tr><td>School of Biological S...</td><td>Overall band score of ...</td><td>Internet-based: total S...</td><td>Overall score of 58 AN</td><td>Overall score 176 AN</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.10273159144893111,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"5\">Faculty of Sciences</th></tr><tr><td>Programs</td><td>IELTS (Academic) Mi...</td><td>TOEFL Minimum Sco...</td><td>Pearson Test of Engli</td><td>C1 Advanced</td></tr><tr><td>School of Animal and ...</td><td>Overall band score of</td><td>Paper-based: total sco...</td><td>Overall score 65 AND ...</td><td>Overall score 185 AN</td></tr><tr><td>School of Biological S...</td><td>Overall band score of ...</td><td>Internet-based: total S...</td><td>Overall score of 58 AN</td><td>Overall score 176 AN</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

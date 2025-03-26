@@ -1,0 +1,36 @@
+{
+  "job_id": "e084b14e-d457-485b-9a08-10287bc71119",
+  "duration": 50.31337308883667,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/57859bbd-8f0f-4d22-a02d-b782c99c99cd.pdf?AWSAccessKeyId=ASIA2UOK6OVBDOO57EGN&Signature=W%2Fmce2GdUxPynJ%2BOKTKG7yGOP7Q%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCeEEatmx0NANxRhe86IUX%2BqClqWpjTn%2BANxIJ7EoAJrwIgSLWO%2Bv%2FN6XQGW9vm0LxyfkH3COGFDQTpdR5ilFjVa%2FsqgwUIKRAAGgw3MzExMDY5MzIwMzQiDMGOrcJq3i8kCAzyXyrgBIUDZb5QB0aw0WaoyXPK1yGfHdtNCkaUXvInBo1e%2BNykXcSuwq6SdFGMrI%2Fcc6%2FIuKgAK3OFyDuRkAV9ILgkh5MCxRxmiv6Ws5zFvFBPmxLri9CJztrZ81SyzfJ%2F8Zg%2FIzNG6HubBj5PERGfHVfzDBMeNTFHLnN21Y9MpcY%2FNRKpJnVmQMXEphDh%2F5spMy4S8%2BUjK%2Fu4ei3C%2Bb1puAUgvcICJMi5NY%2BIv56CtpxP5Ou2zLzer1Yc%2BEMjk%2BRoLxISgX0eNKmjgDjtXwPl70JfGH1pmXrqmjB4DwOoiSZKI5vYnKYV43Zy8Yy4ZV28iGeHXY8WFuVtRtsjw5rdI4pTYAobU1287OeyVKELtx7m77x9F70SxgpT8h7Kvvzl%2FQMlMa7AiNTueg%2BPz%2B9RmXz648b5lBFcmQoveCUmIOFM23dP5fAjfI9mFyfJk1j0c1PSjS%2FsXedxnYArCvm9NZmMRmSjt1yetcr16mfeNf%2F2lCF1MZ5jepSo88B%2B0ha1LPHDs9J4JMJhxJa03Sh5Nl0hDJaXmyVX8QZILozOeUS61ojZsG3G1XCwdvVDclD2EHl8nHAhtBVy89juRH%2BVnt3st9GC8HUVtJXT0U3RmykrJLmQBMDcu3HAsitO0v9SJxiyxD2hE2KVFVIcAMXoLzxBOL3jW5Q5uGTzlZxMAQQS2Jp5bZeuv7TQDrjsM%2B0UypD17zgObDT7jBS%2FRyLAeTootkLjlCPAx4oW4yBqALj5YLvScw%2BvgZ3yRKSawdF3XCT%2FF8KU3u6NLUL95UiLagv9fjAMo1E9OrJ7Os42nX4KtwmtMOnojr8GOpoB8%2FoemQDn608riyqD2n1oeOxz3Vt9udENVecPDtDsmbKKWpzcwlN5LQcf58P2mI98Ikav30rxZEcUC4XkFxdW%2F1C0LwNSbj7Zmk9Rg0%2BThjGvxcLrQg4z48MRVYjCVnsLpAfY%2Fxe%2FUCE0j%2FkxpPNqWnG7qlMTAb%2FBLE07tqpEl61i2wkGSlpJQ3sI5%2FglC3BQVom4zjgXn%2FGIRg%3D%3D&Expires=1742980868",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"2\">Completion checklist - No answers mean you may not hav.</th><th>Yes</th><th>No</th></tr><tr><td rowspan=\"2\">All sections</td><td>Have all highlighted boxes be</td><td>\u2713</td><td></td></tr><tr><td>Have the dates set for the pe</td><td>\u2713</td><td></td></tr><tr><td>Internal Audit Report</td><td>Have all highlighted boxes be.</td><td>\u2713</td><td></td></tr><tr><td>Section 1</td><td>For any statement to which th...</td><td></td><td></td></tr><tr><td rowspan=\"3\">Section 2</td><td>Has the Parish Meeting's app</td><td>\u2713</td><td></td></tr><tr><td>Has an explanation of signific</td><td>\u2713</td><td></td></tr><tr><td>Is an explanation of any differ</td><td>\u2713</td><td></td></tr></table>",
+        "embed": "<table><tr><th colspan=\"2\">Completion checklist - No answers mean you may not hav.</th><th>Yes</th><th>No</th></tr><tr><td rowspan=\"2\">All sections</td><td>Have all highlighted boxes be</td><td>\u2713</td><td></td></tr><tr><td>Have the dates set for the pe</td><td>\u2713</td><td></td></tr><tr><td>Internal Audit Report</td><td>Have all highlighted boxes be.</td><td>\u2713</td><td></td></tr><tr><td>Section 1</td><td>For any statement to which th...</td><td></td><td></td></tr><tr><td rowspan=\"3\">Section 2</td><td>Has the Parish Meeting's app</td><td>\u2713</td><td></td></tr><tr><td>Has an explanation of signific</td><td>\u2713</td><td></td></tr><tr><td>Is an explanation of any differ</td><td>\u2713</td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9026028547439127,
+              "height": 0.20308788598574823,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"2\">Completion checklist - No answers mean you may not hav.</th><th>Yes</th><th>No</th></tr><tr><td rowspan=\"2\">All sections</td><td>Have all highlighted boxes be</td><td>\u2713</td><td></td></tr><tr><td>Have the dates set for the pe</td><td>\u2713</td><td></td></tr><tr><td>Internal Audit Report</td><td>Have all highlighted boxes be.</td><td>\u2713</td><td></td></tr><tr><td>Section 1</td><td>For any statement to which th...</td><td></td><td></td></tr><tr><td rowspan=\"3\">Section 2</td><td>Has the Parish Meeting's app</td><td>\u2713</td><td></td></tr><tr><td>Has an explanation of signific</td><td>\u2713</td><td></td></tr><tr><td>Is an explanation of any differ</td><td>\u2713</td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

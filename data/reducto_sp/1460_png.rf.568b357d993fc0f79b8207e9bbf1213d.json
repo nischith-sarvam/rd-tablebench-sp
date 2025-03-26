@@ -1,0 +1,36 @@
+{
+  "job_id": "9a790734-f6fc-4658-8d96-5d01eafe22ee",
+  "duration": 46.933698415756226,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/e1b6acc8-5a6a-4165-8de7-b076f46b0f7d.pdf?AWSAccessKeyId=ASIA2UOK6OVBFWVCUF62&Signature=387g5Sr3sEzTQbHVsSTMTRrV4Og%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQC%2B9XXAgXLIjIElZeq5qxdOFel50swVzLh7A7MRZgUa2QIhAK9kaNhlmbixsThdPko1u4tWvMIqpzGa4nk7U%2BOW%2FQXfKoMFCCkQABoMNzMxMTA2OTMyMDM0Igz%2B1nOe%2FC7tg3Cm%2FfEq4AQYzG6tHSjHqV%2BKgHknYd7YP6zav9auCfx7zE6%2BFj2w9SYHVIyscac2ILMoXi89DD3Nh7Bb32x1IOU8AkT7yELfq4KnqWDEeZ%2FOWbc2pCwPJzP8M%2FpXcQW%2BfYhI08zArhFC7GohwLFCCk%2BPN7PQsIx552xl35lpjsbcmpoM%2F1QvV5A4%2B%2FmEm1j7vgnga2oN13xByOfTGRZ%2FiqbKP%2FHm5db5G%2FLiOXk7TQMnF%2BdXjpu3gorxiDWeq9hUbCWIVGyLjsdkrTH%2BljI3boqixywioLKElHBMp5o29RX3dYz9i5j23xpWNKF7npvqmt%2BqIy8ofleBIzIGFtnv17xkwVwkdQjb3lN8%2FGvjK8yDUH0owu9opW1Ms7mriVLcr7X2EqbSuFKB7L88SvyoVuk1PtoZApSYWbzo9omByfSMaJPSRLdln2qH5xHDJy7rW61KGRTGomRQv4VybT6c6ERmkXsX8y4mZz%2BmQs7i%2FblDbCHUeRw0PA%2FOCtpYThkQ0XI%2FdFVZN9cJJcBn2DyvPp9JjGwiNh5DaQbNfKlXNG5D0Qk6J7ZaEyrMEEUlvMNaC%2Bzjn1LfvW8wV2p6zZzVZpCVCOuHGeh7HBgR%2BAUJQ5yWE4glA4p6ePv%2Bgv9xPssWeXmMKi%2BKw5ZcV8ESYn3%2B0YDyBLo6Wr388Acg1J6V1K50DzJfuM7UDG10xts5erXHv56KrgOYUULwrOGMMUHBDupJiHLO%2F6mjZP3W%2BMCoBD0Zd5wGiGLfyyvw9fBnI5%2BL5em3KPm5is%2FwDSPhvbeUndo7BKVqLJhMqq7EFEhV%2BoSMLlDEOawwNTDf446%2FBjqZAeOLq9WIt%2F%2Fcrguux1XYgBsvKj3i2hm4fCa%2Bpwa58tU4FwwlAkhok9EYF4jpGDEKK2M%2FsJmW%2FdAzUHYTz0IeNwyJymJT%2FrG7IpzdDGQA9vCmaTmfd%2F6VtO4olj6GNe4eTaXNUooPJinPRlF5eqmZiaFZi2M3dVLbi8hmuQhIhARoliSrCbnrZ6A6ITOs2jXSXgQa6kBioG5FFA%3D%3D&Expires=1742980864",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"5\">Table 6. Relationship between D-dimer levels studied at admission and control with mortality</th></tr><tr><td>Variable</td><td>Alive (n:82) mean + S...</td><td>Ex (n:18) mean + SD ...</td><td>Total mean + SD or n...</td><td>p value</td></tr><tr><td>D-dimer 1</td><td>1.40 + 3.30</td><td>4.41 + 6.30</td><td>1.97 # 4.09</td><td>0,020</td></tr><tr><td>D-dimer 2</td><td>1.51 # 2.61</td><td>5.04 + 4.92</td><td>2.12 + 3.36</td><td>&lt;0.001</td></tr><tr><td colspan=\"5\">D-dimer 1</td></tr><tr><td>&lt;0.5</td><td>37 (50.0)</td><td>4 (23.5)</td><td>41 (43.6)</td><td rowspan=\"2\">0,088</td></tr><tr><td>&amp;gt0.5</td><td>37 (50.0)</td><td>13 (76.5)</td><td>56.4</td></tr><tr><td colspan=\"5\">D-dimer 2</td></tr><tr><td>&lt;0.5</td><td>21 (36.2)</td><td>0 (0)</td><td>21 (30.0)</td><td rowspan=\"2\">0,013</td></tr><tr><td>&gt;0.5</td><td>37 (63.8)</td><td>12 (100.0)</td><td>49 (70.0)</td></tr><tr><td>Follow-up time (day)</td><td>51.21 + 35.03</td><td>13.39 + 11.25</td><td>44.40 + 35.20</td><td>&lt;0.001</td></tr><tr><td colspan=\"5\">D-dimer 1: admission, D-dimer 2: control</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"5\">Table 6. Relationship between D-dimer levels studied at admission and control with mortality</th></tr><tr><td>Variable</td><td>Alive (n:82) mean + S...</td><td>Ex (n:18) mean + SD ...</td><td>Total mean + SD or n...</td><td>p value</td></tr><tr><td>D-dimer 1</td><td>1.40 + 3.30</td><td>4.41 + 6.30</td><td>1.97 # 4.09</td><td>0,020</td></tr><tr><td>D-dimer 2</td><td>1.51 # 2.61</td><td>5.04 + 4.92</td><td>2.12 + 3.36</td><td>&lt;0.001</td></tr><tr><td colspan=\"5\">D-dimer 1</td></tr><tr><td>&lt;0.5</td><td>37 (50.0)</td><td>4 (23.5)</td><td>41 (43.6)</td><td rowspan=\"2\">0,088</td></tr><tr><td>&amp;gt0.5</td><td>37 (50.0)</td><td>13 (76.5)</td><td>56.4</td></tr><tr><td colspan=\"5\">D-dimer 2</td></tr><tr><td>&lt;0.5</td><td>21 (36.2)</td><td>0 (0)</td><td>21 (30.0)</td><td rowspan=\"2\">0,013</td></tr><tr><td>&gt;0.5</td><td>37 (63.8)</td><td>12 (100.0)</td><td>49 (70.0)</td></tr><tr><td>Follow-up time (day)</td><td>51.21 + 35.03</td><td>13.39 + 11.25</td><td>44.40 + 35.20</td><td>&lt;0.001</td></tr><tr><td colspan=\"5\">D-dimer 1: admission, D-dimer 2: control</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032660332541567694,
+              "width": 0.9034424853064652,
+              "height": 0.30522565320665085,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"5\">Table 6. Relationship between D-dimer levels studied at admission and control with mortality</th></tr><tr><td>Variable</td><td>Alive (n:82) mean + S...</td><td>Ex (n:18) mean + SD ...</td><td>Total mean + SD or n...</td><td>p value</td></tr><tr><td>D-dimer 1</td><td>1.40 + 3.30</td><td>4.41 + 6.30</td><td>1.97 # 4.09</td><td>0,020</td></tr><tr><td>D-dimer 2</td><td>1.51 # 2.61</td><td>5.04 + 4.92</td><td>2.12 + 3.36</td><td>&lt;0.001</td></tr><tr><td colspan=\"5\">D-dimer 1</td></tr><tr><td>&lt;0.5</td><td>37 (50.0)</td><td>4 (23.5)</td><td>41 (43.6)</td><td rowspan=\"2\">0,088</td></tr><tr><td>&amp;gt0.5</td><td>37 (50.0)</td><td>13 (76.5)</td><td>56.4</td></tr><tr><td colspan=\"5\">D-dimer 2</td></tr><tr><td>&lt;0.5</td><td>21 (36.2)</td><td>0 (0)</td><td>21 (30.0)</td><td rowspan=\"2\">0,013</td></tr><tr><td>&gt;0.5</td><td>37 (63.8)</td><td>12 (100.0)</td><td>49 (70.0)</td></tr><tr><td>Follow-up time (day)</td><td>51.21 + 35.03</td><td>13.39 + 11.25</td><td>44.40 + 35.20</td><td>&lt;0.001</td></tr><tr><td colspan=\"5\">D-dimer 1: admission, D-dimer 2: control</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

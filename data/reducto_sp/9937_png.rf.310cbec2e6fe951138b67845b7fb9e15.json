@@ -1,0 +1,36 @@
+{
+  "job_id": "5484f606-3d4a-42ce-bb47-c71493d19e48",
+  "duration": 133.1535415649414,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/d872e38b-ef2d-4322-b3ae-dec999650b47.pdf?AWSAccessKeyId=ASIA2UOK6OVBABHDB3UI&Signature=JhfY%2BU8PzyReCMwDxNBsvVimcb4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIB8q9QN3QXukN0W%2FGplp%2F0lB7q579fyFY3%2F%2FpAaa1bwvAiAzZIKkgLouUJ3ocruAp8UkhxCtrk1SUdm2S%2FuSUzBP4yqDBQgqEAAaDDczMTEwNjkzMjAzNCIMF756ED7Jx9LcIWzgKuAEeHQWIoa2FTCJFTAZMZd%2B2ZZC6%2BQniVnzf3X7InlkieAMjhI7kNjJEMxT%2B4EoNIdG5vq%2B2X8Bme87ZGoxc7eGcHXwXfHuLmf%2BCao2sycTjiPzdOwlDd%2BeO%2B3AQmuly%2BFE%2FlQqhzkBz2yx5J7C8r1AE%2FsT6GPYst6JNt93CQep%2BPmuc33Z4m9DWCDPocF3lCGWF72knYLfgcj10xC%2FIPdG9cqzCXjvT7m3TCFbWEqlogdp1DdOskxeApSUaHcvza98ZoO2R%2Bm%2B00N%2BXAOyNDkUbhlPuUk1ofZz%2FgJZNyKD78vqso2ywsmN1h636G%2Fm7je%2Fc%2FZnDeq9ZM%2BBnravr6aT916%2FVao9zbnBlmA4IUxHklmvedfCm6qDb9uqgWa1g9J9Li9J2tOeERQqAOMhhLdvq3RFRNDaZ9FqkW42cp2HnSIiWJ%2FUu9iA1a8lnTyCJCZ358ZLdBZd2r0cnnt4pXtiNYhZI%2Bf2yu9T1Oa6iV2PgMZl2whfO7JHCe4qpCfY3Dsy3PpEnomyK74dlE9lfEAh%2F1cJZzykZ8HRZHnfGMNaHsTaOldlsxTcHjBP0oK9DbqabMf3P8HToXVDv2n4vezSMpnhrwfk3jlnsSpGqTQMpCgmLdmmECetRNWPjc36xwbsj1rg8qNv947ZxPB6d7PcZkx3huaD0KQUMw80q2RkjoEZfvNOSEi9MaNkcqx9BJduE1fb77hNmS2WDoYbUQXhnYbJ0xEy86yg1lybafyd0ERC3uL0BM7UUhxaUBfpJCVlerdiai9y1DEreHulXmh2pIfHHCqc5kLB4%2FsNewZ1VKwwv%2FKOvwY6mwHjqNqK%2BEY%2B6ae3iXAt8tQaxb%2F1DX2x7pPcoirgZ%2B5%2FiV4%2FdmjoCNPrxnS4juvLLSb45KKI%2BMc3y5f6ttNQCfIQ4XQEepEt8dcAPjDCJKVz4zzpHAQqkBt3spXosbeP%2BtXy%2FYOz04a6ndWq8hrwjpLuKUrZIeKKhoJvQj%2BNEYR%2BIaKsJV7yExo4KoKVmnWUNkicaV4SV0evtNbToQ%3D%3D&Expires=1742980958",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>5</th><th>Liczba wybor...</th><th></th><th></th><th></th><th></th><th>1</th></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td>Liczba wyborc...</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td>Liczba wyborc...</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>8</td><td>Liczba otrzyma</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>8a</td><td>Liczba kopert z...</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>8b</td><td>Liczba kopert z...</td><td></td><td></td><td>*</td><td></td><td>0</td></tr><tr><td>8c</td><td>Liczba kopert z...</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>8d</td><td>Liczba kopert z...</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>8e</td><td>Liczba kopert ...</td><td></td><td>*</td><td></td><td></td><td>0</td></tr></table>",
+        "embed": "<table><tr><th>5</th><th>Liczba wybor...</th><th></th><th></th><th></th><th></th><th>1</th></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td>Liczba wyborc...</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td>Liczba wyborc...</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>8</td><td>Liczba otrzyma</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>8a</td><td>Liczba kopert z...</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>8b</td><td>Liczba kopert z...</td><td></td><td></td><td>*</td><td></td><td>0</td></tr><tr><td>8c</td><td>Liczba kopert z...</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>8d</td><td>Liczba kopert z...</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>8e</td><td>Liczba kopert ...</td><td></td><td>*</td><td></td><td></td><td>0</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.24524940617577198,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>5</th><th>Liczba wybor...</th><th></th><th></th><th></th><th></th><th>1</th></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td>Liczba wyborc...</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td>Liczba wyborc...</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>8</td><td>Liczba otrzyma</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>8a</td><td>Liczba kopert z...</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>8b</td><td>Liczba kopert z...</td><td></td><td></td><td>*</td><td></td><td>0</td></tr><tr><td>8c</td><td>Liczba kopert z...</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>8d</td><td>Liczba kopert z...</td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>8e</td><td>Liczba kopert ...</td><td></td><td>*</td><td></td><td></td><td>0</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

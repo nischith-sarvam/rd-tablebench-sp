@@ -1,0 +1,36 @@
+{
+  "job_id": "c763a0dc-c06a-481e-a603-117f179be688",
+  "duration": 138.51543974876404,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/9cd73b43-729f-4ca0-951d-ab96b842f40d.pdf?AWSAccessKeyId=ASIA2UOK6OVBFGVCZJ74&Signature=TmP0iUfk42zE0sWBR3CigG52w0s%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCbo5NU4IopnNKgr4gEkfMkdWNk4h4Jb37j58LEz6tcQwIgTrJykuG2Ez6fweXRTjyWZU6OgVdWatr182qArnwybIsqgwUIKhAAGgw3MzExMDY5MzIwMzQiDPSlwEuZk76I3EdQ4SrgBBvNJMB7Wpazym8%2BxS5JCABK47CNsQZ6%2F8fKSI3OzNP1aSd0lZd75iidJPi9%2FjwwmN8SdUqvZhPZbL6lo0i2cp7IMGZlD%2BqvWG1YDnWAUQNePn%2BqKTwi5Wt0qzDKv2tCbn4KEcB3PT36AZhKWg%2BaQVSlVcqgIhyKthizf9h28vUyrgVhjux2%2F5rErLyohzu0MscCY%2FcYmUpFhAHzdwIHGjsmh5gNqtHEnphTM1PPxV7NFK0TbLc8E32lwZYiIvNTuca6wTf9eHE48FgcKmFcN%2F%2FoB9LKFzCFmoG4A3Eqto6jkZMOoyuWIYETRi5sjgfQ5uFES5E9V9NF2O5MzXNZOs5ZwKxaPoirhhUCxa%2FE9OffpjS5k0SIKHDT2mpAIyDF1aZQAmwlugpduYMXIaM71NdelQr7d12nRM0dJV2Y3UUXxk2kdVAW6PYYgOnIYb2zpK%2FrJ%2FGGzkQZIj1edYmN1gpY04rrVsApmFi005y8KKsGta9ouHx2uc%2BCHjYoOsoAnsG5w1BdmqBZjAG3030qFgprIUKQBSnoeaR7kWGPiLxDCXnvB%2B6tupbOaP2xS3W29qYbNTN1QW%2BEi3xCkyTkqUmPILe%2BZoq5exQHykd79rNQeFRi4f%2FlyWkhY23YCU1HfmyQEAVhaWcVouwM6QxranUjNymaV%2BOv03jzvR0kM4F9CgC8bd1u3MGxCq2VwS8Q2b7e9OUtU1TYg0MACYCyEycxlWtEfD9bXVlT4i8LEGXs6u08Omd5F49kUta8ZvKtjyC7smBR9je7Ek3K3NrdQRFv1znwqOiasZCQ4kZVjfC%2FMMzyjr8GOpoB2rCZUXm7%2B4Abx7wyLrwfqWPXo71A9MOKiYW0xubSu6rjHc5W83FiIrn%2FKAKGEFffuyQVZyVhbYLspk831VHw1y7lm1XERXPvKI2FeKgWQ%2BpqtPN1Oc%2FegzqemE%2B9BidjFA8cTBj7DIIVROrhCup%2FpVAUXFgYV342qfN5V9xdgDgv8f1cSHktv%2Bt8uh1Zuv2wisWeXJXLzyMH8w%3D%3D&Expires=1742980984",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>MODEL</th><th>Max Weight Allowed for EACH Display</th><th>Total Max Weight Capacity of Mountin</th></tr><tr><td>FCAB3X1U</td><td>125 lbs (56.7 kg)</td><td>with LCM3X1U 750 lbs (340.2 kg)</td></tr><tr><td>FCAB3X1UP</td><td>125 lbs (56.7 kg)</td><td>with LCM3X1UP 750 lbs (340.2 kg)</td></tr></table>",
+        "embed": "<table><tr><th>MODEL</th><th>Max Weight Allowed for EACH Display</th><th>Total Max Weight Capacity of Mountin</th></tr><tr><td>FCAB3X1U</td><td>125 lbs (56.7 kg)</td><td>with LCM3X1U 750 lbs (340.2 kg)</td></tr><tr><td>FCAB3X1UP</td><td>125 lbs (56.7 kg)</td><td>with LCM3X1UP 750 lbs (340.2 kg)</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9026028547439127,
+              "height": 0.07779097387173396,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>MODEL</th><th>Max Weight Allowed for EACH Display</th><th>Total Max Weight Capacity of Mountin</th></tr><tr><td>FCAB3X1U</td><td>125 lbs (56.7 kg)</td><td>with LCM3X1U 750 lbs (340.2 kg)</td></tr><tr><td>FCAB3X1UP</td><td>125 lbs (56.7 kg)</td><td>with LCM3X1UP 750 lbs (340.2 kg)</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

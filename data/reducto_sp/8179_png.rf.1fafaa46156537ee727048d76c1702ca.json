@@ -1,0 +1,36 @@
+{
+  "job_id": "55d1a436-faaf-4fe5-ab07-fe23756d6c32",
+  "duration": 133.99683737754822,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/f740b7ae-dc75-474a-a784-9aa3593c1f0d.pdf?AWSAccessKeyId=ASIA2UOK6OVBOEN3A4K5&Signature=R6PKTos2kWlIOTE9Et9t5i64SD8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDVd4teY5abU9ydOhVTGdIJbkZgoklX5NK1UGGycZKzlgIhAOe6sRvYrwqTrK9Pu0MqCF3vAodG7q0TQJ%2F1hBBgp1RQKoMFCCoQABoMNzMxMTA2OTMyMDM0IgxOvQEwUokwVJ90S74q4AQ6AXSQhdpNBfAiNJapjv4EGi8jlRIK8K8J3bLZgI3COUNLxmCoiz5Dvoa75KuTHSwAOmI%2FjSb3MSJwZ1O4fRM1Sy6M5bs9sONw7TrM58dLk0sb3%2BHjr5o%2Fg9NGCp4be4uepIaTxz0tgQLsFSe1G4S54bpfKq9U%2F8dlF7jXzLoPkK5WsARYRyj1iRjQUEayorgsPR8WaiV0gSnjt8ZuCM0NJjjO3kTNF6c7S7gMk0ySF3tr7WACiyaMSZ%2BY0gnUY4RFVlWdcEmiM03Fx%2FJJ4cz2Ibkb3WmK1pxEN0MjoIZwQDyYq1FhkbMSQ3sTm6EgtyPl2WFXfI7025CBOakFvdHsUuk3ft52h1wn8NrE2WJSFCUsd3ij6iUGCp0kmM1CZ736NwSUxYXFLoJJPIa8BDDWXJNUthRPrdcKHuoG0gEtt9sxqjOg7rJSVZ4BIxg6xAiXdqop19PvVw0WcjEosNE2Cy7dGzApXvyjOV0ZynJqqIvAUcBRwFPe%2BdBbv6IbWMR8CnNWEksMncazSOnYBEes99NAiLVkWBGBE77ZvL6KVAeHdB3Aq8sci0dLqSivxjPA9tgjw0ftF1wvdbaBUrrdMJTr7QFpEvgXNo%2BZLn5TQXqPKCQlckghGvSJRRGIaAUPHyFOi%2FSwxB1W2f5R9Cklwae7KvyShbeTQSl8vXUhf5rWW4owJfFSyn%2F93CI1kvz%2BRziHGHpyGx1ems6lCGi2DN%2BdyHFtNz4MuyOn51uB0nGBpM1IQAhJnAOJOuGH4QA0sEcBlBwltAgfQN%2BVnGauRaVnFH%2FxVz7ddmPljfHFGDC%2F8o6%2FBjqZAZ5pstMrXxLKUPQXlUCe%2FosZH3HBusqYZEUP1VELWCp4ocIL16tiMpyndmF02TZJwcrWMS3KfIiGuXHXvjBhqiTgK5vwCtguCb4X%2BHIZNvc%2BOY900IEtGrO%2FKCjsyur4nQcrHyso9Ly9zpKswJky5vLTxvgQBoyErzDlaed5R9lJzQ0ajVIvtr6qC2oXAU2uK5tiZposU8dG8w%3D%3D&Expires=1742980981",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"2\">No.</th><th colspan=\"6\">Maximum amount of released drug (%)/time (min)</th></tr><tr><td>VitCa</td><td>VitC</td><td>ARGa</td><td>ARGb</td><td>FAa</td><td>FAb</td></tr><tr><td>Ic</td><td>43/60</td><td>77/75</td><td>23/10</td><td>n.o.</td><td>95/90</td><td>80/180</td></tr><tr><td>llc</td><td>63/130</td><td>63/180</td><td>74/60</td><td>n.o.</td><td>84/240</td><td>69/180</td></tr><tr><td>IIIc</td><td>31/130</td><td>13/120</td><td>92/180</td><td>n.o.</td><td>99/120</td><td>76/180</td></tr><tr><td>IVc</td><td>24/50</td><td>99/75</td><td>96/180</td><td>n.o.</td><td>92/300</td><td>53/180</td></tr><tr><td>Vc</td><td>24/80</td><td>59/50</td><td>n.o.</td><td>n.o.</td><td>81/300</td><td>82/180</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"2\">No.</th><th colspan=\"6\">Maximum amount of released drug (%)/time (min)</th></tr><tr><td>VitCa</td><td>VitC</td><td>ARGa</td><td>ARGb</td><td>FAa</td><td>FAb</td></tr><tr><td>Ic</td><td>43/60</td><td>77/75</td><td>23/10</td><td>n.o.</td><td>95/90</td><td>80/180</td></tr><tr><td>llc</td><td>63/130</td><td>63/180</td><td>74/60</td><td>n.o.</td><td>84/240</td><td>69/180</td></tr><tr><td>IIIc</td><td>31/130</td><td>13/120</td><td>92/180</td><td>n.o.</td><td>99/120</td><td>76/180</td></tr><tr><td>IVc</td><td>24/50</td><td>99/75</td><td>96/180</td><td>n.o.</td><td>92/300</td><td>53/180</td></tr><tr><td>Vc</td><td>24/80</td><td>59/50</td><td>n.o.</td><td>n.o.</td><td>81/300</td><td>82/180</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032066508313539195,
+              "width": 0.9051217464315701,
+              "height": 0.17992874109263657,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"2\">No.</th><th colspan=\"6\">Maximum amount of released drug (%)/time (min)</th></tr><tr><td>VitCa</td><td>VitC</td><td>ARGa</td><td>ARGb</td><td>FAa</td><td>FAb</td></tr><tr><td>Ic</td><td>43/60</td><td>77/75</td><td>23/10</td><td>n.o.</td><td>95/90</td><td>80/180</td></tr><tr><td>llc</td><td>63/130</td><td>63/180</td><td>74/60</td><td>n.o.</td><td>84/240</td><td>69/180</td></tr><tr><td>IIIc</td><td>31/130</td><td>13/120</td><td>92/180</td><td>n.o.</td><td>99/120</td><td>76/180</td></tr><tr><td>IVc</td><td>24/50</td><td>99/75</td><td>96/180</td><td>n.o.</td><td>92/300</td><td>53/180</td></tr><tr><td>Vc</td><td>24/80</td><td>59/50</td><td>n.o.</td><td>n.o.</td><td>81/300</td><td>82/180</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

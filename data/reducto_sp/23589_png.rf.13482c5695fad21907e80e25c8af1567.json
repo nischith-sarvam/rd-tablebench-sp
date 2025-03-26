@@ -1,0 +1,36 @@
+{
+  "job_id": "5f84c6cd-e826-45fc-8a28-b967540e1269",
+  "duration": 119.18758153915405,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/f871f9c9-345c-427d-8826-2fb8d9d31ea3.pdf?AWSAccessKeyId=ASIA2UOK6OVBF6T4XWGG&Signature=miDzKIhCNVTCt1N8QRSpHpcPSmk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIGWPJ%2BSvWfYm9QyAssaNR8s5fGODTL4ArgIR5MPFCHGpAiBWtXxPODFPPXdyR1dCvmgk4MyJX7aVpFMQ19Yldvu3BCqDBQgqEAAaDDczMTEwNjkzMjAzNCIMxFdA5j5i81BUFWKdKuAEhdD6%2BHQD8F3nb2EZHcU6n%2FOuQ7u%2FwHlc5UhAo8IJZjNELkxEbvxh%2FrP7wCFH6X7FzK%2BJOW2fvFBq6Mj5BO8Iy6bCs5dgBWpZmcWuvizTo1ZW1eM1%2B%2BvTex5tV5ludEtNIXJm7mWrwXLq4GtDuo9PN1xlNHwahvbRsnzKO%2B8WojT0ckl45vFD1fylM%2Fboc36yNY6r3CTdcJRVUJWbFbWkj2BAsIDfAzUJvp%2FflRZNFQkVVl85d5MTHfgFaJEg%2BLhnKpbYq47cqqWoqLHqFa0V56IXdFz9VHPl410WJhqtjEMU4zpeZaV%2BuE3FxQTKkDoBeZpLS%2Bi9gZ%2BXXReVX9nzEWrXDmgsKgu1Mryj2R1lHtlbGwK0EjkFCmr%2BrRO4xaWb4CMOKqoUsGwa2SgbSez8f7Jwxel%2Fqg0NAweTGreRFh5HRcMoGc75oW%2FaaGMCRmwfbjp9xEvPl9%2FbAD4DBAH8u35ytTBjjFAeAr1oN3mOf9smOBPUSt2oZWiTUAv%2FQu5m14AOToKll74p6vgrogGELFfCqsXJksYszLsDC%2F3imWnyNLEKaJQJ1%2Bo9xfB%2Bmu6ucMWis1TUIGsNToh7E3fUsBgdSxOJLM6dZrqUKOd3Q3XEbKdusxqtT%2FN5DflX7lqMdHwL1x2uQn4383vPsUGSZ4Tw7L0jBm1Y70ltkCI8rr7TSCCpaQ8ZoS0XKY0jSnyh7sF10d696fGm4%2B7o%2BEb7xpudfGqeazcKdrk09o%2B3TqrasBcjQOO6eEf7zgSprjNJfEt2YcDywY1MeDg6YMZ3NcsbAB51LXB46tJGePoV%2B90wvPKOvwY6mwFgqfzDFQtimT%2Fkz4A9Nu5hRAv1FcwqOVqJqTn%2B87fvO%2FBBmnTYcnUIV1lWg%2BykKvRqUGvEpVrxkp1t%2BIIxADP9JXVKA1YxCBhcIGIqJGZqho2aGK84iJVuhwXCqhzrAaWhjDNM8qMEex39%2B5O1OJtM5cednns93vYDFYcjtJH4QWgZxLaANv2zs3LHzAqe4YeJEzfi3H6PecYKCw%3D%3D&Expires=1742980946",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"2\">Performanc...</th><th colspan=\"3\">Actual</th><th colspan=\"2\">Target</th><th colspan=\"2\">4-Month Actual</th></tr><tr><td>FY18</td><td>FY19</td><td>FY20</td><td>FY21</td><td>FY22</td><td>FY20</td><td>FY21</td></tr><tr><td>* Unsheltere</td><td>3,675</td><td>3,588</td><td>3,857</td><td>t</td><td>t</td><td>NA</td><td>NA</td></tr><tr><td>\u2730 HOME-ST.</td><td>2,849</td><td>2,753</td><td>5,909</td><td>1</td><td>1</td><td>1,387</td><td>2,053</td></tr><tr><td colspan=\"6\">\u2730 Critical Indicator \"NA\" Not Available TV Directional Target * None</td><td></td><td></td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"2\">Performanc...</th><th colspan=\"3\">Actual</th><th colspan=\"2\">Target</th><th colspan=\"2\">4-Month Actual</th></tr><tr><td>FY18</td><td>FY19</td><td>FY20</td><td>FY21</td><td>FY22</td><td>FY20</td><td>FY21</td></tr><tr><td>* Unsheltere</td><td>3,675</td><td>3,588</td><td>3,857</td><td>t</td><td>t</td><td>NA</td><td>NA</td></tr><tr><td>\u2730 HOME-ST.</td><td>2,849</td><td>2,753</td><td>5,909</td><td>1</td><td>1</td><td>1,387</td><td>2,053</td></tr><tr><td colspan=\"6\">\u2730 Critical Indicator \"NA\" Not Available TV Directional Target * None</td><td></td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9017632241813602,
+              "height": 0.12648456057007126,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"2\">Performanc...</th><th colspan=\"3\">Actual</th><th colspan=\"2\">Target</th><th colspan=\"2\">4-Month Actual</th></tr><tr><td>FY18</td><td>FY19</td><td>FY20</td><td>FY21</td><td>FY22</td><td>FY20</td><td>FY21</td></tr><tr><td>* Unsheltere</td><td>3,675</td><td>3,588</td><td>3,857</td><td>t</td><td>t</td><td>NA</td><td>NA</td></tr><tr><td>\u2730 HOME-ST.</td><td>2,849</td><td>2,753</td><td>5,909</td><td>1</td><td>1</td><td>1,387</td><td>2,053</td></tr><tr><td colspan=\"6\">\u2730 Critical Indicator \"NA\" Not Available TV Directional Target * None</td><td></td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

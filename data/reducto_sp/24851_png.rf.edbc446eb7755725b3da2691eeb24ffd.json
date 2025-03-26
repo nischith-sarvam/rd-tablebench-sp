@@ -1,0 +1,36 @@
+{
+  "job_id": "38750901-a2a3-4711-98a9-ed200dd4f0e4",
+  "duration": 204.09302496910095,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/39be9b0d-cde3-4a00-8342-1d382354fb64.pdf?AWSAccessKeyId=ASIA2UOK6OVBFAAZLASZ&Signature=p2LjlRlWLcm8jy3rTBTgquebvS4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDjJNtw1YeDsscFmhhKN7PbA8%2FsydjN%2BLGsyZqVaFTamwIhAOo%2BT9I1l3dfS6oM0%2FkB5Vmo3Vglqv7bk4bvs9RhIi8WKoMFCCoQABoMNzMxMTA2OTMyMDM0Igye65fqoBPwRZA%2FY7kq4ATrlCvFmiXKDKoqbcw5GSRGI6aKZ37eAGkfjeO80m1hWbWsOo5ALiuxp5FZo1aVsQFp6ZJwfI84MgMdq3AgpX6gvJTa1lToW%2Feuqp9BJjSR6DAXzI42ok%2BhutZO7hGju%2FQ3SJPEeREQHoUzTpBWB3ORa460ij1gn5lBKVjV8%2B%2Fn%2FMomSGUykL8PYQIAbhBfiGv3dSSRXhGDRF7ciP8JmWjmxdgcmMFsF0mfIr%2FpdPrJuf4fSYuTWRC2B38pdhpQXzHqdCf%2FQuec7OKK5u3kWCxuRbhGvQvRpcpX3sVgRzsV2LwUHOQ98W7FxC1xaiVMsc7oZQgEE7aO9dDlHyvAg7DJKep41r%2BTijWkEFg%2BhOJIJtlr1ipYl09TmkfAcpjnPOe%2FfHwS97vRMErDEML%2FdSDU55HhJoY4v59LrGBSQ%2BZK9P8Zp%2BBR3t0uM2%2FSAqa2W0LENSI5XHkSiHUbcZ8TlRPEyAVxhc5i7jaEJbbW41kQNfedK%2BRZSEtr2IRnaxZZCXBoFzElONYVBH0RB9HnJJbYBiYuZC6xnCzkLN3iv9xYjcrnkwc4RoKruGiAdJ1iA3buwUSASvIA%2BDO8KHHFdy1Xx8U0E%2BEAGQmLfJX%2FWwMu4zIqD0ua0655Jj8KCtpOGzwLxLn3gPSJTzND1Cvx9merIMMtCMBi%2BND82mk0Pa%2B9TEuSyYB0NeRRfBvvgbMV5uuXsjzbWeEtIPkfq%2F4PVkcpXATraopONcCaiigVkiIhaerAzix9%2Bg6xR6I8PHIA6CvzlwZMXk4%2FBezfS5oK52aw%2BSlPIvBpsUVjk6VlShLukzCN846%2FBjqZAZnS1GgAI%2FwkpIP7chsKrkrxJxVyfi9G%2Bn1Zyq6yzSCUIPaT2ULIkfBfPad%2BhoWt%2BekoiiI5gQjix%2Bq8qgCxgHWkToyyM9uXBg9utEuuGQfqNG9P26njWvNfVXjmtOU156ZJexfdx7mfwnkJpd7cyYN6%2BSkaoHpG1O5LBj8xeNrvVTVRNMog02Du0wcCrwJKC1hTQnwUMZTSGA%3D%3D&Expires=1742981047",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>PRQ (1)</th><th>GE (2)</th><th>CPR (3)</th><th>SPRING Year 3</th><th></th></tr><tr><td>X</td><td></td><td></td><td>BIOL340 Immunology</td><td>3</td></tr><tr><td></td><td></td><td>X</td><td>COLL420 Leadership</td><td>3</td></tr><tr><td>X</td><td></td><td></td><td>BIOL430 Pharmacology</td><td>3</td></tr><tr><td></td><td></td><td>X</td><td>COLL320 Scholarly Pr</td><td>3*</td></tr></table>",
+        "embed": "<table><tr><th>PRQ (1)</th><th>GE (2)</th><th>CPR (3)</th><th>SPRING Year 3</th><th></th></tr><tr><td>X</td><td></td><td></td><td>BIOL340 Immunology</td><td>3</td></tr><tr><td></td><td></td><td>X</td><td>COLL420 Leadership</td><td>3</td></tr><tr><td>X</td><td></td><td></td><td>BIOL430 Pharmacology</td><td>3</td></tr><tr><td></td><td></td><td>X</td><td>COLL320 Scholarly Pr</td><td>3*</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.0436607892527288,
+              "top": 0.032066508313539195,
+              "width": 0.9059613769941226,
+              "height": 0.12945368171021376,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>PRQ (1)</th><th>GE (2)</th><th>CPR (3)</th><th>SPRING Year 3</th><th></th></tr><tr><td>X</td><td></td><td></td><td>BIOL340 Immunology</td><td>3</td></tr><tr><td></td><td></td><td>X</td><td>COLL420 Leadership</td><td>3</td></tr><tr><td>X</td><td></td><td></td><td>BIOL430 Pharmacology</td><td>3</td></tr><tr><td></td><td></td><td>X</td><td>COLL320 Scholarly Pr</td><td>3*</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "job_id": "f34c9d09-e8ca-4ef2-bb54-8187be93f893",
+  "duration": 154.34971737861633,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/26aefeb8-ae28-4a6d-860c-8a4cdc005efa.pdf?AWSAccessKeyId=ASIA2UOK6OVBDUA7VU4U&Signature=fUOjgvAjEgwp3yv3O1ez0k3x48U%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCICdnmroFsGY1slqhlXwOP6fwnJEgGi4222ZB7vFLtq8PAiEAqWZMuOZS6kWQXtkGBW0dKV80spRl0tWoJUVu2ivnNgUqgwUIKhAAGgw3MzExMDY5MzIwMzQiDBQEXfsNcqnxEM30HirgBFikcD6uYfX9%2BZHALtmb8xwVNIOLrrUQVgJvuCDVWguKgDXoi20SBVa7kYr9OgS1AE6m7B5gMDDXcQxSXdqs%2FdW%2BRJ%2FaJwT0n91Q09lcqvKrn4VQwLcQoov%2BRbPD7tL3q%2Bjo08s60PmREalUA3%2BASvgPbpExigeKOUErItd3x8KmslgX1piFyXcMSmx3ytPTKRuDH4xRa%2F9lvTVFDThkEzPHmBACzi4HbjHhHOHeKzkh%2BA3U3wrkTe%2F%2B54IyQvu5aAX30pKXJBsI17SAmNxJ2r5f5jP5Sjq4%2BdoW8fVq4Q2dCYBPC3IRalakO2ekURRonJm2%2BZKGdOIvV2aDIuZ%2FI78Lv3kN3%2FcCpG5ZAaSKRW3BE8Ki5eLNjfm07r%2FKt5oDHgnuum08Etl%2BvE8CYE4ehAN%2Bcy2nUkXBwptY6TQokthmQQIHVushM3LHFV2Yfim3A83UPAdt%2BFKysI1mZM%2BygO2Ef8msvCSCE8eSmI7Q3Q1TB9E2CysULu9r7hz%2FWMolsyhiSEpuVAtBuNrmacSMnS2luSKpfn437TnvOuiSLPk%2BvJWLzB1vqvpoa6liU6VFrNAP4pVa261EXGTCb7b0lp1YoKxx5NjPA5rnfK%2FmBTfzNTw00JpzQqjGjwzRJ8a6pTnoZVmT8YQgromeKKzGiyThYAElB7qvAA1%2BLBU3QoLRmQmoNrfizUHKLLBjCGYEbNmG3IRRIcVmo0Kee0DiJQLWqSM%2BEQShaB2%2Fh1bFjUtmLZuZP5LSCb3NmLRzXriY%2FaqjHHbiYjkOMMCA6n%2BITKrLl9%2FSYlI4tmMGAiHELRPfML3yjr8GOpoBzy4w2z7TTXWGFGEjmFN8q8uvYqVgEan2bETpKl9PY2g8oNExRpGS%2BFo0wl2PJ%2BvAQaYQVoLSo8JbsjGE4aiVSkR1DvG3ZNnilHxwj%2FjwVkNsgq5hQJttcV1WeSX1unbI7uHszfO3R6w3AqL6rgZneon1QF%2FPOumc9%2BiGt0qtFiNplHogiQObba%2Fv2K8yRogUsCKQRmRcm%2BkiEw%3D%3D&Expires=1742980991",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>11</th><th>email address for griev</th><th>Yes</th><th></th><th>www.pbmpolytex.com</th></tr><tr><td>12</td><td>Financial results</td><td>Yes</td><td></td><td>www.pbmpolytex.com</td></tr><tr><td>13</td><td>Shareholding pattern</td><td>Yes</td><td></td><td>www.pbmpolytex.com</td></tr><tr><td>14</td><td>Details of agreements</td><td>NA</td><td></td><td></td></tr><tr><td>15</td><td>New name and the old</td><td>Yes</td><td></td><td>www.pbmpolytex.com</td></tr></table>",
+        "embed": "<table><tr><th>11</th><th>email address for griev</th><th>Yes</th><th></th><th>www.pbmpolytex.com</th></tr><tr><td>12</td><td>Financial results</td><td>Yes</td><td></td><td>www.pbmpolytex.com</td></tr><tr><td>13</td><td>Shareholding pattern</td><td>Yes</td><td></td><td>www.pbmpolytex.com</td></tr><tr><td>14</td><td>Details of agreements</td><td>NA</td><td></td><td></td></tr><tr><td>15</td><td>New name and the old</td><td>Yes</td><td></td><td>www.pbmpolytex.com</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9026028547439127,
+              "height": 0.12826603325415678,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>11</th><th>email address for griev</th><th>Yes</th><th></th><th>www.pbmpolytex.com</th></tr><tr><td>12</td><td>Financial results</td><td>Yes</td><td></td><td>www.pbmpolytex.com</td></tr><tr><td>13</td><td>Shareholding pattern</td><td>Yes</td><td></td><td>www.pbmpolytex.com</td></tr><tr><td>14</td><td>Details of agreements</td><td>NA</td><td></td><td></td></tr><tr><td>15</td><td>New name and the old</td><td>Yes</td><td></td><td>www.pbmpolytex.com</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

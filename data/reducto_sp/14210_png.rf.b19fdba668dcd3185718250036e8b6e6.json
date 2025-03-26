@@ -1,0 +1,36 @@
+{
+  "job_id": "8944b757-e160-4268-8eb4-7fd0aa09d028",
+  "duration": 51.096837759017944,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/1457374b-23fd-465d-aae3-15bcf70b12e7.pdf?AWSAccessKeyId=ASIA2UOK6OVBLRLLFD5M&Signature=hji%2BgYDHSxKybiDowblB0BLKrX4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDEcohWkogTMxjWI9DWPIsrQ8W%2FZEq2nFHXd3ChI9J%2BIAiAh%2FYOZj0YfD7ntO5sedutlNK3082wLXT%2Fqp5KXuExmFiqDBQgpEAAaDDczMTEwNjkzMjAzNCIMLVLjp5Bb%2B2VEQmpSKuAE4j1FE9%2F1CgCI3oTBrIlGx3Rt1ZEUfgyLSvuYEqQeaFC1AzSE1FWqOvfJy11XQgJFrXuDnCbgtey2r2kikAmlYYvuW8xS0KKe4xnd%2FRqIyNDneGhIAMYghjPQPkCHIJ72AEfKCm92nIKPBJRX4vaMJPiM2FoTJirkx7%2FbrJJiWfm8m%2BGN3FQR9s5vfWTO4V0LpPBJHTkt7l9L5zm%2Fd2EatasD2YUZxIGU2qlD7O39uKt6M8OatXLAKEIHj1VnX8uhYPNCv4M7nfzBmdv%2BgRVIXTjiv0rAA15RrVikrkNzmwgCckbjKGnoItfhYtVSO4DV0tjgNtIK21amIsMjzkrifOtWK06yF12CbSyf%2FKHMD2UYPqJSBG2atZBXIUrfVd29Ky32SIBgreeKKpa8LmKwCwY7M1uIDBjlMGqBbvuEMfDih0ZqhltlqTitVu2bn5JL%2BbcCsrV0soSzeQpJpSKAUN3P8J9lFQ01Q2n7NBPs3zXupvxKWyEL718Z1nBz3fEmNfHaNSXYoVn6wWNw97hB%2FebqVzn4Sdmn223Gkc%2BQNaAK4mnXfvpJPsX%2Fp%2FHYmU%2ByubuyrZJykpDOeYnVG5Ur2QvRrPG4e1ErIAXqaS3pd9cbri1ikWz8PxdUbiWIq52N887kiZEDrynweBrnfWx%2F5Jlua5VEllfqBg%2FnxMjugq5gGOUGjG8zSL%2Ff2ULHAz60ZrYf3USM1frewPn5CqG8FxoqKuIA38Fn8MjW8Rkap2PGpGrSCExGPcF7aBSgjyGUKsLguT2rlyq5nME9psaHui2VqgAko83Q0wOWmMs2Jhowx%2B2OvwY6mwESsS1VnJE8EZ1LQ06JlqGu8BVhhao3hxjEWCwLnCI3UiGbR4I08SmpgS1ONnqdFoL0qrS1Zql2guAQ7ixIeKOocQ3qCI1my5CAq17eDXTBSABZzGkKtUUBf%2BTM6adXPA%2F0ciLVaEumFuDq6DNpuos9ArL9ksck83cmJUit4GSFuyJ3rHPZa8sCTDtkX%2F%2Fkx3i0PY%2FeGBxCMuK4jA%3D%3D&Expires=1742980861",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>\u041d\u043e\u043c\u0435\u0440 \u0441\u0442\u0440\u043e\u043a\u0438</th><th>\u041f\u043e\u043b\u043d\u043e\u0435 \u043d\u0430\u0438\u043c\u0435...</th><th>\u041d\u043e\u043c\u0435\u0440 \u043b\u0438\u0446\u0435\u043d\u0437...</th><th>\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e...</th><th>\u0414\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430...</th><th>\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e...</th><th>\u0414\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430...</th></tr><tr><td>I</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>1</td><td>-</td><td>0</td><td>-</td><td>00.00.0000</td><td>-</td><td>00.00.0000</td></tr></table>",
+        "embed": "<table><tr><th>\u041d\u043e\u043c\u0435\u0440 \u0441\u0442\u0440\u043e\u043a\u0438</th><th>\u041f\u043e\u043b\u043d\u043e\u0435 \u043d\u0430\u0438\u043c\u0435...</th><th>\u041d\u043e\u043c\u0435\u0440 \u043b\u0438\u0446\u0435\u043d\u0437...</th><th>\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e...</th><th>\u0414\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430...</th><th>\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e...</th><th>\u0414\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430...</th></tr><tr><td>I</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>1</td><td>-</td><td>0</td><td>-</td><td>00.00.0000</td><td>-</td><td>00.00.0000</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.033847980997624705,
+              "width": 0.9042821158690176,
+              "height": 0.07719714964370546,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>\u041d\u043e\u043c\u0435\u0440 \u0441\u0442\u0440\u043e\u043a\u0438</th><th>\u041f\u043e\u043b\u043d\u043e\u0435 \u043d\u0430\u0438\u043c\u0435...</th><th>\u041d\u043e\u043c\u0435\u0440 \u043b\u0438\u0446\u0435\u043d\u0437...</th><th>\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e...</th><th>\u0414\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430...</th><th>\u041d\u043e\u043c\u0435\u0440 \u0434\u043e\u0433\u043e\u0432\u043e...</th><th>\u0414\u0430\u0442\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430...</th></tr><tr><td>I</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>1</td><td>-</td><td>0</td><td>-</td><td>00.00.0000</td><td>-</td><td>00.00.0000</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

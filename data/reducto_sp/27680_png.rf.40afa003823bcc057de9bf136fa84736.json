@@ -1,0 +1,36 @@
+{
+  "job_id": "37c7aa0f-883b-45f4-b2a5-ccea589393e1",
+  "duration": 74.18814730644226,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/a8f97720-6db1-47c5-83e4-5d5877b470b7.pdf?AWSAccessKeyId=ASIA2UOK6OVBNHZOJWKC&Signature=8NCqHLLJmnUgvphW5wDXlR%2Bv294%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIDSGCmzD251u3Kvze%2BZC%2FV641m2x1tiHytZDLoJaWEG2AiEA3Lo%2FuoRJGnq%2FExyy1t0lGUSggovsOvtDlpteJWrnRQ8qgwUIKRAAGgw3MzExMDY5MzIwMzQiDDW4za4NmzipaiwpairgBAmiOrQrwcAlWayE0aZgxIXJHRGja1E26uCJuT65E3eQZpUg9rAdiw4om7gTJaWMW981Ma82jAH9gMZbdTVEZNt8ZleP%2FLCI0XkcrpeTigzb6L17Bfonx4pOlio%2BH6IF4BEtIOgrlViDH9vIfIbfmbm2A%2BdqF27djVVlHbB3qofB4b4jmqw8XBsdJNtfHLQAPE5kXxG2GprJm2XQZBc9YHQ1x6ERKYvdISKOBHowK5PFM3he9ErKoBBv3eZdjwZ1xguYkhIEIa58D2M9hWhwLZSvQkKjQnkezsiK5WOpQcXdX%2FS5DWGxR2SySKyHxYbu%2Fo1bFmlmNhB4bspGOTynqxHQfcvkWEYJwiCluCLzD%2B%2F%2FobedpInCKQ6MJAS%2FWdAxYHyPmJ%2BZJb11l1OhZ4eEYvt5UKsxE62vD9DppIDX7DyfU%2BLw7WmaomfFuT0Of5CTE%2B5V0x0rr7sZrx%2BhYu1U2ck%2FSOgbdB6SVoCs2DzlE%2BQeYuCeTcnyJ2bSQQsnAtC1zt1BbkK%2FeIXuJRqOXpq20UWq1Yv%2FhGpEMsEtVT9gedbJRZjuzE2LZaK%2Fsw9xt3A%2FMYKnXGqJXEoHWfjUE7Lo6KE0xL7%2BsktVxOWtoMjrta%2F5GYGFbs3UauQeuHvbmY%2B%2F8GCT6jdAR7W7ubLLZqZSkux9QbQUkTKfnW1ysKHY%2Bo03IULP07QFX5ZPyq6RFh86RstNy3pMHvTqVKWP016YRNcye9Zlg1BOrCep7UyjVsee%2BHQDcsiCBwfEqRBoyFgDXH38BgP2SmaFJP2R3CvlORLEN%2FdiN4MaIOQCOeETbsMdMPvejr8GOpoBDBLzwucXbItxLRfgGAMRBsJq7XiFNBu%2BynKvGD7mw9fMDIYDVsH%2F2MtwT9CeZjUTZ3jDIpRG10mSmSJ4LpgPmzAhiwY4d6PLbloJfzC74USROCP73GKVM%2BNEdM%2BYm7b%2BAO%2BzZzQE3n1Tr5WoGWJD3LSoR%2FC2iJUw3lNY5NffpXKsHW0S7itmKzGBmS37OuSAO2EdmfFuZsNCEQ%3D%3D&Expires=1742980884",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Variables</th><th></th><th>Terms</th><th>Steatosis Presen</th><th>Steatosis Absent.</th><th>OR [IR 95]</th><th>P value (p &lt; 0.005)</th></tr><tr><td rowspan=\"2\" colspan=\"2\">Sex</td><td>M</td><td>24 (50)</td><td>66 (85.5)</td><td>Ref</td><td>Ref</td></tr><tr><td>F</td><td>24 (50)</td><td>11 (14.5)</td><td>5.91 [2.52 13.9]</td><td>0.001</td></tr><tr><td rowspan=\"2\" colspan=\"2\">Profession</td><td>Yes</td><td>29 (60.5)</td><td>23 (30.3)</td><td>Ref,</td><td>Ref,</td></tr><tr><td>No</td><td>19 (39.5)</td><td>53 (69.7)</td><td>0.22 [0.09 0.51]</td><td>0.001</td></tr><tr><td rowspan=\"4\" colspan=\"2\">Education level\nsecondary</td><td>Unschooled</td><td>8 (16.7)</td><td>-</td><td>Ref</td><td>Ref</td></tr><tr><td>Primary</td><td>8 (16.7)</td><td>13 (17.1)</td><td>1.21 [0.45 3.23]</td><td>0.7</td></tr><tr><td></td><td>31 (64.5)</td><td>61 (80.3)</td><td>Ref</td><td>Ref</td></tr><tr><td>University</td><td>1 (2.1)</td><td>2 (2.6)</td><td>0.98 [0.98 - 11.3]</td><td>0.001</td></tr></table>",
+        "embed": "<table><tr><th>Variables</th><th></th><th>Terms</th><th>Steatosis Presen</th><th>Steatosis Absent.</th><th>OR [IR 95]</th><th>P value (p &lt; 0.005)</th></tr><tr><td rowspan=\"2\" colspan=\"2\">Sex</td><td>M</td><td>24 (50)</td><td>66 (85.5)</td><td>Ref</td><td>Ref</td></tr><tr><td>F</td><td>24 (50)</td><td>11 (14.5)</td><td>5.91 [2.52 13.9]</td><td>0.001</td></tr><tr><td rowspan=\"2\" colspan=\"2\">Profession</td><td>Yes</td><td>29 (60.5)</td><td>23 (30.3)</td><td>Ref,</td><td>Ref,</td></tr><tr><td>No</td><td>19 (39.5)</td><td>53 (69.7)</td><td>0.22 [0.09 0.51]</td><td>0.001</td></tr><tr><td rowspan=\"4\" colspan=\"2\">Education level\nsecondary</td><td>Unschooled</td><td>8 (16.7)</td><td>-</td><td>Ref</td><td>Ref</td></tr><tr><td>Primary</td><td>8 (16.7)</td><td>13 (17.1)</td><td>1.21 [0.45 3.23]</td><td>0.7</td></tr><tr><td></td><td>31 (64.5)</td><td>61 (80.3)</td><td>Ref</td><td>Ref</td></tr><tr><td>University</td><td>1 (2.1)</td><td>2 (2.6)</td><td>0.98 [0.98 - 11.3]</td><td>0.001</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.0436607892527288,
+              "top": 0.033847980997624705,
+              "width": 0.9059613769941226,
+              "height": 0.22802850356294538,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Variables</th><th></th><th>Terms</th><th>Steatosis Presen</th><th>Steatosis Absent.</th><th>OR [IR 95]</th><th>P value (p &lt; 0.005)</th></tr><tr><td rowspan=\"2\" colspan=\"2\">Sex</td><td>M</td><td>24 (50)</td><td>66 (85.5)</td><td>Ref</td><td>Ref</td></tr><tr><td>F</td><td>24 (50)</td><td>11 (14.5)</td><td>5.91 [2.52 13.9]</td><td>0.001</td></tr><tr><td rowspan=\"2\" colspan=\"2\">Profession</td><td>Yes</td><td>29 (60.5)</td><td>23 (30.3)</td><td>Ref,</td><td>Ref,</td></tr><tr><td>No</td><td>19 (39.5)</td><td>53 (69.7)</td><td>0.22 [0.09 0.51]</td><td>0.001</td></tr><tr><td rowspan=\"4\" colspan=\"2\">Education level\nsecondary</td><td>Unschooled</td><td>8 (16.7)</td><td>-</td><td>Ref</td><td>Ref</td></tr><tr><td>Primary</td><td>8 (16.7)</td><td>13 (17.1)</td><td>1.21 [0.45 3.23]</td><td>0.7</td></tr><tr><td></td><td>31 (64.5)</td><td>61 (80.3)</td><td>Ref</td><td>Ref</td></tr><tr><td>University</td><td>1 (2.1)</td><td>2 (2.6)</td><td>0.98 [0.98 - 11.3]</td><td>0.001</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

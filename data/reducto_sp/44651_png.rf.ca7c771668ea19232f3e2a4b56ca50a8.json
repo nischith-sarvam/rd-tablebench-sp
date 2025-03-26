@@ -1,0 +1,36 @@
+{
+  "job_id": "af9dc544-9a49-4349-ac82-663a1f15e392",
+  "duration": 144.86378026008606,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/3f6fd232-0d8f-468c-b6c7-92ea8202f819.pdf?AWSAccessKeyId=ASIA2UOK6OVBD7AZ2BR3&Signature=aLxiMDeExolyDZimaJqofsA1M2A%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQC4og%2BkAIW3VlrsvwzrXq93s66MoyMW0w0a2qRb2NIgJgIhAOyRddBWeYzFXuhURpY4JtbU3gChQc4zuOrY2oLqtQt%2FKoMFCCoQABoMNzMxMTA2OTMyMDM0IgwsfCbrQ%2FaTElK%2Ff3kq4AQO9U7fjEMMuld1esJDI4BKjlKi0XRcOb%2BVEl91J0nhVlV9IajefGTrGSMvv%2BhVjcEZOCYPlum3mhF%2Bd4zHLe5gG%2B59mXS04PTlWhZXpapN0FbmCiHe3a9By5Sh0fZRWIk4HhY%2F8VRhRFVN%2B3X7w0dKLXYlF1ZMvWkh%2BAOwbNUtf9rCHWe85g%2FDbbuXNWVZSLAXg%2BOGUBfs%2BdONpqpoItT9zRiR1NkSjrJQkXxBbELG%2BKjk01PAbOT4DvoksWBkZo%2F4er4%2BRA0qlxTzCBrpaT77zK%2BU3pKlpVpGIB5LEDeFPXj0FAvR%2F%2B0eSmu6IOnjSMBrYT5c7YDJvBOzOSe995tHz9zmRIU0%2B6JSInXDNER1fitsYGb8F4yZ7R%2FX2TX8rfziYXg9ZMiOQYN0wzbEl3Fjh%2BaqL640rkk40STBIXtfb8qVY6rixbReLkoN63v3SIKpGLkPOPsnRv1omRl%2BOVjGbg%2F1iSBFwIWyjceXuLpYLWcampIW4XPsycvZ6%2Bbr8dCEWwUzQ%2FsqxTTTOmuz2ErjJn9x1Y3yWpr2JC4ACQfFTN2WdwLq8QqbjEUMZeTndFy9w9KAmLcpAVzlYSVhOMD8Vl%2BkPydxqFFZNrUNEf69D%2BZvJ7PNB%2Fc8DjcueaQyjI4HDx1HPsrb3QRuImJzydfb604icY2J8dqWdjDIn%2FPj8XYobgscpUj3Z4VJd1KemMTRF%2BcupC5pK2nJ%2BL5HEmJnNPPa%2FqimqydSSO5oIc9OCbBL9HWgotZuRilD3ZZMvOX7KrKcuo%2BxsogkieivC8IkFG4CJDUHcapLVgFv0fkJDTDA8o6%2FBjqZARy92Vs3bK4AiIx%2FlHUwNqbxvsUlPm71oWJy578WnHctyXYtAfW3u5E11wOG5%2FK%2B32vm2DOaQO7NotWh3pDh8NWtFE6kaFSlzgLbh3%2FSVb3ShVqTSTU96lWBDE1U%2B0PjjA1OsTOS76CKZq%2FqFb7UUZvOLWOcg59zq9wXwlj30Oq6G6uO4X9NP5%2B0fNfmEBpMYulQvxG%2B4bSiFw%3D%3D&Expires=1742980979",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"3\">restes \u00e0 recouvrer BP Meillac</th></tr><tr><td>exercice</td><td>reste \u00e0 recouvrer</td><td>objet du titre</td></tr><tr><td>2009</td><td>99,52</td><td>cantine et garderie</td></tr><tr><td>2010</td><td>344,73</td><td>cantine et garderie</td></tr><tr><td>2015</td><td>84,78</td><td>cantine et garderie</td></tr><tr><td>2017</td><td>636,54</td><td>cantine et garderie</td></tr><tr><td>2018</td><td>969,46</td><td>cantine et garderie et abonnements bibli...</td></tr><tr><td>2019</td><td>848,89</td><td>cantine et garderie</td></tr><tr><td>total</td><td>2983,92</td><td></td></tr></table>",
+        "embed": "<table><tr><th colspan=\"3\">restes \u00e0 recouvrer BP Meillac</th></tr><tr><td>exercice</td><td>reste \u00e0 recouvrer</td><td>objet du titre</td></tr><tr><td>2009</td><td>99,52</td><td>cantine et garderie</td></tr><tr><td>2010</td><td>344,73</td><td>cantine et garderie</td></tr><tr><td>2015</td><td>84,78</td><td>cantine et garderie</td></tr><tr><td>2017</td><td>636,54</td><td>cantine et garderie</td></tr><tr><td>2018</td><td>969,46</td><td>cantine et garderie et abonnements bibli...</td></tr><tr><td>2019</td><td>848,89</td><td>cantine et garderie</td></tr><tr><td>total</td><td>2983,92</td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9051217464315701,
+              "height": 0.22980997624703087,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"3\">restes \u00e0 recouvrer BP Meillac</th></tr><tr><td>exercice</td><td>reste \u00e0 recouvrer</td><td>objet du titre</td></tr><tr><td>2009</td><td>99,52</td><td>cantine et garderie</td></tr><tr><td>2010</td><td>344,73</td><td>cantine et garderie</td></tr><tr><td>2015</td><td>84,78</td><td>cantine et garderie</td></tr><tr><td>2017</td><td>636,54</td><td>cantine et garderie</td></tr><tr><td>2018</td><td>969,46</td><td>cantine et garderie et abonnements bibli...</td></tr><tr><td>2019</td><td>848,89</td><td>cantine et garderie</td></tr><tr><td>total</td><td>2983,92</td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

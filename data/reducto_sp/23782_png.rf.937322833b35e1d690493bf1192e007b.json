@@ -1,0 +1,36 @@
+{
+  "job_id": "9295503c-660a-49c5-8e84-fb8408040cf1",
+  "duration": 117.35860443115234,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/661659f8-635f-488a-ad46-7a75a46956c8.pdf?AWSAccessKeyId=ASIA2UOK6OVBGQ67QNBJ&Signature=Cz2Ove%2Bk4%2F3Io1cMgwASAxoYYbo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIAjOUIu8AZJ3qBLn0WOy%2BswMIDHdNuu1O18fcaJZYBviAiEAv6HhuY0EZhOJxksV8JA4bo1LX9Qu1NfVMZYq0cpzk54qgwUIKhAAGgw3MzExMDY5MzIwMzQiDJrjighTqu0YstsqeSrgBNx0JfrcKva17oz1sD2GxrWh4qPmq5q0RMhlwQHvJf5juRI2C8S2krAy9%2B%2FDmU6eq4Y9Nz5pP%2B9IvdAHMNfPMRiky1QBB30tu0fEmXWPtOAqW2inqL5XBEC31kB0JAq8uQ0m9QPXkUQseqQzsxyf3WbWCJbaLPgHwWAOVMVpXu4Qqib3z8P4MERMCz2QjHSqJOe06C9jwovj1T6iq4BtdKOeUpJIBo2DBHE5BwvimFFDfO6gtqbPR8q4KqSwOae5HtoqSWuggVnGns%2BEFRgoibuSBmPT9MvUwzVccG%2B%2FCzNtum5jLyEQwN1ln7y4OmXcvjqCut%2FmAGZnAC3exnG1UhcZwPX7FcFDgExA%2FkjVcO%2FH4Q8BeM5qkXhYdFqZwFlRWXfLD9carZTtWQmJvVAMq91Bzuxyl%2BjJcAJ%2FAKVAfLrl3HzEmFYLwrS9Q1Uww2%2F1thOwuhf%2BqPPNX8jroVSvZ%2BPaqJ71h5Ftr%2FOVSn8HoBePBNt3UOiI4%2BnaBx%2B7hOoJYk5d7UA8Iu7MEbF25yEtcWtEmZC3nmQQrUCCTkRQbkKGYIav8%2FOnDYJV%2FpchGO5Xtdvk3unPWqPTnD2tYnonQA6AbEB4bbzhdvm9HncfvCjiapkyjwrgCvaTd7SR6qsN2napk0CNYcD7cSpNeyLl6z5zpcxd4k6wIY1TAZNmip7DGV8EkZYPU2f8WecBVcB89uONkriyYly5Do13duu9HtXpTxoEAWL9BLFW4%2BiZPrDR8IadYyWFOBV48sYHChzLa4zevxwUU6J9JPGuHaE22udjgwhNo0RBhw0a3AlPzMoNMMDyjr8GOpoBTMZ9uwGOV2HuTFupQO%2BzpYMfLYiXM1VenxFydYOJPUbit%2BoaTPWMQtXZ%2BJofQiPkz5QrKva2vV9YiOQx%2BaGlhqKJTnp6oJ%2BL0Wu%2Bqgs%2BFHOeaSzT2Rpy15y4fRms6habJwSQrhW8PMriftuGVSymF2pM4r8%2Ffdw3QiSwXHJ2VkKUTCcMKLp9NFkO9KaGFnBf%2BLLsnLSDm5pnDQ%3D%3D&Expires=1742980946",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Clause</th><th>Measure &amp; Documentation ...</th><th>Potential Verification for O...</th><th>Attributes of and Suggestio.</th></tr><tr><td>Data Information and Security</td><td></td><td colspan=\"2\">DEFINITION: Consumer information includes any information i...</td></tr><tr><td>1.1 Information Security</td><td></td><td></td><td></td></tr><tr><td>CRA shall have a written infor</td><td>CRA shall provide written info...</td><td>CRA shall present written info...</td><td>This is an overarching inform</td></tr><tr><td></td><td>CRA shall employ or retain a ...</td><td>CRA shall present written job ...</td><td>CRA shall make available do</td></tr><tr><td>1.2 Data Security</td><td></td><td></td><td></td></tr><tr><td>CRA shall have procedures i...</td><td>CRA shall provide written pro..</td><td>CRA employees dealing with ...</td><td>The policies and procedures ...</td></tr><tr><td>1.3 Intrusion and Data Security</td><td></td><td></td><td></td></tr><tr><td>CRA shall have procedures i...</td><td>CRA shall provide procedure.</td><td>CRA shall make available the</td><td>CRA should be able to prese...</td></tr></table>",
+        "embed": "<table><tr><th>Clause</th><th>Measure &amp; Documentation ...</th><th>Potential Verification for O...</th><th>Attributes of and Suggestio.</th></tr><tr><td>Data Information and Security</td><td></td><td colspan=\"2\">DEFINITION: Consumer information includes any information i...</td></tr><tr><td>1.1 Information Security</td><td></td><td></td><td></td></tr><tr><td>CRA shall have a written infor</td><td>CRA shall provide written info...</td><td>CRA shall present written info...</td><td>This is an overarching inform</td></tr><tr><td></td><td>CRA shall employ or retain a ...</td><td>CRA shall present written job ...</td><td>CRA shall make available do</td></tr><tr><td>1.2 Data Security</td><td></td><td></td><td></td></tr><tr><td>CRA shall have procedures i...</td><td>CRA shall provide written pro..</td><td>CRA employees dealing with ...</td><td>The policies and procedures ...</td></tr><tr><td>1.3 Intrusion and Data Security</td><td></td><td></td><td></td></tr><tr><td>CRA shall have procedures i...</td><td>CRA shall provide procedure.</td><td>CRA shall make available the</td><td>CRA should be able to prese...</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9034424853064652,
+              "height": 0.23693586698337293,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Clause</th><th>Measure &amp; Documentation ...</th><th>Potential Verification for O...</th><th>Attributes of and Suggestio.</th></tr><tr><td>Data Information and Security</td><td></td><td colspan=\"2\">DEFINITION: Consumer information includes any information i...</td></tr><tr><td>1.1 Information Security</td><td></td><td></td><td></td></tr><tr><td>CRA shall have a written infor</td><td>CRA shall provide written info...</td><td>CRA shall present written info...</td><td>This is an overarching inform</td></tr><tr><td></td><td>CRA shall employ or retain a ...</td><td>CRA shall present written job ...</td><td>CRA shall make available do</td></tr><tr><td>1.2 Data Security</td><td></td><td></td><td></td></tr><tr><td>CRA shall have procedures i...</td><td>CRA shall provide written pro..</td><td>CRA employees dealing with ...</td><td>The policies and procedures ...</td></tr><tr><td>1.3 Intrusion and Data Security</td><td></td><td></td><td></td></tr><tr><td>CRA shall have procedures i...</td><td>CRA shall provide procedure.</td><td>CRA shall make available the</td><td>CRA should be able to prese...</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "job_id": "991b477d-64eb-4d01-9159-2a422e8dc705",
+  "duration": 140.98272919654846,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/051d2c5f-7fee-4597-b049-5f572f6aa553.pdf?AWSAccessKeyId=ASIA2UOK6OVBLAGDHTQQ&Signature=VA1L1q%2BX842ZE33Q6XysQjmD3qA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIEPbl%2FtQFVmBP6sOnatX0394wCssqga5JTKjwebKJ%2Fn4AiBYO2WApUO%2BifRNJqhRAN3fs67gG45jDZDYWrpij0OlBCqDBQgqEAAaDDczMTEwNjkzMjAzNCIM25io0M%2FqFswVYRIsKuAE3hZyJhPNQ%2FwrsC2kO3%2B92hmBQshweOz5DouATjTg0dXv01GzlJ7Z0F0yOyoorqAJuRLnooSPkesHLwrJVtpyxGEt9GNg3lG6JhNRyymMbrpZxjscuxj5WMpDw5MZ%2FrTsGnRVz577E92Sf5RSgZLqGoXBWpG8HpHZUiVHeHQ3Xj6%2FeKss35kTdPCexUhiNJK8rKy9%2FX0%2ByQmWf6bm%2F9eiTep1p6Mu9kFLqSruLrfHsQmTkmCnn54HA6BtkQ5nIbsYwecIuHKUlVcFnqQjWcHnHOL%2Fag00YFV2PLSY77kHaea4XNHgHVhUQs6R%2BTF0zVGjVK6eP7aaeZUbmPaCV0SYcz8wNjgdFj8GcTqYJNYGPakdez%2BzJID9HCtT09fwJUKQI1%2BjreCZUn4okcHZJ3kgDuKrS3NZB6bNlXtNflkN2MCXKHZZjdmmAB72lzi2tSc5vjoByP6Xzhx%2BJCmwyWmme80n4D6C1OkQeLM%2FQikdnNU1Zt7hJ2ql7Lkm5X%2FNOOacZ%2BFLlZYqPNR3ZwD9ZK%2FMP5vXkhiGeVHfR%2FdySKSOs6vOH83g805abY6E7ULyUbkNHzooQKvbunx%2BV7TJQMNp8Kyn%2BhIwmUSI8LsV43WqxGLfl6oykxY9PzuJg5b6pEAf6NLiRIFxcZAU%2FCBwHdaouJCL1vxaC9gH2KN9VW8inQzm%2FIpHUCcU%2F3tD9%2BJKfWFG4vlDGsUDzFTpDWG9ZN1yJdcFA8vyoBV7YvB2mVjS6UocS6x46tEs9DMHlpOl4cVEO86iZun25Rf42DImXzJ8f4vAp0vySsdePjoX%2Fz4FLuMwxvKOvwY6mwHJeCy66yHtAf6LTPriV9jR%2FJR6%2BXvTVJEkW%2BGP2%2F2LxakNMYZXWk97n14kS3kJQzH2Tibuk3Jqp6jXrOWW3FhXeYHiCruvAY2%2BGQa53JTL6lmT9sXHvW528lLfdOnDgEyhn8ZmuUDD71taksLp21P6sxMFNP28AKT0S4mnF%2BtIffxvAEs6oBE8Y5iIHsFtypkME%2B9C%2BFRVmBUStw%3D%3D&Expires=1742980979",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Subject</th><th>Activity</th><th>Resource Links</th></tr><tr><td>Reading</td><td>Read the text \"Wayne Rooney: Captain</td><td>Comprehension text: https://www.chess</td></tr><tr><td>Spellings</td><td>Focus on these words with suffixes: infor...</td><td>Spelling tasks: https://www.chesswood....</td></tr><tr><td>Writing</td><td>Complete the Nasty Writing Tasks on pro...</td><td>Nasty Writing Tasks: https://www.chessw...</td></tr></table>",
+        "embed": "<table><tr><th>Subject</th><th>Activity</th><th>Resource Links</th></tr><tr><td>Reading</td><td>Read the text \"Wayne Rooney: Captain</td><td>Comprehension text: https://www.chess</td></tr><tr><td>Spellings</td><td>Focus on these words with suffixes: infor...</td><td>Spelling tasks: https://www.chesswood....</td></tr><tr><td>Writing</td><td>Complete the Nasty Writing Tasks on pro...</td><td>Nasty Writing Tasks: https://www.chessw...</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.033847980997624705,
+              "width": 0.9034424853064652,
+              "height": 0.1021377672209026,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Subject</th><th>Activity</th><th>Resource Links</th></tr><tr><td>Reading</td><td>Read the text \"Wayne Rooney: Captain</td><td>Comprehension text: https://www.chess</td></tr><tr><td>Spellings</td><td>Focus on these words with suffixes: infor...</td><td>Spelling tasks: https://www.chesswood....</td></tr><tr><td>Writing</td><td>Complete the Nasty Writing Tasks on pro...</td><td>Nasty Writing Tasks: https://www.chessw...</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

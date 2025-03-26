@@ -1,0 +1,36 @@
+{
+  "job_id": "01785ad5-9644-4195-88b2-ca0f016847fc",
+  "duration": 188.0204496383667,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/ba61547d-1e4d-45e5-83d6-aa2756f6e292.pdf?AWSAccessKeyId=ASIA2UOK6OVBEATZMWMD&Signature=XsnOonfsdEb0pDPkWSLjLZ29YE8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGfkEXQdE9f2kGMcFSCnXpK06TwKha%2FgDoLAZtJ8lVtcAiEAhA0gB9BGJ%2BK0TAPATqPQfz44dxdQV8qkEfhz2GN47f4qgwUIKhAAGgw3MzExMDY5MzIwMzQiDGR0MJjle8X18uv7KCrgBBz3foBhKdXlq8oqoxyE7jJTnTqeVdwiTOMmE2pb7F1kbZpMSR318kr32jDd85nUwl8dk%2FrkC%2B%2BI%2FQPgGR7eaW8yinERL%2BHnDMWk93STrxu0Mvq6QXb40tV7DmjtZV7R4LSoYn0grXjGpbI%2FaCLJTqRhNBQsKZmT5Q19xHlYHAmtzCnh7x8GItG49TzFRy%2B6nt75VoBe5iW107rrEnIuGgjVA97C4nb71h72yHNQ3BNPgzgNirI45iW0NreyavH3HLfc78iOPLvX0kaleIHc1N%2FWB9aIePfaTvvR9Vc0gT9iPUSrk%2BDPzwHUpYoreMoklwvF7zictPiqnqWj7mgft1A7vkOkHXLq6CbN4Pf5Dxzz7WUVL7vEBpISl7KaoqW23%2FZFBbYBUSRHRb7HGfc07C2nuRFamDDTwh86CS700PM0YtC4o3%2BHy4DAj%2BxwAQBCCxXEY4aeun1pIqaRtv%2FyoJM3ghdYBwJBjk0xTwHPg1jqVav2N9x59Db6ah4ovFpgMNNF8PMUEwU9Z%2Bj12n2V81Y44vzhcu8atspNGZBiMtmyNQEzWlFf6pYEvbNw9aSa3FFUDE1VzB8BkSlZtvIkj0lNQOV%2BZpE1zKY%2FxiLdmANK38SB17seC%2BPknZHZQErR98iXPT3YVck0EgdLZzJaCqI489Y7o8ZHCQTjUSByVLvDUcfq7dant0XmGD7yU1tSr7WMFThBzLQwHnR1IU%2F2JfvYraLfIy4jkeFfs8ugEpzBnvEGqSyXL3h2slVD5oNvxP%2FDdoX6zNAe%2F2BgZ2sd0UVQN6qQobDs9ZNr2o7VCNisMIzzjr8GOpoBeisyTYxiBMLj%2B%2BZmYYJ4jUMWIGbrQEfXTEgC4uOJEk%2Fa5N8cpHf1Z2CTSXAhhWbkuQ1yQbR8dEvRUQJpurqFVYFuNWB8diMmmcWcR7reiAPb%2FCt8v0IXeeb8cippySxGYyOvp5xMrCQ4dNUkl8OTtxZ8losjSgaCKouF7PWwGnyuX%2BPEQ44tPnHs9xQb%2BWyI9GAVIsz2pyow5g%3D%3D&Expires=1742981037",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>ADR</th><th>IMDG</th><th>IATA</th><th>ADN</th><th>RID</th></tr><tr><td>14.1.</td><td colspan=\"4\">Num\u00e9ro ONU</td></tr><tr><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td></tr><tr><td>Non applicable</td><td colspan=\"4\">D\u00e9signation officielle de transport de l'ONU</td></tr><tr><td>14.3.</td><td colspan=\"4\">Classe(s) de danger pour le transport</td></tr><tr><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td></tr><tr><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td></tr><tr><td>14.4.</td><td colspan=\"4\">Groupe d'emballage</td></tr><tr><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td></tr><tr><td>14.5.</td><td colspan=\"4\">Dangers pour l'environnement</td></tr><tr><td>Dangereux pour l'envir...</td><td>Dangereux pour l'envir...</td><td>Dangereux pour l'envir</td><td>Dangereux pour l'envir...</td><td>Dangereux pour l'envir...</td></tr></table>",
+        "embed": "<table><tr><th>ADR</th><th>IMDG</th><th>IATA</th><th>ADN</th><th>RID</th></tr><tr><td>14.1.</td><td colspan=\"4\">Num\u00e9ro ONU</td></tr><tr><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td></tr><tr><td>Non applicable</td><td colspan=\"4\">D\u00e9signation officielle de transport de l'ONU</td></tr><tr><td>14.3.</td><td colspan=\"4\">Classe(s) de danger pour le transport</td></tr><tr><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td></tr><tr><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td></tr><tr><td>14.4.</td><td colspan=\"4\">Groupe d'emballage</td></tr><tr><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td></tr><tr><td>14.5.</td><td colspan=\"4\">Dangers pour l'environnement</td></tr><tr><td>Dangereux pour l'envir...</td><td>Dangereux pour l'envir...</td><td>Dangereux pour l'envir</td><td>Dangereux pour l'envir...</td><td>Dangereux pour l'envir...</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032660332541567694,
+              "width": 0.9042821158690176,
+              "height": 0.28028503562945367,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>ADR</th><th>IMDG</th><th>IATA</th><th>ADN</th><th>RID</th></tr><tr><td>14.1.</td><td colspan=\"4\">Num\u00e9ro ONU</td></tr><tr><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td></tr><tr><td>Non applicable</td><td colspan=\"4\">D\u00e9signation officielle de transport de l'ONU</td></tr><tr><td>14.3.</td><td colspan=\"4\">Classe(s) de danger pour le transport</td></tr><tr><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td></tr><tr><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td></tr><tr><td>14.4.</td><td colspan=\"4\">Groupe d'emballage</td></tr><tr><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td><td>Non applicable</td></tr><tr><td>14.5.</td><td colspan=\"4\">Dangers pour l'environnement</td></tr><tr><td>Dangereux pour l'envir...</td><td>Dangereux pour l'envir...</td><td>Dangereux pour l'envir</td><td>Dangereux pour l'envir...</td><td>Dangereux pour l'envir...</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

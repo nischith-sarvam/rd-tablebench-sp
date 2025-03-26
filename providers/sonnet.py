@@ -33,7 +33,7 @@ def analyze_document(base64_image):
     print("came here")
     response = client.messages.create(
         model="claude-3-7-sonnet-20250219",
-        max_tokens=4096,
+        max_tokens=10000,
         messages=[
             {
                 "role": "user",
@@ -97,7 +97,10 @@ def process_all_pdfs(pdfs: list[str]):
 
 
 if __name__ == "__main__":
-    rerun_pdfs = [file for file in pdfs if file.startswith("../data/pdfs_sp/27253") or file.startswith("../data/pdfs_sp/3794")]
+    torerun = ['18258', '6417']
+    rerun_pdfs = [file for file in pdfs if any([file.startswith(f"../data/pdfs_sp/{pdf}") for pdf in torerun])]
+
+    # rerun_pdfs = [file for file in pdfs if file.startswith("../data/pdfs_sp/27253") or file.startswith("../data/pdfs_sp/3794")]
     # print(pdfs)
     print(rerun_pdfs)
     process_all_pdfs(rerun_pdfs)

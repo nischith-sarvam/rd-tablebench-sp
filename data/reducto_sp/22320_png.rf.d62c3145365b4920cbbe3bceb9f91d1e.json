@@ -1,0 +1,36 @@
+{
+  "job_id": "6bf6f0f3-1a3a-4945-9725-adfa90c46a5d",
+  "duration": 46.584399700164795,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/2a900866-e1cd-4fbb-a915-24842f73dfe7.pdf?AWSAccessKeyId=ASIA2UOK6OVBBNJFXKC5&Signature=bTdwW%2BReKPxATdZvSmQU5l%2BQ6KQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCID1xHUkvSkccxhEUrRf0gNebqTVQjd7KRyRoSAunlhs4AiBjYOiUtE0PuPyYi63ulM5BDCra5McvcMX8phWipDAmpCqDBQgpEAAaDDczMTEwNjkzMjAzNCIMAISigZN%2Fj7JTCduuKuAEmJIZ7dabYQWo5UVddG%2Fdd2xXTLR3%2FBsrGSeYNuFXXed8lCEYP%2FyUd7zxuH8l6bIFOGpWqoDe25laS9Yg7fwA3hTkVFo3nj7AMOIfCoz1FI3YT8ZS2%2Br7NP6TXh4fd1p0lA5NBYJTnnUhpCyGYXZSPj2edXESQSkgwqjw5H1bEJJBxvR0LplqDtsMsVu1xjQw5%2BLaRCepGYNTuWxQSfdMJdK%2F9rO22E6UqON1LbGp7FWWymZfor7X0IoTJP6C1u6pROijD%2B11M0oX0iQwMMlhtO%2FZAe0RxftVLa6PDUAtwk5Ng%2FM4cHvUzPdAHrmDOyuNt%2Ff8LcwY1W6sSpw9ewfySnfzB7q5aFSTnKLx0OlpnWShj97F96iWXl0HrpEVmjYFzwZECa0UKd6PvhE0%2BwWpV%2FDTUnDOszqP%2FvUUo1mi09AEBntfzkGX7xOlZ3OJe2l%2FNp0ByMC%2Bln%2Bw3Zk%2BcqCgANaPtGEVmtlsob%2BOd0cxuPvwiHinYkPhl0Ad8qD%2BPhVnCEgOxd4KI0b7NXOjQ0XosfZ%2BfOzCyHNT0Bi%2BjCKf%2BNkGi4Umv79F306O15W%2FxUemQ%2B57%2BIn%2F80s29JkwjIKF2IzcyhEHL%2F9NikFM97%2BYyYRKyezukU5bOJYJyaGy34j7Fuf92mY76meNWXno9myvLKFwaDMpywGEDkrt6GYDuswej18foA1mny5AEB1TeW8MagDqjaxeVCVF0bfXmDvgKDEHp4SIGrkDb97F5sRHp3XKde1c84cFdLXfH6cdZbQtOd2%2F5o21hIwoyiWWNeQe70PZq221j8yu32XP3oegcwQwi9%2BOvwY6mwFA16x5Scu3bjftUYEWhosF7bGtz2LT91%2BYMCvsthEiW2yapVSuQl55K79NJ0VBbcGSIVW0FaxKU4by%2BH7eMnrGZzru%2F1rgXy%2FvU6CDreTGo6HJFvG%2FydljkcYz2ykOgIdgmK1tuczzzbKqQgzjAilleWMG1lAl1T4JE4ytLrsRhhuh%2B%2F3jHQSwucW5UD4rs5PbdX8cVdWpYozVCg%3D%3D&Expires=1742980862",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>\u671f\u9593</th><th>\u6642\u9593</th><th>\u7832\u7a2e\u7b49</th><th>\u5f3e\u6570\u7b49</th><th>\u5099\u8003</th></tr><tr><td>7\u67081\u65e5~7\u67082\u65e5</td><td>8:30 16:30 19:00-22:00</td><td>|\u591a\u9023\u88c5\u30ed\u30b1\u30c3\u30c8</td><td>168</td><td>\u7279\u306b\u5927\u304d\u306a\u97f3\u304c\u4e88\u60f3\u3055...</td></tr><tr><td>7\u670811\u65e5~7\u670815\u65e5</td><td>8:30 16:30 19:00-22:00</td><td>155mm (\u7a7a\u5305)</td><td>525</td><td>\u7279\u306b\u5927\u304d\u306a\u97f3\u304c\u4e88\u60f3\u3055...</td></tr><tr><td>7\u670811\u65e5~7\u670815\u65e5</td><td>8:30 16:30 19:00-22:00</td><td>105mm \u6226\u8eca\u7832 (\u7a7a\u5305)</td><td>120</td><td>\u7279\u306b\u5927\u304d\u306a\u97f3\u304c\u4e88\u60f3\u3055...</td></tr></table>",
+        "embed": "<table><tr><th>\u671f\u9593</th><th>\u6642\u9593</th><th>\u7832\u7a2e\u7b49</th><th>\u5f3e\u6570\u7b49</th><th>\u5099\u8003</th></tr><tr><td>7\u67081\u65e5~7\u67082\u65e5</td><td>8:30 16:30 19:00-22:00</td><td>|\u591a\u9023\u88c5\u30ed\u30b1\u30c3\u30c8</td><td>168</td><td>\u7279\u306b\u5927\u304d\u306a\u97f3\u304c\u4e88\u60f3\u3055...</td></tr><tr><td>7\u670811\u65e5~7\u670815\u65e5</td><td>8:30 16:30 19:00-22:00</td><td>155mm (\u7a7a\u5305)</td><td>525</td><td>\u7279\u306b\u5927\u304d\u306a\u97f3\u304c\u4e88\u60f3\u3055...</td></tr><tr><td>7\u670811\u65e5~7\u670815\u65e5</td><td>8:30 16:30 19:00-22:00</td><td>105mm \u6226\u8eca\u7832 (\u7a7a\u5305)</td><td>120</td><td>\u7279\u306b\u5927\u304d\u306a\u97f3\u304c\u4e88\u60f3\u3055...</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9059613769941226,
+              "height": 0.10688836104513064,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>\u671f\u9593</th><th>\u6642\u9593</th><th>\u7832\u7a2e\u7b49</th><th>\u5f3e\u6570\u7b49</th><th>\u5099\u8003</th></tr><tr><td>7\u67081\u65e5~7\u67082\u65e5</td><td>8:30 16:30 19:00-22:00</td><td>|\u591a\u9023\u88c5\u30ed\u30b1\u30c3\u30c8</td><td>168</td><td>\u7279\u306b\u5927\u304d\u306a\u97f3\u304c\u4e88\u60f3\u3055...</td></tr><tr><td>7\u670811\u65e5~7\u670815\u65e5</td><td>8:30 16:30 19:00-22:00</td><td>155mm (\u7a7a\u5305)</td><td>525</td><td>\u7279\u306b\u5927\u304d\u306a\u97f3\u304c\u4e88\u60f3\u3055...</td></tr><tr><td>7\u670811\u65e5~7\u670815\u65e5</td><td>8:30 16:30 19:00-22:00</td><td>105mm \u6226\u8eca\u7832 (\u7a7a\u5305)</td><td>120</td><td>\u7279\u306b\u5927\u304d\u306a\u97f3\u304c\u4e88\u60f3\u3055...</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

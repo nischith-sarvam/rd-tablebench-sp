@@ -1,0 +1,49 @@
+{
+  "job_id": "c6337e02-bc07-4c8b-b3a8-b7925e3a1a1b",
+  "duration": 188.40330958366394,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/70731ba4-e75b-4a09-b7e4-5a90dcae3cc2.pdf?AWSAccessKeyId=ASIA2UOK6OVBCYXPLMO5&Signature=EVCpXa4hCP8Ti0nhjV9ThVLwIuY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIB063IKNho1%2F5yEPERRztF6am5M1Slqf2zhNSFbKqEdcAiEA8merlATqGiQ%2FvNx7XlHrBOUmkqsq3HjWDKy6lLQ4KVIqgwUIKhAAGgw3MzExMDY5MzIwMzQiDKi8gOKWVY9%2BXJNAESrgBCaA7QcXQ6XE0BQQjGFAvb8MsF9lRyeS2asSW%2BoNGI7A2Hg7O09lPrsinGdmQ1HASg8Dwrym1tcWMtM7HVshRFyImxOK5PUhBymBsDPA69LzK2z%2Flo4bEtlq3LijF5QbKW65jSt0P1Fxz1rvZ5ZQtD1eTMLaPg0CqQ91Fd14DtwAhPVil0N3BU6xKej7VwUroN%2BPpkrgHskEukGkVLkO9EEsy8SCCOjraKEPai9840gIJjHbR2UlzcpREeiXgyMOkaea8u%2FlPNt5dVjurcJ4pVOvpuHgrMbmEXaFt9FjXiNVypcBWzVpIzDMhwtIxghl9o8lwES2zFIvKf7mdGpHxDSx4SNjgeP%2BbizM0yy5vvoCYcUWZE8Ed3QsI21HTptoMlWR94zOqDc4v7WpMT4af8s4CUc8%2BSkRAozclWQcDPSIYXkDtOt7PdVI7EyTHskI9LqEvb8IChzGRvqJNekn6SRmJcqaSsWtD5jryTBkxNSglhvFcAVoz1oAFu%2FWpG7dUj4bNjse%2FGhkSKD0JDkb6%2F7gI2DNmljXZm6u3W4t9dXvTpNX9fnArZw5omEDrSO0yXIwHzN7ETWqJAAmkDUmdYZxsDI2ikw21SdUgCebihnaXKlSEf0%2Bnb2x%2FHGwRNi98HRUnrpBptRaBAL3JnoBPSkarvGO2F4gsYChmURMRR8%2FgsH1KI%2FG5bn2vdDUEgEei6oCRb%2FFJlpxPH%2BjW6B1umtFlv5%2FmyFTc3dWuEdJ6rn54GCA2NGoIBlpOaFZALdLccruqbE5bswu1kGpqYqnGMqnUtNM6wFzrriquJa%2BHwYIMI3zjr8GOpoBKuuI6MeCgIqTY%2FIB6izvkyKm%2BZE94NpO0UcsjjIDr6wjq77nRTOZoVtzl%2FVXV%2BP7LlTdCtLPZqMODF82AxmuTTB82%2FBhhrGjEa6WwLODAjCYrZ7150319OefcMU%2FiMltRl0%2FOSdC0M60M2yVhtuXWeOne35PGvKNVMyebVf5aw1m80%2FW4nvWEmCEyD1ITD3FcnYgEoTH6ynszA%3D%3D&Expires=1742981023",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>A1</th><th>0</th><th>A3</th><th>A4</th><th></th><th></th></tr><tr><td></td><td>-</td><td></td><td>A10</td><td></td><td></td></tr></table>",
+        "embed": "<table><tr><th>A1</th><th>0</th><th>A3</th><th>A4</th><th></th><th></th></tr><tr><td></td><td>-</td><td></td><td>A10</td><td></td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.052256532066508314,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>A1</th><th>0</th><th>A3</th><th>A4</th><th></th><th></th></tr><tr><td></td><td>-</td><td></td><td>A10</td><td></td><td></td></tr></table>",
+            "image_url": null
+          },
+          {
+            "type": "Figure",
+            "bbox": {
+              "left": 0.0,
+              "top": 0.07504205862303527,
+              "width": 0.9868487943429891,
+              "height": 0.9249579413769647,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

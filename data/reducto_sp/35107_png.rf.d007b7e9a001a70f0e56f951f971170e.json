@@ -1,0 +1,36 @@
+{
+  "job_id": "1618623f-cd6f-497f-aaf8-18c0ab574b27",
+  "duration": 184.71782088279724,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/2fcbd928-d6ba-4148-9f53-9af9cd92ca19.pdf?AWSAccessKeyId=ASIA2UOK6OVBMSU2EMWJ&Signature=SHTb8FrqyMjxrChxr2wbCwEP%2BLs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIClU09RKkJPv0VYsIjw8n3Eou8HeIu7Z%2BAiD4dvAJBUaAiBPDjmvFmCIJcwy9bjeQgXh6EOI45rdIsUWarDjhh%2BgOyqDBQgqEAAaDDczMTEwNjkzMjAzNCIMItb6Y4RItv7hdKeQKuAEBzJ2SWjEvXvfAdqF1Ndq%2FyUHgTtW1zW0Cwl23GmaF25SI%2B5fkoj%2FYyppMYU%2BvuUtZ%2FC59J0lRvsngiaauQJKZ3kvPLoYZVP3L%2F9rdU7ihBWu43gVGasMNQHItb%2FGBy8II9b8IFhoVuO23Cd6YBzN7%2BmFBmvwAfdguqpJ2YVt0TfC0C%2BGAFDqaSmmZLlmsAfaAlozbXDj3f9DFRYzVB5sMMTYWPjNr2YPos0MBhHY7AeBixShtV2FggLZ%2FO3jO13MUuRS%2FAEhwgRkBQXBnXqqZLU7qdIT4zJFbPgj532GDdl06hCLUzWMGr6hPPM18MOSWf2w7PfFiea%2B0PiRC6eWfuZ6%2F6j9FVZ4tOgMzoO9DbZvvs1TSuWYjkBt1LJD6YCo81tvGQ1JYMFGciHbRlyOWfdfrjKnjIYnVfK31z9ZtGYepFxmDJ8tCz8dI61dbnKr2WDkqkCihwaU%2BVRjeVS4EJAXDV1koFMpH13vefr5khDtPw1Ab%2Fwd%2BjXLus6pkQkcMDs2hGaEjk%2BrcBV18im5u%2BaLB1Nn9IdkknjL5JAlbPU8IPZZcKpF8XSImqepjafpcC%2FqSMBRmlzCkkPqs8kWXR3RrS2Rp%2FODgM21%2BQwjlnnpQEWCyLV%2BObEprZcUkJKwEXdjvTe3lhoYHkxBNiTxuY7TFefnHaFKQTixqvntvFH7KFToPaPuAC5YI3pHhPiPfhF0iqnxUnctfE1dibCCr0qBl3QRs6cTwUAFlPc%2BGsBpE707vrQ8pEWe3gvTcREMPcC0p19fJVcLcaDXnIZdXsEzGKdSLLQ2Yqo1LDrM9cYwwvKOvwY6mwFgrC9%2Fk5RFAZCnGPXyR0JH%2FaUvaMw3QO7gkwmSZEu10oN4BxH%2FazIypJth0WfeGUibHdY6YFWwmWH%2FS3%2BcbcDeVJ6JxNwxp4R1NZsjMmj5YsuaKPCNdxD9ys0fo0Bt6%2FRoYF1gycgLEw2MYxg%2FolyNEp2Q509W83Pf%2FPf%2BE8v80TQzIUzEoCIK1L%2FbygJBD7KqjjRXy8W9kQQJRQ%3D%3D&Expires=1742981031",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>No \u0441\u0442\u0440...</th><th>\u0412\u0438\u0434 (o.</th><th>\u041e\u0441\u043d\u043e\u0432...</th><th>\u0414\u0430\u0442\u0430 \u043e...</th><th>\u041d\u0430\u0438\u043c\u0435...</th><th>\u041c\u0435\u0441\u0442\u043e ...</th><th>\u039f\u0393\u03a1\u0397 ...</th><th>\u0421\u0443\u043c\u043c\u0430 ...</th><th>\u0421\u0443\u043c\u043c\u0430 ...</th><th>\u0414\u043e\u043b\u044f \u043e...</th><th>\u041f\u0440\u0438\u043c\u0435...</th></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr><tr><td>1</td><td>\u0414\u0435\u043d\u044c\u0433\u0438 ...</td><td>\u0414\u043e\u0433\u043e\u0432\u043e...</td><td>00.00.0..</td><td>OOO \"A...</td><td>115035,...</td><td>102773...</td><td>6248.32</td><td>6248.32</td><td>0.00</td><td>-</td></tr><tr><td>\u0418\u0442\u043e\u0433\u043e</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>6248.32</td><td>6248.32</td><td>0.00</td><td>X</td></tr></table>",
+        "embed": "<table><tr><th>No \u0441\u0442\u0440...</th><th>\u0412\u0438\u0434 (o.</th><th>\u041e\u0441\u043d\u043e\u0432...</th><th>\u0414\u0430\u0442\u0430 \u043e...</th><th>\u041d\u0430\u0438\u043c\u0435...</th><th>\u041c\u0435\u0441\u0442\u043e ...</th><th>\u039f\u0393\u03a1\u0397 ...</th><th>\u0421\u0443\u043c\u043c\u0430 ...</th><th>\u0421\u0443\u043c\u043c\u0430 ...</th><th>\u0414\u043e\u043b\u044f \u043e...</th><th>\u041f\u0440\u0438\u043c\u0435...</th></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr><tr><td>1</td><td>\u0414\u0435\u043d\u044c\u0433\u0438 ...</td><td>\u0414\u043e\u0433\u043e\u0432\u043e...</td><td>00.00.0..</td><td>OOO \"A...</td><td>115035,...</td><td>102773...</td><td>6248.32</td><td>6248.32</td><td>0.00</td><td>-</td></tr><tr><td>\u0418\u0442\u043e\u0433\u043e</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>6248.32</td><td>6248.32</td><td>0.00</td><td>X</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9042821158690176,
+              "height": 0.10273159144893111,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>No \u0441\u0442\u0440...</th><th>\u0412\u0438\u0434 (o.</th><th>\u041e\u0441\u043d\u043e\u0432...</th><th>\u0414\u0430\u0442\u0430 \u043e...</th><th>\u041d\u0430\u0438\u043c\u0435...</th><th>\u041c\u0435\u0441\u0442\u043e ...</th><th>\u039f\u0393\u03a1\u0397 ...</th><th>\u0421\u0443\u043c\u043c\u0430 ...</th><th>\u0421\u0443\u043c\u043c\u0430 ...</th><th>\u0414\u043e\u043b\u044f \u043e...</th><th>\u041f\u0440\u0438\u043c\u0435...</th></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr><tr><td>1</td><td>\u0414\u0435\u043d\u044c\u0433\u0438 ...</td><td>\u0414\u043e\u0433\u043e\u0432\u043e...</td><td>00.00.0..</td><td>OOO \"A...</td><td>115035,...</td><td>102773...</td><td>6248.32</td><td>6248.32</td><td>0.00</td><td>-</td></tr><tr><td>\u0418\u0442\u043e\u0433\u043e</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>6248.32</td><td>6248.32</td><td>0.00</td><td>X</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "job_id": "2f72f87e-901d-4305-aac2-7eabc0e973c9",
+  "duration": 72.46739292144775,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/26e9a7cf-bd1b-4020-9fe1-259ac5a49efc.pdf?AWSAccessKeyId=ASIA2UOK6OVBCT5GSQC2&Signature=zbZnr7BcMJWQen3ZEbxrTPP1WHA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBuOV54QJfyPpy71EPUkx3%2FRyUmrKHakln17fmSlh%2Bi2AiAJZ%2Be5VaXxGAsAeE0iqDu2K0%2FhY3uXvA8HWQhF3XIzeSqDBQgpEAAaDDczMTEwNjkzMjAzNCIMLa18GSgYmSIoo8e3KuAEoOnQR97AEsGwq4v8wZI25cPoSRVCjsIs3OZFvfZ6LPATNHfhZuyoMadljNiVeIvlKUrp30PsGjNRxXEskZLm7F%2BT5qeVGWZ920TALvwllu9UbZUcMv70NiQz376u6jLCFTfqi3dCHrn%2FOYCkUxM6Lsj3H0g%2BCAF%2BeXJbaOeHyJLK6s6V4XkxBHyg18hpUNTFZeqaey%2BaE%2BDvTc722lCk1JkcYACC7CFcCTnPpxZefjGqzBRtG9SbWEgWE5ArQw2%2BlqT0CUoMaLxRBUsjb%2Fhy4w0xUPc5yFbpVgoWULRk48wpmtWXmnXLa49cbehch13EmAPZQ9y6bgxGl66qvW8d%2BWjsgqPDFmh%2FYUicSNemsQA2pwiRysP1elOpSheLUxMmWsEF%2BleSzeTypd6%2Fb09A13emNH29XdZi6t55hd4C6k6otV8EdmL%2BhdGqBw5eQrU8QriqvISbZ8LZiBLZmPRELyFJhbt7e%2F70P1I%2BDsW%2BRiZsKktslhr%2FD1DhgSyM6ArpEGw8GcsQMzMBaEVioNO1vhMQoTUUFrg2V3umP0ef5DytiEhrGVJyG1tSbJLMYD3xD4jLUKBv2nNzj8K7PbuT7x1rk3ioXiq%2BGkDVb%2BTQvFnew5ski7Iz631B6LZoSu9sM3dDPjzC7tS1diYOFa0wBGmJP4l949PXoMLTJS9XNQsTdyqIJZE3DuiLMt%2BVSE%2BglH1qMt5iXty9nKXDfdo2LfKTeQI5ndgF9v6Ezyzuv3TgdPvtQL2cBiDD51PEPyywDedoj6kQCHvL2jNswK%2FWbV12QXk5URBCNmodBlXGuMIwx%2BGOvwY6mwH33rVIToNE5l5rWk46yPyDkAwUtocCSslRSeDu%2FLR5uN2n%2F852Q0Uwzx23gIIHog%2B42sLKB1yKUe7cz2MJ6G3FTkI0JkI0qVYPdQTLs7kXO%2B2MuiUj8YWo%2BN7FCdCdRupM3VHeHL3TaxtBchySLJ00oH6eksRtlEewK%2Fy3njJwxf5FSaiomxyJxKo5MmS8IL3ehDCcd%2FYPkE8lkQ%3D%3D&Expires=1742980885",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th>L</th><th>mm</th><th>2,5</th></tr><tr><td></td><td>Size</td><td>\u00d8 1/10 mm</td><td>012</td></tr><tr><td></td><td></td><td>Working part</td><td>10\u00b0</td></tr><tr><td>Shank</td><td>ISO</td><td>Order No.</td><td></td></tr><tr><td>FG</td><td>500 314 467 212...</td><td>TC850.4.314...</td><td>012</td></tr></table>",
+        "embed": "<table><tr><th></th><th>L</th><th>mm</th><th>2,5</th></tr><tr><td></td><td>Size</td><td>\u00d8 1/10 mm</td><td>012</td></tr><tr><td></td><td></td><td>Working part</td><td>10\u00b0</td></tr><tr><td>Shank</td><td>ISO</td><td>Order No.</td><td></td></tr><tr><td>FG</td><td>500 314 467 212...</td><td>TC850.4.314...</td><td>012</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9042821158690176,
+              "height": 0.12885985748218529,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th>L</th><th>mm</th><th>2,5</th></tr><tr><td></td><td>Size</td><td>\u00d8 1/10 mm</td><td>012</td></tr><tr><td></td><td></td><td>Working part</td><td>10\u00b0</td></tr><tr><td>Shank</td><td>ISO</td><td>Order No.</td><td></td></tr><tr><td>FG</td><td>500 314 467 212...</td><td>TC850.4.314...</td><td>012</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

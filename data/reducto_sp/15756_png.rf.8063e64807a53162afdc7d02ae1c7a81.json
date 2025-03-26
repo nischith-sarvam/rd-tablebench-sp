@@ -1,0 +1,36 @@
+{
+  "job_id": "50d2619e-d77d-431e-bfc6-4174f792b3b9",
+  "duration": 117.18876457214355,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/476a09a7-c571-4ef2-80ca-3c1e0cad62ef.pdf?AWSAccessKeyId=ASIA2UOK6OVBOA7E5AEG&Signature=S2dlSAtn%2FAXrJdvB2jFw5ljNKLU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIBUE0izjqjMekc%2B9Uyfud7wLxWQ5yFqCMwxNVO3zk5RjAiEAiBetAVO2CJaVFzcTAP0Ap0c6kA2S4phMFQ5w71K0LPQqgwUIKRAAGgw3MzExMDY5MzIwMzQiDKlu4z%2Bl7v4Eyut%2BGSrgBEdF%2FKcXBMjws7fcLeuVZ5LvKuvuGpUSL4FriEyI2PXWf4JrmZb%2BBi1fFTB6wfJjTxX1HXwvk4Mxd%2FtHXbmDAUgKYGUf1resCNuTWPb84y0d0vWe9zETKc8pTYC5x9fdvD0wS9zYzp%2FqQ%2FM3zZXuSdh96EZhfpneEm2G2nLDPL5CXJoMmJ4FhgnmoH2U%2FokIkzDTbs5vdobJU4RIBRphHt8Yt1hLipNo%2Fshsn3cJywwRokm33QeyuEbD9nemeKyNBgTcnLM0LYF5TzVnEOiz5KFvK3xxunImk3nPCJsf%2Fr%2BUIo9olMGmnrGycI0sX5NesEpEYiCdP8GgUHHkx2M2T8VnNkUYnY1xirVYa%2BQqqXRZ6ahuANgUliOlY2jUN8HsF9NiUTM43uu7D8%2FOqi%2BEHjzT1TqTcxhC%2BYnDopckaIk8KDEKxFyiIlUhiIH7Hi9H4wjtFSReeMoIThlua2tsp0aceHoqbmsW5pPNr3zBWRACNmc40CEZLpk9a0o6lrIN5r6AHjELs0O7fX73Bqnx0g%2BPws15AxZyusqdMn7Q3NG8ulZkRRKxq4pgoQWwCtOsXhCw80FEC2ZXXPuOKTWJM4gMhFan1pIPWnjSA5FbUGcFeZtJp48EWP0SZO%2BeKdfT%2B7W3bGTiHi1sSwyjhBHYW7mHG9gW%2F%2B5FYAucH%2FGWTojW65csrm9%2BmiCz%2FyiqkicCAbmH4jF68fznDM7WmAkx4Hgm4GARAT2dYZHuInvi9h43TzcPo4GjO7bk5KvPwj1Zt3RSpbFiTSmEW1hJtmvYHWnj3XpNN2zcoEfrDp6KekyWMM3hjr8GOpoBLT8rxNo22%2FtDLOcECmA1KMR21aDUFBIN5zlcWP43RyEZtveLROu3Asdt9dxcIn%2FIC0gVe%2BRL85LrA%2B0X7fA5i0NvKAKpHaA%2BYcvb8UGDapiDbxkmE1yAUnhWFUxe2IvmgfBPyhGG19BS8KwJgtphBUySomntk8bDHLgYMTiPvLwWj1YdWccKCsg78QMrx890iJ6uREmtdNlivA%3D%3D&Expires=1742980953",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>TITLE</th><th>AUTHOR</th><th>CATEGORIES</th><th>LEXILE MEASURE</th></tr><tr><td>Girl with a Pearl Earring</td><td>Tracy Chevalier</td><td>Fiction, Non-fiction &amp; Poetry</td><td>770L</td></tr><tr><td>Lord of the Flies</td><td>William Golding</td><td>Fiction, Non-fiction &amp; Poetry</td><td>770L</td></tr><tr><td>Rosa Parks</td><td>Kitson Jazynka</td><td>Fiction, Non-fiction &amp; Poetry</td><td>790L</td></tr><tr><td>True Grit</td><td>Charles Portis</td><td>Fiction, Non-fiction &amp; Poetry</td><td>800L</td></tr><tr><td>20,000 Leagues Under the Sea</td><td>Jules Verne</td><td>Fiction, Non-fiction &amp; Poetry; ...</td><td>860L</td></tr></table>",
+        "embed": "<table><tr><th>TITLE</th><th>AUTHOR</th><th>CATEGORIES</th><th>LEXILE MEASURE</th></tr><tr><td>Girl with a Pearl Earring</td><td>Tracy Chevalier</td><td>Fiction, Non-fiction &amp; Poetry</td><td>770L</td></tr><tr><td>Lord of the Flies</td><td>William Golding</td><td>Fiction, Non-fiction &amp; Poetry</td><td>770L</td></tr><tr><td>Rosa Parks</td><td>Kitson Jazynka</td><td>Fiction, Non-fiction &amp; Poetry</td><td>790L</td></tr><tr><td>True Grit</td><td>Charles Portis</td><td>Fiction, Non-fiction &amp; Poetry</td><td>800L</td></tr><tr><td>20,000 Leagues Under the Sea</td><td>Jules Verne</td><td>Fiction, Non-fiction &amp; Poetry; ...</td><td>860L</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9026028547439127,
+              "height": 0.15320665083135393,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>TITLE</th><th>AUTHOR</th><th>CATEGORIES</th><th>LEXILE MEASURE</th></tr><tr><td>Girl with a Pearl Earring</td><td>Tracy Chevalier</td><td>Fiction, Non-fiction &amp; Poetry</td><td>770L</td></tr><tr><td>Lord of the Flies</td><td>William Golding</td><td>Fiction, Non-fiction &amp; Poetry</td><td>770L</td></tr><tr><td>Rosa Parks</td><td>Kitson Jazynka</td><td>Fiction, Non-fiction &amp; Poetry</td><td>790L</td></tr><tr><td>True Grit</td><td>Charles Portis</td><td>Fiction, Non-fiction &amp; Poetry</td><td>800L</td></tr><tr><td>20,000 Leagues Under the Sea</td><td>Jules Verne</td><td>Fiction, Non-fiction &amp; Poetry; ...</td><td>860L</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

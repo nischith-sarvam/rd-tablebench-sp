@@ -1,0 +1,36 @@
+{
+  "job_id": "98abf332-3fa4-4e61-af07-04980207a736",
+  "duration": 169.41407585144043,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/32cc2ff1-814b-4e91-ae60-4884f19e6231.pdf?AWSAccessKeyId=ASIA2UOK6OVBNTMVS5T4&Signature=No89jYldU1gUuEvA4zcfn3PGTZ0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIBasTfh7Tc84oxKqoERavlG1e5KKyE0KuruWXKcJkrbUAiEAqLJac50Nyf4H5qxhcHpqYZ3RkJhmb5gYPJHuClo9X2gqgwUIKhAAGgw3MzExMDY5MzIwMzQiDChX6VQaKwJwb2%2BqxyrgBGE%2BoySBd2mbVVq5tCRjsZ06x%2BeDCwlMWVy7YIDkUwSJ83R9e8opWzhFNQVtIZtzgx6eTrDG4QTo06h5cjTyIX8fYsaFSDt8Jp%2FJJZEowiibKBv2ymNRL6KyVAtTqy07kDnojMMkTXWmjBoZHSJCOxrnOVH8ow0X41ifbhgd2MAPSEyUbN7grzBYoIqyHe8lUg%2F8gf8poND8rMST3pAENsyspp06biZeIUUAbac8N3oycAovMzaVvMbh6mmPJoRp5dPPdEZtDi0KmuKKENnHsffYYmOp%2BTC1AXMLGot04egkC2lDqfzHkuAeJjo3lowVh%2BjkGN3e31wK73Z54SBfjbrV4yjOtmS1nufBGFskHxg19donnGrytIvmClqaqgKE1idNiruy0yqbffFaA1qFN2xRPXnuDl9sU%2FJa9633zU7dlQ5QTq6c48kKHjfLwrzvQ2JtzsLAB0hd58w9r24M5PvV4UF8AK7WVO%2BkYmRyUrLYC4MYpmB0N3WF2U4RHD6VI%2BbWDSc3BFgBX7LTdOv8kMbbufIA9erq37rHQEQxrskTxBzckynwGAHjNWdIPrC0IFdup9FWkU3aTSi9GqHR7Jw9t9z7E3MabfPjQYOtEozdDrOkq4DRgygrVef8x8eXjfh9y%2FeYmxPhLeGtf14EaUxagoaSEfxmd%2BuRWnwBsP%2FjSEhYKori42cHPD3dMfP6gkf5wvLLdh9Fm3HC7lAtO5Uio6290JeovoBTksSMJT0JtATrZBXxcpVIAAP15mCgLZN6U7z5uDHrXgGMPtq%2BgQgES5YnOtUUJNxrMzt0vX5cMIzzjr8GOpoBbNg4CzppKQZXgO9CRnvJlopemKNH4glrpuqdQjNjiHJppzXxsBxGIu3B%2FACAmO%2FWx%2FNKu0BL%2FsS%2BjQR06Fub5TMMfFghVRonKpYVqnb6qmZa2dd%2B7g9irimjIhP%2F2sBK6otvisauRCFNrmY%2F7kVC99qjSIspZkn%2Ff0bjlfsqC5qna42dT91zyk8MUvdcHO2qHDtdczsH9J0jmw%3D%3D&Expires=1742981025",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>IX.</th><th colspan=\"3\">NITROGEN-FUNCTION COMPOUNDS</th></tr><tr><td>Heading No</td><td>Description of Goods</td><td>Rate of Duty</td><td>Unit(s)</td></tr><tr><td>2921.00</td><td>Amine-function compounds</td><td>5%</td><td>kg</td></tr><tr><td>2922.00</td><td>Oxygen-function amino-comp</td><td>5%</td><td>kg</td></tr><tr><td>2923.00</td><td>Quaternary ammonium salts ...</td><td>5%</td><td>kg</td></tr><tr><td>2924.00</td><td>Carboxyanide-function comp.</td><td>5%</td><td>kg</td></tr><tr><td>2925.00</td><td>Carboxymide-function compo...</td><td>5%</td><td>kg</td></tr><tr><td>29.26</td><td>Nitrile-function compounds.</td><td></td><td></td></tr><tr><td>2926.001</td><td>Acrylonitrile..</td><td>5%</td><td>kg</td></tr><tr><td>2926.009</td><td>Other</td><td>5%</td><td>kg</td></tr><tr><td>2927.00</td><td>Diazo-, azo- or azoxy-compo...</td><td>5%</td><td>kg</td></tr><tr><td>2928.00</td><td>Organic derivatives of hydraz</td><td>5%</td><td>kg</td></tr><tr><td colspan=\"4\">X. ORGANO-INORGANIC COMPOUNDS, HETEROCYCLIC COMPOUNDS, NUCLEI ACIDS AND THEIR SALTS, AND SULPHO...</td></tr><tr><td>2930.00</td><td>Organo-sulphur - compounds</td><td>5%</td><td>kg</td></tr></table>",
+        "embed": "<table><tr><th>IX.</th><th colspan=\"3\">NITROGEN-FUNCTION COMPOUNDS</th></tr><tr><td>Heading No</td><td>Description of Goods</td><td>Rate of Duty</td><td>Unit(s)</td></tr><tr><td>2921.00</td><td>Amine-function compounds</td><td>5%</td><td>kg</td></tr><tr><td>2922.00</td><td>Oxygen-function amino-comp</td><td>5%</td><td>kg</td></tr><tr><td>2923.00</td><td>Quaternary ammonium salts ...</td><td>5%</td><td>kg</td></tr><tr><td>2924.00</td><td>Carboxyanide-function comp.</td><td>5%</td><td>kg</td></tr><tr><td>2925.00</td><td>Carboxymide-function compo...</td><td>5%</td><td>kg</td></tr><tr><td>29.26</td><td>Nitrile-function compounds.</td><td></td><td></td></tr><tr><td>2926.001</td><td>Acrylonitrile..</td><td>5%</td><td>kg</td></tr><tr><td>2926.009</td><td>Other</td><td>5%</td><td>kg</td></tr><tr><td>2927.00</td><td>Diazo-, azo- or azoxy-compo...</td><td>5%</td><td>kg</td></tr><tr><td>2928.00</td><td>Organic derivatives of hydraz</td><td>5%</td><td>kg</td></tr><tr><td colspan=\"4\">X. ORGANO-INORGANIC COMPOUNDS, HETEROCYCLIC COMPOUNDS, NUCLEI ACIDS AND THEIR SALTS, AND SULPHO...</td></tr><tr><td>2930.00</td><td>Organo-sulphur - compounds</td><td>5%</td><td>kg</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032660332541567694,
+              "width": 0.9034424853064652,
+              "height": 0.35510688836104515,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>IX.</th><th colspan=\"3\">NITROGEN-FUNCTION COMPOUNDS</th></tr><tr><td>Heading No</td><td>Description of Goods</td><td>Rate of Duty</td><td>Unit(s)</td></tr><tr><td>2921.00</td><td>Amine-function compounds</td><td>5%</td><td>kg</td></tr><tr><td>2922.00</td><td>Oxygen-function amino-comp</td><td>5%</td><td>kg</td></tr><tr><td>2923.00</td><td>Quaternary ammonium salts ...</td><td>5%</td><td>kg</td></tr><tr><td>2924.00</td><td>Carboxyanide-function comp.</td><td>5%</td><td>kg</td></tr><tr><td>2925.00</td><td>Carboxymide-function compo...</td><td>5%</td><td>kg</td></tr><tr><td>29.26</td><td>Nitrile-function compounds.</td><td></td><td></td></tr><tr><td>2926.001</td><td>Acrylonitrile..</td><td>5%</td><td>kg</td></tr><tr><td>2926.009</td><td>Other</td><td>5%</td><td>kg</td></tr><tr><td>2927.00</td><td>Diazo-, azo- or azoxy-compo...</td><td>5%</td><td>kg</td></tr><tr><td>2928.00</td><td>Organic derivatives of hydraz</td><td>5%</td><td>kg</td></tr><tr><td colspan=\"4\">X. ORGANO-INORGANIC COMPOUNDS, HETEROCYCLIC COMPOUNDS, NUCLEI ACIDS AND THEIR SALTS, AND SULPHO...</td></tr><tr><td>2930.00</td><td>Organo-sulphur - compounds</td><td>5%</td><td>kg</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

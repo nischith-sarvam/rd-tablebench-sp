@@ -1,0 +1,36 @@
+{
+  "job_id": "296f76c9-9a93-4682-b2fe-bb5ba1264221",
+  "duration": 49.40313506126404,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/2ba5a460-efb5-46cb-b697-6b429bff4f45.pdf?AWSAccessKeyId=ASIA2UOK6OVBBQ3V4TQX&Signature=SwDF7ZW1Shfgl4gXrrPD7oNwDwo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDwIwp2a93Aslh11%2B6SvwfdIay%2BF558loSv8qxdtbHjQAIgIaa6ZaHG9fj5MlFoCqZRxcIxHwrpK56KEWblBAqJo1kqgwUIKRAAGgw3MzExMDY5MzIwMzQiDJxHZjI9egFBc4wA8irgBIGDCbVe0TE69iPiPABXHuEl6cccliLFTIltTvaIzLlgDoFA%2FzNqnMKR4CU3e6e1rqOgqUXJSfUDWUFyaa%2F253ENoL6HTNVk07hjal%2BROlKg6AfWdN8%2FNruG4GMy7gulxbhXIcKddubjLG66S%2FXJKIdISBkfddCZxo2y2WHQV0i16LUZ2Llov1A13CxccG1gfOx6DOkS8m3iQZk7PNCF6eHaNe4tMEupFB9rZwSJUs2MA2zrjq4WkHnfTdeeWbTUWZJUAkg1wp6sacSvggGBdvtlrFgv%2BgbYa0eEKCmDKb2iVbq4uYHcnH9RbF6NAmgsgLMbwVoGk7y6AO0QIhZJBVhvfBstP2SnkHH86aJDGuZC36bfDYO%2FvuPxgh7C%2B6KJMrdAWiTLDn%2BbZav6AO%2F8HH8%2FJXYf2XAbPpoMKyX7IqjuyHpVBQEVFbPxHIahq77qj5e8FFPqLVthtWg3Bl55KDvjn9QWI21aga1p8onMO%2FpHtzrTASrKWHWzijDyFmGg8tVZXaWmjzZroXxqrFd0VvQOTXlShuV2WPB7eDnQ%2F6nWj2DghXp7REqhUgeFv%2FSPh4tr4bBck6zpMWQuYfCkJAfiziuXzY%2F6LTkK%2BKIQ4L42ZFomTbm%2BYAnLvkWstco%2BcwZSPxqzwa77KFij0tuzXQQF48RS8u%2Bk1siVgJedJ4lcv3nK7%2FAlFG6L%2Fc69stVEysT1jZ%2F%2BH03baFjmG2mVCZWBER%2BD%2BtRGFqZ3jLZyKn1RHOlF1HmQp2MAXTk%2BxCOWwLOKbOxw2nSz%2Bn0ZA5P0oCgen%2B68u4cmHWdyR%2ByuNpJ1ML%2Fvjr8GOpoBACuykxsMLtVbZow5qZy%2F%2F1kykaPijm9fM42ETMfj4DMByX8boKBQRXKkzmvDTcoIdUklsVOulTzRSvJ6MCgRsEhy7sUFSAZGKAs0pux7jTNcezkPAo5ezv2UrM0XSWwSHgZsaF3oYMF2wsPvgl%2ByTeazd8DSwQDZ3rERonL2frjZbU3qabMSHXshd4Ym6NSsz8ma0CZtOOEoCg%3D%3D&Expires=1742980864",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th colspan=\"5\">2019</th></tr><tr><td></td><td>Quaker</td><td>Houghton</td><td>Divestitures</td><td>Other (a)</td><td>Pro Forma*</td></tr><tr><td>Net sales</td><td>$ 1,134</td><td>$ 475</td><td>$ (34)</td><td>$ (13)</td><td>$ 1,562</td></tr><tr><td>Net Income (Loss)</td><td>$ 32</td><td>$ (3)</td><td>$ (6)</td><td>$ 10</td><td>$ 33</td></tr><tr><td>Depreciation and</td><td>45</td><td>31</td><td>-</td><td>3</td><td>77</td></tr><tr><td>Interest Expense, ...</td><td>17</td><td>33</td><td>-</td><td>(15)</td><td>35</td></tr><tr><td>Taxes on Income (b)</td><td>2</td><td>(1)</td><td>(2)</td><td>3</td><td>2</td></tr><tr><td>EBITDA*</td><td>96</td><td>60</td><td>(8)</td><td>1</td><td>148</td></tr><tr><td>Combination, Inte</td><td>35</td><td>44</td><td>-</td><td>-</td><td>80</td></tr><tr><td>Gain on the Sale</td><td>-</td><td>(35)</td><td>-</td><td>-</td><td>(35)</td></tr><tr><td>Fair Value Step U...</td><td>12</td><td>-</td><td>-</td><td>-</td><td>12</td></tr><tr><td>Restructuring and ...</td><td>27</td><td>-</td><td>-</td><td>-</td><td>27</td></tr><tr><td>Other Addbacks (c)</td><td>3</td><td>(0)</td><td>-</td><td>-</td><td>3</td></tr><tr><td>Adjusted EBITDA*</td><td>$ 173</td><td>$ 68</td><td>$ (8)</td><td>$ 1</td><td>$ 234</td></tr><tr><td>Adjusted EBITDA ...</td><td>15%</td><td>14%</td><td>24%</td><td>-4%</td><td>15%</td></tr></table>",
+        "embed": "<table><tr><th></th><th colspan=\"5\">2019</th></tr><tr><td></td><td>Quaker</td><td>Houghton</td><td>Divestitures</td><td>Other (a)</td><td>Pro Forma*</td></tr><tr><td>Net sales</td><td>$ 1,134</td><td>$ 475</td><td>$ (34)</td><td>$ (13)</td><td>$ 1,562</td></tr><tr><td>Net Income (Loss)</td><td>$ 32</td><td>$ (3)</td><td>$ (6)</td><td>$ 10</td><td>$ 33</td></tr><tr><td>Depreciation and</td><td>45</td><td>31</td><td>-</td><td>3</td><td>77</td></tr><tr><td>Interest Expense, ...</td><td>17</td><td>33</td><td>-</td><td>(15)</td><td>35</td></tr><tr><td>Taxes on Income (b)</td><td>2</td><td>(1)</td><td>(2)</td><td>3</td><td>2</td></tr><tr><td>EBITDA*</td><td>96</td><td>60</td><td>(8)</td><td>1</td><td>148</td></tr><tr><td>Combination, Inte</td><td>35</td><td>44</td><td>-</td><td>-</td><td>80</td></tr><tr><td>Gain on the Sale</td><td>-</td><td>(35)</td><td>-</td><td>-</td><td>(35)</td></tr><tr><td>Fair Value Step U...</td><td>12</td><td>-</td><td>-</td><td>-</td><td>12</td></tr><tr><td>Restructuring and ...</td><td>27</td><td>-</td><td>-</td><td>-</td><td>27</td></tr><tr><td>Other Addbacks (c)</td><td>3</td><td>(0)</td><td>-</td><td>-</td><td>3</td></tr><tr><td>Adjusted EBITDA*</td><td>$ 173</td><td>$ 68</td><td>$ (8)</td><td>$ 1</td><td>$ 234</td></tr><tr><td>Adjusted EBITDA ...</td><td>15%</td><td>14%</td><td>24%</td><td>-4%</td><td>15%</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04617968094038623,
+              "top": 0.032066508313539195,
+              "width": 0.9026028547439127,
+              "height": 0.3812351543942993,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th colspan=\"5\">2019</th></tr><tr><td></td><td>Quaker</td><td>Houghton</td><td>Divestitures</td><td>Other (a)</td><td>Pro Forma*</td></tr><tr><td>Net sales</td><td>$ 1,134</td><td>$ 475</td><td>$ (34)</td><td>$ (13)</td><td>$ 1,562</td></tr><tr><td>Net Income (Loss)</td><td>$ 32</td><td>$ (3)</td><td>$ (6)</td><td>$ 10</td><td>$ 33</td></tr><tr><td>Depreciation and</td><td>45</td><td>31</td><td>-</td><td>3</td><td>77</td></tr><tr><td>Interest Expense, ...</td><td>17</td><td>33</td><td>-</td><td>(15)</td><td>35</td></tr><tr><td>Taxes on Income (b)</td><td>2</td><td>(1)</td><td>(2)</td><td>3</td><td>2</td></tr><tr><td>EBITDA*</td><td>96</td><td>60</td><td>(8)</td><td>1</td><td>148</td></tr><tr><td>Combination, Inte</td><td>35</td><td>44</td><td>-</td><td>-</td><td>80</td></tr><tr><td>Gain on the Sale</td><td>-</td><td>(35)</td><td>-</td><td>-</td><td>(35)</td></tr><tr><td>Fair Value Step U...</td><td>12</td><td>-</td><td>-</td><td>-</td><td>12</td></tr><tr><td>Restructuring and ...</td><td>27</td><td>-</td><td>-</td><td>-</td><td>27</td></tr><tr><td>Other Addbacks (c)</td><td>3</td><td>(0)</td><td>-</td><td>-</td><td>3</td></tr><tr><td>Adjusted EBITDA*</td><td>$ 173</td><td>$ 68</td><td>$ (8)</td><td>$ 1</td><td>$ 234</td></tr><tr><td>Adjusted EBITDA ...</td><td>15%</td><td>14%</td><td>24%</td><td>-4%</td><td>15%</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

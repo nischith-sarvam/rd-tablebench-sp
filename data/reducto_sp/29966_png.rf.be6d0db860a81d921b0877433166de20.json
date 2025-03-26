@@ -1,0 +1,36 @@
+{
+  "job_id": "50391a2b-13d0-4070-96e6-29a81636497a",
+  "duration": 55.61845779418945,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/cf8928b5-a655-4cad-938f-6b314c50795f.pdf?AWSAccessKeyId=ASIA2UOK6OVBPSLGEW3E&Signature=FCLp%2BVnxxmOgD3T2QLDcJK49eRQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQD5LowEjEMhyFxUMJ45Nu4ju73c19mDe1mLISBqw5rmGQIhAMDpfknxV4B1WgscC1UfgZIVzE6MwWXVh9HSHctCH0nlKoMFCCkQABoMNzMxMTA2OTMyMDM0IgycgdZeweI6ReKz6gAq4AQ0RG4KrwO9Q8iNqJ1PGN1DBYUkjYoQrx51v9EBUmifQ6EfuynsIGtCz6jODyTSQC2Mr2KH4M4ppz2YdX26DKzx1vxZG78IFZIGUV631%2F0Ntc2Q7DtG2HGF7x2UHIFS9a3RmvunKxKlkLpyq%2BEnO9Sb6ZHjNdcyM3%2F%2BOK1sw9ipMatkpE9DYKExQLowflHPJXZJEeqCRocuVhfeN87iTZqvH5Z23MS8QwEPqAhMKO2Ce%2BX8Qeam2f5jhahsZwnsuONexvEsJkBy8dvf0uzjUxPywsSw%2F9bnWb2hLw5zgKRsURy%2F3kjIG%2FzrT3rQoSAbMUcw5T1bwjmNCMzgY3yJVCj8dJZQSiYSHfrxPf5i50Tr7l7M5HuAwR9rSUEqUsI%2BI572d8%2FKmAwnHtJtgVPqiU3H0DdDk1j5ANNd6Kvhj6N2nfJTxyLJ6ABAYQDmpdfGwfuTPvDF8EF1tiH%2FdAw0vxBCed7x7%2F2ZL%2FcaFqR8Y%2BkM7N7ZOr1zMx7YSEoUee9AtV9JAfD9yX0Q4Lqs4m0Zqb0dBLVByuGNJY4cWal7tk1tkJOZm2aEXLaVo8h2CW7EVuG3S57QPnDo99bgF9jZn0JlpdsuZAyPC24COPSBj88pvpmZWFfqnatDe7Z5utzZuTcl4kVs%2Fd96Ey8FapbDYBn%2Fz1D8BA9s6iQfUPhfiPYYJ63eXL%2B%2BbtD0yPShKokl8n%2BZZtS%2Fdmozuzuj6smluQJL6b8DLZyzPNhIRGw1szvxxY9evVA%2BaJV%2BRPjIn41O70BtBpSJj7SXC5i3JOPeFTU%2BUlMm0Tssp6cq01qOusPAHjCZ346%2FBjqZAQ8%2FR1dH99s4zTk1UNs31s9s%2FIp3QohCkLCRwxLcXAAYX%2B3%2FQ7ayvJTMoyPCB5d6QrA%2BmE95QLT59QsqZj8coYalgkJ0eZ9hcTbhIRjooRyS72UF1aaJgNg%2Fr%2BNxn471MBozRI9cdqhQvl%2BHmAEsqMNnlwngnm9x6rp79Nw2vINO6H48Kt%2Bel83n8vuqMoIDlC%2FOe6UQ%2FLJtFQ%3D%3D&Expires=1742980877",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"2\">Place</th><th rowspan=\"2\">Overall ...</th><th rowspan=\"2\">Name</th><th rowspan=\"2\">Bib No</th><th rowspan=\"2\">Age</th><th colspan=\"2\">- Swim &amp; T-1 -</th><th colspan=\"2\">- - Run -</th><th rowspan=\"2\">Total Time</th></tr><tr><td>Rnk</td><td>Time</td><td>Rnk</td><td>Time</td></tr><tr><td>1</td><td>26</td><td>Nancy P</td><td>250</td><td>35</td><td>1</td><td>12:32.1</td><td>1</td><td>00:29:21.6</td><td>00:41:53.7</td></tr><tr><td>2</td><td>36</td><td>Nancy K</td><td>242</td><td>37</td><td>2</td><td>16:58.1</td><td>2</td><td>00:35:06.1</td><td>00:52:04.2</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"2\">Place</th><th rowspan=\"2\">Overall ...</th><th rowspan=\"2\">Name</th><th rowspan=\"2\">Bib No</th><th rowspan=\"2\">Age</th><th colspan=\"2\">- Swim &amp; T-1 -</th><th colspan=\"2\">- - Run -</th><th rowspan=\"2\">Total Time</th></tr><tr><td>Rnk</td><td>Time</td><td>Rnk</td><td>Time</td></tr><tr><td>1</td><td>26</td><td>Nancy P</td><td>250</td><td>35</td><td>1</td><td>12:32.1</td><td>1</td><td>00:29:21.6</td><td>00:41:53.7</td></tr><tr><td>2</td><td>36</td><td>Nancy K</td><td>242</td><td>37</td><td>2</td><td>16:58.1</td><td>2</td><td>00:35:06.1</td><td>00:52:04.2</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.906801007556675,
+              "height": 0.10273159144893111,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"2\">Place</th><th rowspan=\"2\">Overall ...</th><th rowspan=\"2\">Name</th><th rowspan=\"2\">Bib No</th><th rowspan=\"2\">Age</th><th colspan=\"2\">- Swim &amp; T-1 -</th><th colspan=\"2\">- - Run -</th><th rowspan=\"2\">Total Time</th></tr><tr><td>Rnk</td><td>Time</td><td>Rnk</td><td>Time</td></tr><tr><td>1</td><td>26</td><td>Nancy P</td><td>250</td><td>35</td><td>1</td><td>12:32.1</td><td>1</td><td>00:29:21.6</td><td>00:41:53.7</td></tr><tr><td>2</td><td>36</td><td>Nancy K</td><td>242</td><td>37</td><td>2</td><td>16:58.1</td><td>2</td><td>00:35:06.1</td><td>00:52:04.2</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

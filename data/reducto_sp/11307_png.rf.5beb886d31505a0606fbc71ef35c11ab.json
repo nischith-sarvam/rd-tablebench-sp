@@ -1,0 +1,36 @@
+{
+  "job_id": "371361bf-9cef-470a-af09-cce514995b05",
+  "duration": 190.72425746917725,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/5f6dba4a-2378-46c0-b1dc-fa7a9d9309e5.pdf?AWSAccessKeyId=ASIA2UOK6OVBCVD7E2NC&Signature=dIAdt27bgorn55C6oHEn9dda6JM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIENa5ngkLsacKyiFKg0vQDKrlzoIcj39hqk6u7hMj9BYAiEAoXOSxyjbQpcm%2FwnZsYkHS1H2jsRWYD%2FvstpWL2ysKr8qgwUIKhAAGgw3MzExMDY5MzIwMzQiDEyyn3Jr%2BYB0AIrfMSrgBMRpHO9nL3SlglP0Jr2d%2FUtfChsFLyxuJGluvuS34Jdp5ORpwiw16hsEnbf3bhbGazov5KBrCrq03r2mNzX%2Fro9AM%2Blo30aM0mUMTAGZnTGVb7iG87ujo4pzozHAjeDVOA0zEqtlci4ABQg9JNSnHi2g3KzgPUgmFFyKXctbjvoX713naI65IHBLffv35rJloq%2BjfyrdJWWybujAxC7iiV1sZiyx4bsCdyrw6WCsznw25NwcEJRCBa7OIqwtYcEyFn9FVIUH1BCe90yOybbERNO5Re%2FHtaTrBqq0NtEM8zT5bnb4LpiGX%2B82VPYuKOpxjU6tLMsR4NL3Aag9%2F%2FmyuXV0pE3p6zLiU5ooYr2pAt62uAVFuXPRlcF4tAfUcUtcC1%2FoOywa3o32aLQzZ0oWdVZ6pSjHAhBl5dtKwE4iiY%2Fi8wbh2lAa9asqiQLVFXoaJolaH4dCsRkDRyc8J%2FXMgJ6qtpyZKFPYTS3FPlQ4WNJvYrpm3BKB9A84vfyz4bF5SFRpo001MYv2qCAysFV%2FM%2BGPI%2F5gRKJpPa%2F7bL23Ai%2Fs3laHQPdHfd8Zjqz0wgsF7ymq4oi79ifESxxXIUZys5498%2Fz0Y5uAjCSiqHYL%2BxoyO%2FqgFgdlh7YPuHm4d9WTvQZecXnywXaw1JIK8hmajfL3LMFHVgZQRy6MnRkyEfglmmcsqazWHAWjCDBNckeUC0bJbuV58k6%2F0Zq3%2F%2FM9GwLmkm8bZ55vNZ3qqx8PRy6L6bZzZc6Ne%2FWXpHYgXPz9agCt02GGVZmBb0aLOc7l3aUVtY7s8Yv4l9uhuql5S2HnMI3zjr8GOpoB8cr2t42E2b5GJbqi2%2B6TmNh%2B8OeYhpQd8T5ii0zwBRQCj7YHPEW%2BYjWAQxDgjmuKwjK3d7wMSZGimpJmujDybuTr9kqsqVHFi6JV7Y82GyATt8%2FRyKWXwGliRvsF8CAoGXyYp7Bp%2Fupui91g7LnfE4gZciIu6t4TAcMp6nVBRoqxBnKB1ivEBrEbmjVa87uPeLGLFnVbJYV9QQ%3D%3D&Expires=1742981039",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"6\">Growing recognition that some or all tick sizes must be increased (continued)</th></tr><tr><td>Name</td><td>Title</td><td>Firm or institution</td><td>Vantage point</td><td>Position</td><td>View</td></tr><tr><td>James Fehrenbac</td><td>Managing Director</td><td>Piper Jaffray</td><td>Growth company i...</td><td>For</td><td>Larger minimum tr</td></tr><tr><td>Phil Johnston</td><td>Partner, Head of</td><td>ThinkEquity LLC</td><td>Growth company i...</td><td>For</td><td>In discussions wit</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"6\">Growing recognition that some or all tick sizes must be increased (continued)</th></tr><tr><td>Name</td><td>Title</td><td>Firm or institution</td><td>Vantage point</td><td>Position</td><td>View</td></tr><tr><td>James Fehrenbac</td><td>Managing Director</td><td>Piper Jaffray</td><td>Growth company i...</td><td>For</td><td>Larger minimum tr</td></tr><tr><td>Phil Johnston</td><td>Partner, Head of</td><td>ThinkEquity LLC</td><td>Growth company i...</td><td>For</td><td>In discussions wit</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.0436607892527288,
+              "top": 0.032660332541567694,
+              "width": 0.9051217464315701,
+              "height": 0.10332541567695962,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"6\">Growing recognition that some or all tick sizes must be increased (continued)</th></tr><tr><td>Name</td><td>Title</td><td>Firm or institution</td><td>Vantage point</td><td>Position</td><td>View</td></tr><tr><td>James Fehrenbac</td><td>Managing Director</td><td>Piper Jaffray</td><td>Growth company i...</td><td>For</td><td>Larger minimum tr</td></tr><tr><td>Phil Johnston</td><td>Partner, Head of</td><td>ThinkEquity LLC</td><td>Growth company i...</td><td>For</td><td>In discussions wit</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

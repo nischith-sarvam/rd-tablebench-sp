@@ -1,0 +1,36 @@
+{
+  "job_id": "7356c5e8-c6ef-499d-9a43-644d53eb0e4e",
+  "duration": 55.17421889305115,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/e00d7dec-9286-457e-99a1-f543e12da845.pdf?AWSAccessKeyId=ASIA2UOK6OVBJHDAXXOW&Signature=Xa6lFU1J2Vzjs3DIccdm4%2B96oJE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDwqHl2e311%2Blu%2BVeLUA%2FXPxZB4yL5W7t7RoAuQ57h4egIhAMOuEkWi2TcSlcRAw6Ny6EXW2a9Iqs9Az9pbWQZ5TLtPKoMFCCkQABoMNzMxMTA2OTMyMDM0IgxFbgQB4fx36qW6udwq4ARKK5rMt7YLD816DmP%2FKweV3%2Frw3oquDiDcpCXH7xVACZBnC%2BhgUfWkUIO4VLi3EjJiPSH%2F%2BQ8DPfN29gL1ksxeyx7nJ5YjwLxB0SDGe1Cxr99T4%2Bf13%2Bx4D6oTUvTGzR%2B%2F80tUpKd4dsd4DtFwiDeYxANtiYdquYy%2Bmhl%2BZAtEUW6xFZs3xLwtgyfSffJEQ4tWlMo6ECwJ8%2B2Ilq1khi762titWnGtO8vE0MWJ7EN5wlZaMQi0ROhyB6XjiYJcY3hbbtM0lSXgnSi2cULWOZFCtbluX%2BMYYVLDmBKUTczUYkjvN200J5iJoQ0LgBjtQ3LpwN7ujyXO0EEQyCpUQWIuI2DxRkRqBpbIatkICIzkCIHEI5BX%2FcsnhWDOa9BB8MqR6LjxtRhEClZnN9aP3RMrLzBpfm4r83jvFHfhlfr5ISaPCwJQSwBPCInj7sw7Zi%2FvtRJk1QHDBeUutRzHqaJZu7AHvG2XidzKWOrrHshBc1mh8qh8ZHxeQ2Q5NcEYbNDtIOFJBqFmcSopxJW4LOYpioAwjTJvv6y1gXTHDj6I3%2FIJUpMS9QbQPttSMnLKF5ASNvdJ0sKbZBYtB%2FRjzyXbxdwn42ceMXAFGayaaCT5j8xJIbIJdzKwthgseWZPYBhbDw1WHlpZnYfCzegRJCyoE7QE9%2BpVvc9DfdAkliyDoKzYpvUiJz11vjYG0toDi27R2R%2FTBgd4fYR43dbJ7kRyVJU2QimlDR5Pp%2B8faimuyh3WwF16cIfVPhrPaHX2G0h%2Fb6kPoX%2Fy4S6PNr0g%2B2sUXjcMw%2F0YS0SRZxXanwhzJjCZ6I6%2FBjqZAdb1Sl7xs4xTnonrqQAZiqrFZC0fTuyvMotu9jwUegYOGKp8zAYd6rN3MN2Gug40KLqVD8Ut9U4msVsetvlm6T79C6r1%2Fmljm3%2BgKVsqjzRwEyPYDOf7J4lsGRMQSkNZInYo7lvGqzX85B4wjo5IkP48N32cGVCFkHJuHfbtzQ5PC7eO1NvuXHqJCFBiSyPFvr9%2BZBEqN6vsnQ%3D%3D&Expires=1742980877",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"3\">D\u00e9penses</th><th>Pr\u00e9vu :</th><th>848 578.22</th></tr><tr><td>R\u00e9alis\u00e9 :</td><td>569 723.07</td></tr><tr><td>Restes \u00e0 r\u00e9aliser :</td><td>262 011.00</td></tr><tr><td rowspan=\"3\">Recettes :</td><td>Pr\u00e9vu :</td><td>848 578.22</td></tr><tr><td>R\u00e9alis\u00e9 :</td><td>598 859.18</td></tr><tr><td>Restes \u00e0 r\u00e9aliser :</td><td>247 425.00</td></tr><tr><td colspan=\"3\">Fonctionnement :</td></tr><tr><td rowspan=\"2\">D\u00e9penses</td><td>Pr\u00e9vu :</td><td>960 896.53</td></tr><tr><td>R\u00e9alis\u00e9 :</td><td>865 998.05</td></tr><tr><td rowspan=\"2\">Recettes</td><td>Pr\u00e9vu :</td><td>960 896.53</td></tr><tr><td>R\u00e9alis\u00e9 :</td><td>929 484.71</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"3\">D\u00e9penses</th><th>Pr\u00e9vu :</th><th>848 578.22</th></tr><tr><td>R\u00e9alis\u00e9 :</td><td>569 723.07</td></tr><tr><td>Restes \u00e0 r\u00e9aliser :</td><td>262 011.00</td></tr><tr><td rowspan=\"3\">Recettes :</td><td>Pr\u00e9vu :</td><td>848 578.22</td></tr><tr><td>R\u00e9alis\u00e9 :</td><td>598 859.18</td></tr><tr><td>Restes \u00e0 r\u00e9aliser :</td><td>247 425.00</td></tr><tr><td colspan=\"3\">Fonctionnement :</td></tr><tr><td rowspan=\"2\">D\u00e9penses</td><td>Pr\u00e9vu :</td><td>960 896.53</td></tr><tr><td>R\u00e9alis\u00e9 :</td><td>865 998.05</td></tr><tr><td rowspan=\"2\">Recettes</td><td>Pr\u00e9vu :</td><td>960 896.53</td></tr><tr><td>R\u00e9alis\u00e9 :</td><td>929 484.71</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.0436607892527288,
+              "top": 0.032660332541567694,
+              "width": 0.9059613769941226,
+              "height": 0.28028503562945367,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"3\">D\u00e9penses</th><th>Pr\u00e9vu :</th><th>848 578.22</th></tr><tr><td>R\u00e9alis\u00e9 :</td><td>569 723.07</td></tr><tr><td>Restes \u00e0 r\u00e9aliser :</td><td>262 011.00</td></tr><tr><td rowspan=\"3\">Recettes :</td><td>Pr\u00e9vu :</td><td>848 578.22</td></tr><tr><td>R\u00e9alis\u00e9 :</td><td>598 859.18</td></tr><tr><td>Restes \u00e0 r\u00e9aliser :</td><td>247 425.00</td></tr><tr><td colspan=\"3\">Fonctionnement :</td></tr><tr><td rowspan=\"2\">D\u00e9penses</td><td>Pr\u00e9vu :</td><td>960 896.53</td></tr><tr><td>R\u00e9alis\u00e9 :</td><td>865 998.05</td></tr><tr><td rowspan=\"2\">Recettes</td><td>Pr\u00e9vu :</td><td>960 896.53</td></tr><tr><td>R\u00e9alis\u00e9 :</td><td>929 484.71</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

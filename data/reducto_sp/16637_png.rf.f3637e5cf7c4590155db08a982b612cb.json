@@ -1,0 +1,36 @@
+{
+  "job_id": "087b1b23-723e-4244-b956-40568cff9fb0",
+  "duration": 183.24927592277527,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/fecad388-eff1-4449-a511-49ec60cfa02f.pdf?AWSAccessKeyId=ASIA2UOK6OVBC5YYXRSQ&Signature=AaAUzSyVmZAgEVWudITISG%2Foa4s%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDGr%2BDUmMRGRX7BM92kwpsPz58v6LAVwecdHEqdff8ElQIhAL1ptaum52%2B1Pdxvu4PaMTIIezWwgbaAEZIqv%2BHiMo8NKoMFCCkQABoMNzMxMTA2OTMyMDM0IgyWscOhPqkh1Y5W49Qq4ASLEJJmPC0rddvVRb79dT%2BjoqWePNBRfXkUsbahxioxQSlXyoTGp6S4iaFjVHlD3JGviTMp6dzlfGlhY6fX3i7EGReNhwuv8sC%2Fu5wFivzeInxlhXX7r%2F3HRtTxnEUvGfAJHv4pV3PQdfCO06SHPdzXpshD7Ey49MruoDv7Z7zci3TPftu4w2JGMZ1BTAeG0DxTp53igiCnjtTEzrrOLztLVJlBxFZ9sfh7PqzZ2RPAYYo3WIOIUxrt5vfAPnzCNcJzQAoioBI31le9OhvelMurpSxp0ASCbE1UK9c9FS6rw%2BL%2FJEpk3G2MyQsjD4%2B9kJjz30adez7Eai89scD7CvBacWaz4IFMtEypOBFJwW49fbnUGaGfnEHbulf0w7wjeteCNmjB1WOUF9sGq4HSPZzx2DOCSXaqyTm%2FEn87DUTBIGarVR6g5cJ2jyTOu4mVbyg6V7hm%2Ba%2B2VLTnf4LDenOQXpI%2FvoWhYqjJQBszxsJBbhcJnYkFwA5kmBN2hKcusErLBOuVP32At2Dza5%2BiOqs6jSXKkRUeygj28Z0%2B1%2BW3xKCRnhyZus7urBFriUsHopnHR3a2Etf9FU%2FWciJr2ECjUNHcwniqDEMHXmkujA7Y4uPXrpiNSF9A9Xczb7tzNcHRi3xpwKflfq0avG2KdpD8nBijFIxlS3qvYCXNH%2BvfHLkwYlulgzfirDISBGFiwIFs6oRdr3NEtCawkGFa8sOqU2arOGx5Sypi%2FfbWRXHV66GmGBMroDxSzvHe6iTop4qDYFF2VkznNqu434EoU28r%2F2CJWZORMP6zaMsSC4aQ1zC9446%2FBjqZAU6Lbb57R0jsiGgp28HYvepOscWhXz3rqyUg7dEV7MLVAaI8dmUtrtrUtxmz2iuxUR9xfr3zlbFVRfmB7uRngx%2BC3oMQEAFqKqDaqpybKQKcAKBI%2FpqNJU2U19kZOrPwXnrLx85V66vLlh1yrpElY7IqansFVoN%2FVyLw4fZOk2wKtFtJqGESk1xILmGzSt9i4rLXD2UYhMzpcA%3D%3D&Expires=1742981022",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th></th><th></th><th>LC1</th><th>LC2</th><th>LC3</th><th>LC4</th></tr><tr><td>I:</td><td>Profissionais, alto ...</td><td>0,24</td><td>0,06</td><td>0,00</td><td>0,06</td></tr><tr><td>II:</td><td>Profissionais, baix</td><td>0,26</td><td>0,10</td><td>0,00</td><td>0,09</td></tr><tr><td>Illa:</td><td>N\u00e3o manual de ro</td><td>0,21</td><td>0,07</td><td>0,00</td><td>0,10</td></tr><tr><td>lllb:</td><td>Servi\u00e7os e vendas</td><td>0,03</td><td>0,13</td><td>0,00</td><td>0,00</td></tr><tr><td>IVa:</td><td>Conta pr\u00f3pria co...</td><td>0,00</td><td>0,00</td><td>0,01</td><td>0,23</td></tr><tr><td>IVb:</td><td>Conta pr\u00f3pria se...</td><td>0,00</td><td>0,00</td><td>0,01</td><td>0,47</td></tr><tr><td>V:</td><td>Supervisores do tr</td><td>0,01</td><td>0,04</td><td>0,00</td><td>0,00</td></tr><tr><td>VI:</td><td>Trabalhador manu</td><td>0,06</td><td>0,12</td><td>0,00</td><td>0,00</td></tr><tr><td>Vila:</td><td>Trabalhador manu</td><td>0,19</td><td>0,48</td><td>0,01</td><td>0,03</td></tr><tr><td>Vllb:</td><td>Trabalhadores agr</td><td>0,00</td><td>0,01</td><td>0,17</td><td>0,00</td></tr><tr><td>IVc:</td><td>Conta pr\u00f3pria agr</td><td>0,00</td><td>0,00</td><td>0,81</td><td>0,02</td></tr></table>",
+        "embed": "<table><tr><th></th><th></th><th>LC1</th><th>LC2</th><th>LC3</th><th>LC4</th></tr><tr><td>I:</td><td>Profissionais, alto ...</td><td>0,24</td><td>0,06</td><td>0,00</td><td>0,06</td></tr><tr><td>II:</td><td>Profissionais, baix</td><td>0,26</td><td>0,10</td><td>0,00</td><td>0,09</td></tr><tr><td>Illa:</td><td>N\u00e3o manual de ro</td><td>0,21</td><td>0,07</td><td>0,00</td><td>0,10</td></tr><tr><td>lllb:</td><td>Servi\u00e7os e vendas</td><td>0,03</td><td>0,13</td><td>0,00</td><td>0,00</td></tr><tr><td>IVa:</td><td>Conta pr\u00f3pria co...</td><td>0,00</td><td>0,00</td><td>0,01</td><td>0,23</td></tr><tr><td>IVb:</td><td>Conta pr\u00f3pria se...</td><td>0,00</td><td>0,00</td><td>0,01</td><td>0,47</td></tr><tr><td>V:</td><td>Supervisores do tr</td><td>0,01</td><td>0,04</td><td>0,00</td><td>0,00</td></tr><tr><td>VI:</td><td>Trabalhador manu</td><td>0,06</td><td>0,12</td><td>0,00</td><td>0,00</td></tr><tr><td>Vila:</td><td>Trabalhador manu</td><td>0,19</td><td>0,48</td><td>0,01</td><td>0,03</td></tr><tr><td>Vllb:</td><td>Trabalhadores agr</td><td>0,00</td><td>0,01</td><td>0,17</td><td>0,00</td></tr><tr><td>IVc:</td><td>Conta pr\u00f3pria agr</td><td>0,00</td><td>0,00</td><td>0,81</td><td>0,02</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032066508313539195,
+              "width": 0.9042821158690176,
+              "height": 0.30522565320665085,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th></th><th></th><th>LC1</th><th>LC2</th><th>LC3</th><th>LC4</th></tr><tr><td>I:</td><td>Profissionais, alto ...</td><td>0,24</td><td>0,06</td><td>0,00</td><td>0,06</td></tr><tr><td>II:</td><td>Profissionais, baix</td><td>0,26</td><td>0,10</td><td>0,00</td><td>0,09</td></tr><tr><td>Illa:</td><td>N\u00e3o manual de ro</td><td>0,21</td><td>0,07</td><td>0,00</td><td>0,10</td></tr><tr><td>lllb:</td><td>Servi\u00e7os e vendas</td><td>0,03</td><td>0,13</td><td>0,00</td><td>0,00</td></tr><tr><td>IVa:</td><td>Conta pr\u00f3pria co...</td><td>0,00</td><td>0,00</td><td>0,01</td><td>0,23</td></tr><tr><td>IVb:</td><td>Conta pr\u00f3pria se...</td><td>0,00</td><td>0,00</td><td>0,01</td><td>0,47</td></tr><tr><td>V:</td><td>Supervisores do tr</td><td>0,01</td><td>0,04</td><td>0,00</td><td>0,00</td></tr><tr><td>VI:</td><td>Trabalhador manu</td><td>0,06</td><td>0,12</td><td>0,00</td><td>0,00</td></tr><tr><td>Vila:</td><td>Trabalhador manu</td><td>0,19</td><td>0,48</td><td>0,01</td><td>0,03</td></tr><tr><td>Vllb:</td><td>Trabalhadores agr</td><td>0,00</td><td>0,01</td><td>0,17</td><td>0,00</td></tr><tr><td>IVc:</td><td>Conta pr\u00f3pria agr</td><td>0,00</td><td>0,00</td><td>0,81</td><td>0,02</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

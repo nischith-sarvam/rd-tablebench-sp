@@ -1,0 +1,36 @@
+{
+  "job_id": "d8ef3def-0cb0-4136-8e3a-2f8ed37ea19f",
+  "duration": 59.74045538902283,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/93f7b3ab-6b5e-4108-8ae6-dedc32ae2478.pdf?AWSAccessKeyId=ASIA2UOK6OVBGCI7WCJV&Signature=a3VR6zUWhGacrhdOHlnS%2B2eB7ug%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIEjhmPy045xh0AeyE3Qg95zhholXgM8ZIXPmPNQq0%2Bd4AiEA142rsH83h5twmy8o3HlA4DgNUjhuh7PebCVEiNUbkekqgwUIKRAAGgw3MzExMDY5MzIwMzQiDKfRLXnWyt%2BwUrFbjCrgBPFALPCtgSqArPm7l2ZIHJjOYxgMbA6fGbLnScuvq2visWXoa55piNnsFYLndnxupqH9OUTEGJrIExB6P20aDzWvO7IsK0U8427%2BM%2F%2FTgDkQOl8wC9mziF3gbyHuwzlhlYsnSmV%2F0rzqXxbvU8j1ixwAKCdkTVPNTXrh3wwAaw1TjbFC1917sNIdGOp0duYG9oL9WAPSMg%2Fzcqr%2FxPsPGMuuFyy%2FG4n2al35syjSCUuTqbA%2F0YQlPdxipUB8EF%2BKwlQ797xgo4TZrNaqZCetnn4YHgBR%2BgQ4IwrB92W73hXLMDGr0LnqZHb7mQmvLyw3M%2F68iDU3txZ3ZixuzaF5STp%2F0aFHZFEsBkPYWKSWT5rCuUXDa%2BrByo0oCkyoCifHni7KeF9M8KSsa4xlcruJYK%2BXOS%2FbaAfbJ6n9J79rrHb5yGHp5ELFP3uSHwnNeE%2FrFw%2F3WfNz3a3rsNXJIjHuZFPjOZKkh5UGnrPp1SusOboBKAAaZUU8O5zt9qoBc1e1qJ89li0wyrlh7OOvqwDbhaf2BdBM8tWjq%2B5aJg1T1FLGKgTCtezLVTAbQqtjPoL3Uy%2BykmrFIsl0DoNbaTuSPM1EXSl2Rv4V2t582MoJIn3olH5Jsn6Nmj9oiRYDpJPHciVzqfUVHzpG6aAW%2FOCUzO%2FtxIrZ3UsMBH%2B49v9%2F4qt8ee5B5wvPMrr151y5IQU3gn%2FXhYEFUi%2FafQCkU3zXduyKjZzxh2lnq1PxyJU1YN3Lk6E%2Bhi5VhxQ%2BJ1sI33iURV1ZAvlWtYXMrMfgO1KfOQzBLQxsEpvm8sitGj2T%2FTz1MOTtjr8GOpoBiWJTptf8Bojm1Z3SMr6G4%2B6yKIukvvcxRg7UXcbVmHp15TlNKPHq%2F51CkgFFmxQ3diP0ThhBjhg%2F6wre7yY42lYAyu%2FyF5lbrze05DI1FRG0ub3mFfAUEAQBbcBu0Q%2F2UFkyaYpMtMljY3%2FRdBRiJVZMkjSC5nUBquF3joGeUMEL%2Bkis0wLUNhJLamUGTHMWjbGLo5G%2FjZ%2FrrQ%3D%3D&Expires=1742980882",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"2\" colspan=\"2\">System No.</th><th rowspan=\"2\">Deck (Note 1)</th><th rowspan=\"2\">Base Insula</th><th colspan=\"3\">Top Insulation Layer</th><th rowspan=\"2\">Roof Cover ...</th><th rowspan=\"2\" colspan=\"2\">MDP (psf)</th></tr><tr><td>Type</td><td>Fasteners (...</td><td>Attach</td></tr><tr><td>W-12.</td><td></td><td>Min. 19/32\" ...</td><td>(Optional) O...</td><td>Min. 0.25-in</td><td>All Purpose ...</td><td>1 per 2.7 ft2</td><td>JM PVC Fle</td><td>-37.5*</td><td></td></tr><tr><td>W-13.</td><td></td><td>Min. 15/32\"</td><td>(Optional) O.</td><td>Min. 0.25-in...</td><td>All Purpose ...</td><td>1 per 2.7 ft2</td><td>JM PVC Fle.</td><td>-45.0*</td><td></td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"2\" colspan=\"2\">System No.</th><th rowspan=\"2\">Deck (Note 1)</th><th rowspan=\"2\">Base Insula</th><th colspan=\"3\">Top Insulation Layer</th><th rowspan=\"2\">Roof Cover ...</th><th rowspan=\"2\" colspan=\"2\">MDP (psf)</th></tr><tr><td>Type</td><td>Fasteners (...</td><td>Attach</td></tr><tr><td>W-12.</td><td></td><td>Min. 19/32\" ...</td><td>(Optional) O...</td><td>Min. 0.25-in</td><td>All Purpose ...</td><td>1 per 2.7 ft2</td><td>JM PVC Fle</td><td>-37.5*</td><td></td></tr><tr><td>W-13.</td><td></td><td>Min. 15/32\"</td><td>(Optional) O.</td><td>Min. 0.25-in...</td><td>All Purpose ...</td><td>1 per 2.7 ft2</td><td>JM PVC Fle.</td><td>-45.0*</td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9051217464315701,
+              "height": 0.10273159144893111,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"2\" colspan=\"2\">System No.</th><th rowspan=\"2\">Deck (Note 1)</th><th rowspan=\"2\">Base Insula</th><th colspan=\"3\">Top Insulation Layer</th><th rowspan=\"2\">Roof Cover ...</th><th rowspan=\"2\" colspan=\"2\">MDP (psf)</th></tr><tr><td>Type</td><td>Fasteners (...</td><td>Attach</td></tr><tr><td>W-12.</td><td></td><td>Min. 19/32\" ...</td><td>(Optional) O...</td><td>Min. 0.25-in</td><td>All Purpose ...</td><td>1 per 2.7 ft2</td><td>JM PVC Fle</td><td>-37.5*</td><td></td></tr><tr><td>W-13.</td><td></td><td>Min. 15/32\"</td><td>(Optional) O.</td><td>Min. 0.25-in...</td><td>All Purpose ...</td><td>1 per 2.7 ft2</td><td>JM PVC Fle.</td><td>-45.0*</td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

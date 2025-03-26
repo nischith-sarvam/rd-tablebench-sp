@@ -1,0 +1,36 @@
+{
+  "job_id": "39f3b70f-cfa1-4094-ba07-31b6f81245df",
+  "duration": 174.2736132144928,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/ad5c404f-cfd5-4aac-b75a-196b9a36d526.pdf?AWSAccessKeyId=ASIA2UOK6OVBGBQWM5HX&Signature=Va5XQ0D%2F%2B1NjEN8LS6psIZ8SXP4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGnIl5H0T954DVRsFP%2Bu5cimpkIu5R2U0Q%2Fplill8cokAiEA1owhnBeLqbIVfC17cnIu157klcYXxxjKJHXuefjFB7AqgwUIKhAAGgw3MzExMDY5MzIwMzQiDDTb3q%2Fxz36a%2FIbXGyrgBLYLkPa90eEIjMJ%2Bw9U9JVe3e6wvIWMAdvInC8%2Frb%2BQAqkRb5%2BhZWmSTtJTI0aYE0vhB%2BD2aOdqXZN0lhKxmdPmO4v7cQPJJOxc3f1X2%2FkxbFL4daf%2BudDUyNiBB8p7aSgnmHHIy3LjX6dW1HYm0kTPtkpf8JEnSMhkP1XdhH3Mg6oR7RNK%2BzLGMWuiEV3lxvU7htl6Ueb6QXn15O%2BnkIf%2BvnynXiFetwX6tw8%2Fjcb8Z63hWwALeGu%2BsgHpD9Z342RzcrY4%2Fp5yRed23GBUe79NQcnrXReQ6F%2B1N1Axk73hYsn32SrhGSvTzXpiPV1a8OpQNArwDWZ0DfOSJotYby2zFnDM8SlW75dpqjc00GmjnSyNMY6iot6L1NU%2F3qjMd52v24hpjOf%2F4a8c4olQzlmeTrHzlHoRxigBQlYb3TmUMQX9Qmr%2BebYX2rAUgBKy63ydtg9vrSHvz5DA3kMmztWCMXfAu2UGgQZ03lzxOzVpqhkHQeqsRlpIhTjq8Tqvpt6i164NxYQ6AJaSuQ6wlCr2Ai8jYbG%2B80S9%2BlWkmMREOowjhLBV2zUa7afc5FUqDuxmow8lOtLFtOPUCfeR%2Bx6c0%2FiutI19fRMsGxmpsyVDf37TLJ2OmzFCUUOtH50VUJXVNcv3hwSUxh1yUBQre0KZQWZJ7Mw9DQQgOEbvcF7%2FQjLwmpZpK2GKrmWc01mbRuMcUlgy0Xnq7RI8IJeuss1%2BB2MmgTAv9JcaMX%2BvLuHpmdd7Y6smUHLcE2ncE%2Bt9P%2Fh%2FMx546DA3r260KnbYSGX2vZ0WgnDh1I9EE2COgDmbjMNLyjr8GOpoBWIw182nLd7ICqHGuz9MMcXY8j55nbvpVcxpSrGJEBWaeGFeymvIZdeL8Opj8GcFK43RP6UledNcGsn6Kc5XITdMd2xuGMGy06DG5tNL0FcWDj0SMQahcFVGNCKBsDTjq81nn5xkLt0Pk4ThrRqZL0fc0lCDSZiStCz3Ljqr9l7ddyOrFm%2BT1DSTJlLzH6hxvUCS%2BDkBEvh3%2BhQ%3D%3D&Expires=1742981026",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Arbeitsbreite</th><th>\u00b0 1,20 m</th><th>O 1,50 m</th></tr><tr><td>Messer</td><td colspan=\"2\">o 40 mm Schlegel</td></tr><tr><td>Leistungsbedarf Mulcher F\u00f6rderband</td><td colspan=\"2\">\u2022 100 1/min bei 250 bar O 35-40 l/min bei 150 bar</td></tr><tr><td>Gewicht</td><td>\u2022 535 kg</td><td>\u2022 620 kg</td></tr><tr><td>Arbeitsgeschwindigkeit</td><td colspan=\"2\">\u2022 4-10 km/h</td></tr><tr><td>Optionen</td><td colspan=\"2\">\u2022 180\u00b0 Schwenktrieb</td></tr></table>",
+        "embed": "<table><tr><th>Arbeitsbreite</th><th>\u00b0 1,20 m</th><th>O 1,50 m</th></tr><tr><td>Messer</td><td colspan=\"2\">o 40 mm Schlegel</td></tr><tr><td>Leistungsbedarf Mulcher F\u00f6rderband</td><td colspan=\"2\">\u2022 100 1/min bei 250 bar O 35-40 l/min bei 150 bar</td></tr><tr><td>Gewicht</td><td>\u2022 535 kg</td><td>\u2022 620 kg</td></tr><tr><td>Arbeitsgeschwindigkeit</td><td colspan=\"2\">\u2022 4-10 km/h</td></tr><tr><td>Optionen</td><td colspan=\"2\">\u2022 180\u00b0 Schwenktrieb</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.032660332541567694,
+              "width": 0.9034424853064652,
+              "height": 0.15380047505938244,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Arbeitsbreite</th><th>\u00b0 1,20 m</th><th>O 1,50 m</th></tr><tr><td>Messer</td><td colspan=\"2\">o 40 mm Schlegel</td></tr><tr><td>Leistungsbedarf Mulcher F\u00f6rderband</td><td colspan=\"2\">\u2022 100 1/min bei 250 bar O 35-40 l/min bei 150 bar</td></tr><tr><td>Gewicht</td><td>\u2022 535 kg</td><td>\u2022 620 kg</td></tr><tr><td>Arbeitsgeschwindigkeit</td><td colspan=\"2\">\u2022 4-10 km/h</td></tr><tr><td>Optionen</td><td colspan=\"2\">\u2022 180\u00b0 Schwenktrieb</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

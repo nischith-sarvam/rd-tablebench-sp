@@ -1,0 +1,36 @@
+{
+  "job_id": "b09d234c-abdd-40d8-8230-76b66fd1f763",
+  "duration": 176.871164560318,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/9c617b04-e1c6-45c0-8ea6-f5e073e6bef4.pdf?AWSAccessKeyId=ASIA2UOK6OVBM6GBB3ET&Signature=erxHvJd%2Be2t0Fk79vC4Uozvw47A%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIDVLFeMvPy7IPX6USV7cai4j%2BhTkNLK0LNugZaYzWD%2BrAiEAtXcLjc47EeQp5dIgB3SeVaYR3naeBiPD4PqaPzv3Oo4qgwUIKhAAGgw3MzExMDY5MzIwMzQiDKaFDl2bX%2FXmMKCCsyrgBArPvqxlyoRadH42XyvuPbDw6ywzHvU0k112ogcjFe5ip2YCpwFzrNtqTnR4slgYuiI3wGaFCfSOm%2FgCBpsezGfg%2FDKLvEvgdOUrAj22yrR4atmHHB3pZrr4tHEz2lLC2FmcjEjkZfmUITCupdqOiJ96R7w92iFGw%2FyFqJOQXx3xUiYhUxLegY4%2BzZb3aaaXGOgzz%2FgENPk5m1E8PK94dm2FlhIyWaIthTPfWwRsbKm5%2B0Lft1It4JSBTlntFRTfcQZoAJbNYlIwMMu3dI8ZDWx9a30QqN6FmbvBsVpP2DC4XcnjjKPrv2AExsnNkt9RDCNfT05MxEmwtgceZ23klFMnmBDdipVoHOKwu1ag7zxRvh2yQ8ODUHKGgDt%2FWCbOPKfXEUAtQpcu2BDHu8PDMRGuNyXDtbelFFOgKQcQQZXuDR57mEQDrp3mzc9%2B7gVIYAc6IRZNxrJDTpklrpq7KZpLiPJRV%2BUzKzrpLuZleRu9CAy2Gke9vWzdUORhCbz8jpha7L3cPtkOeKN%2Fx2nJMDTRYwIjRHsxEE057L5afMib482%2B2HfI%2Be0WutBztybRfPI8y0FIZBm1tDpLmVNhWEK0r0z418HrER78u0S2mQeDBm%2BbQ3PaYNl0I5ipvA2TnQsJ3OHB4PxQwygG%2Ft4dHlgOid4VCAGyHYNKgVqB7xe3Qkm1%2BzItNEQWFXo6rqQGMDNOUy%2F18PjbRMX3bPI5dz4EgWsfkYFe31arQMbixdjryw7dehcUIqTxWdJBZfxK5T502yiv062YBGA285yAs2RRuAiHQGaHPirhGbJDj0ALMI3zjr8GOpoBGUyjw8B%2FNDkEWYECHaF8tozrs%2Bv2Z%2FgvFTI9z%2Biwu3DgjKSS0dItPfymmjeJ5G3whIQcsscBMErBApWAZwP4Fc4zBdvikNDDXK5sYaH9WEaEZ%2BwyBgVdwU5cm3n7elDcq2BB57jVKKrizWPUrmwIoeaL5MbnMigjIwYV37hjz1BRueeaPJENvPZoJU7%2Bs3rHU81V%2BeoO7ABwDA%3D%3D&Expires=1742981042",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th rowspan=\"6\">Revenue</th><th></th><th>Prior Year</th><th>Current Year</th></tr><tr><td>8 Contributions and grants (P.</td><td>16,897,330.</td><td>6,090,809.</td></tr><tr><td>9 Program service revenue (...</td><td>33,270.</td><td>29,664.</td></tr><tr><td>10 Investment income (Part</td><td>916,939.</td><td>756,600.</td></tr><tr><td>11 Other revenue (Part VIII, c...</td><td>25,000.</td><td>0.</td></tr><tr><td>12 Total revenue - add lines 8...</td><td>17,872,539.</td><td>6,877,073.</td></tr><tr><td rowspan=\"8\">Expenses</td><td>13 Grants and similar amount</td><td>7,725,358.</td><td>6,935,507.</td></tr><tr><td>14 Benefits paid to or for me</td><td>0.</td><td>0.</td></tr><tr><td>15 Salaries, other compensat...</td><td>987,588.</td><td>1,086,824.</td></tr><tr><td>16a Professional fundraising</td><td>0.</td><td>0.</td></tr><tr><td>b Total fundraising expenses ...</td><td></td><td></td></tr><tr><td>17 Other expenses (Part IX, ...</td><td>586,348.</td><td>791,430.</td></tr><tr><td>18 Total expenses. Add lines</td><td>9,299,294.</td><td>8,813,761.</td></tr><tr><td>19 Revenue less expenses.</td><td>8,573,245.</td><td>-1,936,688.</td></tr></table>",
+        "embed": "<table><tr><th rowspan=\"6\">Revenue</th><th></th><th>Prior Year</th><th>Current Year</th></tr><tr><td>8 Contributions and grants (P.</td><td>16,897,330.</td><td>6,090,809.</td></tr><tr><td>9 Program service revenue (...</td><td>33,270.</td><td>29,664.</td></tr><tr><td>10 Investment income (Part</td><td>916,939.</td><td>756,600.</td></tr><tr><td>11 Other revenue (Part VIII, c...</td><td>25,000.</td><td>0.</td></tr><tr><td>12 Total revenue - add lines 8...</td><td>17,872,539.</td><td>6,877,073.</td></tr><tr><td rowspan=\"8\">Expenses</td><td>13 Grants and similar amount</td><td>7,725,358.</td><td>6,935,507.</td></tr><tr><td>14 Benefits paid to or for me</td><td>0.</td><td>0.</td></tr><tr><td>15 Salaries, other compensat...</td><td>987,588.</td><td>1,086,824.</td></tr><tr><td>16a Professional fundraising</td><td>0.</td><td>0.</td></tr><tr><td>b Total fundraising expenses ...</td><td></td><td></td></tr><tr><td>17 Other expenses (Part IX, ...</td><td>586,348.</td><td>791,430.</td></tr><tr><td>18 Total expenses. Add lines</td><td>9,299,294.</td><td>8,813,761.</td></tr><tr><td>19 Revenue less expenses.</td><td>8,573,245.</td><td>-1,936,688.</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.032660332541567694,
+              "width": 0.9042821158690176,
+              "height": 0.35570071258907365,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th rowspan=\"6\">Revenue</th><th></th><th>Prior Year</th><th>Current Year</th></tr><tr><td>8 Contributions and grants (P.</td><td>16,897,330.</td><td>6,090,809.</td></tr><tr><td>9 Program service revenue (...</td><td>33,270.</td><td>29,664.</td></tr><tr><td>10 Investment income (Part</td><td>916,939.</td><td>756,600.</td></tr><tr><td>11 Other revenue (Part VIII, c...</td><td>25,000.</td><td>0.</td></tr><tr><td>12 Total revenue - add lines 8...</td><td>17,872,539.</td><td>6,877,073.</td></tr><tr><td rowspan=\"8\">Expenses</td><td>13 Grants and similar amount</td><td>7,725,358.</td><td>6,935,507.</td></tr><tr><td>14 Benefits paid to or for me</td><td>0.</td><td>0.</td></tr><tr><td>15 Salaries, other compensat...</td><td>987,588.</td><td>1,086,824.</td></tr><tr><td>16a Professional fundraising</td><td>0.</td><td>0.</td></tr><tr><td>b Total fundraising expenses ...</td><td></td><td></td></tr><tr><td>17 Other expenses (Part IX, ...</td><td>586,348.</td><td>791,430.</td></tr><tr><td>18 Total expenses. Add lines</td><td>9,299,294.</td><td>8,813,761.</td></tr><tr><td>19 Revenue less expenses.</td><td>8,573,245.</td><td>-1,936,688.</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

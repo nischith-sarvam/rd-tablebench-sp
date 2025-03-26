@@ -1,0 +1,36 @@
+{
+  "job_id": "156c9c46-2176-4df9-ab8f-a3f8f2a4015e",
+  "duration": 60.035683393478394,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/c580eebf-ebee-4477-a0e1-218810048186.pdf?AWSAccessKeyId=ASIA2UOK6OVBD5FAZDS7&Signature=Dwd%2FvorO2tO3zAh%2F2tbmROTNb6o%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDaj6lccUuUl29WYQu815bnGJonbO256PhvpVmsHyk0WwIgB0Wf976dF%2FGd70GgKLYUa3cxKoOtOA288YpkJrtyMbwqgwUIKRAAGgw3MzExMDY5MzIwMzQiDKoWwY%2F5pl%2FOlJcnWyrgBD0XdVOfcQvW%2F7lZVp03GRDb3l5iEB%2FcxS7tPTIkz3BPVWhLy3yZ2MhydmLU4R0Cbees7Bg4Xd8MkqZv%2FKa1QCPJ4MVDiqgCoXlQpxUQn7SuLCoLpxV1ube4AYw%2FXLuxdBmRyUDKjFvCf4onqXb4HNCCf1sCMvK29CaZEi6bCgLEaFuVBkD2C6G7s0hnpC%2FYrpIhgjsww44ecMYVy%2F9NrTT5HM7dZyJzXi6bnu%2Fdesq%2FA62nVRjhzmG7PXTSPp2NDct5%2FX%2B58xXogaGG1fXoWNU1o7d20jBat6LLWYsC2YVkm5y88pez8mRGUiohDdp%2FHCXH3QHiHivz7gE6T%2FlRCPidppNK2GEsmqswUqVkBnd1n0EbBIU9lzjJ5%2FwrzGMU2diyO3uoGpJzJkOqVi4mg5qMPW%2BW10RT92JtUkYe%2FUSW4Bn1HpCZdw5b9YArg3ZqhNY3mRJElvIUV8SA%2BwA2ZRYbpiL%2BenbnJV%2BvFUFI9ciGlWuE37%2FT5nbUpn9x8sMGy%2B4wdnrR1lD93z06%2BaTXBVBObn34YtDXAHt99kt796v70QrPPkLlXWU16dHfl%2B3VjXoY55muYVdLJc0wuOsnXE1AyaniGSOkQ1qukSK%2FCbi94nvvnJkQ4Y6OeZp%2FphxYBKBgMFgE7J3bbZClpoXTLaBQogxcSXu2hsshhHts5%2BlrAafGwq%2F5Pu%2BQE0y7kH9C4IYn4jSCkIXdy3D2nbEJ5mI%2BcbptzZt0lFXVw%2FVbqxeP1q4TDvyOL8m6H%2B8xLEt6LxaOzNfRW6FMOLzyJlF1u3Wsx5azo9m%2FiwRz1BX7gtJfMLvvjr8GOpoB%2F44KiohbzK2IT%2BmU1ar2tmyj7HV1hiiO8sjypNaxeFH9L0JWd2aQ1emqpQOT2YZ5vi0%2BVhc6F15vtCV3iLaRL21sfA5OZgHjOIIQca8hW8PpyGDv1yIAOV8yxe9pmhtnzgrqU%2BZRlIr2bKUaIuVjJb%2FWVA5pVsXqHV7bUr7Uv0AgdRsZ2YSrFr3y9sN%2FE2gdhzVPaxH4lVsnLw%3D%3D&Expires=1742980876",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>R\u00e9pertoire</th><th>Titre</th><th>Type</th><th>Commentaires</th><th>Tome</th><th>Pages</th></tr><tr><td></td><td>D. Jackson, Colbe</td><td></td><td>anc. Colbert. 1208.</td><td></td><td>55</td></tr><tr><td>0101</td><td>A. Ehrhard, \u00dcberli</td><td></td><td></td><td></td><td>III 961 ; III 965</td></tr><tr><td>R(III)0192</td><td>H. Omont, Inventa</td><td></td><td></td><td></td><td></td></tr></table>",
+        "embed": "<table><tr><th>R\u00e9pertoire</th><th>Titre</th><th>Type</th><th>Commentaires</th><th>Tome</th><th>Pages</th></tr><tr><td></td><td>D. Jackson, Colbe</td><td></td><td>anc. Colbert. 1208.</td><td></td><td>55</td></tr><tr><td>0101</td><td>A. Ehrhard, \u00dcberli</td><td></td><td></td><td></td><td>III 961 ; III 965</td></tr><tr><td>R(III)0192</td><td>H. Omont, Inventa</td><td></td><td></td><td></td><td></td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.0332541567695962,
+              "width": 0.9051217464315701,
+              "height": 0.10273159144893111,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>R\u00e9pertoire</th><th>Titre</th><th>Type</th><th>Commentaires</th><th>Tome</th><th>Pages</th></tr><tr><td></td><td>D. Jackson, Colbe</td><td></td><td>anc. Colbert. 1208.</td><td></td><td>55</td></tr><tr><td>0101</td><td>A. Ehrhard, \u00dcberli</td><td></td><td></td><td></td><td>III 961 ; III 965</td></tr><tr><td>R(III)0192</td><td>H. Omont, Inventa</td><td></td><td></td><td></td><td></td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

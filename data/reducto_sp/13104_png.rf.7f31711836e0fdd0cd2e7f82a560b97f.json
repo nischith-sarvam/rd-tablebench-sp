@@ -1,0 +1,36 @@
+{
+  "job_id": "17a453a6-2265-4609-825d-e0fd6e46895f",
+  "duration": 136.52033686637878,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/9740d813-3df6-4b04-9298-970d35364284.pdf?AWSAccessKeyId=ASIA2UOK6OVBMR5A4CMJ&Signature=ezxCew04W8QQPOZsJEt%2FVA8ScHc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIFwwinFdh%2F7rslrPmBhLsdPzR7YD%2FqYB4xhu7rpJBaU8AiBQjPfb19nNcsGF0mN9SOZUEgkFo0710qI5kr4G21ArSiqDBQgqEAAaDDczMTEwNjkzMjAzNCIMH8xttETI5EKMq8yCKuAEa3psn6gE%2B177M5g1bjAmNyh0a4t9YJgvNpQ9YAoSkzAyQBAn%2F3nZkAhvm8rLnIacdQFHSnde6DdyR4ML71egpFaJbOktJEW%2BQqArOOqtkave0JElEw8BRgr9thgnH%2FooLDMzhJBrPsYLiUMyPrI%2BOYDobPQz1grAHMl8nxXC3Ls8kdV2gZiVq7w1w6a2ywHgFJQJ%2FWuSGgyTYWBOBRFq5XIxiKVSQ%2FheBxoiY2w0V1WLevyoyxKih02VkAacyUwUlSoXHRtdCpFTHQTFqFkTMHCMvCQyBNIif37fHlbiU%2BVWtKTUuPvxVJP1kyXP57FE1bo7%2BryM3r%2Fpv4Fd0Hxx0P%2BwRao%2FGnsaywtOq6HGWSFSVWzdyNXBCSxbN7MUQThsMc4c7uSYDJ6QL%2B9MJUU3y%2FKfFsxytUyPgfRDdPXp8uBHkl2yImiUz4j9RYP8yeCIk41cP40498nBuhIMA5bVO2H4hGZ%2BsfTWCmuQhXew0GdoXGW1BHzZsvwkwhK4NNkNvlRsRoK15NQUZdWhTaImMkYMeTkrmFFmFIiLXTvBNfeljoI6uAZK09r64ePUxGZdI0zQTO9s3Bb1rkrmWeoillmQzT%2BmzOtqmEzrbk7Wmb7bRqld%2FT%2FBJQLjAmtBku%2BMHp8a4pShOUogJiUfIF8BuzRUwOLaV2RXLXJUYIDCFnQjZ6%2FoO00ZhmoJiHITtgr%2BvIZoT6WHd2LbbUxVPqXM0mM5n84d%2BtknBb%2FVt18bgQ50f17cRffywSv9nxTAXymTeB1CSS6xg%2Fp%2FnQ2ott0RDC9s1ca6mG9ERitEUcnIsAUwzPKOvwY6mwGLpvv5VK9cJDCc%2Bi3UOaRiMYz938Qe2wMBvjYcyQ%2FP4CMff5QpudwTbxszsCwyhdXDvBK59UPeTiiLsszcsazsN3kVP8xm7dKM%2BhQq0unTk5lGo3MjPGkWfzRrcQWbAfGG6ePmAfuOycvF3PVvru1t1mxEp9FYaGhZbjM1U0%2BpzvQYGNKYTMUjKI3NloJhRoCqo1rFO%2BEL%2FJAiOA%3D%3D&Expires=1742980982",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th colspan=\"3\">S\u00e4gefallend/hobelfallend, Holzfeuchte 18-20 - % verf\u00fcgbare L\u00e4ngen: nach Vorrat und Absprache</th></tr><tr><td>27 X 142 mm</td><td>grob/fein, fein/fein, grob/grob, grob/glatt</td><td>3/4/5,1/6m</td></tr><tr><td>45 x 70 mm</td><td>Unterkonstruktion</td><td>3/4/5,1/6 m</td></tr></table>",
+        "embed": "<table><tr><th colspan=\"3\">S\u00e4gefallend/hobelfallend, Holzfeuchte 18-20 - % verf\u00fcgbare L\u00e4ngen: nach Vorrat und Absprache</th></tr><tr><td>27 X 142 mm</td><td>grob/fein, fein/fein, grob/grob, grob/glatt</td><td>3/4/5,1/6m</td></tr><tr><td>45 x 70 mm</td><td>Unterkonstruktion</td><td>3/4/5,1/6 m</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04617968094038623,
+              "top": 0.032066508313539195,
+              "width": 0.9051217464315701,
+              "height": 0.07838479809976247,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th colspan=\"3\">S\u00e4gefallend/hobelfallend, Holzfeuchte 18-20 - % verf\u00fcgbare L\u00e4ngen: nach Vorrat und Absprache</th></tr><tr><td>27 X 142 mm</td><td>grob/fein, fein/fein, grob/grob, grob/glatt</td><td>3/4/5,1/6m</td></tr><tr><td>45 x 70 mm</td><td>Unterkonstruktion</td><td>3/4/5,1/6 m</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

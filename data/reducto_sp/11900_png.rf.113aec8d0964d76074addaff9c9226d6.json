@@ -1,0 +1,36 @@
+{
+  "job_id": "eddbc115-7f97-4fbe-8af4-6bfd518a7bd5",
+  "duration": 137.1839370727539,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/3fc29375-326c-4911-90a3-900900452d6e.pdf?AWSAccessKeyId=ASIA2UOK6OVBBFDPTV4D&Signature=cOE955pIi8kwPcHKrH93nuM9Xf0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxQXCBjr9BGCoAp2Upgujf%2BOkufuvFXkT4URyaohoCQQIhALx6bkS9%2BD95ojV9MF0nb2UCBebXBEUVzE3%2Bgjuxy03LKoMFCCoQABoMNzMxMTA2OTMyMDM0IgyyF8xq4lULKJNRL1Iq4ARcZdAewG%2FPF6mPp%2BihvSUMmS1LfRxfpAgDtYqEatUEwlz7rFgQk4Ad%2F3AFB3tV6DVI9AdAh4qatBo1kKPdgl5hqsa5wFE01bIg50fRHjFsY8xheopqf%2BSxvgTscjq3LxmqebtqviL%2FJ5yWw6DgLH1t%2BaXVVCfMDTgyZzpQiRoKWNuynwh%2FKp7IPuEzrDWLUSpi%2BJ%2F9FnPaiZFFxS9dtKaDjGBAW5FMTrP6B30Ihim6r92ffOpQDDe7bpntShaNZi%2BBYs9FgpxbISY9U0ruMyzG%2BCYHIsJ1RKG5BpFLRRVVzcjhjGColJJqTWHFevMXkcMb52JD1DFlSqzX7SH%2B6WC6tiPEAOfjVDjgDbuie8yRg1flEkB%2B2kh%2FGsjuERJMYsMXCt8Faf8MTYDlSDoq61aWvF%2FOvnBOhqbVmJsiToISlv61xOcctYe%2BxXApCxC0M%2FtSNd0TWNNq7zKo5PROHrQ93t6R0jcO0v%2FujhCmvUMTbtzZ8To8QKa%2FRO0TfRkJRnCiO3ECvuNtoacWEBCISAOzzVj%2BXM3%2F9opQJVlq%2FRU2we6ny16gmNZgqqTCtrQ5zY2RU4qpSeROkoov7cpcUQG%2Fv3WSDMuKrN1jURCTL49mZ944bac1m6TbIj2CMOxmbD16vXMWx%2BjlxbUru6Onl0%2BNUbm0bAwLvTsU9aYh%2BTdgp%2FtL56RbUiEfai9fmzz8W5uDmcpMbtKqvMuBQWCSP9g%2B7BRbzC494BOMAkpyVEbRs%2FfscRrJ7OmekrVeG5NltPxEc%2FUKmAAV1kZnI2bNnpcOeBEQV8jTxWKDDiGRDnWF3zDu8o6%2FBjqZAUc8%2B76FHWdkyYI60Mm3IdL1UmkY4kX54a6zvzoFApvWNJevwkBsA0xn9jwBW7NOsaqeVuQtILNZOwQG6wLY7lbOzLdu6P5s0n7667tOQLogrsdyD9txEC8u3RzSccepCyqASMdvKHBJsY2V1bDjJkORFX4dn6AON8WNxE6Z8d29Dv49xynUiNG5CTRk8JeAWtfSB8YGsNkZmA%3D%3D&Expires=1742980992",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>Lamp Name</th><th>Icon</th><th>Description</th></tr><tr><td>READY Indicator</td><td></td><td>This lamp is on when the EV system is p..</td></tr><tr><td>EV System Warning Lamp *1</td><td></td><td>Malfunction has occurred in the EV sys</td></tr><tr><td>Master Warning Lamp (RED)</td><td></td><td>This lamp is on when another red warnin.</td></tr><tr><td>Master Warning Lamp (YELLOW)</td><td></td><td>This lamp is on when: \u26ab High-voltage bat</td></tr></table>",
+        "embed": "<table><tr><th>Lamp Name</th><th>Icon</th><th>Description</th></tr><tr><td>READY Indicator</td><td></td><td>This lamp is on when the EV system is p..</td></tr><tr><td>EV System Warning Lamp *1</td><td></td><td>Malfunction has occurred in the EV sys</td></tr><tr><td>Master Warning Lamp (RED)</td><td></td><td>This lamp is on when another red warnin.</td></tr><tr><td>Master Warning Lamp (YELLOW)</td><td></td><td>This lamp is on when: \u26ab High-voltage bat</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04617968094038623,
+              "top": 0.0332541567695962,
+              "width": 0.9051217464315701,
+              "height": 0.12767220902612827,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>Lamp Name</th><th>Icon</th><th>Description</th></tr><tr><td>READY Indicator</td><td></td><td>This lamp is on when the EV system is p..</td></tr><tr><td>EV System Warning Lamp *1</td><td></td><td>Malfunction has occurred in the EV sys</td></tr><tr><td>Master Warning Lamp (RED)</td><td></td><td>This lamp is on when another red warnin.</td></tr><tr><td>Master Warning Lamp (YELLOW)</td><td></td><td>This lamp is on when: \u26ab High-voltage bat</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

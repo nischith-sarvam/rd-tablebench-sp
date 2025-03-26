@@ -1,0 +1,36 @@
+{
+  "job_id": "400984fc-eb8a-467a-bdb6-245144ffea13",
+  "duration": 135.34097385406494,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/b77d4d41-caa3-46ff-bad1-ea34fc659e86.pdf?AWSAccessKeyId=ASIA2UOK6OVBF6GHT2IM&Signature=eTwWWyw9FO%2FSE7XuahGR6EI1Gok%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDGrNCmmj2%2FujI%2BO%2FlQMnYimCulxN7NUELPstGKD2JZWwIhAM48SbcOfzTHsMUmG43TMK6UgOW43ZQjVbjKybMXopQfKoMFCCoQABoMNzMxMTA2OTMyMDM0IgxcJxCDoyuU6veyoogq4AQfB30xULYzv8Dpkk7hhSZ5G2RR8QCdMnRNqw5GnExQA9%2BGiuD2VAv%2BPTIYEY8JMqvc4FbJotGPF4pvIkLibEz%2BtppFTjaPlUJ0uv9iRiHJaeUvT7d%2Bahbw7uYJZaJPtNq2jo0W2zNnRiRWDXMjlmNSDkmeUPB29tpZTHVVLWWN%2BDv0S6XuCN8hSNcxw5fCtyVawYbrUtzOHppeKsrOgXNrGLg8c9qm83zuVabeH2QFguuZ9JCNDDSkkue%2BO%2Bf0jJm2jmKiU2lCF5SdxHvmby2D2btaPgglZSBZ1mA%2BkMxepOtmz2uc2jYWChRoPBgiLE7KmvanwN5WnpCmarIijL6%2FAXosytvy141Fj5rtAiUQnQW%2BJBEKdEespxuInPzAdpBMV77zJ3ocVYT94UwwqrOmpDMncY8vcVmw7lWvJtr5t0i3%2FZke8gjPU89SlYbrTXbsBb3RuuymobvW6Qsl19eZjJFhrlUf%2FUIl41XTC8mJmvqtF3EZPH7KijQiOK4KgYhBmGWlGM8uQMBpdPl%2B5vqp5dIsp8vlgfgZw15HLcwhfLL5cj8ygVMP4AbURyOUpi%2FD3YdR04HC4h2rAbOtByHvpMpAn4Pm%2F2qrJaraB3Ki8Y2p1kFDEX%2BWtwMmu%2Bnd7Z%2Fzy7t6J6TZCvpqTuVyzaGYqXeoFor%2Fr0BQSTBwfaXt3Ic4tIVaYKkZZqJC1ijZHrhFUyefgekZG%2FK6gIWw%2FpFnV2p2CyaNhk7EcbYl2SlzlVruewfuY7ZijCFrWkqag7mIOzNWRTXwasTZRcRv%2BzK81IkZ6zkbgiLl9%2BohrEAWBjDB8o6%2FBjqZAQFYen4GyTItjnsa8Yk8eeWhwL4rn2onQBCsssqQypaZjMHok1gRwy39xYPtrNuY6n%2BssGGmoQIn2VSPv%2BXKJ8Ag1xERcI4F8mT3CWrIPNYUGPR1iVYaHSRBQvYA%2B7qTEP17DqosTXlI6ixAaxc95ru4O6LFSo5kT62kSNiuAKC8Z4uBI47COMnxw0tKPLCSXmIV4OTvBym4yQ%3D%3D&Expires=1742980982",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>C\u00d3DIGO</th><th>MEDIDA</th><th>TUERCA</th><th>ACABADO</th><th></th><th></th><th>PRECIO</th></tr><tr><td>NOV23</td><td>1/2M X 3/8M</td><td>Sin Tuerca</td><td>Cromo</td><td>1</td><td>84</td><td>5,54 \u20ac</td></tr><tr><td>NOV16</td><td>1/2M X 1/2M</td><td>Sin Tuerca</td><td>Cromo</td><td>1</td><td>84</td><td>5,79 \u20ac</td></tr></table>",
+        "embed": "<table><tr><th>C\u00d3DIGO</th><th>MEDIDA</th><th>TUERCA</th><th>ACABADO</th><th></th><th></th><th>PRECIO</th></tr><tr><td>NOV23</td><td>1/2M X 3/8M</td><td>Sin Tuerca</td><td>Cromo</td><td>1</td><td>84</td><td>5,54 \u20ac</td></tr><tr><td>NOV16</td><td>1/2M X 1/2M</td><td>Sin Tuerca</td><td>Cromo</td><td>1</td><td>84</td><td>5,79 \u20ac</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04534005037783375,
+              "top": 0.033847980997624705,
+              "width": 0.9042821158690176,
+              "height": 0.07719714964370546,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>C\u00d3DIGO</th><th>MEDIDA</th><th>TUERCA</th><th>ACABADO</th><th></th><th></th><th>PRECIO</th></tr><tr><td>NOV23</td><td>1/2M X 3/8M</td><td>Sin Tuerca</td><td>Cromo</td><td>1</td><td>84</td><td>5,54 \u20ac</td></tr><tr><td>NOV16</td><td>1/2M X 1/2M</td><td>Sin Tuerca</td><td>Cromo</td><td>1</td><td>84</td><td>5,79 \u20ac</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}

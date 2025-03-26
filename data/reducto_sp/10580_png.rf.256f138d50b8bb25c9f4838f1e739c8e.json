@@ -1,0 +1,36 @@
+{
+  "job_id": "b3106f79-1f1d-4a61-877b-d2f2ce541e02",
+  "duration": 183.90976428985596,
+  "pdf_url": "https://prod-storage20241010144745140900000001.s3.amazonaws.com/b3e4f038-45f8-471f-a89a-70acf17d2446.pdf?AWSAccessKeyId=ASIA2UOK6OVBOIOISOKS&Signature=RYVJsO%2FdBQkb6rLojYqsPIVasyw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCTrfk9EfuEi5klLuQsJSifC8xRA7acXYKklClqjahZJwIhAN8ka%2F%2F%2FmH3Diqkq6HtxQJTEgAG7l9yyps0fwjmj7PpDKoMFCCkQABoMNzMxMTA2OTMyMDM0IgwSFzTGmiGL3gfqkBoq4ASIcP4%2FQJrZ6IKoq6QRMzVGOhao7lOP5QZrAuDmZ5dtiQGXBaGVQvCcndLlNr2mEZ%2Br%2F3Yyj0SOOGAJ67htu54a86rC2JFIVknhFXliUxzLDvL5zjyFxnDn646PRJM46%2Bji9J9DrkrrRImGIsfoxSo3yXFf8tZ4CBhNmu%2FwHeDeZhrkx94xb1roCAqSLpJ6zM48NPEpB471LZyqPxAirqGyfigz%2B7WqSNpgV%2B2nHxmGuRb9sFXZybnnQBaFgpjXA4nwD8jnFEE1RByN5s2JKrIfeiqbfZCOgxQBxI%2FkP%2FNv%2BtRZa%2F4JEaqJYmrH8MGY2q%2BvFb4Eco1wCYM7240MwcFCEWqtvjTI2FqPGS%2F21rouQzoqnVXHGdNhSAiN%2BT%2Fl0mWi1a3MNqRUmIfVBVN1rqFn7VPVmZX9sDdiEjslPODBv2LMsoJONW6X0i5H532QURw9Fcp9s4uS6LkKf9AmkDp5skDKeKko9hBLCV%2Bq1E32ppw4bw7NGPQYdGa6OvqJZQXYSPAShrh3c4rCv0aSxGiForttTpJcNCwVF%2Bel1iMoOH47Yc0vrTpw%2BnjEQA2KWpU8c8pBD7PwSagRoe181wO8ZkkdMxy4s7zN8yL2o95p3rhjNWFt7SpRYWDBw1QK6yrH4JYOEGlKF8wLahG9blphBV2t2351z4RIdZ9DNMks5aJSXxhcckxyTNe9M8tb%2Bdx44FeNcaF3yXnS4AnL6gxnF8EkTw7teLwmhU6LSvttrkWlpt76Myi6x9BX0H%2FyJQLNsDAPUOto6Vjz08fTXx%2B%2FPOaTZ1lenNQthBUx6d720jDR5Y6%2FBjqZAS8yPBMyZ8AQR1euQ%2BC2YYCZJHZnWGmIf3zg2SEnGRchCxS0Tiki0wBQhkATPnBGor9n%2FThEKzJDzglZczFPNvDrHQEJ3Cq%2FuPr26zv8YZwCg8E4TluDvzzkzATET%2FgXwEWY8JFREA7kKt%2FV6Ch0NKpUl8S0wclyp6fJzGdrxWZ%2F31gphkxpN5GNFVoX9VHnah2WXHbXUN2H8w%3D%3D&Expires=1742981022",
+  "usage": {
+    "num_pages": 1
+  },
+  "result": {
+    "type": "full",
+    "chunks": [
+      {
+        "content": "<table><tr><th>5</th><th>Powers of 10</th><th>A whole number that can be ...</th><th>100 = 10 X 10 or 102 1,000 =...</th></tr><tr><td>5</td><td>Prime Factorization</td><td>Expression of a composite nu..</td><td>24/112 X2/14X3X2/\\\\\\... 3 X</td></tr><tr><td>5</td><td>Prime number</td><td>A number, greater than 1, tha</td><td>2, 3, 5, 7, 11 ...</td></tr><tr><td>5</td><td>Prism</td><td>A polyhedron that has 2 paral...</td><td></td></tr><tr><td>5</td><td>Probability</td><td>The ratio of the number of fav</td><td>P = number of favorable outc...</td></tr><tr><td>5</td><td>Product</td><td>Answer to a multiplication pro...</td><td>21 X 8 = 168 &lt;-- Product</td></tr></table>",
+        "embed": "<table><tr><th>5</th><th>Powers of 10</th><th>A whole number that can be ...</th><th>100 = 10 X 10 or 102 1,000 =...</th></tr><tr><td>5</td><td>Prime Factorization</td><td>Expression of a composite nu..</td><td>24/112 X2/14X3X2/\\\\\\... 3 X</td></tr><tr><td>5</td><td>Prime number</td><td>A number, greater than 1, tha</td><td>2, 3, 5, 7, 11 ...</td></tr><tr><td>5</td><td>Prism</td><td>A polyhedron that has 2 paral...</td><td></td></tr><tr><td>5</td><td>Probability</td><td>The ratio of the number of fav</td><td>P = number of favorable outc...</td></tr><tr><td>5</td><td>Product</td><td>Answer to a multiplication pro...</td><td>21 X 8 = 168 &lt;-- Product</td></tr></table>",
+        "enriched": null,
+        "enrichment_success": false,
+        "blocks": [
+          {
+            "type": "Table",
+            "bbox": {
+              "left": 0.04450041981528128,
+              "top": 0.0332541567695962,
+              "width": 0.9034424853064652,
+              "height": 0.15320665083135393,
+              "page": 1,
+              "original_page": 1
+            },
+            "content": "<table><tr><th>5</th><th>Powers of 10</th><th>A whole number that can be ...</th><th>100 = 10 X 10 or 102 1,000 =...</th></tr><tr><td>5</td><td>Prime Factorization</td><td>Expression of a composite nu..</td><td>24/112 X2/14X3X2/\\\\\\... 3 X</td></tr><tr><td>5</td><td>Prime number</td><td>A number, greater than 1, tha</td><td>2, 3, 5, 7, 11 ...</td></tr><tr><td>5</td><td>Prism</td><td>A polyhedron that has 2 paral...</td><td></td></tr><tr><td>5</td><td>Probability</td><td>The ratio of the number of fav</td><td>P = number of favorable outc...</td></tr><tr><td>5</td><td>Product</td><td>Answer to a multiplication pro...</td><td>21 X 8 = 168 &lt;-- Product</td></tr></table>",
+            "image_url": null
+          }
+        ]
+      }
+    ],
+    "ocr": null,
+    "custom": null
+  }
+}
