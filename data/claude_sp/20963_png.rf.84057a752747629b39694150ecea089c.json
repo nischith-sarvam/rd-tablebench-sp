@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td colspan=\"2\">WIRING COLOR LEGEND</td>\n</tr>\n<tr>\n<td>120v</td>\n<td>277v</td>\n</tr>\n<tr>\n<td>a</td>\n<td>Black</td>\n<td>a</td>\n<td>Orange</td>\n</tr>\n<tr>\n<td>b</td>\n<td>White</td>\n<td>b</td>\n<td>White</td>\n</tr>\n<tr>\n<td>c</td>\n<td>*Blue</td>\n<td>c</td>\n<td>*Yellow</td>\n</tr>\n<tr>\n<td>d</td>\n<td>Green</td>\n<td>d</td>\n<td>Green</td>\n</tr>\n<tr>\n<td>e</td>\n<td>Red</td>\n<td>e</td>\n<td>Brown</td>\n</tr>\n</table>"
+}

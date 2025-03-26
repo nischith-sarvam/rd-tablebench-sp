@@ -221,4 +221,24 @@ def parse_sarvam_outputs(path: str):
             print(f"No table found in {file_path}")
             os.remove(file_path)
 
-parse_sarvam_outputs("/Users/nischithshadagopan/Sarvam/rd-tablebench/data/providers/sarvam-parse")
+def parse_claude_outputs(inp_path:str, out_path:str): 
+    for file in os.listdir(inp_path):
+        if file.endswith(".json"):
+            file_path = os.path.join(inp_path, file)
+            (table, data) = parse_gpt4o_response(file_path)
+            # store the table in the out_path as a html file
+            if table:
+                with open(os.path.join(out_path, file.replace(".json", ".html")), "w") as f:
+                    f.write(table)
+            else:
+                print(f"No table found in {file_path}")
+                # os.remove(file_path)
+
+        
+if __name__ == "__main__":
+    inp_path="/home/vansh/work/sarvam/rd-tablebench-sp/data/claude_sp"
+    out_path="/home/vansh/work/sarvam/rd-tablebench-sp/data/providers/claude_sp"
+    parse_claude_outputs(inp_path, out_path)
+
+
+# parse_sarvam_outputs("/Users/nischithshadagopan/Sarvam/rd-tablebench/data/providers/sarvam-parse")

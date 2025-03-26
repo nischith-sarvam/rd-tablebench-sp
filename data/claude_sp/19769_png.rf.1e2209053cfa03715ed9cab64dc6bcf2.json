@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>D1</td>\n<td>D2</td>\n<td>Mechanism</td>\n</tr>\n<tr>\n<td>Treatment 1:</td>\n<td>{$4, (½, $10)}</td>\n<td>{$3, (½, $12)}</td>\n<td>Pay only D1</td>\n</tr>\n<tr>\n<td>Treatment 2:</td>\n<td>{$4, (½, $10)}</td>\n<td>{$3,(½, $12)}</td>\n<td>RPS</td>\n</tr>\n</table>"
+}

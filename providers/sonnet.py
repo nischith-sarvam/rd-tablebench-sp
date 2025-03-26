@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-base_path = "../data/test_pdfs/"
+base_path = "../data/pdfs_sp/"
 pdfs = glob.glob(os.path.join(base_path, "**", "*.pdf"), recursive=True)
 
 
@@ -97,4 +97,7 @@ def process_all_pdfs(pdfs: list[str]):
 
 
 if __name__ == "__main__":
-    process_all_pdfs(pdfs)
+    rerun_pdfs = [file for file in pdfs if file.startswith("../data/pdfs_sp/27253") or file.startswith("../data/pdfs_sp/3794")]
+    # print(pdfs)
+    print(rerun_pdfs)
+    process_all_pdfs(rerun_pdfs)

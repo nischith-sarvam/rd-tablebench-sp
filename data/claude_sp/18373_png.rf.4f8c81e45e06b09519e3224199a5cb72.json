@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>Cylindrical</td>\n<td>Ø 20</td>\n<td>145.0051</td>\n<td>Ø 20</td>\n<td>145.0709.5</td>\n<td>Ø 20</td>\n<td>145.0051</td>\n</tr>\n<tr>\n<td>Conical</td>\n<td>Ø 16</td>\n<td>145.0085¹</td>\n<td>Ø 16</td>\n<td>145.0708.5²</td>\n<td>Ø 16</td>\n<td>145.0085³</td>\n</tr>\n<tr>\n<td>Tapered</td>\n<td>Ø 14</td>\n<td>145.0132</td>\n<td>Ø 13</td>\n<td>145.0734.5</td>\n<td>Ø 14</td>\n<td>145.0132</td>\n</tr>\n</table>"
+}

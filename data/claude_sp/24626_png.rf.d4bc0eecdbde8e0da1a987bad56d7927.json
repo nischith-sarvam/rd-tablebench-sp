@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<th>Relevance</th>\n<th>Volume (megaliters/year)</th>\n<th>Comparison with previous reporting period</th>\n<th>Please explain</th>\n</tr>\n<tr>\n<td>Fresh surface water</td>\n<td>Not relevant</td>\n<td>&lt;Not Applicable&gt;</td>\n<td>&lt;Not Applicable&gt;</td>\n<td></td>\n</tr>\n<tr>\n<td>Brackish surface water...</td>\n<td>Not relevant</td>\n<td>&lt;Not Applicable&gt;</td>\n<td>&lt;Not Applicable&gt;</td>\n<td></td>\n</tr>\n<tr>\n<td>Groundwater</td>\n<td>Not relevant</td>\n<td>&lt;Not Applicable&gt;</td>\n<td>&lt;Not Applicable&gt;</td>\n<td></td>\n</tr>\n<tr>\n<td>Third-party destinations</td>\n<td>Relevant</td>\n<td>68991</td>\n<td>Lower</td>\n<td>his could be due to im...</td>\n</tr>\n</table>"
+}

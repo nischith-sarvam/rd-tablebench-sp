@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td></td>\n<td>Unstandardized Residual</td>\n</tr>\n<tr>\n<td>N</td>\n<td>80</td>\n</tr>\n<tr>\n<td rowspan=\"2\">Normal Parameters a,b</td>\n<td>Mean</td>\n<td>,0000000</td>\n</tr>\n<tr>\n<td>Std. Deviation</td>\n<td>,28743066</td>\n</tr>\n<tr>\n<td rowspan=\"3\">Most Extreme Differences</td>\n<td>Absolute</td>\n<td>,119</td>\n</tr>\n<tr>\n<td>Positive</td>\n<td>,119</td>\n</tr>\n<tr>\n<td>Negative</td>\n<td>-,092</td>\n</tr>\n<tr>\n<td>Kolmogorov-Smirnov Z</td>\n<td>1,065</td>\n</tr>\n<tr>\n<td>Asymp. Sig. (2-tailed)</td>\n<td>,207</td>\n</tr>\n</table>"
+}

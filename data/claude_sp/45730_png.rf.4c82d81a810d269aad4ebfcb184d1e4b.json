@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>Profondeur:</td>\n<td>50 mm</td>\n<td>72 mm</td>\n<td>50 mm</td>\n<td>72 mm</td>\n</tr>\n<tr>\n<td>Hauteurs:</td>\n<td colspan=\"2\">350 - 600 mm, par pas de 50 mm 700 - 2000 mm,...</td>\n<td colspan=\"2\">215-2115 - mm, par pas de 38 mm</td>\n</tr>\n<tr>\n<td>Longueurs:</td>\n<td colspan=\"2\">228-3952 mm (6 - 124 éléments), par pas de 38 ...</td>\n<td colspan=\"2\">500 - 2000 mm, par pas de 100 mm</td>\n</tr>\n<tr>\n<td>Pression de service:</td>\n<td>10 bars / 16 bars</td>\n<td>10 bars / 16 bars</td>\n<td>10 bars / 16 bars</td>\n<td>10 bars / 16 bars</td>\n</tr>\n</table>"
+}

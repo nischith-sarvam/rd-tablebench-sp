@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>Formato</td>\n<td>Dimensiones (cm)</td>\n<td>Potencia W</td>\n<td>Peso</td>\n<td>Medidas caja exterior</td>\n</tr>\n<tr>\n<td rowspan=\"3\">Cuadrado Multipotencia</td>\n<td rowspan=\"3\">60x60</td>\n<td>1000</td>\n<td rowspan=\"3\">20</td>\n<td rowspan=\"3\">68,8x66,6x18</td>\n</tr>\n<tr>\n<td>1500</td>\n</tr>\n<tr>\n<td>2000</td>\n</tr>\n<tr>\n<td rowspan=\"2\">Vertical Multipotencia</td>\n<td rowspan=\"2\">45x80</td>\n<td>800</td>\n<td rowspan=\"2\">20</td>\n<td rowspan=\"2\">52,8x88,6x18</td>\n</tr>\n<tr>\n<td>1300</td>\n</tr>\n</table>"
+}

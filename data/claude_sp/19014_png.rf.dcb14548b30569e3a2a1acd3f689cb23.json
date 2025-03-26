@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>Common Medical Ev...</td>\n<td>Services You May Need</td>\n<td colspan=\"2\">What You Will Pay</td>\n<td>Limitations, Exceptio...</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Network Provider (Yo...</td>\n<td>Non-Network Provide...</td>\n<td></td>\n</tr>\n<tr>\n<td rowspan=\"2\">If you visit a health car...</td>\n<td>Primary care visit to tr...</td>\n<td>No charge for first 3 P...</td>\n<td rowspan=\"2\">Not covered</td>\n<td rowspan=\"2\">Each member has cos...</td>\n</tr>\n<tr>\n<td>Specialist visit</td>\n<td>No charge after deduc...</td>\n</tr>\n<tr>\n<td></td>\n<td>Preventive care/scree...</td>\n<td>No charge</td>\n<td>Not covered</td>\n<td>Preventive services no...</td>\n</tr>\n</table>"
+}

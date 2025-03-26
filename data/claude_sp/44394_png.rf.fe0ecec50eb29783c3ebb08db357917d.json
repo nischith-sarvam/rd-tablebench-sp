@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>コース</td>\n<td>科目</td>\n<td>受講料(税込)</td>\n<td>教材費(税込)</td>\n<td>時間帯</td>\n</tr>\n<tr>\n<td>個人科 40</td>\n<td>希望の1科40分×12日間</td>\n<td>¥34,980</td>\n<td>¥880</td>\n<td></td>\n</tr>\n<tr>\n<td>個人2科 60</td>\n<td>希望の2科各30分 × 12日間</td>\n<td>¥50,050</td>\n<td>¥1,760</td>\n<td>9:00-21:30 の間から受講</td>\n</tr>\n<tr>\n<td>個人3科 90</td>\n<td>希望の3科各30分×12日間</td>\n<td>¥72,930</td>\n<td>¥2,640</td>\n<td></td>\n</tr>\n</table>"
+}

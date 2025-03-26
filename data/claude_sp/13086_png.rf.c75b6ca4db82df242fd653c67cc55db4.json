@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n  <td>I</td>\n  <td>II</td>\n  <td>III</td>\n  <td>IV</td>\n  <td>V</td>\n  <td>VI</td>\n  <td>VII</td>\n  <td>VIII</td>\n  <td>IX</td>\n  <td>X</td>\n  <td>XI</td>\n  <td>XII</td>\n  <td>XIII</td>\n  <td>XIV</td>\n  <td>XV</td>\n</tr>\n<tr>\n  <td></td>\n  <td></td>\n  <td>CR</td>\n  <td></td>\n  <td></td>\n  <td>VR ('...</td>\n  <td colspan=\"8\">Slots VII through XIV same as above</td>\n  <td>stres...</td>\n</tr>\n<tr>\n  <td>-</td>\n  <td>-</td>\n  <td>main...</td>\n  <td>-</td>\n  <td>-</td>\n  <td>Spe...</td>\n  <td></td>\n  <td></td>\n  <td></td>\n  <td></td>\n  <td></td>\n  <td></td>\n  <td></td>\n  <td></td>\n  <td></td>\n</tr>\n</table>"
+}
