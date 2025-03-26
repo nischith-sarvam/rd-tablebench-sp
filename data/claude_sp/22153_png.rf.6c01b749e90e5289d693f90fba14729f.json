@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>項目</td>\n<td>資料來源與佐證資料</td>\n<td colspan=\"2\">自評結果</td>\n<td>訪評結果</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>學校辦理之具體成果、...</td>\n<td>考評小組意見 (請依條...</td>\n<td>得分(每項以 100分計)</td>\n</tr>\n<tr>\n<td>1. 能建置豐富高職優...</td>\n<td>1.網站建置資料 職優質...</td>\n<td>1.本校高職優質化網站...</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2.能辦理或參與校際交...</td>\n<td>1. 校與校及區域性校際...</td>\n<td>1.本校機械群科(機械科...</td>\n<td></td>\n<td></td>\n</tr>\n</table>"
+}

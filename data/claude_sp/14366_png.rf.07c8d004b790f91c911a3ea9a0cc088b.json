@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n  <tr>\n    <td>Asset</td>\n    <td>Foreign currency</td>\n    <td>Amount (Unit: thousand)</td>\n    <td>Exchange rate (Baht per for...</td>\n  </tr>\n  <tr>\n    <td>Ordinary shares</td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>EDL-GEN</td>\n    <td>Lao People's Democratic Republic LAK</td>\n    <td>8,322,693</td>\n    <td>0.0041</td>\n  </tr>\n  <tr>\n    <td>DBC</td>\n    <td>Vietnamese VND</td>\n    <td>6,287,378</td>\n    <td>0.0015</td>\n  </tr>\n  <tr>\n    <td>AMC III</td>\n    <td>United States USD</td>\n    <td>600</td>\n    <td>33.7340</td>\n  </tr>\n</table>"
+}

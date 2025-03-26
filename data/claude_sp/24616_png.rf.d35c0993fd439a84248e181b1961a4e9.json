@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<th></th>\n<th>16oz</th>\n<th>Pitcher</th>\n</tr>\n<tr>\n<td>Budlight</td>\n<td>5</td>\n<td>14</td>\n</tr>\n<tr>\n<td>Coors Light</td>\n<td>5</td>\n<td>14</td>\n</tr>\n<tr>\n<td>Harpoon IPA</td>\n<td>6</td>\n<td>16</td>\n</tr>\n<tr>\n<td>Peroni</td>\n<td>6</td>\n<td>16</td>\n</tr>\n<tr>\n<td>Blue Moon</td>\n<td>6</td>\n<td>16</td>\n</tr>\n<tr>\n<td>Stella Artois</td>\n<td>6</td>\n<td>16</td>\n</tr>\n<tr>\n<td>Sam Adams</td>\n<td>6</td>\n<td>16</td>\n</tr>\n<tr>\n<td>Sams Adams Seasonal</td>\n<td>6</td>\n<td>16</td>\n</tr>\n<tr>\n<td>Featured Beer</td>\n<td>6</td>\n<td>16</td>\n</tr>\n</table>"
+}

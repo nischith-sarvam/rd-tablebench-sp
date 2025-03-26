@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<th rowspan=\"2\">GESTIONE C...</th>\n<th colspan=\"2\">Preventivo 2019</th>\n<th colspan=\"2\">Preventivo 2018</th>\n<th colspan=\"2\">Consuntivo 2017</th>\n</tr>\n<tr>\n<td>Spese</td>\n<td>Ricavi</td>\n<td>Spese</td>\n<td>Ricavi</td>\n<td>Spese</td>\n<td>Ricavi</td>\n</tr>\n<tr>\n<td>Totale ricavi co...</td>\n<td></td>\n<td>8'003'183.65</td>\n<td></td>\n<td>8'171'388.65</td>\n<td></td>\n<td>7'410'513.75</td>\n</tr>\n<tr>\n<td>Totale spese c...</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Saldo</td>\n<td>8'003'183.65</td>\n<td></td>\n<td>8'171'388.65</td>\n<td></td>\n<td>7'410'513.75</td>\n<td></td>\n</tr>\n</table>"
+}

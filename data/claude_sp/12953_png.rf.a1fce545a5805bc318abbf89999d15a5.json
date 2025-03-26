@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<th>序号</th>\n<th>库房温度/°C</th>\n<th colspan=\"2\">肉类降温情况</th>\n<th>冷加工时间/h①</th>\n<th colspan=\"2\">单位耗冷/(w/t)</th>\n</tr>\n<tr>\n<th></th>\n<th></th>\n<th>入库°C</th>\n<th>出库°C</th>\n<th></th>\n<th>冷却设备负荷</th>\n<th>机械负荷</th>\n</tr>\n<tr>\n<td>1</td>\n<td>-2</td>\n<td>35</td>\n<td>4</td>\n<td>20</td>\n<td>3000</td>\n<td>2300</td>\n</tr>\n<tr>\n<td>2</td>\n<td>-7/-2②</td>\n<td>35</td>\n<td>4</td>\n<td>11</td>\n<td>5000</td>\n<td>4000</td>\n</tr>\n<tr>\n<td>3</td>\n<td>-10</td>\n<td>35</td>\n<td>12</td>\n<td>8</td>\n<td>620</td>\n<td>5000</td>\n</tr>\n<tr>\n<td>4</td>\n<td>-10</td>\n<td>35</td>\n<td>10</td>\n<td>3</td>\n<td>13000</td>\n<td>10000</td>\n</tr>\n</table>"
+}

@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>Recording (S...</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n</tr>\n<tr>\n<td>Length (Sec.)</td>\n<td>13.183</td>\n<td>12.943</td>\n<td>10.473</td>\n</tr>\n<tr>\n<td>Pitch for loom (...)</td>\n<td>114.93</td>\n<td>116.75</td>\n<td>114.53</td>\n</tr>\n<tr>\n<td>Intensity for lo...</td>\n<td>66.86</td>\n<td>67.86</td>\n<td>63.75</td>\n</tr>\n<tr>\n<td>Pause btw 2 s...</td>\n<td>0.741</td>\n<td>0.621</td>\n<td>0.491</td>\n</tr>\n<tr>\n<td>Time taken for ...</td>\n<td>0.222</td>\n<td>0.216</td>\n<td>0.242</td>\n<td>0.235</td>\n<td>0.214</td>\n<td>0.225</td>\n</tr>\n<tr>\n<td>Time taken for ...</td>\n<td>0.251</td>\n<td>0.236</td>\n<td>0.248</td>\n<td>0.263</td>\n<td>0.211</td>\n<td>0.242</td>\n</tr>\n</table>"
+}

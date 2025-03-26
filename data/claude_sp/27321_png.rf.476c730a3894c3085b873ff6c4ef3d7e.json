@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>Resistencia</td>\n<td>Rango</td>\n<td>Resolución</td>\n<td>Precisión (% del valor)</td>\n</tr>\n<tr>\n<td></td>\n<td>400 Ω</td>\n<td>0,1 Ω</td>\n<td>± 1,5% + 5 d</td>\n</tr>\n<tr>\n<td></td>\n<td>4 KΩ</td>\n<td>1 Ω</td>\n<td>± 1,5% + 5 d</td>\n</tr>\n<tr>\n<td></td>\n<td>40 KΩ</td>\n<td>10 Ω</td>\n<td>± 1,5 % + 5 d</td>\n</tr>\n<tr>\n<td></td>\n<td>400 KΩ</td>\n<td>100 Ω</td>\n<td>± 1,5 % + 5 d</td>\n</tr>\n<tr>\n<td></td>\n<td>4 MΩ</td>\n<td>1 KΩ</td>\n<td>± 2% + 10 d</td>\n</tr>\n<tr>\n<td></td>\n<td>40 MΩ</td>\n<td>10 KΩ</td>\n<td>± 2% + 10 d</td>\n</tr>\n</table>"
+}

@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>VIC</td>\n<td>ITEM NUMBER</td>\n<td>POST QTY</td>\n<td>COST</td>\n<td>EXTENSION</td>\n</tr>\n<tr>\n<td>MUR</td>\n<td>9614ASTB</td>\n<td>1</td>\n<td>54.500</td>\n<td>54.500</td>\n</tr>\n<tr>\n<td>MUR</td>\n<td>10112WBK</td>\n<td>2</td>\n<td>89.500</td>\n<td>179.000</td>\n</tr>\n<tr>\n<td>MUR</td>\n<td>101390RB</td>\n<td>1</td>\n<td>84.500</td>\n<td>84.500</td>\n</tr>\n<tr>\n<td>MUR</td>\n<td>10153DRFW/CO</td>\n<td>1</td>\n<td>59.500</td>\n<td>59.500</td>\n</tr>\n<tr>\n<td>SUB</td>\n<td>TOTALS</td>\n<td>5</td>\n<td></td>\n<td>377.500</td>\n</tr>\n</table>"
+}

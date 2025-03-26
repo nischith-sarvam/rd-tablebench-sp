@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>Parameter</td>\n<td>Condition</td>\n<td>Values</td>\n</tr>\n<tr>\n<td>Output Voltage Accuracy</td>\n<td></td>\n<td>±5% typ.</td>\n</tr>\n<tr>\n<td>Line Voltage Regulation</td>\n<td>low line to high line</td>\n<td>+ 1.2% typ. /1% of Vin</td>\n</tr>\n<tr>\n<td rowspan=\"3\">Load Voltage Regulation</td>\n<td rowspan=\"3\">10% to 100% load |</td>\n<td>Vin= 5V</td>\n<td>8% typ., 15% max</td>\n</tr>\n<tr>\n<td>Vin = 12V</td>\n<td>3% typ., 15% max</td>\n</tr>\n<tr>\n<td>Vin = 24V</td>\n<td>4% typ., 15% max</td>\n</tr>\n</table>"
+}

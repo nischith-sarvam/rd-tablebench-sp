@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>Configuration</td>\n<td>LPIPS↓</td>\n<td>FID↓</td>\n<td>NIQE↓</td>\n<td>Deg.↓</td>\n</tr>\n<tr>\n<td>Our GFP-GAN with S...</td>\n<td>0.3646</td>\n<td>42.62</td>\n<td>4.077</td>\n<td>34.60</td>\n</tr>\n<tr>\n<td>a) No spatial modulation</td>\n<td>0.550 (↑)</td>\n<td>60.44 (↑)</td>\n<td>4.183 (↑)</td>\n<td>74.76 (↑)</td>\n</tr>\n<tr>\n<td>b) Use SFT</td>\n<td>0.387 (↑)</td>\n<td>47.65 (↑)</td>\n<td>4.146(↑)</td>\n<td>34.38 (↓)</td>\n</tr>\n<tr>\n<td>c) w/o GFP</td>\n<td>0.379 (↑)</td>\n<td>48.47 (↑)</td>\n<td>4.153 (↑)</td>\n<td>35.04 (↑)</td>\n</tr>\n<tr>\n<td>d) - Pyramid Restorati...</td>\n<td>0.369 (↑)</td>\n<td>45.17 (↑)</td>\n<td>4.284 (↑)</td>\n<td>35.50 (↑)</td>\n</tr>\n</table>"
+}

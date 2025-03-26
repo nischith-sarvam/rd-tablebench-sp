@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<th>System No.</th>\n<th>Deck (Note 1)</th>\n<th>Base Insula...</th>\n<th colspan=\"3\">Top Insulation Layer</th>\n<th>Roof Cover ...</th>\n<th>MDP (psf)</th>\n</tr>\n<tr>\n<th colspan=\"3\"></th>\n<th>Type</th>\n<th>Fasteners (...</th>\n<th>Attach</th>\n<th colspan=\"2\"></th>\n</tr>\n<tr>\n<td>W-12.</td>\n<td>Min. 19/32\" ...</td>\n<td>(Optional) O...</td>\n<td>Min. 0.25-in...</td>\n<td>All Purpose ...</td>\n<td>1 per 2.7 ft2</td>\n<td>JM PVC Fle...</td>\n<td>-37.5*</td>\n</tr>\n<tr>\n<td>W-13.</td>\n<td>Min. 15/32\" ...</td>\n<td>(Optional) O...</td>\n<td>Min. 0.25-in...</td>\n<td>All Purpose ...</td>\n<td>1 per 2.7 ft2</td>\n<td>JM PVC Fle...</td>\n<td>-45.0*</td>\n</tr>\n</table>"
+}

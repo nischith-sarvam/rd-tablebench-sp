@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>Pos.</td>\n<td>Quantity (target)</td>\n<td>Quantity (actual)</td>\n<td>Article</td>\n</tr>\n<tr>\n<td>1</td>\n<td>m²</td>\n<td>m²</td>\n<td>Removing existing floor cover...</td>\n</tr>\n<tr>\n<td>2</td>\n<td>m²</td>\n<td>m²</td>\n<td>Flooring installation</td>\n</tr>\n<tr>\n<td>3</td>\n<td>m</td>\n<td>m</td>\n<td>Profile insertion</td>\n</tr>\n<tr>\n<td>4</td>\n<td>m</td>\n<td>m</td>\n<td>Attaching skirting boards</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Pcs.</td>\n<td>Pcs.</td>\n<td>Shorten doors</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Pcs.</td>\n<td>Pcs.</td>\n<td>Shorten door frames</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Pcs.</td>\n<td>Pcs.</td>\n<td>Swapping planks</td>\n</tr>\n</table>"
+}

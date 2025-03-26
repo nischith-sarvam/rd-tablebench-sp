@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>Key</td>\n<td>Value</td>\n<td>Description</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>&lt;key&gt;IS_MANAGED&lt;/key&gt; &lt;true/&gt; &lt;/di...</td>\n</tr>\n<tr>\n<td>IS MANAGED</td>\n<td>• true • false</td>\n<td>Set this key to true if you want to restrict ...</td>\n</tr>\n<tr>\n<td>Custom keyboards</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>MI_AC_IOS ALLOW_KEYBOARDS</td>\n<td>• true • false</td>\n<td>This key allows the admin to enable or di...</td>\n</tr>\n<tr>\n<td>AppConnect logs</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>MI_AC_LOG LEVEL</td>\n<td>• Error • Info • Verbose • Debug</td>\n<td>Specifies the level of logging from the le...</td>\n</tr>\n</table>"
+}

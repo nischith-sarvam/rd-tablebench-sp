@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<th>Status</th>\n<th>Rule ID</th>\n<th>Severity</th>\n<th>Rule</th>\n</tr>\n<tr>\n<td></td>\n<td>BD-API-BADPARAM</td>\n<td>1</td>\n<td>Do not pass incorrect values ...</td>\n</tr>\n<tr>\n<td></td>\n<td>BD-API-CTYPE</td>\n<td>2</td>\n<td>Do not pass incorrect values ...</td>\n</tr>\n<tr>\n<td></td>\n<td>BD-API-NEGPARAM</td>\n<td>1</td>\n<td>Do not pass negative values t...</td>\n</tr>\n<tr>\n<td></td>\n<td>BD-API-</td>\n<td>2</td>\n<td>Do not check for a non-negati...</td>\n</tr>\n</table>"
+}

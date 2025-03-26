@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n    <td rowspan=\"4\">发电厂类型</td>\n    <td colspan=\"6\">应用</td>\n</tr>\n<tr>\n    <td rowspan=\"2\">给水泵</td>\n    <td>主给水泵</td>\n    <td>前置泵</td>\n    <td>凝结水泵</td>\n    <td>冷却水泵</td>\n    <td>辅助泵</td>\n</tr>\n<tr>\n    <td>泵型</td>\n    <td>HPT GSG CP ME...</td>\n    <td>HZB BBS ZE PRE</td>\n    <td>SJD (CEP) ZE PR...</td>\n    <td>SJT/SJM CWP SJ...</td>\n    <td>ZE/ZF PRE/PRER...</td>\n</tr>\n<tr>\n    <td colspan=\"2\">燃煤和燃油发电厂</td>\n    <td>[X]</td>\n    <td>[X]</td>\n    <td>[X]</td>\n    <td>[X]</td>\n    <td>[X]</td>\n</tr>\n<tr>\n    <td colspan=\"2\">燃气发电厂</td>\n    <td>[X]</td>\n    <td></td>\n    <td>[X]</td>\n    <td>[X]</td>\n    <td>[X]</td>\n</tr>\n</table>"
+}

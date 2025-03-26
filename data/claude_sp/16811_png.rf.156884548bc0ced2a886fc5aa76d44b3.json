@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<td>試験品 / 検査項目</td>\n<td>検査結果</td>\n<td>単位</td>\n<td>検査基準及び検査法等</td>\n</tr>\n<tr>\n<td>【試験品】 カラ付カキ</td>\n<td colspan=\"2\"></td>\n<td>生食用かき</td>\n</tr>\n<tr>\n<td>細菌数 (生菌数)</td>\n<td>60</td>\n<td>以下CFU/g</td>\n<td>検査基準:5.0 × 104CFU / g以...</td>\n</tr>\n<tr>\n<td>E. coli</td>\n<td>18未満</td>\n<td>MPN/100g</td>\n<td>検査基準: 230MPN / 100g以...</td>\n</tr>\n<tr>\n<td>腸炎ビブリオ</td>\n<td>3.0未満</td>\n<td>MPN/g</td>\n<td>アルカリペプトン増菌塩...</td>\n</tr>\n</table>"
+}

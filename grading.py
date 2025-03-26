@@ -234,6 +234,9 @@ def table_similarity(
         return max(0.0, min(similarity, 1.0))
 
     # Apply normalization to both ground truth and prediction arrays
+    if len(prediction) == 0:
+        print("Empty prediction")
+        return 0.0
     vectorized_normalize = np.vectorize(normalize_cell)
     ground_truth = vectorized_normalize(ground_truth)
     prediction = vectorized_normalize(prediction)

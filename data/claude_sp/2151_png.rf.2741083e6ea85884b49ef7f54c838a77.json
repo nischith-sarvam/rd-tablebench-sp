@@ -1,0 +1,3 @@
+{
+  "html_table": "<table>\n<tr>\n<th>poř.č.</th>\n<th>stání č.</th>\n<th>plocha</th>\n<th>pořadí</th>\n<th>jméno a adresa ú...</th>\n<th>nabídnutá výše n...</th>\n</tr>\n<tr>\n<td rowspan=\"2\">1</td>\n<td rowspan=\"2\">25.28</td>\n<td rowspan=\"2\">11,00 m²</td>\n<td>1.</td>\n<td></td>\n<td>1 400 Kč</td>\n</tr>\n<tr>\n<td>2.</td>\n<td></td>\n<td>1 082 Kč</td>\n</tr>\n<tr>\n<td rowspan=\"2\">2</td>\n<td rowspan=\"2\">25.236</td>\n<td rowspan=\"2\">11,00 m²</td>\n<td>1.</td>\n<td></td>\n<td>1 300 Kč</td>\n</tr>\n<tr>\n<td>2.</td>\n<td></td>\n<td>1 104 Kč</td>\n</tr>\n</table>"
+}
