@@ -14,8 +14,7 @@ def create_pdfs_from_tables(template_path, tables_folder, output_folder, base_fo
     
     # Get all table HTML files
     # table_files = glob.glob(os.path.join(tables_folder, '*.html'))
-    table_files = ["/home/vansh/work/sarvam/rd-tablebench-sp/data/groundtruth_sp/18258_png.rf.ae78b6fc0601a8d9e30bb3f3be3c74df.html", 
-                   "/home/vansh/work/sarvam/rd-tablebench-sp/data/groundtruth_sp/6417_png.rf.59f6203773e4bb3b9811f05f53fcabfc.html"]
+    table_files = ["/home/vansh/work/sarvam/rd-tablebench-sp/data/groundtruth_sp/19099_png.rf.5168ded02a5cfb7b6d7a90ffe3d405c3.html"]
     
     for i, table_file in enumerate(table_files):
         table_filename = os.path.basename(table_file)
@@ -56,7 +55,7 @@ def create_pdfs_from_tables(template_path, tables_folder, output_folder, base_fo
             }}
             td, th {{
                 border: 1px solid #ddd;
-                padding: 4px;
+                padding: 1.5px;
                 overflow: hidden;
                 text-overflow: ellipsis;
                 white-space: nowrap;
