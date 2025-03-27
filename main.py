@@ -48,6 +48,5 @@ print(f"length of table similarity scores: {len(table_similarity_scores)}")
 # plot the table similarity scores as a frequency line plot
 print(empty_list)
 plt.hist(table_similarity_scores, bins=20)
-plt.savefig("reducto_output.png")
 plt.show()
 print(average_table_similarity_score)
