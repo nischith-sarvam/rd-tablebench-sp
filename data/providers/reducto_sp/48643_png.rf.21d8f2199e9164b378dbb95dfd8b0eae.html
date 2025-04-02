@@ -1,1 +1,13 @@
-<table><tr><th>Key</th><th>Value</th><th>Description</th></tr><tr><td></td><td></td><td>&lt;key&gt;IS_MANAGED&lt;/key&gt; &lt;true/&gt; &lt;/di...</td></tr><tr><td>IS MANAG ED</td><td>⚫ true false</td><td>Set this key to true if you want to restrict ...</td></tr><tr><td colspan="3">Custom keyboards</td></tr><tr><td>MI_AC_ IOS ALLO W_KEYBO ARDS</td><td>⚫ true • false</td><td>This key allows the admin to enable or di</td></tr><tr><td colspan="3">AppConnect logs</td></tr><tr><td>MI_AC_LOG LEVEL</td><td>Error Info ⚫ Verbose Debug</td><td>Specifies the level of logging from the le...</td></tr></table>
+<table><tr><th>Key</th><th>Value</th><th>Description</th></tr><tr><td></td><td></td><td>&lt;key&gt;IS_MANAGED&lt;/key&gt; &lt;true/&gt; &lt;/dict&gt; &lt;/plist&gt;</td></tr><tr><td>IS MANAG ED</td><td>. true false</td><td>Set this key to true if you want to restrict extension only to
+managed apps A sample. contents of managed app is as follow:
+&lt;?xml version="1.0" encoding="UTF-8"?&gt; &lt;!DOCTYPE plist
+PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/
+DTDs/Property List-1.0.dtd"&gt; &lt;plist version="1.0"&gt; &lt;dict&gt;
+&lt;key&gt;IS_MANAGED&lt;/key&gt; &lt;true/&gt; &lt;/dict&gt; &lt;/plist&gt; The default
+values is set to False.</td></tr><tr><td>Custom keyboards</td><td></td><td></td></tr><tr><td>MI_AC_IOS KEYBO ARDS</td><td>. true false</td><td>This key allows the admin to enable or disable the use of custom
+keyboards. This key is enabled for AppConnect. This is case
+sensitive. true: Email+ allows the use of custom keyboards false:
+Email+ does not allow the use of custom keyboards. Default if
+key-value is not configured: true. This key-value pair is case
+sensitive.</td></tr><tr><td colspan="3">AppConnect logs</td></tr><tr><td>MI_AC_LOG LEVEL</td><td>. Error Info Verbose ⚫ Debug</td><td>Specifies the level of logging from the least to the most verbose.
+Default if key-value is not configured: true.</td></tr></table>

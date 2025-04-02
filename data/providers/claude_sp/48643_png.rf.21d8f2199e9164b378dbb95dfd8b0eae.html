@@ -5,14 +5,13 @@
 <td>Description</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>&lt;key&gt;IS_MANAGED&lt;/key&gt; &lt;true/&gt; &lt;/di...</td>
-</tr>
-<tr>
 <td>IS MANAGED</td>
 <td>• true • false</td>
-<td>Set this key to true if you want to restrict ...</td>
+<td><key>IS_MANAGED</key> <true/> </dict> </plist>
+
+Set this key to true if you want to restrict extension only to managed apps. A sample contents of managed app is as follow:
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/Property-List-1.0.dtd"> <plist version="1.0"> <dict>
+<key>IS_MANAGED</key> <true/> </dict> </plist> The default value is set to False.</td>
 </tr>
 <tr>
 <td>Custom keyboards</td>
@@ -22,7 +21,7 @@
 <tr>
 <td>MI_AC_IOS ALLOW_KEYBOARDS</td>
 <td>• true • false</td>
-<td>This key allows the admin to enable or di...</td>
+<td>This key allows the admin to enable or disable the use of custom keyboards. This key is enabled for AppConnect. This is case sensitive. true: Email+ allows the use of custom keyboards.false: Email+ does not allow the use of custom keyboards. Default if key-value is not configured: true. This key-value pair is case sensitive.</td>
 </tr>
 <tr>
 <td>AppConnect logs</td>
@@ -32,6 +31,6 @@
 <tr>
 <td>MI_AC_LOG LEVEL</td>
 <td>• Error • Info • Verbose • Debug</td>
-<td>Specifies the level of logging from the le...</td>
+<td>Specifies the level of logging from the least to the most verbose: Default if key-value is not configured: true.</td>
 </tr>
 </table>

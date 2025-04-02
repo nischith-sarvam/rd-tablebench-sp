@@ -252,4 +252,5 @@ def table_similarity(
     rows_score = table_similarity_score(gt_rows, pred_rows)
     cols_score = table_similarity_score(gt_cols, pred_cols)
 
-    return max(rows_score, cols_score)
+    # return max(rows_score, cols_score)
+    return rows_score

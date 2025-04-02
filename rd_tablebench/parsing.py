@@ -253,13 +253,13 @@ def parse_reducto_outputs(inp_path:str, out_path:str):
                 # os.remove(file_path)
     print(empty_files)
         
-if __name__ == "__main__":
-    inp_path="/home/vansh/work/sarvam/rd-tablebench-sp/data/claude_sp"
-    # out_path="/home/vansh/work/sarvam/rd-tablebench-sp/data/providers/reducto_sp"
-    # parse_reducto_outputs(inp_path, out_path)
+# if __name__ == "__main__":
+#     inp_path="/home/vansh/work/sarvam/rd-tablebench-sp/data/claude_sp"
+#     # out_path="/home/vansh/work/sarvam/rd-tablebench-sp/data/providers/reducto_sp"
+#     # parse_reducto_outputs(inp_path, out_path)
 
-    out_path="/home/vansh/work/sarvam/rd-tablebench-sp/data/providers/claude_sp"
-    parse_claude_outputs(inp_path, out_path)
+#     out_path="/home/vansh/work/sarvam/rd-tablebench-sp/data/providers/claude_sp"
+#     parse_claude_outputs(inp_path, out_path)
 
 
-# parse_sarvam_outputs("/Users/nischithshadagopan/Sarvam/rd-tablebench/data/providers/sarvam-parse")
+parse_sarvam_outputs("../data/providers/sarvam-parse")

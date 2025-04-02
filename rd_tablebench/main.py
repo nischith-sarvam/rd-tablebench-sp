@@ -14,8 +14,8 @@ def parse_html(path: str) -> npt.NDArray[np.str_]:
 
 
 base_path = os.getcwd()  
-predicted_folder_path = os.path.join(base_path, "data/providers/reducto_sp")
-ground_truth_folder_path = os.path.join(base_path, "data/groundtruth")
+predicted_folder_path = os.path.join(base_path, "../data/providers/sarvam-parse")
+ground_truth_folder_path = os.path.join(base_path, "../data/groundtruth_sp")
 
 empty_list = []
 
