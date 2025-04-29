@@ -246,11 +246,11 @@ def table_similarity(
     pred_rows = [list(row) for row in prediction]
 
     # get the columns also
-    gt_cols = [list(col) for col in ground_truth.T]
-    pred_cols = [list(col) for col in prediction.T]
+    # gt_cols = [list(col) for col in ground_truth.T]
+    # pred_cols = [list(col) for col in prediction.T]
 
     rows_score = table_similarity_score(gt_rows, pred_rows)
-    cols_score = table_similarity_score(gt_cols, pred_cols)
+    # cols_score = table_similarity_score(gt_cols, pred_cols)
 
     # return max(rows_score, cols_score)
     return rows_score

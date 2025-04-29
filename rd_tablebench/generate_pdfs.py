@@ -120,7 +120,7 @@ def create_pdfs_from_tables(template_path, tables_folder, output_folder, base_fo
 currPath = os.getcwd()
 template_path = os.path.join(currPath, "template.html")  # Your main HTML template
 tables_folder = os.path.join(currPath, "data/groundtruth") # Folder containing your table HTML files
-output_folder = os.path.join(currPath, "data/pdfs_sp")  # Folder where PDFs will be saved
+output_folder = os.path.join(currPath, "data/pdfs")  # Folder where PDFs will be saved
 base_font_size = 8  # Starting font size to try
 
 create_pdfs_from_tables(template_path, tables_folder, output_folder, base_font_size)

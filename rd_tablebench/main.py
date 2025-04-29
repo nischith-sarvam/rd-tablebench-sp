@@ -3,8 +3,8 @@ import re
 import numpy.typing as npt
 import matplotlib.pyplot as plt
 import os
-from convert import html_to_numpy
-from grading import table_similarity
+from rd_tablebench.convert import html_to_numpy
+from rd_tablebench.grading import table_similarity
 
 
 def parse_html(path: str) -> npt.NDArray[np.str_]:
@@ -15,7 +15,7 @@ def parse_html(path: str) -> npt.NDArray[np.str_]:
 
 base_path = os.getcwd()  
 predicted_folder_path = os.path.join(base_path, "../data/providers/sarvam-parse")
-ground_truth_folder_path = os.path.join(base_path, "../data/groundtruth_sp")
+ground_truth_folder_path = os.path.join(base_path, "../data/groundtruth")
 
 empty_list = []
 
