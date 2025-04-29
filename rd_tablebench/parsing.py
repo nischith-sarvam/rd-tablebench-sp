@@ -262,4 +262,4 @@ def parse_reducto_outputs(inp_path:str, out_path:str):
 #     parse_claude_outputs(inp_path, out_path)
 
 
-parse_sarvam_outputs("../data/providers/sarvam-parse")
+parse_sarvam_outputs("../data/providers/sarvam-parse-small")
