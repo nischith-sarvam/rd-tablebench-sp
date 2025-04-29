@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td></td>\n<td>Ref. Des.</td>\n<td>Data Element</td>\n<td>Name</td>\n<td>Attributes</td>\n</tr>\n<tr>\n<td rowspan=\"3\">Must Use</td>\n<td>N301</td>\n<td>166</td>\n<td>Address Information</td>\n<td>M AN 1/55</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Address information</td>\n<td></td>\n</tr>\n<tr>\n<td>N302</td>\n<td>166</td>\n<td>Address Information</td>\n<td>O AN 1/55</td>\n</tr>\n</table>"
-}

@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>Артикул</td>\n<td>Тип ворот</td>\n<td>Тип монтажа</td>\n<td>Розничная цена, евро с НДС</td>\n</tr>\n<tr>\n<td>GSH-1T</td>\n<td>Стандартный</td>\n<td>Стандартный</td>\n<td>HKG-4T+HKG-5T+HKG-7T+...</td>\n</tr>\n<tr>\n<td>GSH-2T</td>\n<td>Низкий</td>\n<td>Низкий</td>\n<td>HKG-9T+HKG-10T+HKG-12...</td>\n</tr>\n<tr>\n<td>GSH-9T</td>\n<td>Пружины растяжения</td>\n<td>-</td>\n<td>HKG-18T+HKG-19T+HKG-1...</td>\n</tr>\n<tr>\n<td>GSH-3T</td>\n<td>Высокий</td>\n<td>Высокий</td>\n<td>HKG-22T+HKG-23T+HKG-2...</td>\n</tr>\n</table>"
-}

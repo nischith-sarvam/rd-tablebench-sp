@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n  <tr>\n    <td rowspan=\"8\">1. Organizacja korzystała z ...</td>\n    <td>Z podatku dochodowego o...</td>\n    <td>0.00 zł</td>\n  </tr>\n  <tr>\n    <td>Z podatku od nieruchomości</td>\n    <td>0.00 zł</td>\n  </tr>\n  <tr>\n    <td>Z podatku od czynności cywil...</td>\n    <td>0.00 zł</td>\n  </tr>\n  <tr>\n    <td>Z podatku od towarów i usług</td>\n    <td>0.00 zł</td>\n  </tr>\n  <tr>\n    <td>Z opłaty skarbowej</td>\n    <td>0.00 zł</td>\n  </tr>\n  <tr>\n    <td>Z opłat sądowych</td>\n    <td>0.00 zł</td>\n  </tr>\n  <tr>\n    <td>Z innych zwolnień, jakich:</td>\n    <td>0.00 zł</td>\n  </tr>\n  <tr>\n    <td>[x]</td>\n    <td>nie korzystała</td>\n  </tr>\n</table>"
-}

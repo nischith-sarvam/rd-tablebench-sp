@@ -1,2 +1,5 @@
 # ignore all .env files anywhere
 .env*
+
+# Poetry virtual environment
+.venv/

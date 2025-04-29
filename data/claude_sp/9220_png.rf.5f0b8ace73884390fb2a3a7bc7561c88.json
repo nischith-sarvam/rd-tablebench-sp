@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>Amount</td>\n</tr>\n<tr>\n<td>c</td>\n<td>Beginning balance</td>\n<td>1c</td>\n<td></td>\n</tr>\n<tr>\n<td>d</td>\n<td>Additions during the year</td>\n<td>1d</td>\n<td></td>\n</tr>\n<tr>\n<td>e</td>\n<td>Distributions during the year</td>\n<td>1e</td>\n<td></td>\n</tr>\n<tr>\n<td>f</td>\n<td>Ending balance</td>\n<td>1f</td>\n<td></td>\n</tr>\n</table>"
-}

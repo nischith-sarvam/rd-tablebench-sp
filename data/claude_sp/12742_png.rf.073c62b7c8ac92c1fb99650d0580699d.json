@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<th>Permit Number A...</th>\n<th>Permit Type Subt...</th>\n<th>Street Address S...</th>\n<th>Valuation Buildin...</th>\n<th>Total Fees Garag...</th>\n<th>Fees Paid Deck/...</th>\n</tr>\n<tr>\n<td rowspan=\"3\">BLD11-2081</td>\n<td>NEW RESIDENTIAL</td>\n<td rowspan=\"2\">74645 SCOTT VI...</td>\n<td>62,427.00</td>\n<td>2,371.87</td>\n<td>2,371.87</td>\n</tr>\n<tr>\n<td>SFD</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Issued</td>\n<td>R-3107-012A0-08...</td>\n<td>600 0</td>\n<td>0</td>\n<td>66</td>\n</tr>\n</table>"
-}

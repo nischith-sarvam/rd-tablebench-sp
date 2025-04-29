@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>E[x,y] (m)</td>\n<td>[0.99, 0.99]</td>\n<td>[0.99, 0.99]</td>\n</tr>\n<tr>\n<td>E[Vx,Vy] (m/s)</td>\n<td>[0.8, 0.8]</td>\n<td>[0.8, 0.8]</td>\n</tr>\n<tr>\n<td>E[θel,θaz] (°)</td>\n<td>-</td>\n<td>[0,0]</td>\n</tr>\n<tr>\n<td>Σ[x, y] (m)</td>\n<td>[0.5,0.5]</td>\n<td>[0.5,0.5]</td>\n</tr>\n<tr>\n<td>Σ[Vx,Vy] (m/s)</td>\n<td>[0.2,0.2]</td>\n<td>[0.2,0.2]</td>\n</tr>\n<tr>\n<td>Σ[θel,θaz] (°)</td>\n<td>-</td>\n<td>[π/180, π/4]</td>\n</tr>\n</table>"
-}

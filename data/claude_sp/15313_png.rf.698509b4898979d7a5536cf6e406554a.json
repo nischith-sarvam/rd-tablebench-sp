@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>Species</td>\n<td>Race</td>\n<td>Distal</td>\n<td>Proximal</td>\n<td>n</td>\n<td>Author</td>\n</tr>\n<tr>\n<td rowspan=\"3\">D. pseudoobscura</td>\n<td>A</td>\n<td>5.22±0.05</td>\n<td>6.57±0.05</td>\n<td>165</td>\n<td>Dobzhansky (1936)</td>\n</tr>\n<tr>\n<td>B</td>\n<td>4.81±0.06</td>\n<td>6.77±0.05</td>\n<td>88</td>\n<td>Dobzhansky (1936)</td>\n</tr>\n<tr>\n<td>Olympic</td>\n<td>5.80±0.06</td>\n<td>8.44±0.07</td>\n<td>132</td>\n<td>Dobzhansky (1936)</td>\n</tr>\n<tr>\n<td rowspan=\"2\">D. miranda</td>\n<td>Olympic</td>\n<td>5.27±0.07</td>\n<td>7.45±0.07</td>\n<td>150</td>\n<td>Koller (1938)</td>\n</tr>\n<tr>\n<td>Whitney</td>\n<td>4.87±0.06</td>\n<td>7.53±0.10</td>\n<td>125</td>\n<td>Koller (1938)</td>\n</tr>\n</table>"
-}

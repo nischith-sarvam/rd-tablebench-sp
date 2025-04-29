@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td colspan=\"4\">TEST c.</td>\n</tr>\n<tr>\n<td colspan=\"4\">Strana 1</td>\n</tr>\n<tr>\n<td>1</td>\n<td>2b</td>\n<td>a</td>\n<td>b</td>\n<td>c</td>\n</tr>\n<tr>\n<td>2</td>\n<td>2b</td>\n<td>a</td>\n<td>b</td>\n<td>c</td>\n</tr>\n<tr>\n<td>3</td>\n<td>2b</td>\n<td>a</td>\n<td>b</td>\n<td>c</td>\n</tr>\n<tr>\n<td>4</td>\n<td>2b</td>\n<td>a</td>\n<td>b</td>\n<td>c</td>\n</tr>\n<tr>\n<td>5</td>\n<td>2b</td>\n<td>a</td>\n<td>b</td>\n<td>c</td>\n</tr>\n<tr>\n<td>6</td>\n<td>2b</td>\n<td>a</td>\n<td>b</td>\n<td>c</td>\n</tr>\n</table>"
-}

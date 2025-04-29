@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>rok naboru</td>\n<td>półrocze</td>\n<td colspan=\"4\">fundusz/zakres tematyczny/planowana alokacja¹</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>EFRROW²</td>\n<td>EFS²</td>\n<td>EFRR²</td>\n<td>EFMR²</td>\n</tr>\n<tr>\n<td rowspan=\"2\">2016</td>\n<td>I</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>II</td>\n<td>1.1.1. NOWE INN...</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td rowspan=\"2\">2017</td>\n<td>I</td>\n<td>1.1.1. NOWE INN...</td>\n<td>4.2.1 USŁUGI ED...</td>\n<td>3.1.1 INFRASTR...</td>\n<td></td>\n</tr>\n<tr>\n<td>II</td>\n<td>1.1.1 NOWE INN...</td>\n<td>4.1.1 WSPARCIE ...</td>\n<td></td>\n<td></td>\n</tr>\n</table>"
-}

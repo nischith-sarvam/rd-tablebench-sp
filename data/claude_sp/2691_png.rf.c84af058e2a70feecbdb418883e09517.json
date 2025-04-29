@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>Appearance</td>\n<td colspan=\"2\">liquid</td>\n</tr>\n<tr>\n<td>Color</td>\n<td colspan=\"2\">yellow</td>\n</tr>\n<tr>\n<td>Gardner color</td>\n<td colspan=\"2\">≤ 2</td>\n</tr>\n<tr>\n<td rowspan=\"5\">Viscosity (mPa.s)</td>\n<td>@ 15 °C</td>\n<td>2350 + 450</td>\n</tr>\n<tr>\n<td>@ 20 °C</td>\n<td>1250 + 250</td>\n</tr>\n<tr>\n<td>@ 25 °C</td>\n<td>765 + 155</td>\n</tr>\n<tr>\n<td>@ 30 °C</td>\n<td>475 + 95</td>\n</tr>\n<tr>\n<td>@ 40 °C</td>\n<td>NC + NC</td>\n</tr>\n<tr>\n<td>Density</td>\n<td>@ 20 °C</td>\n<td>1,1580</td>\n</tr>\n<tr>\n<td>Refractive index</td>\n<td>@ 25 °C</td>\n<td>1,554 + .002</td>\n</tr>\n<tr>\n<td>Storage (months)</td>\n<td>@ Ta</td>\n<td>24</td>\n</tr>\n</table>"
-}

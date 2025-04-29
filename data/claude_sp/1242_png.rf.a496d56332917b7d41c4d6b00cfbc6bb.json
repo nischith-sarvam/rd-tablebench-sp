@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n  <tr>\n    <td></td>\n    <td>N</td>\n    <td>Mean</td>\n    <td>SD</td>\n    <td>t</td>\n    <td>p</td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\">Occupational ...</td>\n    <td>1-5 year</td>\n    <td>71</td>\n    <td>108.7324</td>\n    <td>16.82342</td>\n    <td rowspan=\"2\">-1.589</td>\n    <td rowspan=\"2\">.114</td>\n  </tr>\n  <tr>\n    <td>6 years and ab...</td>\n    <td>76</td>\n    <td>113.0000</td>\n    <td>15.73531</td>\n  </tr>\n</table>"
-}

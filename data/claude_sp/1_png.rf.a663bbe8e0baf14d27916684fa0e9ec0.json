@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n    <td>@採算</td>\n    <td>好転</td>\n    <td>不変</td>\n    <td>悪化</td>\n</tr>\n<tr>\n    <td>製紙業</td>\n    <td>11%</td>\n    <td>33%</td>\n    <td>56%</td>\n</tr>\n<tr>\n    <td>製造業</td>\n    <td>0%</td>\n    <td>0%</td>\n    <td>100%</td>\n</tr>\n<tr>\n    <td>建設業</td>\n    <td>0%</td>\n    <td>78%</td>\n    <td>22%</td>\n</tr>\n<tr>\n    <td>卸·小売業</td>\n    <td>0%</td>\n    <td>40%</td>\n    <td>60%</td>\n</tr>\n<tr>\n    <td>サービス業</td>\n    <td>14%</td>\n    <td>29%</td>\n    <td>57%</td>\n</tr>\n<tr>\n    <td>全業種</td>\n    <td>5%</td>\n    <td>36%</td>\n    <td>59%</td>\n</tr>\n</table>"
-}

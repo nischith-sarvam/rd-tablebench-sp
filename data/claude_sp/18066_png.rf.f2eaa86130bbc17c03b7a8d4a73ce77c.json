@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<th></th>\n<th>P</th>\n<th>K</th>\n<th>Ca</th>\n<th>Mg</th>\n<th>S</th>\n</tr>\n<tr>\n<td>Sun</td>\n<td>918.00 ± 3.00ᵃ</td>\n<td>638.00 ± 7.00ᵇ</td>\n<td>1906.50 ± 11.50ᵇ</td>\n<td>695.50 ± 6.50ᵇ</td>\n<td>721.50 ± 3.50ᶜ</td>\n</tr>\n<tr>\n<td>Shadow</td>\n<td>885.00 ± 7.00ᵃ</td>\n<td>395.00 ± 6.00ᵃ</td>\n<td>1339.50 ± 16.50ᵃ</td>\n<td>633.50 ± 9.50ᵃᵇ</td>\n<td>648.50 ± 18.50ᵃ</td>\n</tr>\n<tr>\n<td>Room</td>\n<td>888.50 ± 1.50ᵃ</td>\n<td>374.50 ± 7.50ᵃ</td>\n<td>1321.50 ± 23.50ᵃ</td>\n<td>584.50 ± 16.50ᵃ</td>\n<td>628.00 ± 7.00ᵃ</td>\n</tr>\n</table>"
-}

@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n  <tr>\n    <td colspan=\"4\">Коди</td>\n  </tr>\n  <tr>\n    <td>Дата (рік, місяць, число) |</td>\n    <td>2020</td>\n    <td>12</td>\n    <td>31</td>\n  </tr>\n  <tr>\n    <td>За ЄДРПОУ</td>\n    <td colspan=\"3\">30088756</td>\n  </tr>\n  <tr>\n    <td>за КОАТУУ</td>\n    <td colspan=\"3\">0710200000</td>\n  </tr>\n  <tr>\n    <td>За СПОДУ</td>\n    <td colspan=\"3\">99999</td>\n  </tr>\n  <tr>\n    <td>За КОПФГ</td>\n    <td colspan=\"3\">240</td>\n  </tr>\n  <tr>\n    <td>За КВЕД</td>\n    <td colspan=\"3\">31.09</td>\n  </tr>\n</table>"
-}

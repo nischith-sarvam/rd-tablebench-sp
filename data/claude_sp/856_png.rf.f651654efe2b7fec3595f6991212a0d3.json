@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td colspan=\"6\">REACH 2B</td>\n</tr>\n<tr>\n<td>Well ID</td>\n<td>Date</td>\n<td>DTW_GS - (ft)</td>\n<td>Threshold (ft BGS)</td>\n<td>River Mile</td>\n<td>Bank</td>\n</tr>\n<tr>\n<td>MW-54B</td>\n<td>10/15/2012</td>\n<td>17.43</td>\n<td>10.0</td>\n<td>211.8</td>\n<td>Right</td>\n</tr>\n<tr>\n<td>MW-55B</td>\n<td>10/15/2012</td>\n<td>11.05</td>\n<td>7.0</td>\n<td>211.8</td>\n<td>Left</td>\n</tr>\n<tr>\n<td>R2B-2</td>\n<td>10/15/2012</td>\n<td>11.73</td>\n<td>4.5</td>\n<td>205.1</td>\n<td>Right</td>\n</tr>\n</table>"
-}

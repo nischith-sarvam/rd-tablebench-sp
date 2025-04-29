@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>日時</td>\n<td>内容</td>\n<td>担当</td>\n</tr>\n<tr>\n<td>9:00~ 9:30</td>\n<td>準備、オリエンテーション</td>\n<td>事務局</td>\n</tr>\n<tr>\n<td>9:30~ 11:00</td>\n<td>事例的研修①</td>\n<td rowspan=\"2\">労働紛争の解決システム/労...</td>\n<td rowspan=\"2\">労側弁護士 または 使側弁護...</td>\n</tr>\n<tr>\n<td>11:15~ 12:45</td>\n<td>事例的研修②</td>\n</tr>\n<tr>\n<td>13:30~ 15:00</td>\n<td>事例的研修 ③</td>\n<td rowspan=\"2\">争点の把握と法の適用</td>\n<td rowspan=\"2\">| 使側弁護士または |労側弁護...</td>\n</tr>\n<tr>\n<td>15:15~ 16:45</td>\n<td>事例的研修④</td>\n</tr>\n<tr>\n<td>17:00~ 18:30</td>\n<td>労働法 (総括)</td>\n<td>労働法 ①~⑥の学習を 前提に...</td>\n<td>労働法学者</td>\n</tr>\n</table>"
-}

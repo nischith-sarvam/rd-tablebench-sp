@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>分型</td>\n<td>分子学特征</td>\n<td>生物学行为</td>\n<td>特征性诊断</td>\n<td>治疗和预后</td>\n</tr>\n<tr>\n<td>VETC 癌巢型 HCC</td>\n<td>Ang-2↑COX-2↑Integ...</td>\n<td>癌细胞不发生 EMT,内...</td>\n<td>超声造影/CT/MRI特征...</td>\n<td>首选手术治疗 索拉非尼...</td>\n</tr>\n<tr>\n<td>VETC 非癌巢型 HCC</td>\n<td>Ang-2↓COX-2↓Integ...</td>\n<td>肝癌细胞发生EMT,癌...</td>\n<td>超声造影/CT/MRI特征...</td>\n<td>首选手术治疗 索拉非尼...</td>\n</tr>\n</table>"
-}

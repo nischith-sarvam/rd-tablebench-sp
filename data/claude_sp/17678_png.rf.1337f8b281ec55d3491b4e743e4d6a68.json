@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n  <tr>\n    <td>Anschrift</td>\n    <td>Anzahl W...</td>\n    <td>Baujahr</td>\n    <td>Kaufpreis</td>\n    <td>Geschätzt...</td>\n    <td>Nettokalt...</td>\n    <td colspan=\"2\">Wohnfläche</td>\n    <td>Nutzfläch...</td>\n  </tr>\n  <tr>\n    <td>Strasse: P...</td>\n    <td></td>\n    <td></td>\n    <td>EUR</td>\n    <td>EUR</td>\n    <td>EUR p.M.</td>\n    <td>m²</td>\n    <td>m²</td>\n    <td>m²</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td>eigengenutzt</td>\n    <td>vermietet</td>\n    <td></td>\n  </tr>\n</table>"
-}

@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>Analyte</td>\n<td>LOQ</td>\n<td>Mass</td>\n<td>Mass</td>\n</tr>\n<tr>\n<td></td>\n<td>%</td>\n<td>%</td>\n<td>mg/g</td>\n</tr>\n<tr>\n<td>CBDa</td>\n<td>0.007</td>\n<td>ND</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>CBD</td>\n<td>0.007</td>\n<td>ND</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>Δ9 THC</td>\n<td>0.011</td>\n<td>ND</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>THCa</td>\n<td>0.011</td>\n<td>91.713</td>\n<td>917.13</td>\n</tr>\n<tr>\n<td>Total</td>\n<td></td>\n<td>91.713</td>\n<td>917.13</td>\n</tr>\n</table>"
-}

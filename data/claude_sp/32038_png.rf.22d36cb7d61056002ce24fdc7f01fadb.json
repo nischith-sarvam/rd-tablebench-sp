@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td rowspan=\"2\">作物名</td>\n<td colspan=\"5\">生育状況</td>\n<td rowspan=\"2\">摘要</td>\n</tr>\n<tr>\n<td>項目</td>\n<td>R2年</td>\n<td>平年</td>\n<td>出穂期</td>\n<td>遅速</td>\n</tr>\n<tr>\n<td>牧草</td>\n<td>草丈</td>\n<td>93.0cm</td>\n<td>90.1cm</td>\n<td>6/12 (6/11)</td>\n<td>+2</td>\n<td>生育は平年並...</td>\n</tr>\n<tr>\n<td>デントコーン</td>\n<td>草丈 葉数</td>\n<td>30.3cm 5.5葉</td>\n<td>29.9cm 5.1葉</td>\n<td>出芽期 5/25 (5/...</td>\n<td>+2</td>\n<td>生育は平年並...</td>\n</tr>\n</table>"
-}

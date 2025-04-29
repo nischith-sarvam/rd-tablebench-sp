@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>QC873505...</td>\n<td>Result</td>\n<td>Source S...</td>\n<td>Spiked</td>\n<td>Units</td>\n<td>Recovery</td>\n<td>Qual</td>\n<td>Limits</td>\n<td>DF</td>\n</tr>\n<tr>\n<td>TPH Gaso...</td>\n<td>5.678</td>\n<td>ND</td>\n<td>5.000</td>\n<td>mg/Kg</td>\n<td>114%</td>\n<td></td>\n<td>70-130</td>\n<td>1</td>\n</tr>\n<tr>\n<td>Surrogates</td>\n<td colspan=\"8\"></td>\n</tr>\n<tr>\n<td>Bromofluoro...</td>\n<td>0.2700</td>\n<td></td>\n<td>0.2000</td>\n<td>mg/Kg</td>\n<td>135%</td>\n<td></td>\n<td>60-140</td>\n<td>1</td>\n</tr>\n</table>"
-}

@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td></td>\n<td colspan=\"2\">Year</td>\n<td>Percent Change</td>\n</tr>\n<tr>\n<td></td>\n<td>2011</td>\n<td>2016</td>\n<td></td>\n</tr>\n<tr>\n<td>Total Water Production</td>\n<td>286 MG</td>\n<td>311 MG</td>\n<td>8.0%</td>\n</tr>\n<tr>\n<td>Total Authorized Consumption</td>\n<td>249 MG</td>\n<td>275 MG</td>\n<td>9.5%</td>\n</tr>\n<tr>\n<td>Distribution System Leakage</td>\n<td>12.9%</td>\n<td>11.5%</td>\n<td>-1.4%</td>\n</tr>\n<tr>\n<td>Average Single Family Use per Day</td>\n<td>178 gpd</td>\n<td>164 gpd</td>\n<td>-7.68%</td>\n</tr>\n</table>"
-}

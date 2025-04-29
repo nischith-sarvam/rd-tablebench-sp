@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>NOMBRE:</td>\n<td colspan=\"3\">AGAR-PEPTONA DE CASEINA-PEPTONA DE HARINA DE SOJA (TSA)</td>\n</tr>\n<tr>\n<td rowspan=\"5\">Composición: (g/L)</td>\n<td>Peptona de caseina</td>\n<td>15,0</td>\n<td rowspan=\"5\">Preparación:</td>\n<td rowspan=\"5\">Diluir 40 gramos del m...</td>\n</tr>\n<tr>\n<td>Peptona de harina de ...</td>\n<td>5,0</td>\n</tr>\n<tr>\n<td>Cloruro de sodio</td>\n<td>5,0</td>\n</tr>\n<tr>\n<td>Agar</td>\n<td>15.0</td>\n</tr>\n<tr>\n<td>pH: 7.3 + 0,2</td>\n<td>40,0</td>\n</tr>\n</table>"
-}

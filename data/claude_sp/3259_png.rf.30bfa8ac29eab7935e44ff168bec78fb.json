@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td colspan=\"6\">能源期货保证金</td>\n</tr>\n<tr>\n<td>品种名称</td>\n<td>品种缩号</td>\n<td>市场编号</td>\n<td>币种</td>\n<td>正常保证金</td>\n<td>过夜保证金</td>\n</tr>\n<tr>\n<td>天然气</td>\n<td>NG</td>\n<td>NYMEX</td>\n<td>USD</td>\n<td>2,530</td>\n<td>2,530</td>\n</tr>\n<tr>\n<td>小天然气</td>\n<td>QG</td>\n<td>NYMEX</td>\n<td>USD</td>\n<td>633</td>\n<td>633</td>\n</tr>\n<tr>\n<td>美原油</td>\n<td>CL</td>\n<td>NYMEX</td>\n<td>USD</td>\n<td>4,978</td>\n<td>4,978</td>\n</tr>\n<tr>\n<td>小原油</td>\n<td>QM</td>\n<td>NYMEX</td>\n<td>USD</td>\n<td>2,489</td>\n<td>2,489</td>\n</tr>\n<tr>\n<td>布伦特原油</td>\n<td>B</td>\n<td>ICEU</td>\n<td>USD</td>\n<td>5,030</td>\n<td>5,030</td>\n</tr>\n</table>"
-}

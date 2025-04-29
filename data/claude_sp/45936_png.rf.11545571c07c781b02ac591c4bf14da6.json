@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td colspan=\"3\">Table 7 - Fielding components</td>\n</tr>\n<tr>\n<td></td>\n<td>mean (runs)</td>\n<td>SD (runs)</td>\n<td colspan=\"3\">correlation with:</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>fWAR</td>\n<td>bWAR</td>\n<td>openWAR</td>\n</tr>\n<tr>\n<td>fWAR</td>\n<td>-1.1</td>\n<td>8.5</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>bWAR</td>\n<td>0.6</td>\n<td>9.6</td>\n<td>.523</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>openWAR</td>\n<td>0.2</td>\n<td>3.2</td>\n<td>.290</td>\n<td>.407</td>\n<td></td>\n</tr>\n<tr>\n<td>WARP</td>\n<td>0.4</td>\n<td>7.2</td>\n<td>.350</td>\n<td>.516</td>\n<td>.316</td>\n</tr>\n</table>"
-}

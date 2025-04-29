@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>Fattore di sharing</td>\n<td>Valori min. del range ammesso per i fornitori</td>\n<td>Valori max del range ammesso per i fornitori</td>\n</tr>\n<tr>\n<td rowspan=\"2\">b</td>\n<td>Massimo ammontare dei ricavi a favore ...</td>\n<td>Minimo ammontare dei ricavi a favore ...</td>\n</tr>\n<tr>\n<td>Minima detrazione dei costi da inserire ...</td>\n<td>Massima detrazione dei costi da inserire ...</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Necessità di giustificare la scelta da part...</td>\n</tr>\n</table>"
-}

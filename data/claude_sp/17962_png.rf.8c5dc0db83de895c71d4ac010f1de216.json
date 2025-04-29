@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>Risk factor</td>\n<td>Variable</td>\n<td>Number of studies</td>\n<td>Size (n)</td>\n<td>Risk ratio (95% CI)</td>\n<td>I²</td>\n</tr>\n<tr>\n<td>Body Mass Index</td>\n<td colspan=\"5\"></td>\n</tr>\n<tr>\n<td>&lt;25 kg/m²</td>\n<td>Continuous</td>\n<td>6</td>\n<td>769</td>\n<td>0.60 (0.34 - 0.86)</td>\n<td>0% (-76-77)</td>\n</tr>\n<tr>\n<td>&gt;25 kg/m²</td>\n<td>Continuous</td>\n<td>9</td>\n<td>689</td>\n<td>0.34 (0.23 - 0.44)</td>\n<td>53.45%</td>\n</tr>\n</table>"
-}

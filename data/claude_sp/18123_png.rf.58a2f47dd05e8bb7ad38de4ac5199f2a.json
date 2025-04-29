@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>Application Is For</td>\n<td>Return Code</td>\n<td>Application Is For</td>\n<td>Return Code</td>\n</tr>\n<tr>\n<td>Form 990 or Form 990-EZ</td>\n<td>01</td>\n<td>Form 990-T (corporation)</td>\n<td>07</td>\n</tr>\n<tr>\n<td>Form 990-BL</td>\n<td>02</td>\n<td>Form 1041-A</td>\n<td>08</td>\n</tr>\n<tr>\n<td>Form 4720 (individual)</td>\n<td>03</td>\n<td>Form 4720 (other than individual)</td>\n<td>09</td>\n</tr>\n<tr>\n<td>Form 990-PF</td>\n<td>04</td>\n<td>Form 5227</td>\n<td>10</td>\n</tr>\n<tr>\n<td>Form 990-T (sec. 401(a) or 4...</td>\n<td>05</td>\n<td>Form 6069</td>\n<td>11</td>\n</tr>\n<tr>\n<td>Form 990-T (trust other than ...</td>\n<td>06</td>\n<td>Form 8870</td>\n<td>12</td>\n</tr>\n</table>"
-}

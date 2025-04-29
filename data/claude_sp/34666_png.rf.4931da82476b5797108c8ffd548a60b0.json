@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n  <tr>\n    <th></th>\n    <th>Courses</th>\n    <th>Pre- or co-reqs</th>\n    <th>Credit</th>\n    <th>GE</th>\n  </tr>\n  <tr>\n    <td rowspan=\"4\">Semester 2</td>\n    <td>COMSC 165 - Advanc...</td>\n    <td></td>\n    <td>4</td>\n    <td></td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>Total</td>\n    <td>4</td>\n    <td></td>\n  </tr>\n</table>"
-}

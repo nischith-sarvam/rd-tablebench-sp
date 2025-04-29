@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>Facility Name</td>\n<td>Description</td>\n<td>Date</td>\n<td>Time</td>\n<td>Price</td>\n</tr>\n<tr>\n<td rowspan=\"2\">General Strange Hall - ...</td>\n<td rowspan=\"2\">No Charge $0.00</td>\n<td rowspan=\"2\">Tue Jul 7, 2020</td>\n<td>12:30PM 01:45PM</td>\n<td>$0.00 1</td>\n</tr>\n<tr>\n<td>Facility Subtotal:</td>\n<td>$0.00</td>\n</tr>\n<tr>\n<td rowspan=\"3\">General Strange Hall - ...</td>\n<td rowspan=\"3\">No Charge - $0.00</td>\n<td rowspan=\"3\">Wed Jul 8, 2020</td>\n<td>08:45AM - 10:00AM</td>\n<td>$0.00 1</td>\n</tr>\n<tr>\n<td>Facility Subtotal:</td>\n<td>$0.00</td>\n</tr>\n<tr>\n<td>Total:</td>\n<td>$0.00</td>\n</tr>\n</table>"
-}

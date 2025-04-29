@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>VODOMĚR</td>\n<td>MĚRNÁ JEDNOTKA</td>\n<td>BEZ DPH</td>\n<td>VČ. DPH</td>\n</tr>\n<tr>\n<td rowspan=\"4\">VODNÉ</td>\n<td>do hodnoty trvalého průtoku</td>\n<td>Kč/rok</td>\n<td>377,00</td>\n<td>414,70</td>\n</tr>\n<tr>\n<td>do hodnoty trvalého průtoku</td>\n<td>Kč/rok</td>\n<td>1 777,00</td>\n<td>1 954,70</td>\n</tr>\n<tr>\n<td>do hodnoty trvalého průtoku</td>\n<td>Kč/rok</td>\n<td>4 717,00</td>\n<td>5 188,70</td>\n</tr>\n<tr>\n<td>do hodnoty trvalého průtoku</td>\n<td>Kč/rok</td>\n<td>10 358,00</td>\n<td>11 393,80</td>\n</tr>\n</table>"
-}

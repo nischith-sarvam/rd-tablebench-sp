@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td colspan=\"5\">Risk profiles after rankings w.r.t. MAP and No-Op</td>\n</tr>\n<tr>\n<td>A</td>\n<td>0.7</td>\n<td>0.3</td>\n<td>1.9</td>\n<td>202.7</td>\n</tr>\n<tr>\n<td>B</td>\n<td>8.7</td>\n<td>5.5</td>\n<td>15.8</td>\n<td>608.4</td>\n</tr>\n<tr>\n<td>C</td>\n<td>18.3</td>\n<td>12.1</td>\n<td>27.7</td>\n<td>849.3</td>\n</tr>\n<tr>\n<td>D</td>\n<td>26.3</td>\n<td>17.1</td>\n<td>41.2</td>\n<td>1020.8</td>\n</tr>\n<tr>\n<td>MAP</td>\n<td>606.8</td>\n<td>289.1</td>\n<td>401.0</td>\n<td>8780.0</td>\n</tr>\n<tr>\n<td>No-Op</td>\n<td>-5.0</td>\n<td>-13.5</td>\n<td>0.0</td>\n<td>7000.0</td>\n</tr>\n</table>"
-}

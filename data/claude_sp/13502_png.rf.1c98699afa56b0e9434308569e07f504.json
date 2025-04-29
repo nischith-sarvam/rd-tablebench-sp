@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>Arbeitsbreite</td>\n<td>O 1,20 m</td>\n<td>O 1,50 m</td>\n</tr>\n<tr>\n<td>Messer</td>\n<td colspan=\"2\">O 40 mm Schlegel</td>\n</tr>\n<tr>\n<td>Leistungsbedarf Mulcher Förderband</td>\n<td colspan=\"2\">O 95l/min bei 250 bar O 35 - 40 1/min bei 150 bar</td>\n</tr>\n<tr>\n<td>Gewicht</td>\n<td>O 550 kg</td>\n<td>O 650 kg</td>\n</tr>\n<tr>\n<td>Arbeitsgeschwindigkeit</td>\n<td colspan=\"2\">O Bis 10 km/h</td>\n</tr>\n<tr>\n<td rowspan=\"2\">Optionen</td>\n<td colspan=\"2\">O 180° Schwenktrieb</td>\n</tr>\n<tr>\n<td colspan=\"2\">O Schnellwechselaufnahme</td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"2\">O Gestrüpp Leitblech</td>\n</tr>\n</table>"
-}

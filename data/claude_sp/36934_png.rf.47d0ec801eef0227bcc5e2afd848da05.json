@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>Clinical symptoms of positives</td>\n<td>n</td>\n<td>%</td>\n</tr>\n<tr>\n<td>Cough</td>\n<td>1195</td>\n<td>36%</td>\n</tr>\n<tr>\n<td>Fever*</td>\n<td>1003</td>\n<td>31%</td>\n</tr>\n<tr>\n<td>Shortness of breath</td>\n<td>314</td>\n<td>10%</td>\n</tr>\n<tr>\n<td>Asymptomatic</td>\n<td>963</td>\n<td>29%</td>\n</tr>\n</table>"
-}

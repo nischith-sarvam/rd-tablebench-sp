@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>名称</td>\n<td>符号</td>\n<td>定义</td>\n<td>描述</td>\n</tr>\n<tr>\n<td>网络实体</td>\n<td>V={v₁,...}</td>\n<td>V ⊆ Y ∪ O</td>\n<td>包括概念(例如 service) 和对...</td>\n</tr>\n<tr>\n<td>边</td>\n<td>E={e₁,...}</td>\n<td>e=< vᵢ,r, vⱼ ></td>\n<td>网络实体之间操作关系 或从属...</td>\n</tr>\n<tr>\n<td>标签</td>\n<td>L</td>\n<td></td>\n<td>网络实体数据类型的符号标识</td>\n</tr>\n<tr>\n<td>标签映射</td>\n<td>A</td>\n<td>V → L</td>\n<td>网络实体和标签的映射</td>\n</tr>\n</table>"
-}

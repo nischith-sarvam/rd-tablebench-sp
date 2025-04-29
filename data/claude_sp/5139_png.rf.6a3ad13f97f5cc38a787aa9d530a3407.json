@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>power supply voltage</td>\n<td>V/ph/ Hz</td>\n<td>240/1/60</td>\n</tr>\n<tr>\n<td>Power consumption electrical</td>\n<td>W</td>\n<td>1</td>\n</tr>\n<tr>\n<td>connection</td>\n<td>\"</td>\n<td>3/4</td>\n</tr>\n<tr>\n<td>Coefficient of Volume</td>\n<td>-</td>\n<td>4,5</td>\n</tr>\n<tr>\n<td>opening/ closing time</td>\n<td>min.</td>\n<td>3/3</td>\n</tr>\n<tr>\n<td>protection rating</td>\n<td>IP</td>\n<td>54</td>\n</tr>\n</table>"
-}

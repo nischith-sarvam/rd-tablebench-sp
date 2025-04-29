@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td></td>\n<td></td>\n<td>Beginning of Current Year</td>\n<td>End of Year</td>\n</tr>\n<tr>\n<td rowspan=\"3\">Net Assets or Fund Balances</td>\n<td>20 Total assets (Part X, line 16)</td>\n<td>45,074,224.</td>\n<td>43,367,839.</td>\n</tr>\n<tr>\n<td>21 Total liabilities (Part X, line 26)</td>\n<td>2,478,969.</td>\n<td>2,644,950.</td>\n</tr>\n<tr>\n<td>22 Net assets or fund balances. Subtract line 21 from line 20</td>\n<td>42,595,255.</td>\n<td>40,722,889.</td>\n</tr>\n</table>"
-}

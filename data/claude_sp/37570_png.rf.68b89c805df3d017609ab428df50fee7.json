@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>Variable</td>\n<td>Sample</td>\n<td>Treated</td>\n<td>Controls</td>\n<td>Difference</td>\n<td>S.E.</td>\n<td>T-stat</td>\n</tr>\n<tr>\n<td rowspan=\"2\">ingresos</td>\n<td>Unmatched</td>\n<td>493239.443</td>\n<td>119997.428</td>\n<td>373242.015</td>\n<td>6404.01299</td>\n<td>58.28</td>\n</tr>\n<tr>\n<td>ATT</td>\n<td>493239.443</td>\n<td>119411.966</td>\n<td>373827.477</td>\n<td>18050. 6339</td>\n<td>20.71</td>\n</tr>\n</table>"
-}

@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>Uhrzeit (Lo...</td>\n<td>Flugzeugpo...</td>\n<td>Generator</td>\n<td></td>\n<td>Fackeln</td>\n<td>Flughöhe (ft)</td>\n<td>Wolkenbasi...</td>\n<td>Aufwind (fp...</td>\n</tr>\n<tr>\n<td>17:40</td>\n<td>Lahr</td>\n<td>AN</td>\n<td>AUS</td>\n<td>0</td>\n<td>3000</td>\n<td>4500</td>\n<td>0</td>\n</tr>\n<tr>\n<td>17:45</td>\n<td>Ettenheim</td>\n<td>AN</td>\n<td>AUS</td>\n<td>0</td>\n<td>3200</td>\n<td>4500</td>\n<td>0</td>\n</tr>\n<tr>\n<td>17:50</td>\n<td>Kenzingen</td>\n<td>AN</td>\n<td>AUS</td>\n<td>0</td>\n<td>3000</td>\n<td>4500</td>\n<td>0</td>\n</tr>\n<tr>\n<td>18:00</td>\n<td>Offenburg</td>\n<td>AN</td>\n<td>AUS</td>\n<td>0</td>\n<td>1200</td>\n<td>4500</td>\n<td>0</td>\n</tr>\n</table>"
-}

@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td rowspan=\"3\">1109S0 - 3mm</td>\n<td>50x 1101UM</td>\n<td>1x 1107HP</td>\n<td>-</td>\n<td>27</td>\n</tr>\n<tr>\n<td>25x 1102UM</td>\n<td>1x 1108</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>25x 1103UM</td>\n<td>1x 1110</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td rowspan=\"3\">1100S0 - 2mm</td>\n<td>50x 11001UM</td>\n<td>1x 11007HP</td>\n<td>-</td>\n<td>27</td>\n</tr>\n<tr>\n<td>25x 11002UM</td>\n<td>1x 1108</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>25x 11003UM</td>\n<td>1x 1110</td>\n<td></td>\n<td></td>\n</tr>\n</table>"
-}

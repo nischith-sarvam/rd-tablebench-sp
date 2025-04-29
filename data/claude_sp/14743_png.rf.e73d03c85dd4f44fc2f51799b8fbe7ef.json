@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td rowspan=\"3\">Halten Sie Rinde...</td>\n<td rowspan=\"3\">Code 0300</td>\n<td>Ja</td>\n<td>1</td>\n<td>Weiter mit Code ...</td>\n</tr>\n<tr>\n<td>Grundsätzlich ja, j...</td>\n<td>3</td>\n<td>Weiter mit Code 0...</td>\n</tr>\n<tr>\n<td>Nein</td>\n<td>2</td>\n<td>Weiter mit Code 1...</td>\n</tr>\n<tr>\n<td rowspan=\"3\">Werden Ihre Vieh...</td>\n<td rowspan=\"3\">Code 4002</td>\n<td>Ja, vollständig</td>\n<td>1</td>\n<td>Geben Sie bei de...</td>\n</tr>\n<tr>\n<td>Ja, teilweise</td>\n<td>2</td>\n<td>Geben Sie bei de...</td>\n</tr>\n<tr>\n<td>Nein</td>\n<td>3</td>\n<td>Geben Sie bei de...</td>\n</tr>\n</table>"
-}

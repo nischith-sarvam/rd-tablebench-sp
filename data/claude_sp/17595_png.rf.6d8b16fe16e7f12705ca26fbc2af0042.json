@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<th>COURSE NAME</th>\n<th>LOCATION</th>\n<th>DATE</th>\n<th>TIME</th>\n<th>$</th>\n</tr>\n<tr>\n<td>Introduction to Android...</td>\n<td></td>\n<td>Fri 6 Aug</td>\n<td>12:15pm-2:45pm</td>\n<td>o</td>\n</tr>\n<tr>\n<td>Introduction to iPhone...</td>\n<td>Camden Haven Com...</td>\n<td>Fri 13 Aug</td>\n<td>12:15pm-2:45pm</td>\n<td>o</td>\n</tr>\n<tr>\n<td>Introduction to the Inte...</td>\n<td></td>\n<td>Fri 27 Aug</td>\n<td>9am-11:30am</td>\n<td>o</td>\n</tr>\n</table>"
-}

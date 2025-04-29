@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>月份 Month</td>\n<td>1月 Jan</td>\n<td>2月 Feb</td>\n<td>3月 Mar</td>\n<td>4 A Apr</td>\n<td>5月 May</td>\n<td>6月 Jun</td>\n<td></td>\n</tr>\n<tr>\n<td>人數 Attendance</td>\n<td>52,992</td>\n<td>20,805</td>\n<td>58,233</td>\n<td>59,267</td>\n<td>59,782</td>\n<td>17,509</td>\n<td></td>\n</tr>\n<tr>\n<td>月份 Month</td>\n<td>7 R July</td>\n<td>8 A Aug</td>\n<td>8月 Aug</td>\n<td>10 A Oct</td>\n<td>11 R Nov</td>\n<td>12 A Dec</td>\n<td>at Total</td>\n</tr>\n<tr>\n<td>人數 Attendance</td>\n<td>12,601</td>\n<td>33,123</td>\n<td>25,305</td>\n<td>64,981</td>\n<td>57,682</td>\n<td>55,906</td>\n<td>518,186</td>\n</tr>\n</table>"
-}

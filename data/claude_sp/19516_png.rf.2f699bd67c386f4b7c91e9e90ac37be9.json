@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>Der Kontenrahmen</td>\n<td colspan=\"2\">Verwaltungsrechnung</td>\n</tr>\n<tr>\n<td>Bestandesrechnung</td>\n<td colspan=\"2\">Laufende Rechnung</td>\n<td>Investitionsrechnung</td>\n</tr>\n<tr>\n<td>1 Aktiven</td>\n<td>2 Passiven</td>\n<td>3 Aufwand</td>\n<td>4 Ertrag</td>\n<td>5 Ausgaben</td>\n<td>6 Einnahmen</td>\n</tr>\n<tr>\n<td>10 Finanz- vermö...</td>\n<td>20 Fremdkapital 2...</td>\n<td>30 Personalaufwa...</td>\n<td>40 Steuern 41 Re...</td>\n<td>50 Sachgüter 52 ...</td>\n<td>60 Abgang von Sa...</td>\n</tr>\n</table>"
-}

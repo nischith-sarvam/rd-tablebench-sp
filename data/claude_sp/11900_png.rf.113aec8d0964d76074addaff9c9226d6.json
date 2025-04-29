@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<th>Lamp Name</th>\n<th>Icon</th>\n<th>Description</th>\n</tr>\n<tr>\n<td>READY Indicator</td>\n<td></td>\n<td>This lamp is on when the EV system is p...</td>\n</tr>\n<tr>\n<td>EV System Warning Lamp *1</td>\n<td></td>\n<td>• Malfunction has occurred in the EV sys...</td>\n</tr>\n<tr>\n<td>Master Warning Lamp (RED)</td>\n<td></td>\n<td>This lamp is on when another red warnin...</td>\n</tr>\n<tr>\n<td>Master Warning Lamp (YELLOW)</td>\n<td></td>\n<td>This lamp is on when: • High-voltage bat...</td>\n</tr>\n</table>"
-}

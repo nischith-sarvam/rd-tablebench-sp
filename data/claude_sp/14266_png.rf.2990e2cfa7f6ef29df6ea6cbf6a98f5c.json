@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>Артикул</td>\n<td>Код</td>\n<td>Покрытие</td>\n<td>Цвет | Степень блеска</td>\n<td>Розничная цена, ев...</td>\n</tr>\n<tr>\n<td>PRD85</td>\n<td>401420191</td>\n<td>Анодированное</td>\n<td>A00-D6 (серебро)</td>\n<td rowspan=\"2\">10,30</td>\n</tr>\n<tr>\n<td>PRD85</td>\n<td>404352933</td>\n<td>Порошковое</td>\n<td>RAL 8019|30, RAL 80...</td>\n</tr>\n</table>"
-}

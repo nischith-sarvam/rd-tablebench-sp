@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td>Model Number</td>\n<td>Part Number</td>\n<td>Distance</td>\n<td>Voltage</td>\n<td>Temperature</td>\n</tr>\n<tr>\n<td>SFP-100TX</td>\n<td>OP6A-TX1-00-C</td>\n<td>100m</td>\n<td>3.3V</td>\n<td>0°C to 70°C</td>\n</tr>\n<tr>\n<td>SFP-100TX-I</td>\n<td>OP6A-TX1-00-I</td>\n<td>100m</td>\n<td>3.3V</td>\n<td>-40°C to 85 °C</td>\n</tr>\n</table>"
-}

@@ -1,3 +1,0 @@
-{
-  "html_table": "<table>\n<tr>\n<td colspan=\"4\">ND Rating</td>\n</tr>\n<tr>\n<td colspan=\"4\">690V, 50 Hz Input</td>\n</tr>\n<tr>\n<td>Code</td>\n<td>Amps</td>\n<td>kW</td>\n<td>Frame</td>\n</tr>\n<tr>\n<td>052</td>\n<td>52</td>\n<td>45</td>\n<td>5</td>\n</tr>\n<tr>\n<td>060</td>\n<td>60</td>\n<td>55</td>\n<td>5</td>\n</tr>\n<tr>\n<td>082</td>\n<td>82</td>\n<td>75</td>\n<td>5</td>\n</tr>\n<tr>\n<td>098</td>\n<td>98</td>\n<td>90</td>\n<td>6</td>\n</tr>\n<tr>\n<td>119</td>\n<td>119</td>\n<td>110</td>\n<td>6</td>\n</tr>\n<tr>\n<td>142</td>\n<td>142</td>\n<td>132</td>\n<td>6</td>\n</tr>\n</table>"
-}
