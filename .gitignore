@@ -3,3 +3,4 @@
 
 # Poetry virtual environment
 .venv/
+rd_tablebench/__pycache__/

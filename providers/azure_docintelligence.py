@@ -9,6 +9,10 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 from azure.core.exceptions import HttpResponseError
 import backoff
+from dotenv import load_dotenv
+
+#load .env file
+load_dotenv()
 
 endpoint = os.environ["AZURE_ENDPOINT"]
 key = os.environ["AZURE_KEY"]
